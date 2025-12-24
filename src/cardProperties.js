@@ -109,7 +109,9 @@ const permanentTypes = [
 export const Permanent = {
     key: 'Is Permanent',
     getValue(card) {
-        return card.types.some(t => permanentTypes.includes(t.toLowerCase()));
+        return card.types.some(t => permanentTypes.includes(t.toLowerCase()))
+            ? 'Permanent'
+            : 'Nonpermanet';
     }
 };
 
