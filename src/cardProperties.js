@@ -26,7 +26,8 @@ const rarityStyles = {
         color: '#000'
     },
     Rare: { g1: '#876c13', g2: '#f6e8a3', g3: '#f6e8a3', g4: '#d7bf55', color: '#000' },
-    Mythic: { g1: '#b02929', g2: '#ffb347', g3: '#ffb347', g4: '#ff8a00', color: '#000' }
+    Mythic: { g1: '#b02929', g2: '#ffb347', g3: '#ffb347', g4: '#ff8a00', color: '#000' },
+    Special: { g1: '#4a148c', g2: '#9c27b0', g3: '#ba68c8', g4: '#7b1fa2', color: '#fff' }
 };
 
 const typePriority = [
@@ -78,7 +79,7 @@ export const Rarity = {
         return card.rarity.slice(0, 1).toUpperCase() + card.rarity.slice(1);
     },
     style(value) {
-        const s = rarityStyles[value] || rarityStyles.common;
+        const s = rarityStyles[value] || rarityStyles.Common;
         return {
             fill: `url(#grad-rarity-${value})`,
             color: s.color,

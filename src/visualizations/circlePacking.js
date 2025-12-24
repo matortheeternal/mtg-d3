@@ -9,7 +9,7 @@ import { addGradients } from '../addGradient.js';
  * @param {number} width - Width of the visualization
  * @param {number} height - Height of the visualization
  */
-export function createCirclePacking(data, properties, width = 1200, height = 800) {
+export function createCirclePacking(data, properties, width = 1200, height = 1000) {
     const hierarchyData = createHierarchy(data, properties);
 
     const root = d3.hierarchy(hierarchyData)

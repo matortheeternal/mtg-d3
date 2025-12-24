@@ -2,7 +2,7 @@ import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
 import { addGradients } from '../addGradient.js';
 
-export function createNestedTreemap(data, levels, width = 1200, height = 800) {
+export function createNestedTreemap(data, levels, width = 1200, height = 1000) {
     const hierarchy = createHierarchy(data, levels);
 
     // Create a treemap layout
@@ -80,6 +80,9 @@ export function createNestedTreemap(data, levels, width = 1200, height = 800) {
         .style('justify-content', 'center')
         .style('box-sizing', 'border-box')
         .style('pointer-events', 'none')
+        .style('color', d => {
+            return d.data.style?.color || '#000';
+        })
         .style('font-size', '14px')
         .html(d => {
             return (
@@ -97,12 +100,14 @@ export function createNestedTreemap(data, levels, width = 1200, height = 800) {
                 const boxHeight = (d.y1 - d.y0) - p;
                 const contentWidth = content.offsetWidth;
                 const contentHeight = content.offsetHeight;
+                if (contentWidth === 0 || contentHeight === 0) return;
 
-                if (contentWidth > 0 && contentHeight > 0) {
-                    const scaleW = boxWidth / contentWidth;
-                    const scaleH = boxHeight / contentHeight;
-                    content.style.scale = Math.min(1, scaleW, scaleH);
-                }
+                const scaleW = boxWidth / contentWidth;
+                const scaleH = boxHeight / contentHeight;
+                const scale = Math.min(1, scaleW, scaleH);
+                content.style.scale = scale;
+                if (scale >= 0.7) return;
+                content.style.display = 'none';
             }, 0)
         });
 
