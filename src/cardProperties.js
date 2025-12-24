@@ -174,23 +174,25 @@ export const CreatureRace = {
     key: 'Creature Race',
     getValue(card) {
         const combinedSubType = card.subTypes.join(' ');
-        return multiWordRaces.find(mwr => {
+        const races = multiWordRaces.find(mwr => {
             return combinedSubType.includes(mwr);
-        }) || card.subTypes.filter(subtype => {
+        }) || card.subTypes.filter((subtype, index) => {
             return creatureRaces.includes(subtype)
                 || (!creatureClasses.includes(subtype)
                     && index < card.subTypes.length - 1);
-        }).join(' ');
+        });
+        return races.length > 0 ? races.join(' ') : null;
     }
 };
 
 export const CreatureClass = {
     key: 'Creature Class',
     getValue(card) {
-        return card.subTypes.filter(subtype => {
+        const classes = card.subTypes.filter((subtype, index) => {
             return creatureClasses.includes(subtype)
                 || (!creatureRaces.includes(subtype) && (index > 0));
-        }).join(' ');
+        });
+        return classes.length > 0 ? classes.join(' ') : null;
     }
 };
 
