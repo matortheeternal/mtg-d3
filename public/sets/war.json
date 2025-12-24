@@ -22,7 +22,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nAs this creature enters, you may return a nonland permanent you control to its owner's hand. If you do, this creature enters with a +1/+1 counter on it.",
+    "rulesTexts": [
+      "Flying\nAs this creature enters, you may return a nonland permanent you control to its owner's hand. If you do, this creature enters with a +1/+1 counter on it."
+    ],
     "keywords": [
       "flying"
     ],
@@ -59,7 +61,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -97,7 +101,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn, then scry 1.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn, then scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -134,7 +140,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant land\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\nEnchanted land has \"{T}: Add two mana of any one color.\"",
+    "rulesTexts": [
+      "Enchant land\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\nEnchanted land has \"{T}: Add two mana of any one color.\""
+    ],
     "keywords": [
       "enchant"
     ],
@@ -180,7 +188,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{1}{U}, {T}: Draw a card, then discard a card.",
+    "rulesTexts": [
+      "{1}{U}, {T}: Draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -215,7 +225,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -252,7 +264,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Until end of turn, creatures you control get +2/+2 and gain \"Whenever this creature deals combat damage to a player or planeswalker, destroy target artifact or enchantment defending player controls.\"",
+    "rulesTexts": [
+      "Until end of turn, creatures you control get +2/+2 and gain \"Whenever this creature deals combat damage to a player or planeswalker, destroy target artifact or enchantment defending player controls.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -287,7 +301,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "At the beginning of your upkeep, you lose 1 life and amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nWhenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you lose 1 life and amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nWhenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn."
+    ],
     "keywords": [
       "amass"
     ],
@@ -322,7 +338,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+3 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +3/+3 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -359,7 +377,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard.",
+    "rulesTexts": [
+      "Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Exile target card from a graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -396,7 +416,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Choose one or more —\n• Destroy target artifact.\n• Destroy target creature.\n• Destroy target enchantment.\n• Destroy target land.\n• Destroy target planeswalker.",
+    "rulesTexts": [
+      "Choose one or more —\n• Destroy target artifact.\n• Destroy target creature.\n• Destroy target enchantment.\n• Destroy target land.\n• Destroy target planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -429,7 +451,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player discards two cards and loses 2 life.",
+    "rulesTexts": [
+      "Target player discards two cards and loses 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -462,7 +486,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures each get +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Up to two target creatures each get +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -499,7 +525,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{1}: This creature gains haste until end of turn.",
+    "rulesTexts": [
+      "Flying\n{1}: This creature gains haste until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -541,7 +569,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have hexproof and menace.",
+    "rulesTexts": [
+      "When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have hexproof and menace."
+    ],
     "keywords": [
       "amass"
     ],
@@ -578,7 +608,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -618,7 +650,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen God-Eternal Rhonas enters, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.\nWhen God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+    "rulesTexts": [
+      "Deathtouch\nWhen God-Eternal Rhonas enters, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.\nWhen God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -656,7 +690,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -693,7 +729,9 @@
     "toughness": null,
     "loyalty": 3,
     "tags": [],
-    "oracleText": "Each creature you control with a +1/+1 counter on it has \"{T}: Add one mana of any color.\"\n−1: Put a +1/+1 counter on target creature.",
+    "rulesTexts": [
+      "Each creature you control with a +1/+1 counter on it has \"{T}: Add one mana of any color.\"\n−1: Put a +1/+1 counter on target creature."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -735,7 +773,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Choose four. You may choose the same mode more than once.\n• Create a 2/2 Citizen creature token that's all colors.\n• Return target permanent card from your graveyard to your hand.\n• Proliferate.\n• You gain 4 life.",
+    "rulesTexts": [
+      "Choose four. You may choose the same mode more than once.\n• Create a 2/2 Citizen creature token that's all colors.\n• Return target permanent card from your graveyard to your hand.\n• Proliferate.\n• You gain 4 life."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -773,7 +813,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain 5 life.",
+    "rulesTexts": [
+      "When this creature enters, you gain 5 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -812,7 +854,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.\n−2: Jaya deals 2 damage to any target.",
+    "rulesTexts": [
+      "If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.\n−2: Jaya deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -841,7 +885,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a planeswalker spell, you gain 1 life.\n{T}: Add {C}.\n{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells.",
+    "rulesTexts": [
+      "Whenever you cast a planeswalker spell, you gain 1 life.\n{T}: Add {C}.\n{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -885,7 +931,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Whenever an opponent draws a card, Ob Nixilis deals 1 damage to that player.\n−2: Destroy target creature. Its controller draws two cards.",
+    "rulesTexts": [
+      "Whenever an opponent draws a card, Ob Nixilis deals 1 damage to that player.\n−2: Destroy target creature. Its controller draws two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -921,7 +969,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked by creatures with power 4 or greater.",
+    "rulesTexts": [
+      "This creature can't be blocked by creatures with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -952,7 +1002,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this artifact enters, scry 1.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this artifact enters, scry 1.\n{T}: Add one mana of any color."
+    ],
     "keywords": [
       "scry"
     ],
@@ -999,7 +1051,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target.",
+    "rulesTexts": [
+      "Whenever a player sacrifices a permanent, this creature deals 1 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1038,7 +1092,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Creatures you control have haste.\n−1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",
+    "rulesTexts": [
+      "Creatures you control have haste.\n−1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1080,7 +1136,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever a creature you control dies, draw a card.\n+1: Create a 2/2 black Zombie creature token.\n−4: Each player sacrifices two creatures of their choice.\n−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",
+    "rulesTexts": [
+      "Whenever a creature you control dies, draw a card.\n+1: Create a 2/2 black Zombie creature token.\n−4: Each player sacrifices two creatures of their choice.\n−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1119,7 +1177,9 @@
     "toughness": null,
     "loyalty": 3,
     "tags": [],
-    "oracleText": "Creatures you control get +1/+0.\n+1: Add {R} or {G}. Creature spells you cast this turn can't be countered.\n−2: Target creature you control fights target creature you don't control.",
+    "rulesTexts": [
+      "Creatures you control get +1/+0.\n+1: Add {R} or {G}. Creature spells you cast this turn can't be countered.\n−2: Target creature you control fights target creature you don't control."
+    ],
     "keywords": [
       "fight"
     ],
@@ -1157,7 +1217,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.",
+    "rulesTexts": [
+      "Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1194,7 +1256,9 @@
     "toughness": null,
     "loyalty": 3,
     "tags": [],
-    "oracleText": "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel deals 2 damage to them.\n−1: Target player discards a card.",
+    "rulesTexts": [
+      "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel deals 2 damage to them.\n−1: Target player discards a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1230,7 +1294,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Blindblast deals 1 damage to target creature. That creature can't block this turn.\nDraw a card.",
+    "rulesTexts": [
+      "Blindblast deals 1 damage to target creature. That creature can't block this turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1265,7 +1331,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1308,7 +1376,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent.",
+    "rulesTexts": [
+      "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1341,7 +1411,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.\nDestroy target creature or planeswalker.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.\nDestroy target creature or planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1377,7 +1449,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "This spell can't be countered.\nDraw two cards, then amass Zombies X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "This spell can't be countered.\nDraw two cards, then amass Zombies X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -1414,7 +1488,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1445,7 +1521,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{4}: This land becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{4}: This land becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -1485,7 +1563,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have deathtouch.",
+    "rulesTexts": [
+      "When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have deathtouch."
+    ],
     "keywords": [
       "amass"
     ],
@@ -1522,7 +1602,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1561,7 +1643,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Whenever you tap a Forest for mana, add an additional {G}.\n+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.\n−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Whenever you tap a Forest for mana, add an additional {G}.\n+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.\n−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -1602,7 +1686,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying, first strike, vigilance\nWhenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking.\nCrew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Flying, first strike, vigilance\nWhenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking.\nCrew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "flying",
       "vigilance",
@@ -1644,7 +1730,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Prevent all noncombat damage that would be dealt to you and other permanents you control.\n−2: Exile target creature with power 4 or greater.",
+    "rulesTexts": [
+      "Prevent all noncombat damage that would be dealt to you and other permanents you control.\n−2: Exile target creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1680,7 +1768,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Tap target permanent. If it's an artifact, destroy it.\nDraw a card.",
+    "rulesTexts": [
+      "Tap target permanent. If it's an artifact, destroy it.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1717,7 +1807,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature dies, it deals 1 damage to any target.\n{1}{R}: This creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "When this creature dies, it deals 1 damage to any target.\n{1}{R}: This creature gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1755,7 +1847,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "First strike\nWhen this creature dies, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "First strike\nWhen this creature dies, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass",
       "first strike"
@@ -1797,7 +1891,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.\n+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.\n−3: Create a 4/4 red Dragon creature token with flying.",
+    "rulesTexts": [
+      "Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.\n+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.\n−3: Create a 4/4 red Dragon creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1835,7 +1931,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, put a +1/+1 counter on target creature you control.\n{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, put a +1/+1 counter on target creature you control.\n{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "flying",
       "proliferate"
@@ -1875,7 +1973,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "During your turn, this creature has first strike.\n{1}, Sacrifice another creature: This creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "During your turn, this creature has first strike.\n{1}, Sacrifice another creature: This creature gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1910,7 +2010,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Sarkhan's Catharsis deals 5 damage to target player or planeswalker.",
+    "rulesTexts": [
+      "Sarkhan's Catharsis deals 5 damage to target player or planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1947,7 +2049,9 @@
     "toughness": null,
     "loyalty": 3,
     "tags": [],
-    "oracleText": "Each creature you control with a +1/+1 counter on it has \"{T}: Add one mana of any color.\"\n−1: Put a +1/+1 counter on target creature.",
+    "rulesTexts": [
+      "Each creature you control with a +1/+1 counter on it has \"{T}: Add one mana of any color.\"\n−1: Put a +1/+1 counter on target creature."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1988,7 +2092,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each creature you control with power 4 or greater can't be blocked by more than one creature.",
+    "rulesTexts": [
+      "Each creature you control with power 4 or greater can't be blocked by more than one creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2025,7 +2131,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target permanent with mana value 4 or greater.",
+    "rulesTexts": [
+      "Exile target permanent with mana value 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2067,7 +2175,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "During your turn, creatures and planeswalkers you control have lifelink.\n+2: Sorin deals 1 damage to target player or planeswalker.\n−X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.",
+    "rulesTexts": [
+      "During your turn, creatures and planeswalkers you control have lifelink.\n+2: Sorin deals 1 damage to target player or planeswalker.\n−X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2102,7 +2212,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.",
+    "rulesTexts": [
+      "Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -2140,7 +2252,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink",
+    "rulesTexts": [
+      "Lifelink"
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -2182,7 +2296,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Menace\nWhen God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.\nWhen God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+    "rulesTexts": [
+      "Menace\nWhen God-Eternal Bontu enters, sacrifice any number of other permanents, then draw that many cards.\nWhen God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top."
+    ],
     "keywords": [
       "menace"
     ],
@@ -2221,7 +2337,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",
+    "rulesTexts": [
+      "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2257,7 +2375,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{G}: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library.",
+    "rulesTexts": [
+      "{3}{G}: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2290,7 +2410,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {3} less to cast if you control a creature with power 4 or greater.\nChange the target of target spell or ability with a single target.",
+    "rulesTexts": [
+      "This spell costs {3} less to cast if you control a creature with power 4 or greater.\nChange the target of target spell or ability with a single target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2329,7 +2451,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "During your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent.",
+    "rulesTexts": [
+      "During your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2368,7 +2492,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever one or more loyalty counters are removed from Chandra, she deals that much damage to target opponent or planeswalker.\n+1: Exile the top card of your library. You may play it this turn.\n−7: Exile the top seven cards of your library. You may play them this turn.",
+    "rulesTexts": [
+      "Whenever one or more loyalty counters are removed from Chandra, she deals that much damage to target opponent or planeswalker.\n+1: Exile the top card of your library. You may play it this turn.\n−7: Exile the top seven cards of your library. You may play them this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2406,7 +2532,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, you draw a card and you lose 1 life.",
+    "rulesTexts": [
+      "When this creature enters, you draw a card and you lose 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2448,7 +2576,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Spells and abilities your opponents control can't cause their controller to search their library.\n−1: Target player mills four cards. Then exile each opponent's graveyard.",
+    "rulesTexts": [
+      "Spells and abilities your opponents control can't cause their controller to search their library.\n−1: Target player mills four cards. Then exile each opponent's graveyard."
+    ],
     "keywords": [
       "mill"
     ],
@@ -2491,7 +2621,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Creatures you control have menace.\n−2: Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Creatures you control have menace.\n−2: Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -2528,7 +2660,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Activated abilities of artifacts your opponents control can't be activated.\n+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.\n−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.",
+    "rulesTexts": [
+      "Activated abilities of artifacts your opponents control can't be activated.\n+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.\n−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2569,7 +2703,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "During your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.\n−X: Nahiri deals X damage to target tapped creature.",
+    "rulesTexts": [
+      "During your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.\n−X: Nahiri deals X damage to target tapped creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2601,7 +2737,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}: Add one mana of any color.",
+    "rulesTexts": [
+      "{2}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -2642,7 +2780,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -2679,7 +2819,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Amass Zombies 3. (Put three +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Amass Zombies 3. (Put three +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -2720,7 +2862,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Each creature you control that's a Wolf or a Werewolf enters with an additional +1/+1 counter on it.\n−2: Create a 2/2 green Wolf creature token.",
+    "rulesTexts": [
+      "Each creature you control that's a Wolf or a Werewolf enters with an additional +1/+1 counter on it.\n−2: Create a 2/2 green Wolf creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2757,7 +2901,9 @@
     "toughness": null,
     "loyalty": 4,
     "tags": [],
-    "oracleText": "You may cast creature spells as though they had flash.\n+1: Until your next turn, up to one target creature gains vigilance and reach.\n−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may cast it if it's a creature spell.",
+    "rulesTexts": [
+      "You may cast creature spells as though they had flash.\n+1: Until your next turn, up to one target creature gains vigilance and reach.\n−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may cast it if it's a creature spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2792,7 +2938,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nAmass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nAmass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -2832,7 +2980,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever you cast a spell that targets this creature, put a +1/+1 counter on this creature, then scry 1.",
+    "rulesTexts": [
+      "Haste\nWhenever you cast a spell that targets this creature, put a +1/+1 counter on this creature, then scry 1."
+    ],
     "keywords": [
       "haste",
       "scry"
@@ -2873,7 +3023,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever this creature deals combat damage to a player or planeswalker, put a +1/+1 counter on this creature.\nWhen this creature dies, it deals damage equal to its power to any target.",
+    "rulesTexts": [
+      "Haste\nWhenever this creature deals combat damage to a player or planeswalker, put a +1/+1 counter on this creature.\nWhen this creature dies, it deals damage equal to its power to any target."
+    ],
     "keywords": [
       "haste"
     ],
@@ -2911,7 +3063,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch",
+    "rulesTexts": [
+      "Deathtouch"
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -2948,7 +3102,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -2985,7 +3141,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever this creature blocks a creature with flying, this creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Reach\nWhenever this creature blocks a creature with flying, this creature gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "reach"
     ],
@@ -3022,7 +3180,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards. If you control a Jace planeswalker, draw three cards instead.",
+    "rulesTexts": [
+      "Draw two cards. If you control a Jace planeswalker, draw three cards instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3055,7 +3215,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untap target creature. It gets +1/+4 and gains reach until end of turn.",
+    "rulesTexts": [
+      "Untap target creature. It gets +1/+4 and gains reach until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3091,7 +3253,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, choose one —\n• Put a +1/+1 counter on target creature.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature enters, choose one —\n• Put a +1/+1 counter on target creature.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -3126,7 +3290,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.",
+    "rulesTexts": [
+      "Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3159,7 +3325,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures you control each deal damage equal to their power to another target creature.",
+    "rulesTexts": [
+      "Up to two target creatures you control each deal damage equal to their power to another target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3192,7 +3360,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3227,7 +3397,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Sorin's Thirst deals 2 damage to target creature and you gain 2 life.",
+    "rulesTexts": [
+      "Sorin's Thirst deals 2 damage to target creature and you gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3266,7 +3438,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When Fblthp enters, draw a card. If it entered from your library or was cast from your library, draw two cards instead.\nWhen Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",
+    "rulesTexts": [
+      "When Fblthp enters, draw a card. If it entered from your library or was cast from your library, draw two cards instead.\nWhen Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3305,7 +3479,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "You have hexproof. (You can't be the target of spells or abilities your opponents control.)\n−2: Create a 0/3 white Wall creature token with defender.",
+    "rulesTexts": [
+      "You have hexproof. (You can't be the target of spells or abilities your opponents control.)\n−2: Create a 0/3 white Wall creature token with defender."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3344,7 +3520,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Each creature you control that's a Wolf or a Werewolf enters with an additional +1/+1 counter on it.\n−2: Create a 2/2 green Wolf creature token.",
+    "rulesTexts": [
+      "Each creature you control that's a Wolf or a Werewolf enters with an additional +1/+1 counter on it.\n−2: Create a 2/2 green Wolf creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3381,7 +3559,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Trample\nWhenever you cast a noncreature spell, this Vehicle becomes an artifact creature and gets +1/+1 until end of turn.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Trample\nWhenever you cast a noncreature spell, this Vehicle becomes an artifact creature and gets +1/+1 until end of turn.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew",
       "trample"
@@ -3430,7 +3610,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen Niv-Mizzet enters, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Flying\nWhen Niv-Mizzet enters, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3470,7 +3652,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "When this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -3507,7 +3691,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Exchange control of two target permanents that share a permanent type.",
+    "rulesTexts": [
+      "Exchange control of two target permanents that share a permanent type."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3550,7 +3736,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Trample\nWhenever Storrev deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn't put there this combat.",
+    "rulesTexts": [
+      "Trample\nWhenever Storrev deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn't put there this combat."
+    ],
     "keywords": [
       "trample"
     ],
@@ -3593,7 +3781,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.\n−2: Create a 1/1 black Assassin creature token with deathtouch and \"Whenever this token deals damage to a planeswalker, destroy that planeswalker.\"",
+    "rulesTexts": [
+      "Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.\n−2: Create a 1/1 black Assassin creature token with deathtouch and \"Whenever this token deals damage to a planeswalker, destroy that planeswalker.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3635,7 +3825,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.\n−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.\n−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3672,7 +3864,9 @@
     "toughness": null,
     "loyalty": 3,
     "tags": [],
-    "oracleText": "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel deals 2 damage to them.\n−1: Target player discards a card.",
+    "rulesTexts": [
+      "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel deals 2 damage to them.\n−1: Target player discards a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3709,7 +3903,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Whenever an opponent draws a card, Ob Nixilis deals 1 damage to that player.\n−2: Destroy target creature. Its controller draws two cards.",
+    "rulesTexts": [
+      "Whenever an opponent draws a card, Ob Nixilis deals 1 damage to that player.\n−2: Destroy target creature. Its controller draws two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3742,7 +3938,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put target creature with flying on the bottom of its owner's library.",
+    "rulesTexts": [
+      "Put target creature with flying on the bottom of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3784,7 +3982,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Each opponent can cast spells only any time they could cast a sorcery.\n+1: Until your next turn, you may cast sorcery spells as though they had flash.\n−3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.",
+    "rulesTexts": [
+      "Each opponent can cast spells only any time they could cast a sorcery.\n+1: Until your next turn, you may cast sorcery spells as though they had flash.\n−3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3819,7 +4019,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered.\nCounter target noncreature spell.",
+    "rulesTexts": [
+      "This spell can't be countered.\nCounter target noncreature spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3859,7 +4061,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nYou may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.\nWhen God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+    "rulesTexts": [
+      "Flying\nYou may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.\nWhen God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3896,7 +4100,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target planeswalker card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target planeswalker card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3937,7 +4143,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Trample\nWhenever Neheb deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",
+    "rulesTexts": [
+      "Trample\nWhenever Neheb deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end."
+    ],
     "keywords": [
       "trample"
     ],
@@ -3982,7 +4190,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.\n−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",
+    "rulesTexts": [
+      "Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.\n−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4017,7 +4227,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return a creature you control to its owner's hand, then destroy all creatures.",
+    "rulesTexts": [
+      "Return a creature you control to its owner's hand, then destroy all creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4050,7 +4262,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4085,7 +4299,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Each player mills four cards. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight.",
+    "rulesTexts": [
+      "Each player mills four cards. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight."
+    ],
     "keywords": [
       "mill"
     ],
@@ -4123,7 +4339,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.\nExile Finale of Revelation.",
+    "rulesTexts": [
+      "Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.\nExile Finale of Revelation."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4158,7 +4376,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Return target nonland permanent to its owner's hand.\nAmass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Return target nonland permanent to its owner's hand.\nAmass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -4198,7 +4418,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -4241,7 +4463,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever you cast or copy an instant or sorcery spell, Ral deals 1 damage to target opponent or planeswalker.\n+2: Scry 1.\n−2: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "Whenever you cast or copy an instant or sorcery spell, Ral deals 1 damage to target opponent or planeswalker.\n+2: Scry 1.\n−2: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+    ],
     "keywords": [
       "scry"
     ],
@@ -4276,7 +4500,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -4313,7 +4539,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.\nExile Deliver Unto Evil.",
+    "rulesTexts": [
+      "Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.\nExile Deliver Unto Evil."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4353,7 +4581,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Your opponents can't gain life.\n−2: Create a 1/1 red Devil creature token with \"When this token dies, it deals 1 damage to any target.\"",
+    "rulesTexts": [
+      "Your opponents can't gain life.\n−2: Create a 1/1 red Devil creature token with \"When this token dies, it deals 1 damage to any target.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4394,7 +4624,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever you cast or copy an instant or sorcery spell, Ral deals 1 damage to target opponent or planeswalker.\n+2: Scry 1.\n−2: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "Whenever you cast or copy an instant or sorcery spell, Ral deals 1 damage to target opponent or planeswalker.\n+2: Scry 1.\n−2: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+    ],
     "keywords": [
       "scry"
     ],
@@ -4435,7 +4667,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game.",
+    "rulesTexts": [
+      "If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game."
+    ],
     "keywords": [
       "mill"
     ],
@@ -4475,7 +4709,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Ral's Outburst deals 3 damage to any target. Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",
+    "rulesTexts": [
+      "Ral's Outburst deals 3 damage to any target. Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4514,7 +4750,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Creatures you control have vigilance.\n+1: You gain 3 life.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",
+    "rulesTexts": [
+      "Creatures you control have vigilance.\n+1: You gain 3 life.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4549,7 +4787,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4585,7 +4825,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "This creature has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4626,7 +4868,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -4663,7 +4907,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage instead if you control a Chandra planeswalker.",
+    "rulesTexts": [
+      "Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage instead if you control a Chandra planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4699,7 +4945,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\n{2}{B}, Sacrifice another creature or planeswalker: Put two +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\n{2}{B}, Sacrifice another creature or planeswalker: Put two +1/+1 counters on this creature."
+    ],
     "keywords": [
       "menace"
     ],
@@ -4736,7 +4984,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Divine Arrow deals 4 damage to target attacking or blocking creature.",
+    "rulesTexts": [
+      "Divine Arrow deals 4 damage to target attacking or blocking creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4771,7 +5021,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked by creatures with power 2 or less.",
+    "rulesTexts": [
+      "This creature can't be blocked by creatures with power 2 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4808,7 +5060,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{2}, {T}, Sacrifice this creature: Return target instant or sorcery card from your graveyard to your hand.",
+    "rulesTexts": [
+      "{2}, {T}, Sacrifice this creature: Return target instant or sorcery card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4843,7 +5097,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4881,7 +5137,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, discard a card.\nDraw two cards. Amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, discard a card.\nDraw two cards. Amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -4924,7 +5182,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\n−3: Return target card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\n−3: Return target card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4961,7 +5221,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This creature enters tapped.\nWhenever this creature attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand.",
+    "rulesTexts": [
+      "This creature enters tapped.\nWhenever this creature attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4994,7 +5256,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5035,7 +5299,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent.",
+    "rulesTexts": [
+      "Whenever a creature you control with power 4 or greater enters, draw a card.\n−1: Untap target permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5070,7 +5336,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Colorless spells you cast cost {2} less to cast.\n+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.\n−3: Destroy target permanent that's one or more colors.",
+    "rulesTexts": [
+      "Colorless spells you cast cost {2} less to cast.\n+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.\n−3: Destroy target permanent that's one or more colors."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5105,7 +5373,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature or planeswalker.\nHeartfire deals 4 damage to any target.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature or planeswalker.\nHeartfire deals 4 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5140,7 +5410,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever this creature deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Flying\nWhenever this creature deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "flying",
       "proliferate"
@@ -5174,7 +5446,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spells your opponents cast cost {2} more to cast.\nAt the beginning of your end step, each opponent loses 1 life.",
+    "rulesTexts": [
+      "Spells your opponents cast cost {2} more to cast.\nAt the beginning of your end step, each opponent loses 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5209,7 +5483,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{U}: This creature can't be blocked this turn.",
+    "rulesTexts": [
+      "{3}{U}: This creature can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5242,7 +5518,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put two +1/+1 counters on target creature you control. That creature can't be blocked this turn.",
+    "rulesTexts": [
+      "Put two +1/+1 counters on target creature you control. That creature can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5282,7 +5560,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Your opponents can't gain life.\n−2: Create a 1/1 red Devil creature token with \"When this token dies, it deals 1 damage to any target.\"",
+    "rulesTexts": [
+      "Your opponents can't gain life.\n−2: Create a 1/1 red Devil creature token with \"When this token dies, it deals 1 damage to any target.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5323,7 +5603,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card.",
+    "rulesTexts": [
+      "{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5358,7 +5640,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.",
+    "rulesTexts": [
+      "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5389,7 +5673,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -5434,7 +5720,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have trample.",
+    "rulesTexts": [
+      "When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have trample."
+    ],
     "keywords": [
       "amass"
     ],
@@ -5472,7 +5760,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Battalion — Whenever this creature and at least two other creatures attack, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Battalion — Whenever this creature and at least two other creatures attack, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "battalion"
     ],
@@ -5509,7 +5799,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -5544,7 +5836,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each opponent sacrifices a creature of their choice. If you control a Liliana planeswalker, each opponent also discards a card.",
+    "rulesTexts": [
+      "Each opponent sacrifices a creature of their choice. If you control a Liliana planeswalker, each opponent also discards a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5577,7 +5871,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it's still on the battlefield).",
+    "rulesTexts": [
+      "Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it's still on the battlefield)."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5612,7 +5908,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5647,7 +5945,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -5686,7 +5986,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Whenever this creature or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5722,7 +6024,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhen this creature dies, put a +1/+1 counter on target creature you control.",
+    "rulesTexts": [
+      "Haste\nWhen this creature dies, put a +1/+1 counter on target creature you control."
+    ],
     "keywords": [
       "haste"
     ],
@@ -5765,7 +6069,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "During your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.\n−X: Nahiri deals X damage to target tapped creature.",
+    "rulesTexts": [
+      "During your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.\n−X: Nahiri deals X damage to target tapped creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5800,7 +6106,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this creature enters, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.",
+    "rulesTexts": [
+      "As this creature enters, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5835,7 +6143,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever this creature attacks, target attacking creature without flying gains flying until end of turn.",
+    "rulesTexts": [
+      "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever this creature attacks, target attacking creature without flying gains flying until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5870,7 +6180,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life. (A creature with first strike deals combat damage before creatures without first strike.)",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life. (A creature with first strike deals combat damage before creatures without first strike.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5906,7 +6218,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach (This creature can block creatures with flying.)\nWhen this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent.",
+    "rulesTexts": [
+      "Reach (This creature can block creatures with flying.)\nWhen this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent."
+    ],
     "keywords": [
       "reach"
     ],
@@ -5947,7 +6261,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Each opponent can't draw more than one card each turn.\n−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Each opponent can't draw more than one card each turn.\n−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5986,7 +6302,9 @@
     "toughness": null,
     "loyalty": 7,
     "tags": [],
-    "oracleText": "Each creature you control assigns combat damage equal to its toughness rather than its power.\n−3: You gain life equal to the greatest toughness among creatures you control.",
+    "rulesTexts": [
+      "Each creature you control assigns combat damage equal to its toughness rather than its power.\n−3: You gain life equal to the greatest toughness among creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6021,7 +6339,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nDraw a card.",
+    "rulesTexts": [
+      "Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nDraw a card."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -6059,7 +6379,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever a creature you control with power 4 or greater enters, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Trample\nWhenever a creature you control with power 4 or greater enters, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "trample"
     ],
@@ -6096,7 +6418,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6131,7 +6455,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, first strike, vigilance, lifelink",
+    "rulesTexts": [
+      "Flying, first strike, vigilance, lifelink"
+    ],
     "keywords": [
       "flying",
       "lifelink",
@@ -6173,7 +6499,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card.",
+    "rulesTexts": [
+      "{3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6208,7 +6536,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6243,7 +6573,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "During your turn, this creature has first strike.",
+    "rulesTexts": [
+      "During your turn, this creature has first strike."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6276,7 +6608,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",
+    "rulesTexts": [
+      "Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -6313,7 +6647,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Counter target spell unless its controller pays {2}.\nAmass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {2}.\nAmass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -6350,7 +6686,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6385,7 +6723,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "defender",
       "scry"
@@ -6425,7 +6765,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Amass Zombies 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass Zombies 2, put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Amass Zombies 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass Zombies 2, put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -6468,7 +6810,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.\n−3: Exile target creature.",
+    "rulesTexts": [
+      "Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.\n−3: Exile target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6503,7 +6847,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.",
+    "rulesTexts": [
+      "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6538,7 +6884,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhen this creature enters, other creatures you control gain trample until end of turn.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, other creatures you control gain trample until end of turn."
+    ],
     "keywords": [
       "trample"
     ],
@@ -6575,7 +6923,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you cast a noncreature spell, this creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a noncreature spell, this creature gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6620,7 +6970,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Nicol Bolas has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",
+    "rulesTexts": [
+      "Nicol Bolas has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6655,7 +7007,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature or planeswalker you control\nWhen enchanted permanent dies or is put into exile, return that card to the battlefield under your control.",
+    "rulesTexts": [
+      "Enchant creature or planeswalker you control\nWhen enchanted permanent dies or is put into exile, return that card to the battlefield under your control."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -6689,7 +7043,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with X +1/+1 counters on it.\nIf damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from this creature.",
+    "rulesTexts": [
+      "This creature enters with X +1/+1 counters on it.\nIf damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6731,7 +7087,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "During your turn, creatures and planeswalkers you control have lifelink.\n+2: Sorin deals 1 damage to target player or planeswalker.\n−X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.",
+    "rulesTexts": [
+      "During your turn, creatures and planeswalkers you control have lifelink.\n+2: Sorin deals 1 damage to target player or planeswalker.\n−X: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6766,7 +7124,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Colorless spells you cast cost {2} less to cast.\n+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.\n−3: Destroy target permanent that's one or more colors.",
+    "rulesTexts": [
+      "Colorless spells you cast cost {2} less to cast.\n+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.\n−3: Destroy target permanent that's one or more colors."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6801,7 +7161,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Activated abilities of artifacts your opponents control can't be activated.\n+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.\n−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.",
+    "rulesTexts": [
+      "Activated abilities of artifacts your opponents control can't be activated.\n+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.\n−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6839,7 +7201,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever this creature attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures you control.",
+    "rulesTexts": [
+      "Haste\nWhenever this creature attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures you control."
+    ],
     "keywords": [
       "haste"
     ],
@@ -6874,7 +7238,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6909,7 +7275,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -6951,7 +7319,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.\n−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.",
+    "rulesTexts": [
+      "Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.\n−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6986,7 +7356,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -7021,7 +7393,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way.",
+    "rulesTexts": [
+      "Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7057,7 +7431,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, {T}: Tap target creature with mana value 2 or greater.",
+    "rulesTexts": [
+      "{1}, {T}: Tap target creature with mana value 2 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7095,7 +7471,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Amass Zombies X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Amass Zombies X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -7129,7 +7507,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: Add two mana of different colors.",
+    "rulesTexts": [
+      "When this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: Add two mana of different colors."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -7170,7 +7550,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{6}{B}: Each opponent loses 2 life and you gain 2 life.",
+    "rulesTexts": [
+      "{6}{B}: Each opponent loses 2 life and you gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7209,7 +7591,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "You have hexproof. (You can't be the target of spells or abilities your opponents control.)\n−2: Create a 0/3 white Wall creature token with defender.",
+    "rulesTexts": [
+      "You have hexproof. (You can't be the target of spells or abilities your opponents control.)\n−2: Create a 0/3 white Wall creature token with defender."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7246,7 +7630,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature loses all abilities and has base power and toughness 1/1.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature loses all abilities and has base power and toughness 1/1."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -7289,7 +7675,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.\n−3: Exile target creature.",
+    "rulesTexts": [
+      "Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.\n−3: Exile target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7324,7 +7712,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7367,7 +7757,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Creatures you control have menace.\n−2: Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Creatures you control have menace.\n−2: Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -7404,7 +7796,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [
       "hexproof"
     ],
@@ -7435,7 +7829,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: You may cast spells this turn as though they had flash.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: You may cast spells this turn as though they had flash."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -7479,7 +7875,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.\n−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.\n−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7515,7 +7913,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Up to one target creature gets -2/-2 until end of turn. Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Up to one target creature gets -2/-2 until end of turn. Amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -7552,7 +7952,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -7590,7 +7992,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -7625,7 +8029,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put target nonland permanent on top of its owner's library.",
+    "rulesTexts": [
+      "Put target nonland permanent on top of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7663,7 +8069,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever this Vehicle deals combat damage to a player or planeswalker, draw a card.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Whenever this Vehicle deals combat damage to a player or planeswalker, draw a card.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew"
     ],
@@ -7700,7 +8108,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't attack alone.",
+    "rulesTexts": [
+      "This creature can't attack alone."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7733,7 +8143,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.",
+    "rulesTexts": [
+      "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7770,7 +8182,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Discard all the cards in your hand, then draw that many cards plus one. You gain life equal to the number of cards in your hand.",
+    "rulesTexts": [
+      "Discard all the cards in your hand, then draw that many cards plus one. You gain life equal to the number of cards in your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7805,7 +8219,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7840,7 +8256,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or land.",
+    "rulesTexts": [
+      "Destroy target artifact or land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7875,7 +8293,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don't control.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don't control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7911,7 +8331,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you gain life, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you gain life, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7947,7 +8369,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate",
       "landfall"
@@ -7983,7 +8407,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land.",
+    "rulesTexts": [
+      "Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8019,7 +8445,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8054,7 +8482,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one —\n• Destroy target creature with mana value 3 or less.\n• Return target creature to its owner's hand.",
+    "rulesTexts": [
+      "Choose one —\n• Destroy target creature with mana value 3 or less.\n• Return target creature to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8093,7 +8523,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "During your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent.",
+    "rulesTexts": [
+      "During your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.\nPrevent all damage that would be dealt to Gideon Blackblade during your turn.\n+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.\n−6: Exile target nonland permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8122,7 +8554,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8162,7 +8596,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink, haste",
+    "rulesTexts": [
+      "Lifelink, haste"
+    ],
     "keywords": [
       "lifelink",
       "haste"
@@ -8202,7 +8638,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhen this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "vigilance",
       "proliferate"
@@ -8238,7 +8676,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.",
+    "rulesTexts": [
+      "Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8273,7 +8713,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may have this creature enter as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary.",
+    "rulesTexts": [
+      "You may have this creature enter as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8308,7 +8750,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.\nScry 1.",
+    "rulesTexts": [
+      "Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.\nScry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -8351,7 +8795,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.\n−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",
+    "rulesTexts": [
+      "Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.\n−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8390,7 +8836,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.\n−2: Jaya deals 2 damage to any target.",
+    "rulesTexts": [
+      "If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.\n−2: Jaya deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8430,7 +8878,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",
+    "rulesTexts": [
+      "Menace\nWhen Massacre Girl enters, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn."
+    ],
     "keywords": [
       "menace"
     ],
@@ -8471,7 +8921,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Creatures you control have vigilance.\n+1: You gain 3 life.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",
+    "rulesTexts": [
+      "Creatures you control have vigilance.\n+1: You gain 3 life.\n−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8507,7 +8959,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain 3 life.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this creature enters, you gain 3 life.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8551,7 +9005,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever Ilharg attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.\nWhen Ilharg dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+    "rulesTexts": [
+      "Trample\nWhenever Ilharg attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.\nWhen Ilharg dies or is put into exile from the battlefield, you may put it into its owner's library third from the top."
+    ],
     "keywords": [
       "trample"
     ],
@@ -8594,7 +9050,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.\n−2: Create a 1/1 black Assassin creature token with deathtouch and \"Whenever this token deals damage to a planeswalker, destroy that planeswalker.\"",
+    "rulesTexts": [
+      "Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.\n−2: Create a 1/1 black Assassin creature token with deathtouch and \"Whenever this token deals damage to a planeswalker, destroy that planeswalker.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8633,7 +9091,9 @@
     "toughness": null,
     "loyalty": 3,
     "tags": [],
-    "oracleText": "Creatures you control get +1/+0.\n+1: Add {R} or {G}. Creature spells you cast this turn can't be countered.\n−2: Target creature you control fights target creature you don't control.",
+    "rulesTexts": [
+      "Creatures you control get +1/+0.\n+1: Add {R} or {G}. Creature spells you cast this turn can't be countered.\n−2: Target creature you control fights target creature you don't control."
+    ],
     "keywords": [
       "fight"
     ],
@@ -8681,7 +9141,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Nicol Bolas has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",
+    "rulesTexts": [
+      "Nicol Bolas has all loyalty abilities of all other planeswalkers on the battlefield.\n+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.\n−3: Destroy target creature or planeswalker.\n−8: Each opponent who doesn't control a legendary creature or planeswalker loses the game."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8717,7 +9179,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhen this creature enters, you may put a land card from your hand onto the battlefield tapped.",
+    "rulesTexts": [
+      "Reach\nWhen this creature enters, you may put a land card from your hand onto the battlefield tapped."
+    ],
     "keywords": [
       "reach"
     ],
@@ -8757,7 +9221,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch, lifelink\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "Deathtouch, lifelink\n{T}: Add one mana of any color."
+    ],
     "keywords": [
       "lifelink",
       "deathtouch"
@@ -8802,7 +9268,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhen this creature enters, other creatures you control gain vigilance until end of turn.",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, other creatures you control gain vigilance until end of turn."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -8840,7 +9308,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8877,7 +9347,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target creature card from your graveyard to the battlefield. It gains haste until your next turn.",
+    "rulesTexts": [
+      "Return target creature card from your graveyard to the battlefield. It gains haste until your next turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8917,7 +9389,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.\n−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.",
+    "rulesTexts": [
+      "Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.\n−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8952,7 +9426,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. If it enters as a creature, it enters with an additional +1/+1 counter on it.",
+    "rulesTexts": [
+      "Exile target permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. If it enters as a creature, it enters with an additional +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8991,7 +9467,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{1}{R}, Discard a land card: This creature deals 2 damage to any target.\n{G}: Return a tapped land you control to its owner's hand.",
+    "rulesTexts": [
+      "{1}{R}, Discard a land card: This creature deals 2 damage to any target.\n{G}: Return a tapped land you control to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9026,7 +9504,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on each creature you control. You gain 1 life for each creature you control.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on each creature you control. You gain 1 life for each creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9059,7 +9539,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn.",
+    "rulesTexts": [
+      "Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9094,7 +9576,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Scry 4, then draw two cards.",
+    "rulesTexts": [
+      "Scry 4, then draw two cards."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9133,7 +9617,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Prevent all noncombat damage that would be dealt to you and other permanents you control.\n−2: Exile target creature with power 4 or greater.",
+    "rulesTexts": [
+      "Prevent all noncombat damage that would be dealt to you and other permanents you control.\n−2: Exile target creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9169,7 +9655,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "When this creature enters, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9204,7 +9692,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may look at the top card of your library any time.\nYou may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.\n{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.",
+    "rulesTexts": [
+      "You may look at the top card of your library any time.\nYou may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.\n{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9243,7 +9733,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever one or more loyalty counters are removed from Chandra, she deals that much damage to target opponent or planeswalker.\n+1: Exile the top card of your library. You may play it this turn.\n−7: Exile the top seven cards of your library. You may play them this turn.",
+    "rulesTexts": [
+      "Whenever one or more loyalty counters are removed from Chandra, she deals that much damage to target opponent or planeswalker.\n+1: Exile the top card of your library. You may play it this turn.\n−7: Exile the top seven cards of your library. You may play them this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9283,7 +9775,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature enters, you gain 3 life and draw a card.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you gain 3 life and draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9321,7 +9815,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{R}: Target creature can't block this turn.",
+    "rulesTexts": [
+      "{3}{R}: Target creature can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9356,7 +9852,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{5}{W}, {T}: Other creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Flying\n{5}{W}, {T}: Other creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9393,7 +9891,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this enchantment enters, exile target creature or planeswalker an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, scry 1.",
+    "rulesTexts": [
+      "When this enchantment enters, exile target creature or planeswalker an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9434,7 +9934,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game.",
+    "rulesTexts": [
+      "If you would draw a card while your library has no cards in it, you win the game instead.\n+1: Target player mills two cards. Draw a card.\n−8: Draw seven cards. Then if your library has no cards in it, you win the game."
+    ],
     "keywords": [
       "mill"
     ],
@@ -9469,7 +9971,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target opponent sacrifices a creature of their choice that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures of their choice instead.",
+    "rulesTexts": [
+      "Target opponent sacrifices a creature of their choice that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures of their choice instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9508,7 +10012,9 @@
     "toughness": null,
     "loyalty": 7,
     "tags": [],
-    "oracleText": "Each creature you control assigns combat damage equal to its toughness rather than its power.\n−3: You gain life equal to the greatest toughness among creatures you control.",
+    "rulesTexts": [
+      "Each creature you control assigns combat damage equal to its toughness rather than its power.\n−3: You gain life equal to the greatest toughness among creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9548,7 +10054,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever a creature you control dies, draw a card.\n+1: Create a 2/2 black Zombie creature token.\n−4: Each player sacrifices two creatures of their choice.\n−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",
+    "rulesTexts": [
+      "Whenever a creature you control dies, draw a card.\n+1: Create a 2/2 black Zombie creature token.\n−4: Each player sacrifices two creatures of their choice.\n−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9586,7 +10094,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "When this creature dies, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -9623,7 +10133,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -9664,7 +10176,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "When this creature enters, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.",
+    "rulesTexts": [
+      "When this creature enters, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9696,7 +10210,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, look at the top card of target opponent's library.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, look at the top card of target opponent's library."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9733,7 +10249,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Target creature gets +1/+0 until end of turn.\nDraw a card.",
+    "rulesTexts": [
+      "Target creature gets +1/+0 until end of turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9773,7 +10291,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, trample\nWhen Roalesk enters, put two +1/+1 counters on another target creature you control.\nWhen Roalesk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)",
+    "rulesTexts": [
+      "Flying, trample\nWhen Roalesk enters, put two +1/+1 counters on another target creature you control.\nWhen Roalesk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)"
+    ],
     "keywords": [
       "flying",
       "trample",
@@ -9810,7 +10330,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total mana value of those cards. Put them onto the battlefield under your control.",
+    "rulesTexts": [
+      "Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total mana value of those cards. Put them onto the battlefield under your control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9842,7 +10364,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, put a +1/+1 counter on target creature.",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, put a +1/+1 counter on target creature."
+    ],
     "keywords": [
       "menace"
     ],
@@ -9883,7 +10407,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.\n+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.\n−3: Create a 4/4 red Dragon creature token with flying.",
+    "rulesTexts": [
+      "Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.\n+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.\n−3: Create a 4/4 red Dragon creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9923,7 +10449,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Double strike\nWhenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.\nWhen God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+    "rulesTexts": [
+      "Double strike\nWhenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.\nWhen God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top."
+    ],
     "keywords": [
       "double strike"
     ],
@@ -9958,7 +10486,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life.",
+    "rulesTexts": [
+      "Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9993,7 +10523,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, put a +1/+1 counter on target creature you control.",
+    "rulesTexts": [
+      "When this creature enters, put a +1/+1 counter on target creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10032,7 +10564,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Creatures you control have haste.\n−1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",
+    "rulesTexts": [
+      "Creatures you control have haste.\n−1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -10073,7 +10607,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Each opponent can't draw more than one card each turn.\n−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Each opponent can't draw more than one card each turn.\n−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10108,7 +10644,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile all multicolored permanents.",
+    "rulesTexts": [
+      "Exile all multicolored permanents."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10144,7 +10682,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10185,7 +10725,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10222,7 +10764,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -10265,7 +10809,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\n−3: Return target card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.\n+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.\n−3: Return target card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10294,7 +10840,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters with a charge counter on it.\n{T}: Add {C}.\n{X}{X}, {T}: Put X charge counters on this land.\n{3}, {T}, Sacrifice this land: Destroy each nonland permanent with mana value equal to the number of charge counters on this land.",
+    "rulesTexts": [
+      "This land enters with a charge counter on it.\n{T}: Add {C}.\n{X}{X}, {T}: Put X charge counters on this land.\n{3}, {T}, Sacrifice this land: Destroy each nonland permanent with mana value equal to the number of charge counters on this land."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -10331,7 +10879,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each creature deals damage to itself equal to its power.",
+    "rulesTexts": [
+      "Each creature deals damage to itself equal to its power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10362,7 +10912,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This artifact enters tapped.\n{T}: Add two mana of different colors.",
+    "rulesTexts": [
+      "This artifact enters tapped.\n{T}: Add two mana of different colors."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -10403,7 +10955,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Jaya's Greeting deals 3 damage to target creature. Scry 1.",
+    "rulesTexts": [
+      "Jaya's Greeting deals 3 damage to target creature. Scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -10440,7 +10994,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature or planeswalker you control dies, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever another creature or planeswalker you control dies, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10475,7 +11031,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{X}, {T}, Discard a card: Look at the top X cards of your library. You may put a creature card with mana value X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "{X}, {T}, Discard a card: Look at the top X cards of your library. You may put a creature card with mana value X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10510,7 +11068,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nYou and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nYou and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -10545,7 +11105,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10587,7 +11149,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Spells and abilities your opponents control can't cause their controller to search their library.\n−1: Target player mills four cards. Then exile each opponent's graveyard.",
+    "rulesTexts": [
+      "Spells and abilities your opponents control can't cause their controller to search their library.\n−1: Target player mills four cards. Then exile each opponent's graveyard."
+    ],
     "keywords": [
       "mill"
     ],
@@ -10627,7 +11191,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nLands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control.\nYour opponents can't play land cards from graveyards.",
+    "rulesTexts": [
+      "Flying\nLands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control.\nYour opponents can't play land cards from graveyards."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10666,7 +11232,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, trample\nIf one or more +1/+1 counters would be put on Mowu, that many plus one +1/+1 counters are put on it instead.",
+    "rulesTexts": [
+      "Vigilance, trample\nIf one or more +1/+1 counters would be put on Mowu, that many plus one +1/+1 counters are put on it instead."
+    ],
     "keywords": [
       "vigilance",
       "trample"
@@ -10706,7 +11274,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Choose one —\n• Target player sacrifices an artifact of their choice.\n• Target player sacrifices a creature of their choice.\n• Target player sacrifices a planeswalker of their choice.",
+    "rulesTexts": [
+      "Choose one —\n• Target player sacrifices an artifact of their choice.\n• Target player sacrifices a creature of their choice.\n• Target player sacrifices a planeswalker of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10744,7 +11314,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have flying.",
+    "rulesTexts": [
+      "When this creature enters, amass Zombies 2. (Put two +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)\nZombie tokens you control have flying."
+    ],
     "keywords": [
       "amass"
     ],
@@ -10784,7 +11356,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player mills four cards. Amass Zombies 4. (Put four +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player mills four cards. Amass Zombies 4. (Put four +1/+1 counters on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "amass",
       "mill"
@@ -10829,7 +11403,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Each opponent can cast spells only any time they could cast a sorcery.\n+1: Until your next turn, you may cast sorcery spells as though they had flash.\n−3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.",
+    "rulesTexts": [
+      "Each opponent can cast spells only any time they could cast a sorcery.\n+1: Until your next turn, you may cast sorcery spells as though they had flash.\n−3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10871,7 +11447,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Tolsimir enters, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token.\nWhenever a Wolf you control enters, you gain 3 life and that creature fights up to one target creature you don't control.",
+    "rulesTexts": [
+      "When Tolsimir enters, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token.\nWhenever a Wolf you control enters, you gain 3 life and that creature fights up to one target creature you don't control."
+    ],
     "keywords": [
       "fight"
     ],
@@ -10910,7 +11488,9 @@
     "toughness": null,
     "loyalty": 5,
     "tags": [],
-    "oracleText": "Whenever you tap a Forest for mana, add an additional {G}.\n+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.\n−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Whenever you tap a Forest for mana, add an additional {G}.\n+1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.\n−8: You get an emblem with \"Lands you control have indestructible.\" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -10948,7 +11528,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10986,7 +11568,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.",
+    "rulesTexts": [
+      "When this creature enters, destroy target creature or planeswalker an opponent controls that was dealt damage this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11025,7 +11609,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When Oath of Kaya enters, it deals 3 damage to any target and you gain 3 life.\nWhenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life.",
+    "rulesTexts": [
+      "When Oath of Kaya enters, it deals 3 damage to any target and you gain 3 life.\nWhenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11063,7 +11649,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nThis creature enters with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.\nWhenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Trample\nThis creature enters with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.\nWhenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on this creature."
+    ],
     "keywords": [
       "trample"
     ],
@@ -11100,7 +11688,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11136,7 +11726,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -11173,7 +11765,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Remove up to five counters from target artifact, creature, planeswalker, or opponent.",
+    "rulesTexts": [
+      "Remove up to five counters from target artifact, creature, planeswalker, or opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11211,7 +11805,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Trample\nWhenever this creature attacks, you may cast target instant or sorcery card with mana value less than or equal to this creature's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",
+    "rulesTexts": [
+      "Trample\nWhenever this creature attacks, you may cast target instant or sorcery card with mana value less than or equal to this creature's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead."
+    ],
     "keywords": [
       "trample"
     ],
@@ -11252,7 +11848,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, amass Zombies 1. (Put a +1/+1 counter on an Army you control. It's also a Zombie. If you don't control an Army, create a 0/0 black Zombie Army creature token first.)"
+    ],
     "keywords": [
       "flying",
       "amass"
@@ -11292,7 +11890,9 @@
     "toughness": null,
     "loyalty": 4,
     "tags": [],
-    "oracleText": "You may cast creature spells as though they had flash.\n+1: Until your next turn, up to one target creature gains vigilance and reach.\n−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may cast it if it's a creature spell.",
+    "rulesTexts": [
+      "You may cast creature spells as though they had flash.\n+1: Until your next turn, up to one target creature gains vigilance and reach.\n−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may cast it if it's a creature spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [

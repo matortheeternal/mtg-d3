@@ -20,7 +20,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{R}, Sacrifice this enchantment: It deals 3 damage to each tapped creature and each player.",
+    "rulesTexts": [
+      "{1}{R}, Sacrifice this enchantment: It deals 3 damage to each tapped creature and each player."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -56,7 +58,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature is dealt damage, you gain 1 life.",
+    "rulesTexts": [
+      "Whenever this creature is dealt damage, you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -96,7 +100,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({U/B} can be paid with either {U} or {B}.)\n{2}, {T}: Look at the top card of target player's library. You may put that card into that player's graveyard.",
+    "rulesTexts": [
+      "({U/B} can be paid with either {U} or {B}.)\n{2}, {T}: Look at the top card of target player's library. You may put that card into that player's graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -129,7 +135,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "This artifact enters tapped.\n{2}, {T}, Sacrifice this artifact: Add two mana in any combination of colors.\nWhen this artifact is put into a graveyard from the battlefield, draw a card.",
+    "rulesTexts": [
+      "This artifact enters tapped.\n{2}, {T}, Sacrifice this artifact: Add two mana in any combination of colors.\nWhen this artifact is put into a graveyard from the battlefield, draw a card."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -171,7 +179,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, put target creature on top of its owner's library.",
+    "rulesTexts": [
+      "When this creature enters, put target creature on top of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -206,7 +216,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control have vigilance as long as this creature is enchanted.",
+    "rulesTexts": [
+      "Creatures you control have vigilance as long as this creature is enchanted."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -248,7 +260,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Create Voja, a legendary 2/2 green and white Wolf creature token.",
+    "rulesTexts": [
+      "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Create Voja, a legendary 2/2 green and white Wolf creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -286,7 +300,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{R}: Target creature gains haste until end of turn.\n{1}{W}: Target creature gains first strike until end of turn.",
+    "rulesTexts": [
+      "{1}{R}: Target creature gains haste until end of turn.\n{1}{W}: Target creature gains first strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -323,7 +339,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nWhen this creature enters, target creature gets -2/-2 until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, target creature gets -2/-2 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -362,7 +380,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or creature. It can't be regenerated.",
+    "rulesTexts": [
+      "Destroy target artifact or creature. It can't be regenerated."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -399,7 +419,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Enchant creature\nWhenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Enchant creature\nWhenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -441,7 +463,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a blue spell, exile the top card of target player's library.\nWhenever you cast a black spell, exile the top card of target player's library.\nYour opponents can't cast spells with the same name as a card exiled with Circu.",
+    "rulesTexts": [
+      "Whenever you cast a blue spell, exile the top card of target player's library.\nWhenever you cast a black spell, exile the top card of target player's library.\nYour opponents can't cast spells with the same name as a card exiled with Circu."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -477,7 +501,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{W}, Sacrifice a creature: Prevent the next 1 damage that would be dealt to any target this turn.",
+    "rulesTexts": [
+      "{W}, Sacrifice a creature: Prevent the next 1 damage that would be dealt to any target this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -512,7 +538,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhen this creature enters, target opponent creates two 3/3 green Centaur creature tokens with protection from black.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, target opponent creates two 3/3 green Centaur creature tokens with protection from black."
+    ],
     "keywords": [
       "trample"
     ],
@@ -549,7 +577,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards.",
+    "rulesTexts": [
+      "Whenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -584,7 +614,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -621,7 +653,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell unless its controller discards their hand.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Counter target spell unless its controller discards their hand.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -660,7 +694,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Target creature gets -1/-1 until end of turn.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Target creature gets -1/-1 until end of turn.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -698,7 +734,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant permanent\nYou can't choose an untapped permanent as this spell's target as you cast it.\nYou control enchanted permanent.",
+    "rulesTexts": [
+      "Enchant permanent\nYou can't choose an untapped permanent as this spell's target as you cast it.\nYou control enchanted permanent."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -733,7 +771,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Activated abilities cost {2} more to activate unless they're mana abilities.",
+    "rulesTexts": [
+      "Activated abilities cost {2} more to activate unless they're mana abilities."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -772,7 +812,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever this creature deals combat damage to a player, that player discards a card and you draw a card.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, that player discards a card and you draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -808,7 +850,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Pay 1 life: This creature gets +2/-1 until end of turn.",
+    "rulesTexts": [
+      "Pay 1 life: This creature gets +2/-1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -840,7 +884,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -878,7 +924,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, target player loses 2 life.",
+    "rulesTexts": [
+      "When this creature dies, target player loses 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -916,7 +964,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Tap four untapped creatures you control: Destroy target artifact or enchantment.",
+    "rulesTexts": [
+      "Tap four untapped creatures you control: Destroy target artifact or enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -948,7 +998,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a card from your hand on top of your library: Return this creature to its owner's hand.",
+    "rulesTexts": [
+      "Put a card from your hand on top of your library: Return this creature to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -983,7 +1035,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1019,7 +1073,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -1057,7 +1113,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Other creatures you control get +0/+1.",
+    "rulesTexts": [
+      "Other creatures you control get +0/+1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1093,7 +1151,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{R}, Sacrifice this creature: Destroy target land.",
+    "rulesTexts": [
+      "{R}, Sacrifice this creature: Destroy target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1133,7 +1193,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature of their choice.\nWhenever you sacrifice a green creature, you may gain 2 life.",
+    "rulesTexts": [
+      "Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature of their choice.\nWhenever you sacrifice a green creature, you may gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1168,7 +1230,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -1206,7 +1270,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({B/G} can be paid with either {B} or {G}.)\nRegenerate target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.",
+    "rulesTexts": [
+      "({B/G} can be paid with either {B} or {G}.)\nRegenerate target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1242,7 +1308,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of each player's end step, that player sacrifices an untapped land of their choice.",
+    "rulesTexts": [
+      "At the beginning of each player's end step, that player sacrifices an untapped land of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1282,7 +1350,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token.",
+    "rulesTexts": [
+      "{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1317,7 +1387,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target artifact or enchantment.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target artifact or enchantment."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -1356,7 +1428,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+    "rulesTexts": [
+      "Lightning Helix deals 3 damage to any target and you gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1385,7 +1459,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Choose a player. That player adds one mana of any color they choose.",
+    "rulesTexts": [
+      "{T}: Choose a player. That player adds one mana of any color they choose."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1423,7 +1499,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1455,7 +1533,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, {T}: Add {R}{W}.",
+    "rulesTexts": [
+      "{1}, {T}: Add {R}{W}."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -1495,7 +1575,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nVigilance",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nVigilance"
+    ],
     "keywords": [
       "vigilance",
       "convoke"
@@ -1533,7 +1615,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -1567,7 +1651,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever the first noncreature spell of a turn is cast, counter that spell.",
+    "rulesTexts": [
+      "Flying\nWhenever the first noncreature spell of a turn is cast, counter that spell."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1602,7 +1688,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to three Aura cards with different names, reveal them, put them into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for up to three Aura cards with different names, reveal them, put them into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1637,7 +1725,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Each player shuffles their graveyard into their library.",
+    "rulesTexts": [
+      "Each player shuffles their graveyard into their library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1673,7 +1763,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike, vigilance",
+    "rulesTexts": [
+      "First strike, vigilance"
+    ],
     "keywords": [
       "vigilance",
       "first strike"
@@ -1709,7 +1801,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player draws three cards. Then that player discards two cards unless they discard a land card.",
+    "rulesTexts": [
+      "Target player draws three cards. Then that player discards two cards unless they discard a land card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1749,7 +1843,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{3}{G}: Create a 1/1 green Saproling creature token.\n{3}{W}: Creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "{3}{G}: Create a 1/1 green Saproling creature token.\n{3}{W}: Creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1780,7 +1876,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{3}, {T}: Tap target creature, then return this artifact to its owner's hand.",
+    "rulesTexts": [
+      "{3}, {T}: Tap target creature, then return this artifact to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1813,7 +1911,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPrevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPrevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -1851,7 +1951,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, sacrifice a creature.\nThis creature can't be blocked by Saprolings.",
+    "rulesTexts": [
+      "When this creature enters, sacrifice a creature.\nThis creature can't be blocked by Saprolings."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1891,7 +1993,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this creature: Draw a card.\nDredge 1 (If you would draw a card, you may mill a card instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "{1}, Sacrifice this creature: Draw a card.\nDredge 1 (If you would draw a card, you may mill a card instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -1929,7 +2033,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target permanent to its owner's hand. Its controller loses 3 life.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Return target permanent to its owner's hand. Its controller loses 3 life.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -1968,7 +2074,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever a nontoken creature you control dies, create a 1/1 green Saproling creature token.",
+    "rulesTexts": [
+      "Whenever a nontoken creature you control dies, create a 1/1 green Saproling creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2006,7 +2114,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{R}, Sacrifice this creature: It deals 2 damage to target blocking creature.",
+    "rulesTexts": [
+      "{R}, Sacrifice this creature: It deals 2 damage to target blocking creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2044,7 +2154,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{T}: This creature deals 1 damage to any target.",
+    "rulesTexts": [
+      "{T}: This creature deals 1 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2079,7 +2191,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Dogpile deals damage to any target equal to the number of attacking creatures you control.",
+    "rulesTexts": [
+      "Dogpile deals damage to any target equal to the number of attacking creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2114,7 +2228,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw a card for each Island you control.",
+    "rulesTexts": [
+      "Draw a card for each Island you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2149,7 +2265,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -2190,7 +2308,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nIf Szadek would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player mills that many cards.",
+    "rulesTexts": [
+      "Flying\nIf Szadek would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player mills that many cards."
+    ],
     "keywords": [
       "flying",
       "mill"
@@ -2230,7 +2350,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets -4/-1.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets -4/-1."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -2268,7 +2390,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nOther creatures you control get +0/+2 and have vigilance.",
+    "rulesTexts": [
+      "Vigilance\nOther creatures you control get +0/+2 and have vigilance."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -2308,7 +2432,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{B}, Sacrifice a creature: Target player loses 1 life.",
+    "rulesTexts": [
+      "{B}, Sacrifice a creature: Target player loses 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2340,7 +2466,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{U}{B}, {T}: Target player mills a card.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{U}{B}, {T}: Target player mills a card."
+    ],
     "keywords": [
       "mill"
     ],
@@ -2377,7 +2505,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rain of Embers deals 1 damage to each creature and each player.",
+    "rulesTexts": [
+      "Rain of Embers deals 1 damage to each creature and each player."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2412,7 +2542,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to three creature cards, reveal them, then shuffle and put those cards on top in any order.",
+    "rulesTexts": [
+      "Search your library for up to three creature cards, reveal them, then shuffle and put those cards on top in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2448,7 +2580,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap this creature.",
+    "rulesTexts": [
+      "{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2487,7 +2621,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{W}, Sacrifice this creature: Create a 1/1 white Spirit creature token with flying at the beginning of the next end step.",
+    "rulesTexts": [
+      "{W}, Sacrifice this creature: Create a 1/1 white Spirit creature token with flying at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2523,7 +2659,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or enchantment. If {G} was spent to cast this spell, create two 1/1 green Saproling creature tokens.",
+    "rulesTexts": [
+      "Destroy target artifact or enchantment. If {G} was spent to cast this spell, create two 1/1 green Saproling creature tokens."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2560,7 +2698,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever you gain life, you may pay {2}. If you do, this enchantment deals 2 damage to any target.",
+    "rulesTexts": [
+      "Whenever you gain life, you may pay {2}. If you do, this enchantment deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2595,7 +2735,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -2632,7 +2774,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -3/-3 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets -3/-3 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2670,7 +2814,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "At the beginning of your upkeep, put a +1/+1 counter on this creature.\nAt the beginning of your end step, destroy each creature with mana value equal to the number of +1/+1 counters on this creature.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "At the beginning of your upkeep, put a +1/+1 counter on this creature.\nAt the beginning of your end step, destroy each creature with mana value equal to the number of +1/+1 counters on this creature.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -2710,7 +2856,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature has flying.\nWhenever enchanted creature deals combat damage to a player, create that many 1/1 green Saproling creature tokens.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature has flying.\nWhenever enchanted creature deals combat damage to a player, create that many 1/1 green Saproling creature tokens."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -2747,7 +2895,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2786,7 +2936,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "This creature can't be blocked.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -2825,7 +2977,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nAt the beginning of your upkeep, you lose 1 life.",
+    "rulesTexts": [
+      "Flying\nAt the beginning of your upkeep, you lose 1 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2862,7 +3016,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Target creature becomes the color or colors of your choice until end of turn.\nDraw a card.",
+    "rulesTexts": [
+      "Target creature becomes the color or colors of your choice until end of turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2898,7 +3054,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, each player puts a card from their hand on top of their library.",
+    "rulesTexts": [
+      "When this creature dies, each player puts a card from their hand on top of their library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2931,7 +3089,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, Sacrifice a creature: Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{1}, Sacrifice a creature: Search your library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2966,7 +3126,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Change the target of target activated ability with a single target. (Mana abilities can't be targeted.)\nDraw a card.",
+    "rulesTexts": [
+      "Change the target of target activated ability with a single target. (Mana abilities can't be targeted.)\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3001,7 +3163,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -3038,7 +3202,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap three untapped creatures you control: Tap target creature.",
+    "rulesTexts": [
+      "Tap three untapped creatures you control: Tap target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3074,7 +3240,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: This creature deals 4 damage to each creature without flying and each player.",
+    "rulesTexts": [
+      "{T}: This creature deals 4 damage to each creature without flying and each player."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3109,7 +3277,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever a source deals damage to this creature, that source's controller mills that many cards.",
+    "rulesTexts": [
+      "Flying\nWhenever a source deals damage to this creature, that source's controller mills that many cards."
+    ],
     "keywords": [
       "flying",
       "mill"
@@ -3147,7 +3317,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever an Aura becomes attached to this creature, create two 1/1 green Saproling creature tokens.",
+    "rulesTexts": [
+      "Whenever an Aura becomes attached to this creature, create two 1/1 green Saproling creature tokens."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3176,7 +3348,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a nonartifact permanent you control enters, you may return another permanent you control that shares a permanent type with it to its owner's hand.",
+    "rulesTexts": [
+      "Whenever a nonartifact permanent you control enters, you may return another permanent you control that shares a permanent type with it to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3211,7 +3385,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player mills ten cards.",
+    "rulesTexts": [
+      "Target player mills ten cards."
+    ],
     "keywords": [
       "mill"
     ],
@@ -3252,7 +3428,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.\n{6}{R}{R}{W}{W}: Return this card from your graveyard to the battlefield. Activate only during your upkeep.",
+    "rulesTexts": [
+      "Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.\n{6}{R}{R}{W}{W}: Return this card from your graveyard to the battlefield. Activate only during your upkeep."
+    ],
     "keywords": [
       "flying",
       "first strike"
@@ -3288,7 +3466,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a player casts an instant or sorcery card, exile it. Then that player copies each instant or sorcery card exiled with this enchantment. For each copy, the player may cast the copy without paying its mana cost.",
+    "rulesTexts": [
+      "Whenever a player casts an instant or sorcery card, exile it. Then that player copies each instant or sorcery card exiled with this enchantment. For each copy, the player may cast the copy without paying its mana cost."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3321,7 +3501,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of each upkeep, creatures you control gain flying until end of turn if a creature you control has flying. The same is true for fear, first strike, double strike, landwalk, protection, trample, and vigilance.",
+    "rulesTexts": [
+      "At the beginning of each upkeep, creatures you control gain flying until end of turn if a creature you control has flying. The same is true for fear, first strike, double strike, landwalk, protection, trample, and vigilance."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3362,7 +3544,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Sacrifice this creature: Put a +1/+1 counter on target creature.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Sacrifice this creature: Put a +1/+1 counter on target creature.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -3398,7 +3582,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target instant or sorcery spell.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Counter target instant or sorcery spell.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -3435,7 +3621,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -3475,7 +3663,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, return target creature card of an opponent's choice from your graveyard to your hand.",
+    "rulesTexts": [
+      "When this creature enters, return target creature card of an opponent's choice from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3509,7 +3699,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. If {W} was spent to cast this spell, the creature gains \"Whenever this creature deals combat damage, you gain that much life\" until end of turn.",
+    "rulesTexts": [
+      "Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. If {W} was spent to cast this spell, the creature gains \"Whenever this creature deals combat damage, you gain that much life\" until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3544,7 +3736,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Return target card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3579,7 +3773,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nExile target attacking or blocking creature.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nExile target attacking or blocking creature."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -3614,7 +3810,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.",
+    "rulesTexts": [
+      "Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3650,7 +3848,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card.",
+    "rulesTexts": [
+      "Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3683,7 +3883,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — Destroy target enchantment and each other enchantment that shares a color with it.",
+    "rulesTexts": [
+      "Radiance — Destroy target enchantment and each other enchantment that shares a color with it."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -3723,7 +3925,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({R/W} can be paid with either {R} or {W}.)\nFirst strike",
+    "rulesTexts": [
+      "({R/W} can be paid with either {R} or {W}.)\nFirst strike"
+    ],
     "keywords": [
       "first strike"
     ],
@@ -3760,7 +3964,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant permanent\nWhen this Aura enters, you gain 4 life.\nEnchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities.",
+    "rulesTexts": [
+      "Enchant permanent\nWhen this Aura enters, you gain 4 life.\nEnchanted permanent can't attack or block, and its activated abilities can't be activated unless they're mana abilities."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -3795,7 +4001,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "At the beginning of each opponent's upkeep, exile all cards from your hand face down.\nAt the beginning of your upkeep, return all cards you own exiled with this artifact to your hand, then draw a card.",
+    "rulesTexts": [
+      "At the beginning of each opponent's upkeep, exile all cards from your hand face down.\nAt the beginning of your upkeep, return all cards you own exiled with this artifact to your hand, then draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3830,7 +4038,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Exile Sins of the Past.",
+    "rulesTexts": [
+      "Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. Exile Sins of the Past."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3864,7 +4074,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{T}: Add {C}.\n{3}{B}{G}: Until end of turn, this land becomes a black and green Plant Zombie creature with \"This creature's power and toughness are each equal to the number of creature cards in your graveyard.\" It's still a land.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{3}{B}{G}: Until end of turn, this land becomes a black and green Plant Zombie creature with \"This creature's power and toughness are each equal to the number of creature cards in your graveyard.\" It's still a land."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -3903,7 +4115,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you cast a creature spell, you may draw a card.",
+    "rulesTexts": [
+      "Whenever you cast a creature spell, you may draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3937,7 +4151,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Defender\n{T}: Put target card from a graveyard on the bottom of its owner's library.",
+    "rulesTexts": [
+      "Defender\n{T}: Put target card from a graveyard on the bottom of its owner's library."
+    ],
     "keywords": [
       "defender"
     ],
@@ -3975,7 +4191,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{R}: Target creature can't block this creature this turn.",
+    "rulesTexts": [
+      "Flying\n{R}: Target creature can't block this creature this turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4010,7 +4228,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Noncreature spells you cast cost {2} less to cast.\nWhenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.",
+    "rulesTexts": [
+      "Noncreature spells you cast cost {2} less to cast.\nWhenever you cast a noncreature spell, counter that spell unless you sacrifice a creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4046,7 +4266,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{R}: This creature gets +1/-1 until end of turn.",
+    "rulesTexts": [
+      "{R}: This creature gets +1/-1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4081,7 +4303,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\n{2}{W}{W}: Exile enchanted creature and all Auras attached to it. At the beginning of the next end step, return that card to the battlefield under its owner's control. If you do, return the other cards exiled this way to the battlefield under their owners' control attached to that creature.",
+    "rulesTexts": [
+      "Enchant creature\n{2}{W}{W}: Exile enchanted creature and all Auras attached to it. At the beginning of the next end step, return that card to the battlefield under its owner's control. If you do, return the other cards exiled this way to the battlefield under their owners' control attached to that creature."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4121,7 +4345,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Flying\nWhenever this creature deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Flying\nWhenever this creature deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "flying",
       "dredge",
@@ -4160,7 +4386,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Radiance — Cleansing Beam deals 2 damage to target creature and each other creature that shares a color with it.",
+    "rulesTexts": [
+      "Radiance — Cleansing Beam deals 2 damage to target creature and each other creature that shares a color with it."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -4197,7 +4425,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -4237,7 +4467,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({G/W} can be paid with either {G} or {W}.)\nWhen this creature dies, you may gain 3 life.",
+    "rulesTexts": [
+      "({G/W} can be paid with either {G} or {W}.)\nWhen this creature dies, you may gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4273,7 +4505,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nThis creature must be blocked if able.\n{R}: This creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Haste\nThis creature must be blocked if able.\n{R}: This creature gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -4312,7 +4546,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, it deals 3 damage to any target.\nEnchanted creature has first strike.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, it deals 3 damage to any target.\nEnchanted creature has first strike."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4351,7 +4587,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4388,7 +4626,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{B}: This creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{B}: This creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "fear"
     ],
@@ -4423,7 +4663,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreatures you control get +3/+3 until end of turn.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreatures you control get +3/+3 until end of turn."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -4461,7 +4703,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)\n{4}: This creature loses defender until end of turn.\n{T}: Untap target permanent.",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\n{4}: This creature loses defender until end of turn.\n{T}: Untap target permanent."
+    ],
     "keywords": [
       "defender"
     ],
@@ -4501,7 +4745,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "When this card is put into your hand from your graveyard, you gain 2 life.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "When this card is put into your hand from your graveyard, you gain 2 life.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -4540,7 +4786,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Destroy target artifact.\nDraw a card.",
+    "rulesTexts": [
+      "Destroy target artifact.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4578,7 +4826,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate only as a sorcery.\n{3}{B}: Target player discards a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate only as a sorcery.\n{3}{B}: Target player discards a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4618,7 +4868,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({B/G} can be paid with either {B} or {G}.)\nTrample\nAt the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.",
+    "rulesTexts": [
+      "({B/G} can be paid with either {B} or {G}.)\nTrample\nAt the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn."
+    ],
     "keywords": [
       "trample"
     ],
@@ -4656,7 +4908,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+    "rulesTexts": [
+      "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
+    ],
     "keywords": [
       "landwalk",
       "mountainwalk"
@@ -4697,7 +4951,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature enters, it deals 1 damage to any target.",
+    "rulesTexts": [
+      "When this creature enters, it deals 1 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4732,7 +4988,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -3/-0 until end of turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Target creature gets -3/-0 until end of turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -4769,7 +5027,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one —\n• Target player draws two cards.\n• Target player discards two cards.",
+    "rulesTexts": [
+      "Choose one —\n• Target player draws two cards.\n• Target player discards two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4806,7 +5066,9 @@
     "toughness": 14,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample"
+    ],
     "keywords": [
       "trample",
       "convoke"
@@ -4844,7 +5106,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4881,7 +5145,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, create two 1/1 green Saproling creature tokens.\nEnchanted creature has trample.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, create two 1/1 green Saproling creature tokens.\nEnchanted creature has trample."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4919,7 +5185,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+    "rulesTexts": [
+      "{T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4954,7 +5222,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each player chooses three permanents they control, then sacrifices the rest.",
+    "rulesTexts": [
+      "Each player chooses three permanents they control, then sacrifices the rest."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4992,7 +5262,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Target creature can't attack or block this turn.",
+    "rulesTexts": [
+      "{T}: Target creature can't attack or block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5024,7 +5296,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "{2}, Sacrifice this artifact: Exile target creature. Return the exiled card to the battlefield under its owner's control at the beginning of the next end step.",
+    "rulesTexts": [
+      "{2}, Sacrifice this artifact: Exile target creature. Return the exiled card to the battlefield under its owner's control at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5060,7 +5334,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Artifacts, creatures, and lands your opponents control enter tapped.",
+    "rulesTexts": [
+      "Artifacts, creatures, and lands your opponents control enter tapped."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5095,7 +5371,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)\nSacrifice three lands: This creature loses defender until end of turn.",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\nSacrifice three lands: This creature loses defender until end of turn."
+    ],
     "keywords": [
       "defender"
     ],
@@ -5132,7 +5410,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {G} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -5170,7 +5450,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Look at the top five cards of your library. For each card, put that card into your graveyard unless you pay 2 life. Then put the rest into your hand.",
+    "rulesTexts": [
+      "Look at the top five cards of your library. For each card, put that card into your graveyard unless you pay 2 life. Then put the rest into your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5205,7 +5487,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -5243,7 +5527,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Return up to three target land cards from your graveyard to your hand.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Return up to three target land cards from your graveyard to your hand.\nDredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -5286,7 +5572,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Flying\nWhenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5325,7 +5613,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {B}. This creature deals 1 damage to you.",
+    "rulesTexts": [
+      "{T}: Add {B}. This creature deals 1 damage to you."
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -5362,7 +5652,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -5395,7 +5687,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nAs this Equipment enters, choose a creature you control it could be attached to. If you do, it enters attached to that creature.\nEquipped creature gets +1/+1.\nEquip {1}",
+    "rulesTexts": [
+      "Flash\nAs this Equipment enters, choose a creature you control it could be attached to. If you do, it enters attached to that creature.\nEquipped creature gets +1/+1.\nEquip {1}"
+    ],
     "keywords": [
       "equip",
       "flash"
@@ -5435,7 +5729,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, draw two cards.\nEnchanted creature has flying.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, draw two cards.\nEnchanted creature has flying."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5474,7 +5770,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever this creature deals combat damage to a player, you may look at that player's hand. If you do, you may cast a spell from among those cards without paying its mana cost.",
+    "rulesTexts": [
+      "Trample\nWhenever this creature deals combat damage to a player, you may look at that player's hand. If you do, you may cast a spell from among those cards without paying its mana cost."
+    ],
     "keywords": [
       "trample"
     ],
@@ -5513,7 +5811,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{B}: Regenerate this creature.",
+    "rulesTexts": [
+      "Flying\n{B}: Regenerate this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5552,7 +5852,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "({U/B} can be paid with either {U} or {B}.)\nPlayers can't search libraries this turn.\nDraw a card.",
+    "rulesTexts": [
+      "({U/B} can be paid with either {U} or {B}.)\nPlayers can't search libraries this turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5584,7 +5886,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {R}{W}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {R}{W}."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -5622,7 +5926,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Until end of turn, permanents you control gain \"{T}: This permanent deals 1 damage to any target.\"",
+    "rulesTexts": [
+      "Until end of turn, permanents you control gain \"{T}: This permanent deals 1 damage to any target.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5655,7 +5961,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5687,7 +5995,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, {T}: Add {G}{W}.",
+    "rulesTexts": [
+      "{1}, {T}: Add {G}{W}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -5726,7 +6036,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nWhen this creature enters, you gain 1 life for each creature you control.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nWhen this creature enters, you gain 1 life for each creature you control."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -5763,7 +6075,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -5800,7 +6114,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nEnchant creature\nEnchanted creature gets +0/+2 for each other creature you control.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nEnchant creature\nEnchanted creature gets +0/+2 for each other creature you control."
+    ],
     "keywords": [
       "enchant",
       "convoke"
@@ -5841,7 +6157,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If damage would be dealt to this creature, put that many +1/+1 counters on it instead.",
+    "rulesTexts": [
+      "If damage would be dealt to this creature, put that many +1/+1 counters on it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5879,7 +6197,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets +3/+3.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +3/+3.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "enchant",
@@ -5922,7 +6242,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "When this creature dies, put target creature card from your graveyard on top of your library.\nDredge 4 (If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "When this creature dies, put target creature card from your graveyard on top of your library.\nDredge 4 (If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -5959,7 +6281,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "At the beginning of your upkeep, put a plague counter on this artifact.\n{1}{B}{G}: Put a plague counter on this artifact or remove a plague counter from it.\nWhen this artifact has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, put a plague counter on this artifact.\n{1}{B}{G}: Put a plague counter on this artifact or remove a plague counter from it.\nWhen this artifact has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5995,7 +6319,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Target player reveals their hand. You choose a card from it. That player discards that card.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Target player reveals their hand. You choose a card from it. That player discards that card.\nDredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -6033,7 +6359,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+    "rulesTexts": [
+      "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)"
+    ],
     "keywords": [
       "landwalk",
       "islandwalk"
@@ -6073,7 +6401,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\n{T}, Sacrifice this creature: It deals 3 damage to target attacking or blocking creature.",
+    "rulesTexts": [
+      "Flying\n{T}, Sacrifice this creature: It deals 3 damage to target attacking or blocking creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6109,7 +6439,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You gain 1 life for each creature on the battlefield. If {W} was spent to cast this spell, untap all creatures you control.",
+    "rulesTexts": [
+      "You gain 1 life for each creature on the battlefield. If {W} was spent to cast this spell, untap all creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6145,7 +6477,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{U}: This creature gains flying until end of turn.",
+    "rulesTexts": [
+      "{1}{U}: This creature gains flying until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6181,7 +6515,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target creature card from your graveyard to the battlefield. If {G} was spent to cast this spell, that creature enters with an additional +1/+1 counter on it.",
+    "rulesTexts": [
+      "Return target creature card from your graveyard to the battlefield. If {G} was spent to cast this spell, that creature enters with an additional +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6216,7 +6552,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{U}, {T}: Target creature can't be blocked this turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "{U}, {T}: Target creature can't be blocked this turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -6253,7 +6591,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "Flying\n{T}: Add one mana of any color."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6292,7 +6632,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature has defender, flying, and first strike.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature has defender, flying, and first strike.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6327,7 +6669,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -6364,7 +6708,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, target player discards two cards.\n{B}: Regenerate enchanted creature.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, target player discards two cards.\n{B}: Regenerate enchanted creature."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -6402,7 +6748,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, search your library for an Aura card that could enchant it. If this creature is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, search your library for an Aura card that could enchant it. If this creature is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6438,7 +6786,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{G}: All creatures able to block this creature this turn do so.",
+    "rulesTexts": [
+      "{2}{G}: All creatures able to block this creature this turn do so."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6474,7 +6824,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6511,7 +6863,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6546,7 +6900,9 @@
     "toughness": 9,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)\nWhen this creature enters, you may search your library for any number of cards that have mana value 9, reveal them, put them into your hand, then shuffle.\n{4}: This creature loses defender until end of turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\nWhen this creature enters, you may search your library for any number of cards that have mana value 9, reveal them, put them into your hand, then shuffle.\n{4}: This creature loses defender until end of turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "defender",
       "transmute"
@@ -6584,7 +6940,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -6623,7 +6981,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nSacrifice a creature: Regenerate this creature.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nSacrifice a creature: Regenerate this creature.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "fear",
       "transmute"
@@ -6663,7 +7023,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.",
+    "rulesTexts": [
+      "Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -6703,7 +7065,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach (This creature can block creatures with flying.)\nThis creature can block an additional creature each combat.",
+    "rulesTexts": [
+      "Reach (This creature can block creatures with flying.)\nThis creature can block an additional creature each combat."
+    ],
     "keywords": [
       "reach"
     ],
@@ -6737,7 +7101,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, {T}: Add {U}{B}.",
+    "rulesTexts": [
+      "{1}, {T}: Add {U}{B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -6777,7 +7143,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{G}: Regenerate this creature.",
+    "rulesTexts": [
+      "{2}{G}: Regenerate this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6812,7 +7180,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Cast this spell only before attackers are declared.\nYou choose which creatures attack this turn.\nYou choose which creatures block this turn and how those creatures block.",
+    "rulesTexts": [
+      "Cast this spell only before attackers are declared.\nYou choose which creatures attack this turn.\nYou choose which creatures block this turn and how those creatures block."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6847,7 +7217,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — Untap target creature and each other creature that shares a color with it. Those creatures get +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Radiance — Untap target creature and each other creature that shares a color with it. Those creatures get +2/+0 until end of turn."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -6885,7 +7257,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: Choose a basic land type. Each land you control becomes that type until end of turn.",
+    "rulesTexts": [
+      "{1}: Choose a basic land type. Each land you control becomes that type until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6923,7 +7297,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain 4 life.\n{G}{W}, Sacrifice this creature: Regenerate each creature you control.",
+    "rulesTexts": [
+      "When this creature enters, you gain 4 life.\n{G}{W}, Sacrifice this creature: Regenerate each creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6956,7 +7332,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — Until end of turn, target creature and each other creature that shares a color with it gain \"This creature can't block.\"",
+    "rulesTexts": [
+      "Radiance — Until end of turn, target creature and each other creature that shares a color with it gain \"This creature can't block.\""
+    ],
     "keywords": [
       "radiance"
     ],
@@ -6993,7 +7371,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Damage that would be dealt by this creature can't be prevented.",
+    "rulesTexts": [
+      "Damage that would be dealt by this creature can't be prevented."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7033,7 +7413,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "{1}{U}{B}: Exile target creature card from a graveyard. This creature becomes a copy of that card, except it has this ability.",
+    "rulesTexts": [
+      "{1}{U}{B}: Exile target creature card from a graveyard. This creature becomes a copy of that card, except it has this ability."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7066,7 +7448,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — Target creature and each other creature that shares a color with it get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Radiance — Target creature and each other creature that shares a color with it get +1/+1 until end of turn."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -7101,7 +7485,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn.",
+    "rulesTexts": [
+      "Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -7135,7 +7521,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{2}{R}{W}, {T}: Target creature gains double strike until end of turn.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{2}{R}{W}, {T}: Target creature gains double strike until end of turn."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -7172,7 +7560,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this creature enters, flip a coin. If the coin comes up heads, this creature enters as a 5/2 creature with haste. If it comes up tails, this creature enters as a 2/5 creature with defender.",
+    "rulesTexts": [
+      "As this creature enters, flip a coin. If the coin comes up heads, this creature enters as a 5/2 creature with haste. If it comes up tails, this creature enters as a 2/5 creature with defender."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7209,7 +7599,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{W}: Prevent the next 1 damage that would be dealt to this creature this turn.",
+    "rulesTexts": [
+      "{W}: Prevent the next 1 damage that would be dealt to this creature this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7244,7 +7636,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nFiery Conclusion deals 5 damage to target creature.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nFiery Conclusion deals 5 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7277,7 +7671,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may have this enchantment enter as a copy of any enchantment on the battlefield.",
+    "rulesTexts": [
+      "You may have this enchantment enter as a copy of any enchantment on the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7312,7 +7708,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7349,7 +7747,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample"
+    ],
     "keywords": [
       "trample",
       "convoke"
@@ -7387,7 +7787,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Choose a card name. Target player reveals cards from the top of their library until a card with that name is revealed. If it is, that player puts the rest of the revealed cards into their graveyard and puts the card with the chosen name on top of their library. Otherwise, the player shuffles.",
+    "rulesTexts": [
+      "Choose a card name. Target player reveals cards from the top of their library until a card with that name is revealed. If it is, that player puts the rest of the revealed cards into their graveyard and puts the card with the chosen name on top of their library. Otherwise, the player shuffles."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7422,7 +7824,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nAt the beginning of your upkeep, return enchanted creature and all Auras attached to that creature to their owners' hands.",
+    "rulesTexts": [
+      "Enchant creature\nAt the beginning of your upkeep, return enchanted creature and all Auras attached to that creature to their owners' hands."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -7462,7 +7866,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature dies, you may draw a card.",
+    "rulesTexts": [
+      "Flying\nWhen this creature dies, you may draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7502,7 +7908,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, creatures you control get +1/+1 and gain haste until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, creatures you control get +1/+1 and gain haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7538,7 +7946,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all damage that this creature would deal to red creatures.",
+    "rulesTexts": [
+      "Prevent all damage that this creature would deal to red creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7572,7 +7982,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{T}: Add {C}.\n{2}{G}{W}, {T}: Create a 1/1 green Saproling creature token.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{2}{G}{W}, {T}: Create a 1/1 green Saproling creature token."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -7612,7 +8024,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nSacrifice this creature: Exile target card from a graveyard.",
+    "rulesTexts": [
+      "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nSacrifice this creature: Exile target card from a graveyard."
+    ],
     "keywords": [
       "landwalk",
       "swampwalk"
@@ -7653,7 +8067,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.",
+    "rulesTexts": [
+      "{2}{G}, {T}: Return target enchantment card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7688,7 +8104,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, sacrifice it unless you return an enchantment to its owner's hand.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, sacrifice it unless you return an enchantment to its owner's hand."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7725,7 +8143,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, each opponent loses 1 life for each creature they control.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, each opponent loses 1 life for each creature they control.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -7760,7 +8180,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — Target creature and each other creature that shares a color with it gain haste until end of turn.",
+    "rulesTexts": [
+      "Radiance — Target creature and each other creature that shares a color with it gain haste until end of turn."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -7798,7 +8220,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, Sacrifice a creature: Look at the top two cards of target opponent's library, then exile one of them.",
+    "rulesTexts": [
+      "{1}, Sacrifice a creature: Look at the top two cards of target opponent's library, then exile one of them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7835,7 +8259,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, target opponent creates a 4/4 black Horror creature token.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, target opponent creates a 4/4 black Horror creature token."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7872,7 +8298,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{2}, {T}, Put a blood counter on this artifact: Draw a card, then you lose 1 life for each blood counter on this artifact.\n{U}{B}: Remove a blood counter from this artifact.",
+    "rulesTexts": [
+      "{2}, {T}, Put a blood counter on this artifact: Draw a card, then you lose 1 life for each blood counter on this artifact.\n{U}{B}: Remove a blood counter from this artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7905,7 +8333,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land. Add {R}{R}.",
+    "rulesTexts": [
+      "Destroy target land. Add {R}{R}."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -7942,7 +8372,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature attacks each combat if able.\n{1}{R}: Creatures without defender can't block this creature this turn.",
+    "rulesTexts": [
+      "This creature attacks each combat if able.\n{1}{R}: Creatures without defender can't block this creature this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7979,7 +8411,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Defender (This creature can't attack.)\nWhen this creature enters, draw a card.",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\nWhen this creature enters, draw a card."
+    ],
     "keywords": [
       "defender"
     ],
@@ -8016,7 +8450,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{G}: Target creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "{G}: Target creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8051,7 +8487,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice a Forest: You gain 3 life.",
+    "rulesTexts": [
+      "Sacrifice a Forest: You gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8088,7 +8526,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever a creature token leaves the battlefield, put a +1/+1 counter on this creature.\n{2}{W}, Remove a +1/+1 counter from this creature: Create two 1/1 white Spirit creature tokens with flying.",
+    "rulesTexts": [
+      "Whenever a creature token leaves the battlefield, put a +1/+1 counter on this creature.\n{2}{W}, Remove a +1/+1 counter from this creature: Create two 1/1 white Spirit creature tokens with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8124,7 +8564,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature is dealt damage, it deals that much damage to each player.",
+    "rulesTexts": [
+      "Whenever this creature is dealt damage, it deals that much damage to each player."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8158,7 +8600,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell. If {B} was spent to cast this spell, that spell's controller mills X cards, where X is the spell's mana value.",
+    "rulesTexts": [
+      "Counter target spell. If {B} was spent to cast this spell, that spell's controller mills X cards, where X is the spell's mana value."
+    ],
     "keywords": [
       "mill"
     ],
@@ -8192,7 +8636,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, {T}: Add {B}{G}.",
+    "rulesTexts": [
+      "{1}, {T}: Add {B}{G}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8235,7 +8681,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Exile a creature card from your graveyard: Regenerate this creature.",
+    "rulesTexts": [
+      "Exile a creature card from your graveyard: Regenerate this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8268,7 +8716,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy all nontoken creatures.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy all nontoken creatures."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -8308,7 +8758,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike",
+    "rulesTexts": [
+      "Double strike"
+    ],
     "keywords": [
       "double strike"
     ],
@@ -8346,7 +8798,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nPlayers play with the top card of their libraries revealed.",
+    "rulesTexts": [
+      "Flying\nPlayers play with the top card of their libraries revealed."
+    ],
     "keywords": [
       "flying"
     ],
@@ -8383,7 +8837,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +1/+1 until end of turn.\nTarget creature gets +1/+1 until end of turn.\nTarget creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +1/+1 until end of turn.\nTarget creature gets +1/+1 until end of turn.\nTarget creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8418,7 +8874,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)\nFlying\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\nFlying\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "defender",
@@ -8454,7 +8912,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Play with the top card of your library revealed.\nAs long as the top card of your library is a creature card, creatures you control that share a color with that card get +1/+1.\n{G}{W}: Put the top card of your library on the bottom of your library.",
+    "rulesTexts": [
+      "Play with the top card of your library revealed.\nAs long as the top card of your library is a creature card, creatures you control that share a color with that card get +1/+1.\n{G}{W}: Put the top card of your library on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8487,7 +8947,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature with mana value X.",
+    "rulesTexts": [
+      "Destroy target creature with mana value X."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8527,7 +8989,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Agrus Kos attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.",
+    "rulesTexts": [
+      "Whenever Agrus Kos attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8560,7 +9024,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature that isn't enchanted. It can't be regenerated.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Destroy target creature that isn't enchanted. It can't be regenerated.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -8595,7 +9061,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 1/1 green Saproling creature tokens.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 1/1 green Saproling creature tokens."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -8636,7 +9104,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.",
+    "rulesTexts": [
+      "Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead."
+    ],
     "keywords": [
       "flying",
       "vigilance",
@@ -8674,7 +9144,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all combat damage that would be dealt by target attacking or blocking creature this turn. If {R} was spent to cast this spell, Boros Fury-Shield deals damage to that creature's controller equal to the creature's power.",
+    "rulesTexts": [
+      "Prevent all combat damage that would be dealt by target attacking or blocking creature this turn. If {R} was spent to cast this spell, Boros Fury-Shield deals damage to that creature's controller equal to the creature's power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8712,7 +9184,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage, you gain that much life.\n{1}{R}: This creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage, you gain that much life.\n{1}{R}: This creature gets +1/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8747,7 +9221,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If a source would deal damage to a permanent or player, it deals half that damage, rounded down, to that permanent or player instead.",
+    "rulesTexts": [
+      "If a source would deal damage to a permanent or player, it deals half that damage, rounded down, to that permanent or player instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8779,7 +9255,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{W}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {G}{W}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -8818,7 +9296,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Each player draws a card, then discards a card.",
+    "rulesTexts": [
+      "{T}: Each player draws a card, then discards a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8855,7 +9335,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Ribbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast this spell, draw a card.",
+    "rulesTexts": [
+      "Ribbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast this spell, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8888,7 +9370,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+    "rulesTexts": [
+      "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8922,7 +9406,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +4/+0.\n{R}{W}, Unattach this Equipment: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.\nEquip {3}",
+    "rulesTexts": [
+      "Equipped creature gets +4/+0.\n{R}{W}, Unattach this Equipment: Search your library for a red or white instant card with mana value 4 or less and cast that card without paying its mana cost. Then shuffle.\nEquip {3}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -8955,7 +9441,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "All damage that would be dealt to you is dealt to equipped creature instead.\nEquip {3}",
+    "rulesTexts": [
+      "All damage that would be dealt to you is dealt to equipped creature instead.\nEquip {3}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -8992,7 +9480,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCreatures can't attack you.",
+    "rulesTexts": [
+      "Flying\nCreatures can't attack you."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9029,7 +9519,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+    "rulesTexts": [
+      "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -9067,7 +9559,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying"
+    ],
     "keywords": [
       "flying",
       "convoke"
@@ -9106,7 +9600,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may exchange control of target creature you control and target creature with power less than or equal to that creature's power an opponent controls.",
+    "rulesTexts": [
+      "When this creature enters, you may exchange control of target creature you control and target creature with power less than or equal to that creature's power an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9141,7 +9637,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach (This creature can block creatures with flying.)",
+    "rulesTexts": [
+      "Reach (This creature can block creatures with flying.)"
+    ],
     "keywords": [
       "reach"
     ],
@@ -9180,7 +9678,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Enchant creature\nAt the beginning of your upkeep, create a token that's a copy of enchanted creature.",
+    "rulesTexts": [
+      "Enchant creature\nAt the beginning of your upkeep, create a token that's a copy of enchanted creature."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -9217,7 +9717,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player mills X cards and you gain X life.",
+    "rulesTexts": [
+      "Target player mills X cards and you gain X life."
+    ],
     "keywords": [
       "mill"
     ],
@@ -9254,7 +9756,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance",
+    "rulesTexts": [
+      "Flying, vigilance"
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -9292,7 +9796,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Prevent the next X damage that would be dealt to you this turn.\nDraw a card.",
+    "rulesTexts": [
+      "Prevent the next X damage that would be dealt to you this turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9330,7 +9836,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{B}{G}, {T}: Target Forest becomes a 4/4 black and green Elemental Horror creature. It's still a land.",
+    "rulesTexts": [
+      "{1}{B}{G}, {T}: Target Forest becomes a 4/4 black and green Elemental Horror creature. It's still a land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9371,7 +9879,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{G}: Target creature blocks Sisters of Stone Death this turn if able.\n{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.\n{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.",
+    "rulesTexts": [
+      "{G}: Target creature blocks Sisters of Stone Death this turn if able.\n{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.\n{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9410,7 +9920,9 @@
     "toughness": 8,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nAs an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it.",
+    "rulesTexts": [
+      "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nAs an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters with that many additional +1/+1 counters on it."
+    ],
     "keywords": [
       "landwalk",
       "forestwalk"
@@ -9448,7 +9960,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, haste\nWhen this creature enters, target opponent creates three 2/2 white Knight creature tokens with first strike.",
+    "rulesTexts": [
+      "Flying, haste\nWhen this creature enters, target opponent creates three 2/2 white Knight creature tokens with first strike."
+    ],
     "keywords": [
       "flying",
       "haste"
@@ -9487,7 +10001,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn.",
+    "rulesTexts": [
+      "Whenever this creature attacks, you may pay {R}. If you do, target creature can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9525,7 +10041,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, haste",
+    "rulesTexts": [
+      "Flying, haste"
+    ],
     "keywords": [
       "flying",
       "haste"
@@ -9565,7 +10083,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Target player sacrifices a creature of their choice. You draw cards equal to that creature's power.",
+    "rulesTexts": [
+      "Target player sacrifices a creature of their choice. You draw cards equal to that creature's power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9605,7 +10125,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.\n{4}{G}: Put a +1/+1 counter on target creature.",
+    "rulesTexts": [
+      "{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.\n{4}{G}: Put a +1/+1 counter on target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9640,7 +10162,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9675,7 +10199,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all damage that would be dealt to creatures you control by sources you control.",
+    "rulesTexts": [
+      "Prevent all damage that would be dealt to creatures you control by sources you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9711,7 +10237,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, it deals 2 damage to you.",
+    "rulesTexts": [
+      "When this creature dies, it deals 2 damage to you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9746,7 +10274,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -9783,7 +10313,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature you control\nWhen enchanted creature deals combat damage to a player, sacrifice it and attach this Aura to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase.",
+    "rulesTexts": [
+      "Enchant creature you control\nWhen enchanted creature deals combat damage to a player, sacrifice it and attach this Aura to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -9820,7 +10352,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{U}: This creature's owner shuffles it into their library.",
+    "rulesTexts": [
+      "Flying\n{U}: This creature's owner shuffles it into their library."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9861,7 +10395,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.",
+    "rulesTexts": [
+      "{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9893,7 +10429,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {U}{B}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {U}{B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -9929,7 +10467,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -9966,7 +10506,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -10006,7 +10548,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Radiance — {T}: This creature deals 1 damage to target creature and each other creature that shares a color with it.",
+    "rulesTexts": [
+      "Radiance — {T}: This creature deals 1 damage to target creature and each other creature that shares a color with it."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -10047,7 +10591,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -10085,7 +10631,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Exile up to four target cards from a single graveyard.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)",
+    "rulesTexts": [
+      "Exile up to four target cards from a single graveyard.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same mana value as this card, reveal it, put it into your hand, then shuffle. Transmute only as a sorcery.)"
+    ],
     "keywords": [
       "transmute"
     ],
@@ -10122,7 +10670,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Each player returns all creature cards from their graveyard to their hand.",
+    "rulesTexts": [
+      "Each player returns all creature cards from their graveyard to their hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10158,7 +10708,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTap two untapped creatures you control: This creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTap two untapped creatures you control: This creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -10193,7 +10745,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target creature you control and target creature you don't control to their owners' hands.",
+    "rulesTexts": [
+      "Return target creature you control and target creature you don't control to their owners' hands."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10227,7 +10781,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land. If {B} was spent to cast this spell, all creatures get -1/-1 until end of turn.",
+    "rulesTexts": [
+      "Destroy target land. If {B} was spent to cast this spell, all creatures get -1/-1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10262,7 +10818,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature blocks, return it to its owner's hand.",
+    "rulesTexts": [
+      "When this creature blocks, return it to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10297,7 +10855,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\n{3}{U}: Attach this Aura to target creature.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\n{3}{U}: Attach this Aura to target creature."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -10335,7 +10895,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{4}{G}, Sacrifice a creature: Destroy target creature with flying.",
+    "rulesTexts": [
+      "{4}{G}, Sacrifice a creature: Destroy target creature with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10372,7 +10934,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Tap an untapped creature you control: Tap target artifact or creature.",
+    "rulesTexts": [
+      "Tap an untapped creature you control: Tap target artifact or creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10407,7 +10971,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{R}: This creature gets +3/-3 until end of turn.",
+    "rulesTexts": [
+      "{1}{R}: This creature gets +3/-3 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10443,7 +11009,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Radiance — {T}: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.",
+    "rulesTexts": [
+      "Radiance — {T}: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn."
+    ],
     "keywords": [
       "radiance"
     ],
@@ -10480,7 +11048,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nAt the beginning of each player's upkeep, that player sacrifices a creature of their choice. If the player can't, sacrifice this creature.",
+    "rulesTexts": [
+      "Flying\nAt the beginning of each player's upkeep, that player sacrifices a creature of their choice. If the player can't, sacrifice this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10520,7 +11090,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{1}{G}: This creature deals 1 damage to target creature with flying.\nWhenever a creature with flying dealt damage by this creature this turn dies, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "{1}{G}: This creature deals 1 damage to target creature with flying.\nWhenever a creature with flying dealt damage by this creature this turn dies, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10555,7 +11127,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10592,7 +11166,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)\n{T}: Prevent the next 1 damage that would be dealt to any target this turn.",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)\n{T}: Prevent the next 1 damage that would be dealt to any target this turn."
+    ],
     "keywords": [
       "defender"
     ],
@@ -10630,7 +11206,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, untap this creature.\n{T}: Untap target land.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, untap this creature.\n{T}: Untap target land."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -10667,7 +11245,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature has \"At the beginning of your end step, sacrifice this creature unless it attacked this turn.\"",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature has \"At the beginning of your end step, sacrifice this creature unless it attacked this turn.\""
+    ],
     "keywords": [
       "enchant"
     ],
@@ -10708,7 +11288,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "This creature enters with a +1/+1 counter on it for each creature card in your graveyard.\n{1}, Remove a +1/+1 counter from this creature: Regenerate this creature.\nDredge 6 (If you would draw a card, you may mill six cards instead. If you do, return this card from your graveyard to your hand.)",
+    "rulesTexts": [
+      "This creature enters with a +1/+1 counter on it for each creature card in your graveyard.\n{1}, Remove a +1/+1 counter from this creature: Regenerate this creature.\nDredge 6 (If you would draw a card, you may mill six cards instead. If you do, return this card from your graveyard to your hand.)"
+    ],
     "keywords": [
       "dredge",
       "mill"
@@ -10744,7 +11326,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy six target creatures.",
+    "rulesTexts": [
+      "Destroy six target creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10779,7 +11363,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({G/W} can be paid with either {G} or {W}.)\nOther permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "({G/W} can be paid with either {G} or {W}.)\nOther permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10814,7 +11400,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -10849,7 +11437,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell unless its controller pays {4}.",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {4}."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10884,7 +11474,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked.\nWhen this creature enters, target opponent creates five 1/1 red Goblin creature tokens.",
+    "rulesTexts": [
+      "This creature can't be blocked.\nWhen this creature enters, target opponent creates five 1/1 red Goblin creature tokens."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10920,7 +11512,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{U}, {T}: Target player mills two cards.",
+    "rulesTexts": [
+      "{U}, {T}: Target player mills two cards."
+    ],
     "keywords": [
       "mill"
     ],
@@ -10955,7 +11549,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a creature spell, this enchantment becomes a 4/4 Illusion creature with flying in addition to its other types until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a creature spell, this enchantment becomes a 4/4 Illusion creature with flying in addition to its other types until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10992,7 +11588,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever a player casts a creature spell, each player returns all cards with the same name as that spell from their graveyard to the battlefield.",
+    "rulesTexts": [
+      "Whenever a player casts a creature spell, each player returns all cards with the same name as that spell from their graveyard to the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11027,7 +11625,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -11064,7 +11664,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -11103,7 +11705,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target opponent creates four 1/1 blue Faerie creature tokens with flying.\n{G}: Regenerate this creature.",
+    "rulesTexts": [
+      "When this creature enters, target opponent creates four 1/1 blue Faerie creature tokens with flying.\n{G}: Regenerate this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11138,7 +11742,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Each player shuffles all permanents they own into their library, then reveals that many cards from the top of their library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of their library.",
+    "rulesTexts": [
+      "Each player shuffles all permanents they own into their library, then reveals that many cards from the top of their library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of their library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11173,7 +11779,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -11210,7 +11818,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Scion of the Wild's power and toughness are each equal to the number of creatures you control.",
+    "rulesTexts": [
+      "Scion of the Wild's power and toughness are each equal to the number of creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11245,7 +11855,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Char deals 4 damage to any target and 2 damage to you.",
+    "rulesTexts": [
+      "Char deals 4 damage to any target and 2 damage to you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [

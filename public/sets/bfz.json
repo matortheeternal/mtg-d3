@@ -24,7 +24,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, tap target creature an opponent controls.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, tap target creature an opponent controls."
+    ],
     "keywords": [
       "rally"
     ],
@@ -59,7 +61,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nTouch of the Void deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nTouch of the Void deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -98,7 +102,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Trample\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "trample",
       "landfall"
@@ -141,7 +147,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast an instant or sorcery spell, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.",
+    "rulesTexts": [
+      "Whenever you cast an instant or sorcery spell, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -177,7 +185,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance (Attacking doesn't cause this creature to tap.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nAt the beginning of your upkeep, if you have 40 or more life, you win the game.",
+    "rulesTexts": [
+      "Vigilance (Attacking doesn't cause this creature to tap.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nAt the beginning of your upkeep, if you have 40 or more life, you win the game."
+    ],
     "keywords": [
       "lifelink",
       "vigilance"
@@ -213,7 +223,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step. Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step. Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -254,7 +266,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return any number of target Ally creature cards with total mana value 8 or less from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Return any number of target Ally creature cards with total mana value 8 or less from your graveyard to the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -285,7 +299,9 @@
     "toughness": 9,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample",
+    "rulesTexts": [
+      "Trample"
+    ],
     "keywords": [
       "trample"
     ],
@@ -320,7 +336,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+    "rulesTexts": [
+      "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -353,7 +371,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a creature attacks this turn, it gains lifelink until end of turn.\nAwaken 4—{4}{W} (If you cast this spell for {4}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Whenever a creature attacks this turn, it gains lifelink until end of turn.\nAwaken 4—{4}{W} (If you cast this spell for {4}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -388,7 +408,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\n{2}{R}, Sacrifice another colorless creature: This creature deals damage equal to the sacrificed creature's power to any target.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\n{2}{R}, Sacrifice another colorless creature: This creature deals damage equal to the sacrificed creature's power to any target."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -426,7 +448,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{8}: This creature gets +5/+5 and gains trample until end of turn.",
+    "rulesTexts": [
+      "{8}: This creature gets +5/+5 and gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -461,7 +485,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -496,7 +522,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +2/+1 until end of turn.",
+    "rulesTexts": [
+      "Creatures you control get +2/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -531,7 +559,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -568,7 +598,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -603,7 +635,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Vigilance\nSacrifice two Eldrazi Scions: Return this card from your graveyard to your hand. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Vigilance\nSacrifice two Eldrazi Scions: Return this card from your graveyard to your hand. Activate only as a sorcery."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -640,7 +674,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "rulesTexts": [
+      "({T}: Add {U} or {B}.)\nThis land enters tapped unless you control two or more basic lands."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -678,7 +714,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Devoid (This card has no color.)\nTarget opponent exiles a card from their graveyard. You create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\nDraw a card.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nTarget opponent exiles a card from their graveyard. You create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\nDraw a card."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -715,7 +753,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast this spell. That creature gains trample until end of turn.",
+    "rulesTexts": [
+      "Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast this spell. That creature gains trample until end of turn."
+    ],
     "keywords": [
       "converge"
     ],
@@ -753,7 +793,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, you gain 1 life for each creature you control.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you gain 1 life for each creature you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -790,7 +832,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"\nSacrifice an Eldrazi Scion: Tap target creature.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"\nSacrifice an Eldrazi Scion: Tap target creature."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -827,7 +871,9 @@
     "toughness": 10,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When you cast this spell, exile two target permanents.\nIndestructible\nWhenever Ulamog attacks, defending player exiles the top twenty cards of their library.",
+    "rulesTexts": [
+      "When you cast this spell, exile two target permanents.\nIndestructible\nWhenever Ulamog attacks, defending player exiles the top twenty cards of their library."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -864,7 +910,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Flying\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "landfall",
       "flying"
@@ -902,7 +950,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -938,7 +988,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nWhen this creature enters, if you control another colorless creature, each opponent loses 2 life.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nWhen this creature enters, if you control another colorless creature, each opponent loses 2 life."
+    ],
     "keywords": [
       "devoid",
       "ingest"
@@ -977,7 +1029,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -1014,7 +1068,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1053,7 +1109,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you gain life, this creature gains flying until end of turn.",
+    "rulesTexts": [
+      "Whenever you gain life, this creature gains flying until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1084,7 +1142,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.\n{T}: Add {G}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.\n{T}: Add {G}."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -1119,7 +1179,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it.\"\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature has \"{2}, {T}: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it.\"\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -1159,7 +1221,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{8}: This creature deals 3 damage to any target.",
+    "rulesTexts": [
+      "{8}: This creature deals 3 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1194,7 +1258,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -1235,7 +1301,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "+1: Until end of turn, Gideon becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n0: Create a 2/2 white Knight Ally creature token.\n−4: You get an emblem with \"Creatures you control get +1/+1.\"",
+    "rulesTexts": [
+      "+1: Until end of turn, Gideon becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n0: Create a 2/2 white Knight Ally creature token.\n−4: You get an emblem with \"Creatures you control get +1/+1.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1270,7 +1338,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact, enchantment, or land.",
+    "rulesTexts": [
+      "Destroy target artifact, enchantment, or land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1301,7 +1371,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever equipped creature attacks, you may return a land you control to its owner's hand. If you do, the creature gets +2/+2 until end of turn.\nEquip {2}",
+    "rulesTexts": [
+      "Whenever equipped creature attacks, you may return a land you control to its owner's hand. If you do, the creature gets +2/+2 until end of turn.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -1340,7 +1412,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)"
+    ],
     "keywords": [
       "rally"
     ],
@@ -1377,7 +1451,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature you control dies, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever another creature you control dies, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1411,7 +1487,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)"
+    ],
     "keywords": [
       "devoid",
       "ingest"
@@ -1449,7 +1527,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1485,7 +1565,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nVile Aggregate's power is equal to the number of colorless creatures you control.\nTrample\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nVile Aggregate's power is equal to the number of colorless creatures you control.\nTrample\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)"
+    ],
     "keywords": [
       "devoid",
       "trample",
@@ -1526,7 +1608,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\n{1}{G}, Put a card an opponent owns from exile into that player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\n{1}{G}, Put a card an opponent owns from exile into that player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -1565,7 +1649,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Converge — Draw X cards, where X is the number of colors of mana spent to cast this spell. Then discard two cards.",
+    "rulesTexts": [
+      "Converge — Draw X cards, where X is the number of colors of mana spent to cast this spell. Then discard two cards."
+    ],
     "keywords": [
       "converge"
     ],
@@ -1602,7 +1688,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -1635,7 +1723,9 @@
     "toughness": 8,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When you cast this spell, target opponent exiles the top four cards of their library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.",
+    "rulesTexts": [
+      "When you cast this spell, target opponent exiles the top four cards of their library, then you may put any number of land cards that player owns from exile onto the battlefield under your control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1669,7 +1759,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nHaste\nAt the beginning of each end step, if you control no other colorless creatures, return this creature to its owner's hand.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nHaste\nAt the beginning of each end step, if you control no other colorless creatures, return this creature to its owner's hand."
+    ],
     "keywords": [
       "devoid",
       "haste"
@@ -1708,7 +1800,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{R}: This creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "{2}{R}: This creature gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1740,7 +1834,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Draw two cards.",
+    "rulesTexts": [
+      "{T}: Add {C}{C}.\n{2}, {T}, Sacrifice this artifact: Draw two cards."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -1778,7 +1874,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -1811,7 +1909,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, target creature an opponent controls doesn't untap during its controller's next untap step.\n{T}: Add {U}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, target creature an opponent controls doesn't untap during its controller's next untap step.\n{T}: Add {U}."
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -1844,7 +1944,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{4}{B}, {T}, Sacrifice this land: Target opponent sacrifices a creature of their choice.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{4}{B}, {T}, Sacrifice this land: Target opponent sacrifices a creature of their choice."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -1881,7 +1983,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nColorless spells you cast cost {1} less to cast.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nColorless spells you cast cost {1} less to cast."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -1920,7 +2024,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Devoid (This card has no color.)\n{2}, Put a card an opponent owns from exile into that player's graveyard: Draw a card, then discard a card.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\n{2}, Put a card an opponent owns from exile into that player's graveyard: Draw a card, then discard a card."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -1959,7 +2065,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you gain life, this creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+    "rulesTexts": [
+      "Whenever you gain life, this creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1994,7 +2102,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -2034,7 +2144,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -2075,7 +2187,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, haste\nThis creature attacks each combat if able.\nLandfall — Whenever a land you control enters, you may pay {4}{R}{R}. If you do, return this card from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Flying, haste\nThis creature attacks each combat if able.\nLandfall — Whenever a land you control enters, you may pay {4}{R}{R}. If you do, return this card from your graveyard to the battlefield."
+    ],
     "keywords": [
       "landfall",
       "flying",
@@ -2111,7 +2225,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {W} or {B}.\n{1}{W}{B}: Until end of turn, this land becomes a 2/3 white and black Elemental creature with lifelink. It's still a land.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {W} or {B}.\n{1}{W}{B}: Until end of turn, this land becomes a 2/3 white and black Elemental creature with lifelink. It's still a land."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -2147,7 +2263,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This enchantment enters with X isolation counters on it.\nWhen this enchantment enters, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
+    "rulesTexts": [
+      "This enchantment enters with X isolation counters on it.\nWhen this enchantment enters, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until this enchantment leaves the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2182,7 +2300,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2222,7 +2342,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2259,7 +2381,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{4}{U}: Target creature can't be blocked this turn.",
+    "rulesTexts": [
+      "{4}{U}: Target creature can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2294,7 +2418,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{1}{B}, Sacrifice a creature: You gain 1 life and draw a card.",
+    "rulesTexts": [
+      "{1}{B}, Sacrifice a creature: You gain 1 life and draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2331,7 +2457,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -2368,7 +2496,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B} or {R}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "rulesTexts": [
+      "({T}: Add {B} or {R}.)\nThis land enters tapped unless you control two or more basic lands."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -2402,7 +2532,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, defending player exiles two permanents they control.",
+    "rulesTexts": [
+      "Whenever this creature attacks, defending player exiles two permanents they control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2437,7 +2569,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -2475,7 +2609,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{W}, {T}: You gain 1 life.",
+    "rulesTexts": [
+      "{W}, {T}: You gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2506,7 +2642,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "As an additional cost to cast this spell, reveal a colorless creature card from your hand.\nExile target creature if its power is less than or equal to the revealed card's power.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, reveal a colorless creature card from your hand.\nExile target creature if its power is less than or equal to the revealed card's power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2541,7 +2679,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -2578,7 +2718,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -2613,7 +2755,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target creature to its owner's hand.\nAwaken 3—{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Return target creature to its owner's hand.\nAwaken 3—{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -2644,7 +2788,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Until end of turn, colorless creatures you control gain \"{T}: This creature deals damage equal to its power to target creature.\"",
+    "rulesTexts": [
+      "Until end of turn, colorless creatures you control gain \"{T}: This creature deals damage equal to its power to target creature.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2677,7 +2823,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhenever you cast a colorless spell, this enchantment deals 1 damage to any target.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhenever you cast a colorless spell, this enchantment deals 1 damage to any target."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -2714,7 +2862,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -2751,7 +2901,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2790,7 +2942,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2827,7 +2981,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [
       "rally"
     ],
@@ -2864,7 +3020,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Gideon's Reproach deals 4 damage to target attacking or blocking creature.",
+    "rulesTexts": [
+      "Gideon's Reproach deals 4 damage to target attacking or blocking creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2899,7 +3057,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Converge — You draw X cards and lose X life, where X is the number of colors of mana spent to cast this spell.",
+    "rulesTexts": [
+      "Converge — You draw X cards and lose X life, where X is the number of colors of mana spent to cast this spell."
+    ],
     "keywords": [
       "converge"
     ],
@@ -2940,7 +3100,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Veteran Warleader's power and toughness are each equal to the number of creatures you control.\nTap another untapped Ally you control: This creature gains your choice of first strike, vigilance, or trample until end of turn.",
+    "rulesTexts": [
+      "Veteran Warleader's power and toughness are each equal to the number of creatures you control.\nTap another untapped Ally you control: This creature gains your choice of first strike, vigilance, or trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2975,7 +3137,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -3016,7 +3180,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nConverge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.",
+    "rulesTexts": [
+      "Flying\nConverge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it."
+    ],
     "keywords": [
       "flying",
       "converge"
@@ -3053,7 +3219,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -3088,7 +3256,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, choose one —\n• Target creature gets +1/+0 and gains deathtouch until end of turn.\n• Each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, choose one —\n• Target creature gets +1/+0 and gains deathtouch until end of turn.\n• Each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -3125,7 +3295,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -3164,7 +3336,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has flying.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has flying."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -3199,7 +3373,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures your opponents control get -1/-0.",
+    "rulesTexts": [
+      "Creatures your opponents control get -1/-0."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3235,7 +3411,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever this creature deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "rulesTexts": [
+      "Flying\nWhenever this creature deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)"
+    ],
     "keywords": [
       "scry",
       "flying"
@@ -3279,7 +3457,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "+1: Untap up to one target creature and up to one target land.\n−2: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.\n−8: You get an emblem with \"Whenever a creature you control enters, you may have it fight target creature.\" Then create three 8/8 blue Octopus creature tokens.",
+    "rulesTexts": [
+      "+1: Untap up to one target creature and up to one target land.\n−2: Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.\n−8: You get an emblem with \"Whenever a creature you control enters, you may have it fight target creature.\" Then create three 8/8 blue Octopus creature tokens."
+    ],
     "keywords": [
       "fight"
     ],
@@ -3316,7 +3496,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Landfall — Whenever a land you control enters, choose one —\n• Create a 1/1 white Kor Ally creature token.\n• Creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, choose one —\n• Create a 1/1 white Kor Ally creature token.\n• Creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -3354,7 +3536,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nWhen this creature dies, you may draw a card. If you do, discard a card.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nWhen this creature dies, you may draw a card. If you do, discard a card."
+    ],
     "keywords": [
       "devoid",
       "ingest"
@@ -3388,7 +3572,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.\nThe first creature spell you cast each turn costs {2} less to cast.",
+    "rulesTexts": [
+      "When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.\nThe first creature spell you cast each turn costs {2} less to cast."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3422,7 +3608,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nOther colorless creatures you control get +0/+1.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nOther colorless creatures you control get +0/+1."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -3461,7 +3649,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain indestructible until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain indestructible until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -3496,7 +3686,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Devoid (This card has no color.)\nCounter target creature spell with mana value 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nCounter target creature spell with mana value 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -3531,7 +3723,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When you cast this spell, create a 10/10 colorless Eldrazi creature token.",
+    "rulesTexts": [
+      "When you cast this spell, create a 10/10 colorless Eldrazi creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3566,7 +3760,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, you gain 2 life.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you gain 2 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3604,7 +3800,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -3639,7 +3837,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -3676,7 +3876,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, deathtouch\nWhenever you gain life, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Flying, deathtouch\nWhenever you gain life, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "deathtouch",
       "flying"
@@ -3712,7 +3914,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "All creatures get -2/-2 until end of turn.\nAwaken 3—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "All creatures get -2/-2 until end of turn.\nAwaken 3—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -3749,7 +3953,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender",
+    "rulesTexts": [
+      "Defender"
+    ],
     "keywords": [
       "defender"
     ],
@@ -3786,7 +3992,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -3821,7 +4029,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nSerpentine Spike deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nSerpentine Spike deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -3858,7 +4068,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast this spell.",
+    "rulesTexts": [
+      "Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast this spell."
+    ],
     "keywords": [
       "converge"
     ],
@@ -3893,7 +4105,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, choose one —\n• Put a +1/+1 counter on target creature.\n• You gain 2 life.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, choose one —\n• Put a +1/+1 counter on target creature.\n• You gain 2 life."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -3934,7 +4148,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "+1: You draw a card and you lose 1 life.\n−3: Destroy target creature.\n−8: Target opponent gets an emblem with \"Whenever a player draws a card, you lose 2 life.\"",
+    "rulesTexts": [
+      "+1: You draw a card and you lose 1 life.\n−3: Destroy target creature.\n−8: Target opponent gets an emblem with \"Whenever a player draws a card, you lose 2 life.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3969,7 +4185,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -4003,7 +4221,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this creature enters, you may put two cards your opponents own from exile into their owners' graveyards. If you do, this creature enters with four +1/+1 counters on it.",
+    "rulesTexts": [
+      "As this creature enters, you may put two cards your opponents own from exile into their owners' graveyards. If you do, this creature enters with four +1/+1 counters on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4038,7 +4258,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return up to two target creature cards from your graveyard to your hand.",
+    "rulesTexts": [
+      "Return up to two target creature cards from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4071,7 +4293,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all combat damage that would be dealt this turn by creatures target opponent controls.\nAwaken 2—{4}{W} (If you cast this spell for {4}{W}, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Prevent all combat damage that would be dealt this turn by creatures target opponent controls.\nAwaken 2—{4}{W} (If you cast this spell for {4}{W}, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -4108,7 +4332,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -4152,7 +4378,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Landfall — Whenever a land you control enters, create a 5/5 red and green Elemental creature token.\nWhenever Omnath or another Elemental you control dies, Omnath deals 3 damage to any target.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, create a 5/5 red and green Elemental creature token.\nWhenever Omnath or another Elemental you control dies, Omnath deals 3 damage to any target."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -4188,7 +4416,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nAs an additional cost to cast this spell, put a card an opponent owns from exile into that player's graveyard.\nProcessor Assault deals 5 damage to target creature.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nAs an additional cost to cast this spell, put a card an opponent owns from exile into that player's graveyard.\nProcessor Assault deals 5 damage to target creature."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -4225,7 +4455,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -4264,7 +4496,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, you may return target card from your graveyard to your hand.\nWhen this creature dies, you may exile it. If you do, return target card from your graveyard to your hand.",
+    "rulesTexts": [
+      "When this creature enters, you may return target card from your graveyard to your hand.\nWhen this creature dies, you may exile it. If you do, return target card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4299,7 +4533,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nLandfall — Whenever a land you control enters, tap target creature an opponent controls. If that land is an Island, that creature doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "Flying\nLandfall — Whenever a land you control enters, tap target creature an opponent controls. If that land is an Island, that creature doesn't untap during its controller's next untap step."
+    ],
     "keywords": [
       "landfall",
       "flying"
@@ -4337,7 +4573,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -4380,7 +4618,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, you may pay {1}. If you do, create a 1/1 green Plant creature token.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, you may pay {1}. If you do, create a 1/1 green Plant creature token."
+    ],
     "keywords": [
       "rally"
     ],
@@ -4419,7 +4659,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4454,7 +4696,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -4489,7 +4733,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nCreate two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nCreate two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -4526,7 +4772,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rolling Thunder deals X damage divided as you choose among any number of targets.",
+    "rulesTexts": [
+      "Rolling Thunder deals X damage divided as you choose among any number of targets."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4563,7 +4811,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -4598,7 +4848,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy all nonland creatures.\nAwaken 4—{5}{W}{W}{W} (If you cast this spell for {5}{W}{W}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Destroy all nonland creatures.\nAwaken 4—{5}{W}{W}{W} (If you cast this spell for {5}{W}{W}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -4633,7 +4885,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature with flying.",
+    "rulesTexts": [
+      "Destroy target creature with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4668,7 +4922,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -4705,7 +4961,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -4741,7 +4999,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nExile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nExile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -4778,7 +5038,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4811,7 +5073,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with X +1/+1 counters on it.",
+    "rulesTexts": [
+      "This creature enters with X +1/+1 counters on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4844,7 +5108,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, choose one —\n• You may tap or untap target creature.\n• Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, choose one —\n• You may tap or untap target creature.\n• Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry",
       "landfall"
@@ -4883,7 +5149,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -4920,7 +5188,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -4955,7 +5225,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.",
+    "rulesTexts": [
+      "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4990,7 +5262,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Stonefury deals damage to target creature equal to the number of lands you control.",
+    "rulesTexts": [
+      "Stonefury deals damage to target creature equal to the number of lands you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5027,7 +5301,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\nWhenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\nWhenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "devoid",
       "scry"
@@ -5069,7 +5345,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Converge — This enchantment enters with a crystal counter on it for each color of mana spent to cast it.\nRemove a crystal counter from this enchantment: Tap target creature.\n{W}{U}{B}{R}{G}: Scry 3.",
+    "rulesTexts": [
+      "Converge — This enchantment enters with a crystal counter on it for each color of mana spent to cast it.\nRemove a crystal counter from this enchantment: Tap target creature.\n{W}{U}{B}{R}{G}: Scry 3."
+    ],
     "keywords": [
       "converge",
       "scry"
@@ -5103,7 +5381,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target permanent.",
+    "rulesTexts": [
+      "Exile target permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5138,7 +5418,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -5177,7 +5459,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature.",
+    "rulesTexts": [
+      "Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5214,7 +5498,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain trample until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain trample until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -5249,7 +5535,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature or planeswalker.\nAwaken 4—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Destroy target creature or planeswalker.\nAwaken 4—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -5284,7 +5572,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast this spell.",
+    "rulesTexts": [
+      "Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast this spell."
+    ],
     "keywords": [
       "converge"
     ],
@@ -5321,7 +5611,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -5358,7 +5650,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{B}, Sacrifice another creature: Put two +1/+1 counters on this creature. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{1}{B}, Sacrifice another creature: Put two +1/+1 counters on this creature. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5391,7 +5685,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5426,7 +5722,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature. If that land is a Forest, put two +1/+1 counters on this creature instead.",
+    "rulesTexts": [
+      "Trample\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature. If that land is a Forest, put two +1/+1 counters on this creature instead."
+    ],
     "keywords": [
       "trample",
       "landfall"
@@ -5460,7 +5758,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{3}{G}, {T}, Sacrifice this land: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -5495,7 +5795,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target tapped creature.\nAwaken 3—{5}{W} (If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Destroy target tapped creature.\nAwaken 3—{5}{W} (If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -5534,7 +5836,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control get +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control get +2/+2 until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -5571,7 +5875,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -5606,7 +5912,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature with power 4 or greater.",
+    "rulesTexts": [
+      "Destroy target creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5643,7 +5951,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature attacks each combat if able unless you control another Ally.",
+    "rulesTexts": [
+      "This creature attacks each combat if able unless you control another Ally."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5674,7 +5984,9 @@
     "toughness": 8,
     "loyalty": null,
     "tags": [],
-    "oracleText": "All creatures able to block this creature do so.",
+    "rulesTexts": [
+      "All creatures able to block this creature do so."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5708,7 +6020,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nWhenever you cast a colorless spell, this creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhenever you cast a colorless spell, this creature gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -5745,7 +6059,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nLandfall — Whenever a land you control enters, other creatures you control get +1/+0 until end of turn. If that land is a Swamp, those creatures get +2/+0 until end of turn instead.",
+    "rulesTexts": [
+      "Flying\nLandfall — Whenever a land you control enters, other creatures you control get +1/+0 until end of turn. If that land is a Swamp, those creatures get +2/+0 until end of turn instead."
+    ],
     "keywords": [
       "landfall",
       "flying"
@@ -5785,7 +6101,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nLandfall — Whenever a land you control enters, you may return target nonland permanent card from your graveyard to your hand. If that land is a Plains, you may return that nonland permanent card to the battlefield instead.",
+    "rulesTexts": [
+      "Flying\nLandfall — Whenever a land you control enters, you may return target nonland permanent card from your graveyard to your hand. If that land is a Plains, you may return that nonland permanent card to the battlefield instead."
+    ],
     "keywords": [
       "landfall",
       "flying"
@@ -5821,7 +6139,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nExile target creature with power 3 or less.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nExile target creature with power 3 or less."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -5852,7 +6172,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5885,7 +6207,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5916,7 +6240,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nTarget creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nTarget creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead."
+    ],
     "keywords": [
       "devoid",
       "fight"
@@ -5954,7 +6280,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -5987,7 +6315,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nCreatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nCreatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -6022,7 +6352,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Take an extra turn after this one. Exile Part the Waterveil.\nAwaken 6—{6}{U}{U}{U} (If you cast this spell for {6}{U}{U}{U}, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Take an extra turn after this one. Exile Part the Waterveil.\nAwaken 6—{6}{U}{U}{U} (If you cast this spell for {6}{U}{U}{U}, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -6059,7 +6391,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6096,7 +6430,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -6131,7 +6467,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nExile target creature and target land.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nExile target creature and target land."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -6162,7 +6500,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\nWhenever you cast a colorless spell with mana value 7 or greater, you may sacrifice this land. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "{T}: Add {C}.\nWhenever you cast a colorless spell with mana value 7 or greater, you may sacrifice this land. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -6197,7 +6537,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6228,7 +6570,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+1.\nWhenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1.\nWhenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6265,7 +6609,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -6300,7 +6646,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{T}: Add {C}.\n{4}{R}, {T}, Sacrifice this land: It deals 2 damage to any target.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{4}{R}, {T}, Sacrifice this land: It deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -6335,7 +6683,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{T}: Add {C}.\n{5}{U}, {T}, Sacrifice this land: Draw two cards.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{5}{U}, {T}, Sacrifice this land: Draw two cards."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -6372,7 +6722,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -6409,7 +6761,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6445,7 +6799,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Devoid (This card has no color.)\nChoose one or both —\n• Return target spell or creature to its owner's hand.\n• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nChoose one or both —\n• Return target spell or creature to its owner's hand.\n• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -6482,7 +6838,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -6521,7 +6879,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{4}{W}: Creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "{4}{W}: Creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6552,7 +6912,9 @@
     "toughness": 9,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Your opponents can't cast spells with even mana values. (Zero is even.)\nYour opponents can't block with creatures with even mana values.",
+    "rulesTexts": [
+      "Your opponents can't cast spells with even mana values. (Zero is even.)\nYour opponents can't block with creatures with even mana values."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6587,7 +6949,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6622,7 +6986,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land.",
+    "rulesTexts": [
+      "Destroy target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6657,7 +7023,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6692,7 +7060,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle. You gain 7 life.",
+    "rulesTexts": [
+      "Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle. You gain 7 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6727,7 +7097,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "First strike\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "first strike",
       "landfall"
@@ -6765,7 +7137,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "rulesTexts": [
+      "({T}: Add {W} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
+    ],
     "keywords": [],
     "produces": [
       "U",
@@ -6802,7 +7176,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\n{2}: This creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\n{2}: This creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "devoid",
       "ingest"
@@ -6840,7 +7216,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach (This creature can block creatures with flying.)",
+    "rulesTexts": [
+      "Reach (This creature can block creatures with flying.)"
+    ],
     "keywords": [
       "reach"
     ],
@@ -6881,7 +7259,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nAt the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Flying\nAt the beginning of your upkeep, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6917,7 +7297,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nFlying\nWhenever this creature attacks, defending player loses 2 life.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nFlying\nWhenever this creature attacks, defending player loses 2 life."
+    ],
     "keywords": [
       "flying",
       "devoid"
@@ -6955,7 +7337,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -6993,7 +7377,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nFlying\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nFlying\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "flying",
       "devoid"
@@ -7027,7 +7413,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add {C}{C}. Spend this mana only to cast colorless spells. Activate only if you control seven or more lands.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add {C}{C}. Spend this mana only to cast colorless spells. Activate only if you control seven or more lands."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -7062,7 +7450,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7097,7 +7487,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nLandfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Trample\nLandfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "trample",
       "landfall"
@@ -7132,7 +7524,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7171,7 +7565,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets -6/-0 and loses flying.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets -6/-0 and loses flying."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -7208,7 +7604,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -7245,7 +7643,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -7282,7 +7682,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G} or {W}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "rulesTexts": [
+      "({T}: Add {G} or {W}.)\nThis land enters tapped unless you control two or more basic lands."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -7321,7 +7723,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -7362,7 +7766,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\n{1}: Target colorless creature gains haste until end of turn.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\n{1}: Target colorless creature gains haste until end of turn."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -7399,7 +7805,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you gain life, target opponent loses that much life.",
+    "rulesTexts": [
+      "Flying\nWhenever you gain life, target opponent loses that much life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7436,7 +7844,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -7474,7 +7884,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -7511,7 +7923,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, this creature gains first strike until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, this creature gains first strike until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -7547,7 +7961,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nTrample",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nTrample"
+    ],
     "keywords": [
       "devoid",
       "trample"
@@ -7589,7 +8005,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{4}{B}: Target creature gets -1/-1 until end of turn.",
+    "rulesTexts": [
+      "{4}{B}: Target creature gets -1/-1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7624,7 +8042,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -7661,7 +8081,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\nLandfall — Whenever a land you control enters, you gain 1 life.",
+    "rulesTexts": [
+      "Defender\nLandfall — Whenever a land you control enters, you gain 1 life."
+    ],
     "keywords": [
       "defender",
       "landfall"
@@ -7699,7 +8121,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nFlash\nFlying\nWhen this creature enters, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nFlash\nFlying\nWhen this creature enters, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell."
+    ],
     "keywords": [
       "flying",
       "devoid",
@@ -7740,7 +8164,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain vigilance until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain vigilance until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -7775,7 +8201,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn. You may put a land card from your hand onto the battlefield.",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. You may put a land card from your hand onto the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7812,7 +8240,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Devoid (This card has no color.)\nDeathtouch\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\n{3}{U}{B}: Draw a card. Each opponent exiles the top card of their library.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nDeathtouch\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\n{3}{U}{B}: Draw a card. Each opponent exiles the top card of their library."
+    ],
     "keywords": [
       "devoid",
       "ingest",
@@ -7851,7 +8281,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -7888,7 +8320,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7925,7 +8359,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Outnumber deals damage to target creature equal to the number of creatures you control.",
+    "rulesTexts": [
+      "Outnumber deals damage to target creature equal to the number of creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7961,7 +8397,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -7998,7 +8436,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has haste.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +2/+2 and has haste."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8031,7 +8471,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, target creature gets +1/+1 and gains first strike until end of turn.\n{T}: Add {R}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, target creature gets +1/+1 and gains first strike until end of turn.\n{T}: Add {R}."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -8062,7 +8504,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell.\n{1}, {T}, Sacrifice this land: Return target Ally you control to its owner's hand.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell.\n{1}, {T}, Sacrifice this land: Return target Ally you control to its owner's hand."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8102,7 +8546,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target instant spell.",
+    "rulesTexts": [
+      "Counter target instant spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8139,7 +8585,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "When this creature dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -8180,7 +8628,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain double strike until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain double strike until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -8215,7 +8665,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Roil's Retribution deals 5 damage divided as you choose among any number of target attacking or blocking creatures.",
+    "rulesTexts": [
+      "Roil's Retribution deals 5 damage divided as you choose among any number of target attacking or blocking creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8247,7 +8699,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this artifact enters, exile all creatures with power 5 or greater until this artifact leaves the battlefield. (Those creatures return under their owners' control.)",
+    "rulesTexts": [
+      "When this artifact enters, exile all creatures with power 5 or greater until this artifact leaves the battlefield. (Those creatures return under their owners' control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8282,7 +8736,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8317,7 +8773,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards.\nAwaken 4—{5}{U} (If you cast this spell for {5}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Draw two cards.\nAwaken 4—{5}{U} (If you cast this spell for {5}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -8352,7 +8810,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target opponent discards two cards.\nAwaken 3—{5}{B} (If you cast this spell for {5}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Target opponent discards two cards.\nAwaken 3—{5}{B} (If you cast this spell for {5}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -8387,7 +8847,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Converge — Gain control of target creature if its power is less than or equal to the number of colors of mana spent to cast this spell.",
+    "rulesTexts": [
+      "Converge — Gain control of target creature if its power is less than or equal to the number of colors of mana spent to cast this spell."
+    ],
     "keywords": [
       "converge"
     ],
@@ -8424,7 +8886,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -8463,7 +8927,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, you may pay {3}{G}. If you do, put two +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, you may pay {3}{G}. If you do, put two +1/+1 counters on this creature."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -8496,7 +8962,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}{C}.",
+    "rulesTexts": [
+      "{T}: Add {C}{C}."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -8531,7 +8999,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, you may put target creature card from your graveyard on top of your library.\n{T}: Add {B}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, you may put target creature card from your graveyard on top of your library.\n{T}: Add {B}."
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -8568,7 +9038,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8601,7 +9073,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, target creature gets +1/+1 and gains vigilance until end of turn.\n{T}: Add {W}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, target creature gets +1/+1 and gains vigilance until end of turn.\n{T}: Add {W}."
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8640,7 +9114,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)"
+    ],
     "keywords": [
       "menace"
     ],
@@ -8680,7 +9156,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Landfall — Whenever a land you control enters, you may pay {2}{R}. If you do, create a 3/1 red Elemental creature token with trample and haste. Exile that token at the beginning of the next end step.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, you may pay {2}{R}. If you do, create a 3/1 red Elemental creature token with trample and haste. Exile that token at the beginning of the next end step."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -8719,7 +9197,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you gain life, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you gain life, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8754,7 +9234,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, trample\nConverge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.",
+    "rulesTexts": [
+      "Vigilance, trample\nConverge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it."
+    ],
     "keywords": [
       "vigilance",
       "converge",
@@ -8795,7 +9277,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell.",
+    "rulesTexts": [
+      "Haste\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell."
+    ],
     "keywords": [
       "haste"
     ],
@@ -8838,7 +9322,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nHexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Trample\nHexproof (This creature can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [
       "hexproof",
       "trample"
@@ -8876,7 +9362,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Devoid (This card has no color.)\nFlying\nAt the beginning of your upkeep, sacrifice a creature.\nWhenever you sacrifice a creature, draw a card.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nFlying\nAt the beginning of your upkeep, sacrifice a creature.\nWhenever you sacrifice a creature, draw a card."
+    ],
     "keywords": [
       "flying",
       "devoid"
@@ -8912,7 +9400,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Boiling Earth deals 1 damage to each creature your opponents control.\nAwaken 4—{6}{R} (If you cast this spell for {6}{R}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Boiling Earth deals 1 damage to each creature your opponents control.\nAwaken 4—{6}{R} (If you cast this spell for {6}{R}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -8951,7 +9441,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nLandfall — Whenever a land you control enters, this creature deals 1 damage to any target. If that land is a Mountain, this creature deals 2 damage instead.",
+    "rulesTexts": [
+      "Flying\nLandfall — Whenever a land you control enters, this creature deals 1 damage to any target. If that land is a Mountain, this creature deals 2 damage instead."
+    ],
     "keywords": [
       "landfall",
       "flying"
@@ -8989,7 +9481,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "rulesTexts": [
+      "({T}: Add {R} or {G}.)\nThis land enters tapped unless you control two or more basic lands."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -9025,7 +9519,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for a land card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for a land card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9060,7 +9556,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Converge — Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast this spell.\nDraw a card.",
+    "rulesTexts": [
+      "Converge — Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast this spell.\nDraw a card."
+    ],
     "keywords": [
       "converge"
     ],
@@ -9097,7 +9595,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Converge — Search your library for a creature, instant, or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost.",
+    "rulesTexts": [
+      "Converge — Search your library for a creature, instant, or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell, exile that card, then shuffle. You may cast that card without paying its mana cost."
+    ],
     "keywords": [
       "converge"
     ],
@@ -9137,7 +9637,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, first strike\nWhenever Drana deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.",
+    "rulesTexts": [
+      "Flying, first strike\nWhenever Drana deals combat damage to a player, put a +1/+1 counter on each attacking creature you control."
+    ],
     "keywords": [
       "flying",
       "first strike"
@@ -9175,7 +9677,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -9212,7 +9716,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9247,7 +9753,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nLandfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "menace",
       "landfall"
@@ -9285,7 +9793,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from this creature.\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from this creature.\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -9323,7 +9833,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhenever a land an opponent controls enters, that player exiles the top two cards of their library and you draw two cards.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhenever a land an opponent controls enters, that player exiles the top two cards of their library and you draw two cards."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -9358,7 +9870,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell.\nAwaken 3—{4}{U}{U} (If you cast this spell for {4}{U}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Counter target spell.\nAwaken 3—{4}{U}{U} (If you cast this spell for {4}{U}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -9400,7 +9914,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nRally — Whenever Munda or another Ally you control enters, you may look at the top four cards of your library. If you do, reveal any number of Ally cards from among them, then put those cards on top of your library in any order and the rest on the bottom in any order.",
+    "rulesTexts": [
+      "Haste\nRally — Whenever Munda or another Ally you control enters, you may look at the top four cards of your library. If you do, reveal any number of Ally cards from among them, then put those cards on top of your library in any order and the rest on the bottom in any order."
+    ],
     "keywords": [
       "rally",
       "haste"
@@ -9437,7 +9953,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When you cast this spell, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.",
+    "rulesTexts": [
+      "When you cast this spell, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9470,7 +9988,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put two +1/+1 counters on target permanent.\nAwaken 4—{6}{G} (If you cast this spell for {6}{G}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Put two +1/+1 counters on target permanent.\nAwaken 4—{6}{G} (If you cast this spell for {6}{G}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -9511,7 +10031,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, you may return target card with awaken from your graveyard to your hand.\nLand creatures you control have flying.",
+    "rulesTexts": [
+      "When this creature enters, you may return target card with awaken from your graveyard to your hand.\nLand creatures you control have flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9544,7 +10066,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn. Prevent all damage that would be dealt to that creature this turn by colorless sources.",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. Prevent all damage that would be dealt to that creature this turn by colorless sources."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9580,7 +10104,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance",
+    "rulesTexts": [
+      "Flying, vigilance"
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -9619,7 +10145,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -9658,7 +10186,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9696,7 +10226,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -9737,7 +10269,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain first strike until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain first strike until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -9770,7 +10304,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{T}: Add {C}.\n{6}, {T}, Sacrifice this land: Create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{6}, {T}, Sacrifice this land: Create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -9806,7 +10342,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nThis creature can't block.\n{1}{B}: Regenerate this creature. Activate only if you control another colorless creature.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nThis creature can't block.\n{1}{B}: Regenerate this creature. Activate only if you control another colorless creature."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -9842,7 +10380,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\n{T}: This creature deals 1 damage to each opponent.\nWhenever you cast a colorless spell, untap this creature.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\n{T}: This creature deals 1 damage to each opponent.\nWhenever you cast a colorless spell, untap this creature."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -9880,7 +10420,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice this creature: Destroy target enchantment.",
+    "rulesTexts": [
+      "Sacrifice this creature: Destroy target enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9916,7 +10458,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nWhen this creature enters, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nWhen this creature enters, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this token: Add {C}.\""
+    ],
     "keywords": [
       "devoid"
     ],
@@ -9955,7 +10499,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -9992,7 +10538,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10029,7 +10577,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -10066,7 +10616,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put target creature on top of its owner's library.\nAwaken 4—{4}{W}{U} (If you cast this spell for {4}{W}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Put target creature on top of its owner's library.\nAwaken 4—{4}{W}{U} (If you cast this spell for {4}{W}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -10106,7 +10658,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever this creature attacks, it gets +1/+1 until end of turn for each other attacking Ally.",
+    "rulesTexts": [
+      "Flying\nWhenever this creature attacks, it gets +1/+1 until end of turn for each other attacking Ally."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10141,7 +10695,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Devoid (This card has no color.)\nCounter target spell unless its controller pays {4}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nCounter target spell unless its controller pays {4}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -10177,7 +10733,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nOther colorless creatures you control get +1/+0.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nOther colorless creatures you control get +1/+0."
+    ],
     "keywords": [
       "devoid",
       "ingest"
@@ -10212,7 +10770,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {G} or {U}.\n{2}{G}{U}: Until end of turn, this land becomes a 3/3 green and blue Elemental creature with hexproof. It's still a land.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {G} or {U}.\n{2}{G}{U}: Until end of turn, this land becomes a 3/3 green and blue Elemental creature with hexproof. It's still a land."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -10250,7 +10810,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Scry X, where X is the greatest mana value among permanents you control, then draw three cards.",
+    "rulesTexts": [
+      "Scry X, where X is the greatest mana value among permanents you control, then draw three cards."
+    ],
     "keywords": [
       "scry"
     ],
@@ -10286,7 +10848,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nThis creature can't be blocked.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nThis creature can't be blocked."
+    ],
     "keywords": [
       "devoid",
       "ingest"
@@ -10320,7 +10884,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{3}{W}, {T}, Sacrifice this land: You gain 2 life for each creature you control.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{3}{W}, {T}, Sacrifice this land: You gain 2 life for each creature you control."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -10359,7 +10925,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked by Eldrazi Scions.",
+    "rulesTexts": [
+      "This creature can't be blocked by Eldrazi Scions."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10394,7 +10962,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -10429,7 +10999,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Devoid (This card has no color.)\nAt the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\n{1}{G}, Sacrifice this enchantment: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nAt the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this token: Add {C}.\"\n{1}{G}, Sacrifice this enchantment: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -10464,7 +11036,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nTarget player reveals their hand. You choose a card from it with mana value 3 or greater and exile that card.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nTarget player reveals their hand. You choose a card from it with mana value 3 or greater and exile that card."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -10499,7 +11073,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, choose one —\n• Target creature gets +2/+0 until end of turn.\n• Target creature can't block this turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, choose one —\n• Target creature gets +2/+0 until end of turn.\n• Target creature can't block this turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -10536,7 +11112,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -10572,7 +11150,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Devoid (This card has no color.)\nFlying\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\nFlying\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)"
+    ],
     "keywords": [
       "flying",
       "devoid",
@@ -10613,7 +11193,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.",
+    "rulesTexts": [
+      "Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it."
+    ],
     "keywords": [
       "converge"
     ],
@@ -10648,7 +11230,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap target creature. It doesn't untap during its controller's next untap step.\nAwaken 3—{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+    "rulesTexts": [
+      "Tap target creature. It doesn't untap during its controller's next untap step.\nAwaken 3—{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+    ],
     "keywords": [
       "awaken"
     ],
@@ -10685,7 +11269,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10724,7 +11310,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain haste until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain haste until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -10764,7 +11352,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast an instant or sorcery spell that targets only Zada, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.",
+    "rulesTexts": [
+      "Whenever you cast an instant or sorcery spell that targets only Zada, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10801,7 +11391,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rally — Whenever this creature or another Ally you control enters, creatures you control gain lifelink until end of turn.",
+    "rulesTexts": [
+      "Rally — Whenever this creature or another Ally you control enters, creatures you control gain lifelink until end of turn."
+    ],
     "keywords": [
       "rally"
     ],
@@ -10839,7 +11431,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Devoid (This card has no color.)\n{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.",
+    "rulesTexts": [
+      "Devoid (This card has no color.)\n{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature."
+    ],
     "keywords": [
       "devoid"
     ],
@@ -10876,7 +11470,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.",
+    "rulesTexts": [
+      "Flash (You may cast this spell any time you could cast an instant.)\nWhen this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield."
+    ],
     "keywords": [
       "flash"
     ],
@@ -10913,7 +11509,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -5/-5 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets -5/-5 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [

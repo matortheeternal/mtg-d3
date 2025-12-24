@@ -29,7 +29,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Artifacts you control are Foods in addition to their other types and have \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\"\n{1}, {T}, Sacrifice a Food: Ragost deals 3 damage to each opponent.\nAt the beginning of each end step, if you gained life this turn, untap Ragost.",
+    "rulesTexts": [
+      "Artifacts you control are Foods in addition to their other types and have \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\"\n{1}, {T}, Sacrifice a Food: Ragost deals 3 damage to each opponent.\nAt the beginning of each end step, if you gained life this turn, untap Ragost."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -65,7 +67,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Landfall — Whenever a land you control enters, create a 2/2 colorless Robot artifact creature token.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, create a 2/2 colorless Robot artifact creature token.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp",
       "landfall"
@@ -103,7 +107,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever an artifact you control enters, put a loyalty counter on Tezzeret.\n0: Untap target artifact or creature. If it's an artifact creature, put a +1/+1 counter on it.\n−3: Search your library for an artifact card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\n−7: You get an emblem with \"At the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Robot artifact creature.\"",
+    "rulesTexts": [
+      "Whenever an artifact you control enters, put a loyalty counter on Tezzeret.\n0: Untap target artifact or creature. If it's an artifact creature, put a +1/+1 counter on it.\n−3: Search your library for an artifact card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\n−7: You get an emblem with \"At the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it's not a creature, it becomes a 0/0 Robot artifact creature.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -142,7 +148,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 white Human Soldier creature token.\n{4}{W}{W}, Sacrifice this creature: Search your library for an Equipment card, put it onto the battlefield, then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 white Human Soldier creature token.\n{4}{W}{W}, Sacrifice this creature: Search your library for an Equipment card, put it onto the battlefield, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -177,7 +185,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -214,7 +224,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -252,7 +264,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with X +1/+1 counters on it.\nWhen this creature leaves the battlefield, put its counters on target creature you control.\nWarp {X}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "This creature enters with X +1/+1 counters on it.\nWhen this creature leaves the battlefield, put its counters on target creature you control.\nWarp {X}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -292,7 +306,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -332,7 +348,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Enchant artifact you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.\nEnchanted permanent has ward {1}.",
+    "rulesTexts": [
+      "Enchant artifact you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.\nEnchanted permanent has ward {1}."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -373,7 +391,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this creature enters, tap target artifact or creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWarp {2}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, tap target artifact or creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWarp {2}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -412,7 +432,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)\n2+ | Other creatures you control get +1/+1.\n12+ | Flying, lifelink",
+    "rulesTexts": [
+      "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)\n2+ | Other creatures you control get +1/+1.\n12+ | Flying, lifelink"
+    ],
     "keywords": [
       "station"
     ],
@@ -447,7 +469,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If one or more counters would be put on a creature, Spacecraft, or Planet you control, twice that many of each of those kinds of counters are put on it instead.\nWarp {G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "If one or more counters would be put on a creature, Spacecraft, or Planet you control, twice that many of each of those kinds of counters are put on it instead.\nWarp {G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -486,7 +510,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nWhen this creature enters, it deals 3 damage to any target.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, it deals 3 damage to any target."
+    ],
     "keywords": [
       "flying"
     ],
@@ -525,7 +551,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "When this creature enters, exile each opponent's graveyard. Create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "When this creature enters, exile each opponent's graveyard. Create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -561,7 +589,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "This spell costs {1} less to cast during your turn.\nTap target artifact or creature.\nDraw a card.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast during your turn.\nTap target artifact or creature.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -599,7 +629,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.",
+    "rulesTexts": [
+      "Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost."
+    ],
     "keywords": [
       "void"
     ],
@@ -636,7 +668,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {U}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {U}, {T}: Add {U} for each artifact you control.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {U}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {U}, {T}: Add {U} for each artifact you control."
+    ],
     "keywords": [
       "station"
     ],
@@ -677,7 +711,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature enters, draw a card.\nAs long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.\nWarp {1}{U}",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, draw a card.\nAs long as you have one or fewer cards in hand, if you would draw one or more cards, you draw that many cards plus one instead.\nWarp {1}{U}"
+    ],
     "keywords": [
       "flying",
       "warp"
@@ -715,7 +751,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, search your library for a basic Plains card or a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, search your library for a basic Plains card or a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "flying",
       "warp"
@@ -760,7 +798,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nWhenever you sacrifice an artifact, this creature deals 2 damage to target opponent.",
+    "rulesTexts": [
+      "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nWhenever you sacrifice an artifact, this creature deals 2 damage to target opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -799,7 +839,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, target opponent may have you create two Lander tokens. If they don't, put two +1/+1 counters on this creature. (A Lander token is an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "When this creature enters, target opponent may have you create two Lander tokens. If they don't, put two +1/+1 counters on this creature. (A Lander token is an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -837,7 +879,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Flash\nWhen this artifact enters, up to one target creature gets -3/-3 until end of turn.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\n{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.",
+    "rulesTexts": [
+      "Flash\nWhen this artifact enters, up to one target creature gets -3/-3 until end of turn.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\n{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life."
+    ],
     "keywords": [
       "flash"
     ],
@@ -879,7 +923,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{2}, {T}, Sacrifice another artifact or land: Draw a card.",
+    "rulesTexts": [
+      "{2}, {T}, Sacrifice another artifact or land: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -910,7 +956,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {3} less to activate if you attacked with a Spacecraft this turn.",
+    "rulesTexts": [
+      "{6}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {3} less to activate if you attacked with a Spacecraft this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -951,7 +999,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Flying\nWhen this creature enters, return target artifact or creature card from your graveyard to your hand.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, return target artifact or creature card from your graveyard to your hand.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "flying",
       "void"
@@ -994,7 +1044,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\n{3}{B}{G}, Sacrifice this creature: Return target creature or Spacecraft card from your graveyard to the battlefield. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\n{3}{B}{G}, Sacrifice this creature: Return target creature or Spacecraft card from your graveyard to the battlefield. Activate only as a sorcery."
+    ],
     "keywords": [
       "mill"
     ],
@@ -1029,7 +1081,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}{C}{C}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)\n20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator.",
+    "rulesTexts": [
+      "{T}: Add {C}{C}{C}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)\n20+ | {T}: Add X mana of any one color, where X is the number of charge counters on The Eternity Elevator."
+    ],
     "keywords": [
       "station"
     ],
@@ -1074,7 +1128,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, put a +1/+1 counter on target creature.\nEach creature you control with a +1/+1 counter on it has trample.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, put a +1/+1 counter on target creature.\nEach creature you control with a +1/+1 counter on it has trample.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -1111,7 +1167,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, \"When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,\" and \"At the beginning of your end step, sacrifice this permanent.\"",
+    "rulesTexts": [
+      "You may put an artifact or creature card from your hand onto the battlefield. That permanent gains haste, \"When this permanent leaves the battlefield, it deals damage equal to its mana value to each creature,\" and \"At the beginning of your end step, sacrifice this permanent.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1151,7 +1209,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Robot artifact creature token that's tapped and attacking. Sacrifice that token at end of combat.",
+    "rulesTexts": [
+      "Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Robot artifact creature token that's tapped and attacking. Sacrifice that token at end of combat."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1189,7 +1249,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Whenever this creature becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -1229,7 +1291,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this Spacecraft enters, draw two cards, then discard a card.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, draw two cards, then discard a card.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -1267,7 +1331,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, put X +1/+1 counters on each creature you control, where X is this creature's power.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, put X +1/+1 counters on each creature you control, where X is this creature's power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1304,7 +1370,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{W}, {T}: Tap another target creature. This ability costs {2} less to activate if you control a creature with a +1/+1 counter on it.",
+    "rulesTexts": [
+      "{3}{W}, {T}: Tap another target creature. This ability costs {2} less to activate if you control a creature with a +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1340,7 +1408,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {2} less to cast if your opponents control three or more creatures.\nReach",
+    "rulesTexts": [
+      "This spell costs {2} less to cast if your opponents control three or more creatures.\nReach"
+    ],
     "keywords": [
       "reach"
     ],
@@ -1371,7 +1441,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, sacrifice it unless you tap an untapped permanent you control.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, sacrifice it unless you tap an untapped permanent you control.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1412,7 +1484,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -3/-0 until end of turn. Then if that creature's power is 0 or less, destroy it.",
+    "rulesTexts": [
+      "Target creature gets -3/-0 until end of turn. Then if that creature's power is 0 or less, destroy it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1447,7 +1521,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",
+    "rulesTexts": [
+      "Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1484,7 +1560,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a creature you control deals combat damage to a player, you may draw that many cards.\nWarp {2}{U}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Whenever a creature you control deals combat damage to a player, you may draw that many cards.\nWarp {2}{U}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -1521,7 +1599,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward {3}\nDevour land 3 (As this creature enters, you may sacrifice any number of lands. It enters with three times that many +1/+1 counters on it.)\nWhen this creature enters, look at the top X cards of your library, where X is this creature's power. Put any number of land cards from among them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Ward {3}\nDevour land 3 (As this creature enters, you may sacrifice any number of lands. It enters with three times that many +1/+1 counters on it.)\nWhen this creature enters, look at the top X cards of your library, where X is this creature's power. Put any number of land cards from among them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [
       "ward",
       "devour"
@@ -1559,7 +1639,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Bombard deals 4 damage to target creature.",
+    "rulesTexts": [
+      "Bombard deals 4 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1594,7 +1676,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.\nEquipped creature gets +1/+0.\nEquip {3}",
+    "rulesTexts": [
+      "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.\nEquipped creature gets +1/+0.\nEquip {3}"
+    ],
     "keywords": [
       "equip",
       "flash"
@@ -1632,7 +1716,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn. If it's a Spacecraft, put ten charge counters on it. If you do, remove ten charge counters from it at the beginning of the next end step.",
+    "rulesTexts": [
+      "Gain control of target artifact or creature until end of turn. Untap that permanent. It gains haste until end of turn. If it's a Spacecraft, put ten charge counters on it. If you do, remove ten charge counters from it at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1671,7 +1757,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Flying\nWhenever this creature becomes tapped, you may sacrifice another creature or artifact. If you do, draw a card.",
+    "rulesTexts": [
+      "Flying\nWhenever this creature becomes tapped, you may sacrifice another creature or artifact. If you do, draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1712,7 +1800,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature dies, create a tapped 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "Flying\nWhen this creature dies, create a tapped 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1752,7 +1842,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this Spacecraft enters, create a 2/2 colorless Robot artifact creature token.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)\n9+ | Flying, first strike",
+    "rulesTexts": [
+      "When this Spacecraft enters, create a 2/2 colorless Robot artifact creature token.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)\n9+ | Flying, first strike"
+    ],
     "keywords": [
       "station"
     ],
@@ -1792,7 +1884,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This creature can't be blocked if you've cast two or more spells this turn.\nWhenever this creature deals combat damage to a player, draw a card.",
+    "rulesTexts": [
+      "This creature can't be blocked if you've cast two or more spells this turn.\nWhenever this creature deals combat damage to a player, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1829,7 +1923,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Orbital Plunge deals 6 damage to target creature. If excess damage was dealt this way, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Orbital Plunge deals 6 damage to target creature. If excess damage was dealt this way, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1865,7 +1961,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, another target creature you control gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, another target creature you control gains deathtouch until end of turn."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -1900,7 +1998,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {G}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {G}, {T}: Add {G} for each creature you control.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {G}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {G}, {T}: Add {G} for each creature you control."
+    ],
     "keywords": [
       "station"
     ],
@@ -1939,7 +2039,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -1980,7 +2082,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever this creature becomes tapped, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever this creature becomes tapped, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nLandfall — Whenever a land you control enters, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -2017,7 +2121,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -2057,7 +2163,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward—Discard a card at random.\nVoid — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.",
+    "rulesTexts": [
+      "Ward—Discard a card at random.\nVoid — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up."
+    ],
     "keywords": [
       "ward",
       "void"
@@ -2098,7 +2206,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Haste\nYou may cast this card from your graveyard using its warp ability.\nWarp—{B}, Pay 2 life. (You may cast this card from your hand or graveyard for its warp cost. If you do, exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Haste\nYou may cast this card from your graveyard using its warp ability.\nWarp—{B}, Pay 2 life. (You may cast this card from your hand or graveyard for its warp cost. If you do, exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "haste",
       "warp"
@@ -2139,7 +2249,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 white Human Soldier creature token.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 white Human Soldier creature token.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -2184,7 +2296,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When Alpharael enters, draw two cards. Then discard two cards unless you discard an artifact card.\nDuring your turn, Alpharael has deathtouch.",
+    "rulesTexts": [
+      "When Alpharael enters, draw two cards. Then discard two cards unless you discard an artifact card.\nDuring your turn, Alpharael has deathtouch."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2217,7 +2331,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.\nWarp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.\nWarp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -2254,7 +2370,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, choose up to one target creature. That creature can't be blocked this turn and has base power and toughness 1/1 until end of turn.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, choose up to one target creature. That creature can't be blocked this turn and has base power and toughness 1/1 until end of turn.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -2294,7 +2412,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of your end step, if you control two or more tapped creatures, you may discard your hand. If you do, draw two cards.",
+    "rulesTexts": [
+      "At the beginning of your end step, if you control two or more tapped creatures, you may discard your hand. If you do, draw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2329,7 +2449,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDestroy target creature or Spacecraft.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDestroy target creature or Spacecraft."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2364,7 +2486,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this creature enters, creatures your opponents control get -3/-0 until your next turn.",
+    "rulesTexts": [
+      "Flying\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this creature enters, creatures your opponents control get -3/-0 until your next turn."
+    ],
     "keywords": [
       "flying",
       "ward"
@@ -2403,7 +2527,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nWard—Discard a card.\nWhenever this creature attacks, put a +1/+1 counter on target creature an opponent controls.",
+    "rulesTexts": [
+      "Menace\nWard—Discard a card.\nWhenever this creature attacks, put a +1/+1 counter on target creature an opponent controls."
+    ],
     "keywords": [
       "menace",
       "ward"
@@ -2442,7 +2568,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.\nThe first spell each player casts during each of their turns may be cast without paying its mana cost.",
+    "rulesTexts": [
+      "When this enchantment enters, if you cast it, shuffle your hand and graveyard into your library, then draw seven cards.\nThe first spell each player casts during each of their turns may be cast without paying its mana cost."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2474,7 +2602,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}: Add one mana of any color.\n{7}, {T}, Sacrifice this artifact: Draw X cards, where X is the number of differently named lands you control.",
+    "rulesTexts": [
+      "{T}: Add one mana of any color.\n{7}, {T}, Sacrifice this artifact: Draw X cards, where X is the number of differently named lands you control."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -2516,7 +2646,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one —\n• Target artifact or creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)\n• Reroute Systems deals 2 damage to target tapped creature.",
+    "rulesTexts": [
+      "Choose one —\n• Target artifact or creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)\n• Reroute Systems deals 2 damage to target tapped creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2551,7 +2683,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {G} or {U}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -2595,7 +2729,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"\nWarp {U/R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Whenever you cast an artifact spell, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"\nWarp {U/R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -2633,7 +2769,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "During your turn, other creatures you control get +1/+0.\nWarp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "During your turn, other creatures you control get +1/+0.\nWarp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -2670,7 +2808,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -2705,7 +2845,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+0 and gains first strike and reach until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +3/+0 and gains first strike and reach until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2741,7 +2883,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature becomes tapped, untap another target permanent. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Whenever this creature becomes tapped, untap another target permanent. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2781,7 +2925,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever another artifact you control enters, create a 2/2 colorless Robot artifact creature token. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Whenever another artifact you control enters, create a 2/2 colorless Robot artifact creature token. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2819,7 +2965,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nLandfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.",
+    "rulesTexts": [
+      "Flying\nLandfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead."
+    ],
     "keywords": [
       "landfall",
       "flying"
@@ -2857,7 +3005,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever a nontoken artifact creature you control deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",
+    "rulesTexts": [
+      "Whenever a nontoken artifact creature you control deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2894,7 +3044,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying, haste\nWhen this creature enters, it deals 1 damage to target creature an opponent controls.\nWarp {2}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Flying, haste\nWhen this creature enters, it deals 1 damage to target creature an opponent controls.\nWarp {2}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "flying",
       "haste",
@@ -2933,7 +3085,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.)",
+    "rulesTexts": [
+      "Choose odd or even. Destroy each creature with mana value of the chosen quality. Then gain control of all creatures until end of turn. Untap them. They gain haste until end of turn. (Zero is even.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2971,7 +3125,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this Equipment enters, create a 2/2 colorless Robot artifact creature token and attach this Equipment to it.\nEquipped creature gets +1/+2 and has flying.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "When this Equipment enters, create a 2/2 colorless Robot artifact creature token and attach this Equipment to it.\nEquipped creature gets +1/+2 and has flying.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -3013,7 +3169,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Other creatures you control have haste.\nArtifact cards and red creature cards in your hand have warp {2}{R}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Other creatures you control have haste.\nArtifact cards and red creature cards in your hand have warp {2}{R}. (You may cast a card from your hand for its warp cost. Exile that permanent at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3050,7 +3208,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this artifact enters, you may discard a card. If you do, draw two cards.\n{3}, Sacrifice this artifact: Create a tapped 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "When this artifact enters, you may discard a card. If you do, draw two cards.\n{3}, Sacrifice this artifact: Create a tapped 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3090,7 +3250,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, menace\nWhenever another creature you control dies or is put into exile, put a +1/+1 counter on Syr Vondam and you gain 1 life.\nWhen Syr Vondam dies or is put into exile while its power is 4 or greater, destroy up to one target nonland permanent.",
+    "rulesTexts": [
+      "Vigilance, menace\nWhenever another creature you control dies or is put into exile, put a +1/+1 counter on Syr Vondam and you gain 1 life.\nWhen Syr Vondam dies or is put into exile while its power is 4 or greater, destroy up to one target nonland permanent."
+    ],
     "keywords": [
       "vigilance",
       "menace"
@@ -3129,7 +3291,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.\nWarp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Whenever this creature or another Kavu you control enters, exile the top card of your library. For as long as that card remains exiled, you may play it if you control a Kavu.\nWarp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -3164,7 +3328,9 @@
     "toughness": 9,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Warp {3} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -3202,7 +3368,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Surveil X, where X is the number of artifacts you control. Then draw three cards. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+    "rulesTexts": [
+      "Surveil X, where X is the number of artifacts you control. Then draw three cards. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -3237,7 +3405,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target creature.",
+    "rulesTexts": [
+      "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target creature."
+    ],
     "keywords": [
       "convoke"
     ],
@@ -3277,7 +3447,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.\nWarp {2}{W}",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, return target noncreature, nonland permanent card with mana value X or less from your graveyard to the battlefield, where X is the amount of mana spent to cast this creature.\nWarp {2}{W}"
+    ],
     "keywords": [
       "flying",
       "warp"
@@ -3315,7 +3487,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Counter target artifact or enchantment spell.",
+    "rulesTexts": [
+      "Counter target artifact or enchantment spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3353,7 +3527,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying\nAs long as you control an artifact, this creature gets +1/+0.",
+    "rulesTexts": [
+      "Flying\nAs long as you control an artifact, this creature gets +1/+0."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3391,7 +3567,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Choose one or both —\n• Search your library for an artifact card, reveal it, put it into your hand, then shuffle.\n• Return target artifact card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Choose one or both —\n• Search your library for an artifact card, reveal it, put it into your hand, then shuffle.\n• Return target artifact card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3433,7 +3611,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Landfall — Whenever a land you control enters, Tannuk deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, draw a card.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, Tannuk deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, draw a card."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -3470,7 +3650,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature you control\nWhen this Aura enters, enchanted creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)\nEnchanted creature gets +0/+2 and can't be blocked by more than one creature.",
+    "rulesTexts": [
+      "Enchant creature you control\nWhen this Aura enters, enchanted creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)\nEnchanted creature gets +0/+2 and can't be blocked by more than one creature."
+    ],
     "keywords": [
       "fight",
       "enchant"
@@ -3506,7 +3688,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, destroy target noncreature permanent. Then this Spacecraft deals 4 damage to each creature.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.)\n5+ | Flying, trample",
+    "rulesTexts": [
+      "When this Spacecraft enters, destroy target noncreature permanent. Then this Spacecraft deals 4 damage to each creature.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.)\n5+ | Flying, trample"
+    ],
     "keywords": [
       "station"
     ],
@@ -3550,7 +3734,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying\nWhenever an artifact you control enters, put a +1/+1 counter on target creature.",
+    "rulesTexts": [
+      "Flying\nWhenever an artifact you control enters, put a +1/+1 counter on target creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3601,7 +3787,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)\n12+ | Flying\nWhenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.",
+    "rulesTexts": [
+      "When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)\n12+ | Flying\nWhenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control."
+    ],
     "keywords": [
       "station"
     ],
@@ -3638,7 +3826,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -3675,7 +3865,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Destroy all creatures with toughness X or less. You lose X life. If X is 6 or more, return a creature card put into a graveyard this way to the battlefield under your control.",
+    "rulesTexts": [
+      "Destroy all creatures with toughness X or less. You lose X life. If X is 6 or more, return a creature card put into a graveyard this way to the battlefield under your control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3711,7 +3903,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink\nAt the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on each creature you control other than this creature.",
+    "rulesTexts": [
+      "Lifelink\nAt the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on each creature you control other than this creature."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -3749,7 +3943,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Create a Lander token. Then you may sacrifice an artifact. When you do, Lithobraking deals 2 damage to each creature. (A Lander token is an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Create a Lander token. Then you may sacrifice an artifact. When you do, Lithobraking deals 2 damage to each creature. (A Lander token is an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3789,7 +3985,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this creature enters, you may sacrifice an artifact. When you do, put a +1/+1 counter on target creature and draw a card.",
+    "rulesTexts": [
+      "When this creature enters, you may sacrifice an artifact. When you do, put a +1/+1 counter on target creature and draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3824,7 +4022,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {U} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3864,7 +4064,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)\n3+ | Flying, haste",
+    "rulesTexts": [
+      "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)\n3+ | Flying, haste"
+    ],
     "keywords": [
       "station"
     ],
@@ -3901,7 +4103,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -3941,7 +4145,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Cosmogoyf's power is equal to the number of cards you own in exile and its toughness is equal to that number plus 1.",
+    "rulesTexts": [
+      "Cosmogoyf's power is equal to the number of cards you own in exile and its toughness is equal to that number plus 1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3979,7 +4185,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature and draw a card.",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature and draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4015,7 +4223,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {R}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {1}{R}, {T}, Sacrifice a land: Create a 2/2 colorless Robot artifact creature token, then creatures you control get +1/+0 and gain haste until end of turn.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {R}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {1}{R}, {T}, Sacrifice a land: Create a 2/2 colorless Robot artifact creature token, then creatures you control get +1/+0 and gain haste until end of turn."
+    ],
     "keywords": [
       "station"
     ],
@@ -4058,7 +4268,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, you draw a card and lose 1 life.",
+    "rulesTexts": [
+      "Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, you draw a card and lose 1 life."
+    ],
     "keywords": [
       "void"
     ],
@@ -4095,7 +4307,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)\n10+ | Whenever you attack, Dawnsire deals 100 damage to up to one target creature or planeswalker.\n20+ | Flying",
+    "rulesTexts": [
+      "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)\n10+ | Whenever you attack, Dawnsire deals 100 damage to up to one target creature or planeswalker.\n20+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -4133,7 +4347,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Reach\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "reach",
       "void"
@@ -4172,7 +4388,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhen this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped.",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, each opponent exiles a card from their hand and may play that card for as long as it remains exiled. Each spell cast this way costs {1} more to cast. Each land played this way enters tapped."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -4210,7 +4428,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, you gain 1 life.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, you gain 1 life."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -4249,7 +4469,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, look at the top two cards of your library. Put one into your hand and the other into your graveyard.\nWarp {2}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, look at the top two cards of your library. Put one into your hand and the other into your graveyard.\nWarp {2}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -4286,7 +4508,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4330,7 +4554,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever Haliya enters or attacks, put a +1/+1 counter on target creature you control.\nWhenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card.",
+    "rulesTexts": [
+      "Whenever Haliya enters or attacks, put a +1/+1 counter on target creature you control.\nWhenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4368,7 +4594,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever you sacrifice another creature or artifact, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you sacrifice another creature or artifact, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4403,7 +4631,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {R} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -4439,7 +4669,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature you control. It gains reach, trample, and indestructible until end of turn. Untap it. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature you control. It gains reach, trample, and indestructible until end of turn. Untap it. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4475,7 +4707,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Target artifact or creature's owner puts it on their choice of the top or bottom of their library. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Target artifact or creature's owner puts it on their choice of the top or bottom of their library. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4516,7 +4750,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature dies, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "When this creature dies, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4557,7 +4793,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever Haliya or another creature or artifact you control enters, you gain 1 life.\nAt the beginning of your end step, draw a card if you've gained 3 or more life this turn.\nWarp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Whenever Haliya or another creature or artifact you control enters, you gain 1 life.\nAt the beginning of your end step, draw a card if you've gained 3 or more life this turn.\nWarp {W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -4597,7 +4835,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, return target creature or enchantment card from your graveyard to the battlefield.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)\n10+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, return target creature or enchantment card from your graveyard to the battlefield.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)\n10+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -4635,7 +4875,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "You gain 2 life. Create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "You gain 2 life. Create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4672,7 +4914,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Enchant creature you control\nWhenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.\nVoid — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn.",
+    "rulesTexts": [
+      "Enchant creature you control\nWhenever enchanted creature attacks, put target creature card from defending player's graveyard onto the battlefield under your control tapped and attacking.\nVoid — At the beginning of your end step, sacrifice this Aura unless a nonland permanent left the battlefield this turn or a spell was warped this turn."
+    ],
     "keywords": [
       "enchant",
       "void"
@@ -4714,7 +4958,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Defender\nAs long as an artifact entered the battlefield under your control this turn, this creature can attack as though it didn't have defender.",
+    "rulesTexts": [
+      "Defender\nAs long as an artifact entered the battlefield under your control this turn, this creature can attack as though it didn't have defender."
+    ],
     "keywords": [
       "defender"
     ],
@@ -4759,7 +5005,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "At the beginning of your end step, if you control two or more tapped creatures, create a tapped 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "At the beginning of your end step, if you control two or more tapped creatures, create a tapped 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4794,7 +5042,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -4834,7 +5084,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flash\nFlying\n{2}, Sacrifice this creature: Draw a card.",
+    "rulesTexts": [
+      "Flash\nFlying\n{2}, Sacrifice this creature: Draw a card."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -4873,7 +5125,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Return target nonland permanent to its owner's hand. If it was attacking, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"",
+    "rulesTexts": [
+      "Return target nonland permanent to its owner's hand. If it was attacking, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4908,7 +5162,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -2/-2 until end of turn.\nVoid — That creature gets -10/-10 until end of turn instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.",
+    "rulesTexts": [
+      "Target creature gets -2/-2 until end of turn.\nVoid — That creature gets -10/-10 until end of turn instead if a nonland permanent left the battlefield this turn or a spell was warped this turn."
+    ],
     "keywords": [
       "void"
     ],
@@ -4943,7 +5199,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Void — This spell costs {2} less to cast if a nonland permanent left the battlefield this turn or a spell was warped this turn.\nTarget opponent reveals their hand. You choose a nonland card from it. That player discards that card.",
+    "rulesTexts": [
+      "Void — This spell costs {2} less to cast if a nonland permanent left the battlefield this turn or a spell was warped this turn.\nTarget opponent reveals their hand. You choose a nonland card from it. That player discards that card."
+    ],
     "keywords": [
       "void"
     ],
@@ -4984,7 +5242,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, create a Lander token. At the beginning of the end step on your next turn, sacrifice that token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, create a Lander token. At the beginning of the end step on your next turn, sacrifice that token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [
       "menace"
     ],
@@ -5023,7 +5283,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets -5/-0.\nWhen enchanted creature becomes tapped or is dealt damage, destroy it.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets -5/-0.\nWhen enchanted creature becomes tapped or is dealt damage, destroy it."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5061,7 +5323,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, target creature you control gets +1/+0 and gains first strike until end of turn.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, target creature you control gets +1/+0 and gains first strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5097,7 +5361,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this artifact enters or leaves the battlefield, draw a card.\n{1}{U}, Sacrifice this artifact: Put a stun counter on up to one target tapped creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "When this artifact enters or leaves the battlefield, draw a card.\n{1}{U}, Sacrifice this artifact: Put a stun counter on up to one target tapped creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5134,7 +5400,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nEach creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.\nEach creature you control with toughness greater than its power stations permanents using its toughness rather than its power.",
+    "rulesTexts": [
+      "Vigilance\nEach creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.\nEach creature you control with toughness greater than its power stations permanents using its toughness rather than its power."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5175,7 +5443,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Menace\n{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target.",
+    "rulesTexts": [
+      "Menace\n{2}, {T}, Exile an artifact card from your graveyard: Put a +1/+1 counter on this creature, then it deals damage equal to its power to any target."
+    ],
     "keywords": [
       "menace"
     ],
@@ -5213,7 +5483,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink\nIf one or more tokens would be created under your control, twice that many of those tokens are created instead.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Flying, lifelink\nIf one or more tokens would be created under your control, twice that many of those tokens are created instead.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "flying",
       "lifelink",
@@ -5259,7 +5531,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\n{8}: Draw two cards and create a 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\n{8}: Draw two cards and create a 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5295,7 +5569,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this enchantment enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nEach creature you control enters with an additional +1/+1 counter on it for each land that entered the battlefield under your control this turn.",
+    "rulesTexts": [
+      "When this enchantment enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nEach creature you control enters with an additional +1/+1 counter on it for each land that entered the battlefield under your control this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5331,7 +5607,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}: Put a +1/+1 counter on this creature. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{3}: Put a +1/+1 counter on this creature. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5368,7 +5646,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch",
+    "rulesTexts": [
+      "Deathtouch"
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -5406,7 +5686,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, return up to one other target permanent you control to its owner's hand.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, return up to one other target permanent you control to its owner's hand."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5448,7 +5730,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying\nYou may look at the top card of your library any time.\nYou may cast artifact spells from the top of your library.\nArtifacts you control have \"{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.\"",
+    "rulesTexts": [
+      "Flying\nYou may look at the top card of your library any time.\nYou may cast artifact spells from the top of your library.\nArtifacts you control have \"{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand.\""
+    ],
     "keywords": [
       "flying"
     ],
@@ -5488,7 +5772,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, exile up to one target non-Assassin creature until this creature leaves the battlefield.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, exile up to one target non-Assassin creature until this creature leaves the battlefield.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -5525,7 +5811,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nLandfall — Whenever a land you control enters, this creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Reach\nLandfall — Whenever a land you control enters, this creature gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "reach",
       "landfall"
@@ -5563,7 +5851,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -5603,7 +5893,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on target creature you control.\n{2}, Remove a +1/+1 counter from a creature you control: Tap target artifact or creature.",
+    "rulesTexts": [
+      "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on target creature you control.\n{2}, Remove a +1/+1 counter from a creature you control: Tap target artifact or creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5639,7 +5931,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}: Until end of turn, target creature gains \"Whenever this creature is dealt damage, you draw that many cards and lose that much life.\" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{T}: Until end of turn, target creature gains \"Whenever this creature is dealt damage, you draw that many cards and lose that much life.\" That creature's controller may have this artifact deal 1 damage to it. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5678,7 +5972,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "When this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5707,7 +6003,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)\nSlivers you control have double strike and haste.\nAt the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",
+    "rulesTexts": [
+      "Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)\nSlivers you control have double strike and haste.\nAt the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens."
+    ],
     "keywords": [
       "affinity"
     ],
@@ -5745,7 +6043,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your end step, if you control two or more tapped creatures, you gain 2 life.",
+    "rulesTexts": [
+      "At the beginning of your end step, if you control two or more tapped creatures, you gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5782,7 +6082,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nWarp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nWarp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "flying",
       "surveil",
@@ -5821,7 +6123,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {R} or {W}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -5859,7 +6163,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or tapped creature. You gain 3 life.",
+    "rulesTexts": [
+      "Destroy target artifact or tapped creature. You gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5894,7 +6200,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+    "rulesTexts": [
+      "({T}: Add {W} or {B}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -5933,7 +6241,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {R}.\n{6}{R}: Target creature you control gets +4/+0 until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{T}: Add {R}.\n{6}{R}: Target creature you control gets +4/+0 until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -5971,7 +6281,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, put a +1/+1 counter on each of up to two target creatures.\nWarp {2}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, put a +1/+1 counter on each of up to two target creatures.\nWarp {2}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -6009,7 +6321,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, look at the top five cards of your library. You may reveal a Spacecraft card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "When this creature enters, look at the top five cards of your library. You may reveal a Spacecraft card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6043,7 +6357,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature becomes tapped, you gain 1 life.\n{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",
+    "rulesTexts": [
+      "Whenever this creature becomes tapped, you gain 1 life.\n{2}, {T}: Put target card from a graveyard on the bottom of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6082,7 +6398,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever another artifact you control enters, you may pay {1}. If you do, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever another artifact you control enters, you may pay {1}. If you do, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6122,7 +6440,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Reach\nWhen this creature dies, each player creates a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Reach\nWhen this creature dies, each player creates a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [
       "reach"
     ],
@@ -6159,7 +6479,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Choose one —\n• Ruinous Rampage deals 3 damage to each opponent.\n• Exile all artifacts with mana value 3 or less.",
+    "rulesTexts": [
+      "Choose one —\n• Ruinous Rampage deals 3 damage to each opponent.\n• Exile all artifacts with mana value 3 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6198,7 +6520,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, if an opponent controls more lands than you, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nLandfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, if an opponent controls more lands than you, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nLandfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -6236,7 +6560,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, until end of turn, target creature you control gets +X/+0 and target creature an opponent controls gets -0/-X, where X is the number of artifacts you control.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, until end of turn, target creature you control gets +X/+0 and target creature an opponent controls gets -0/-X, where X is the number of artifacts you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6282,7 +6608,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Trample\nDyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.\nWhenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "Trample\nDyadrine enters with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.\nWhenever you attack, you may remove a +1/+1 counter from each of two creatures you control. If you do, draw a card and create a 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [
       "trample"
     ],
@@ -6317,7 +6645,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, surveil 2.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)\n4+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, surveil 2.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)\n4+ | Flying"
+    ],
     "keywords": [
       "surveil",
       "station"
@@ -6354,7 +6684,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nHexproof (This creature can't be the target of spells or abilities your opponents control.)\n{10}, Sacrifice this creature: It deals 3 damage to any target. Target player draws three cards and gains 3 life. This ability costs {X} less to activate, where X is the number of differently named lands you control.",
+    "rulesTexts": [
+      "Flying\nHexproof (This creature can't be the target of spells or abilities your opponents control.)\n{10}, Sacrifice this creature: It deals 3 damage to any target. Target player draws three cards and gains 3 life. This ability costs {X} less to activate, where X is the number of differently named lands you control."
+    ],
     "keywords": [
       "flying",
       "hexproof"
@@ -6392,7 +6724,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this enchantment enters, exile target nonland permanent an opponent controls with mana value 2 or less until this enchantment leaves the battlefield.",
+    "rulesTexts": [
+      "When this enchantment enters, exile target nonland permanent an opponent controls with mana value 2 or less until this enchantment leaves the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6428,7 +6762,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {X} less to cast, where X is the number of differently named lands you control.",
+    "rulesTexts": [
+      "This spell costs {X} less to cast, where X is the number of differently named lands you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6465,7 +6801,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, it deals damage equal to the number of artifacts you control to target creature an opponent controls.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)\n6+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, it deals damage equal to the number of artifacts you control to target creature an opponent controls.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)\n6+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -6504,7 +6842,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\"",
+    "rulesTexts": [
+      "Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with \"When this token leaves the battlefield, it deals 2 damage to any target.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6539,7 +6879,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}, Sacrifice another artifact: Exile the top X cards of your library, where X is one plus the mana value of the sacrificed artifact. You may play those cards this turn.",
+    "rulesTexts": [
+      "{T}, Sacrifice another artifact: Exile the top X cards of your library, where X is one plus the mana value of the sacrificed artifact. You may play those cards this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6572,7 +6914,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nLook at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nLook at the top X cards of your library, where X is the number of lands you control. Put one of those cards into your hand. If this spell was kicked, put two of those cards into your hand instead. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [
       "kicker"
     ],
@@ -6609,7 +6953,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Plasma Bolt deals 2 damage to any target.\nVoid — Plasma Bolt deals 3 damage instead if a nonland permanent left the battlefield this turn or a spell was warped this turn.",
+    "rulesTexts": [
+      "Plasma Bolt deals 2 damage to any target.\nVoid — Plasma Bolt deals 3 damage instead if a nonland permanent left the battlefield this turn or a spell was warped this turn."
+    ],
     "keywords": [
       "void"
     ],
@@ -6650,7 +6996,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever this creature becomes tapped, draw a card, then discard a card.",
+    "rulesTexts": [
+      "Whenever this creature becomes tapped, draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6685,7 +7033,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\nWhen this artifact is put into a graveyard from the battlefield, draw a card.",
+    "rulesTexts": [
+      "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\nWhen this artifact is put into a graveyard from the battlefield, draw a card."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -6722,7 +7072,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -6759,7 +7111,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy all creatures, then any number of target players each mill half their library, rounded down.",
+    "rulesTexts": [
+      "Destroy all creatures, then any number of target players each mill half their library, rounded down."
+    ],
     "keywords": [
       "mill"
     ],
@@ -6794,7 +7148,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you play a land or cast a spell, draw a card.\nAt the beginning of your end step, your life total becomes half your starting life total, rounded up.",
+    "rulesTexts": [
+      "Whenever you play a land or cast a spell, draw a card.\nAt the beginning of your end step, your life total becomes half your starting life total, rounded up."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6829,7 +7185,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return up to two target nonland permanent cards from your graveyard to your hand, then return up to two target land cards from your graveyard to the battlefield tapped.",
+    "rulesTexts": [
+      "Return up to two target nonland permanent cards from your graveyard to your hand, then return up to two target land cards from your graveyard to the battlefield tapped."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6862,7 +7220,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, choose a creature you control or a warped creature card you own in exile.\nClose Encounter deals damage equal to the power of the chosen creature or card to target creature.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, choose a creature you control or a warped creature card you own in exile.\nClose Encounter deals damage equal to the power of the chosen creature or card to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6894,7 +7254,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "{T}: Add {C}.\n{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.\n{5}, {T}: Create a 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{2}, {T}, Tap X untapped artifacts you control: Target creature gets +X/+0 until end of turn. Activate only as a sorcery.\n{5}, {T}: Create a 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -6931,7 +7293,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Focus Fire deals X damage to target attacking or blocking creature, where X is 2 plus the number of creatures and/or Spacecraft you control.",
+    "rulesTexts": [
+      "Focus Fire deals X damage to target attacking or blocking creature, where X is 2 plus the number of creatures and/or Spacecraft you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6966,7 +7330,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -7003,7 +7369,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {3} less to cast if you've cast another spell this turn.",
+    "rulesTexts": [
+      "This spell costs {3} less to cast if you've cast another spell this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7038,7 +7406,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +3/+1.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, attach this Equipment to target creature you control.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +3/+1.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, attach this Equipment to target creature you control.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip",
       "void"
@@ -7077,7 +7447,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender",
+    "rulesTexts": [
+      "Defender"
+    ],
     "keywords": [
       "defender"
     ],
@@ -7114,7 +7486,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {B}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {B}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {1}{B}, {T}, Pay 2 life, Sacrifice a creature: Draw cards equal to the sacrificed creature's power. Activate only as a sorcery."
+    ],
     "keywords": [
       "station"
     ],
@@ -7154,7 +7528,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, choose one —\n• Put two +1/+1 counters on this creature.\n• Put target exiled card with warp on the bottom of its owner's library.",
+    "rulesTexts": [
+      "When this creature enters, choose one —\n• Put two +1/+1 counters on this creature.\n• Put target exiled card with warp on the bottom of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7192,7 +7568,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.\n{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact.",
+    "rulesTexts": [
+      "When this artifact enters, exile all artifacts and creatures with mana value 2 or less until this artifact leaves the battlefield.\n{6}{W}{W}: Put each card exiled with this artifact into its owner's graveyard, then create a 2/2 colorless Robot artifact creature token for each card put into a graveyard this way. Sacrifice this artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7230,7 +7608,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As long as you control an artifact, this creature gets +1/+0 and has deathtouch.",
+    "rulesTexts": [
+      "As long as you control an artifact, this creature gets +1/+0 and has deathtouch."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7266,7 +7646,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast your second spell each turn, choose one —\n• Create two 1/1 white Human Soldier creature tokens.\n• Put a +1/+1 counter on each creature you control.",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, choose one —\n• Create two 1/1 white Human Soldier creature tokens.\n• Put a +1/+1 counter on each creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7303,7 +7685,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.",
+    "rulesTexts": [
+      "This creature gets +X/+0, where X is the greatest mana value among other artifacts you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7340,7 +7724,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, each opponent sacrifices a nontoken creature of their choice.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, each opponent sacrifices a nontoken creature of their choice.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -7377,7 +7763,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Invasive Maneuvers deals 3 damage to target creature. It deals 5 damage instead if you control a Spacecraft.",
+    "rulesTexts": [
+      "Invasive Maneuvers deals 3 damage to target creature. It deals 5 damage instead if you control a Spacecraft."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7414,7 +7802,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWarp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Haste\nWarp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "haste",
       "warp"
@@ -7454,7 +7844,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, return up to two target non-Spacecraft creatures to their owners' hands.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)\n9+ | Flying\nWhenever this Spacecraft attacks, defending player mills four cards.",
+    "rulesTexts": [
+      "When this Spacecraft enters, return up to two target non-Spacecraft creatures to their owners' hands.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)\n9+ | Flying\nWhenever this Spacecraft attacks, defending player mills four cards."
+    ],
     "keywords": [
       "station",
       "mill"
@@ -7492,7 +7884,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Choose one —\n• Put five charge counters on target Spacecraft or Planet you control.\n• Destroy target artifact.",
+    "rulesTexts": [
+      "Choose one —\n• Put five charge counters on target Spacecraft or Planet you control.\n• Destroy target artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7533,7 +7927,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever you cast your second spell each turn, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\"",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, create a 1/1 colorless Drone artifact creature token with flying and \"This token can block only creatures with flying.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7570,7 +7966,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nReturn target creature or Spacecraft card with mana value 5 or less from your graveyard to the battlefield. Then create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice an artifact or creature.\nReturn target creature or Spacecraft card with mana value 5 or less from your graveyard to the battlefield. Then create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7609,7 +8007,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -7647,7 +8047,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Destroy target artifact, enchantment, or creature with flying. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Destroy target artifact, enchantment, or creature with flying. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -7687,7 +8089,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever this creature or another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.\nWarp {B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Whenever this creature or another creature or artifact you control dies, target opponent loses 1 life and you gain 1 life.\nWarp {B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -7727,7 +8131,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Lifelink\nWhenever this creature attacks, you may sacrifice another creature or artifact. If you do, this creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Lifelink\nWhenever this creature attacks, you may sacrifice another creature or artifact. If you do, this creature gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -7772,7 +8178,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Double strike, vigilance\nSpells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)",
+    "rulesTexts": [
+      "Double strike, vigilance\nSpells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)"
+    ],
     "keywords": [
       "vigilance",
       "double strike"
@@ -7812,7 +8220,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, put a +1/+1 counter on each creature you control.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying, trample",
+    "rulesTexts": [
+      "When this Spacecraft enters, put a +1/+1 counter on each creature you control.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying, trample"
+    ],
     "keywords": [
       "station"
     ],
@@ -7847,7 +8257,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, it deals 10 damage to up to one target creature.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, it deals 10 damage to up to one target creature.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -7889,7 +8301,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{T}: Return target creature card from your graveyard to the battlefield. It's a Skeleton in addition to its other types and has no abilities. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{T}: Return target creature card from your graveyard to the battlefield. It's a Skeleton in addition to its other types and has no abilities. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7927,7 +8341,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, put a +1/+1 counter on target creature you control.\nWhenever a nontoken creature you control with a +1/+1 counter on it dies, create a 1/1 white Human Soldier creature token.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, put a +1/+1 counter on target creature you control.\nWhenever a nontoken creature you control with a +1/+1 counter on it dies, create a 1/1 white Human Soldier creature token.\nWarp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -7967,7 +8383,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This creature enters with a +1/+1 counter on it for each other creature and/or artifact you control.",
+    "rulesTexts": [
+      "This creature enters with a +1/+1 counter on it for each other creature and/or artifact you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8002,7 +8420,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature becomes tapped, another target creature you control gets +X/+X until end of turn, where X is this creature's power.",
+    "rulesTexts": [
+      "Whenever this creature becomes tapped, another target creature you control gets +X/+X until end of turn, where X is this creature's power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8037,7 +8457,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
+    "rulesTexts": [
+      "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8073,7 +8495,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Counter target spell unless its controller pays {2}. If they do, you create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {2}. If they do, you create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8109,7 +8533,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {W}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {W}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery."
+    ],
     "keywords": [
       "station"
     ],
@@ -8153,7 +8579,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Lifelink\nWhenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token.",
+    "rulesTexts": [
+      "Lifelink\nWhenever one or more creatures you control deal combat damage to a player, you draw a card and lose 1 life.\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, create a 2/2 colorless Robot artifact creature token."
+    ],
     "keywords": [
       "lifelink",
       "void"
@@ -8191,7 +8619,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered.\nTrample, haste\nCreature spells you control can't be countered.\nCombat damage can't be prevented.",
+    "rulesTexts": [
+      "This spell can't be countered.\nTrample, haste\nCreature spells you control can't be countered.\nCombat damage can't be prevented."
+    ],
     "keywords": [
       "haste",
       "trample"
@@ -8230,7 +8660,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike\n{5}: Creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Double strike\n{5}: Creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "double strike"
     ],
@@ -8271,7 +8703,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying\n{T}: Add {U}. Spend this mana only to cast an artifact spell.\n{T}: Add {U}{U}. Spend this mana only to activate abilities of artifact sources.",
+    "rulesTexts": [
+      "Flying\n{T}: Add {U}. Spend this mana only to cast an artifact spell.\n{T}: Add {U}{U}. Spend this mana only to activate abilities of artifact sources."
+    ],
     "keywords": [
       "flying"
     ],
@@ -8311,7 +8745,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, destroy up to one other target creature. If that creature wasn't dealt damage this turn, its controller draws two cards.",
+    "rulesTexts": [
+      "When this creature enters, destroy up to one other target creature. If that creature wasn't dealt damage this turn, its controller draws two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8348,7 +8784,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n1+ | Whenever an opponent discards a card, they lose 3 life.\n8+ | Flying, deathtouch\nWhenever this Spacecraft attacks, each opponent discards a card. Each opponent who can't loses 3 life.",
+    "rulesTexts": [
+      "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n1+ | Whenever an opponent discards a card, they lose 3 life.\n8+ | Flying, deathtouch\nWhenever this Spacecraft attacks, each opponent discards a card. Each opponent who can't loses 3 life."
+    ],
     "keywords": [
       "station"
     ],
@@ -8388,7 +8826,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever another creature or artifact you control enters, this creature deals 1 damage to each opponent.\nWarp {R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Whenever another creature or artifact you control enters, this creature deals 1 damage to each opponent.\nWarp {R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -8425,7 +8865,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile all creatures and Spacecraft.",
+    "rulesTexts": [
+      "Exile all creatures and Spacecraft."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8462,7 +8904,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}, Tap an untapped permanent you control: Add one mana of any color.",
+    "rulesTexts": [
+      "{T}, Tap an untapped permanent you control: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8503,7 +8947,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You draw two cards and lose 2 life.\nVoid — If a nonland permanent left the battlefield this turn or a spell was warped this turn, instead you draw two cards and each opponent loses 2 life.",
+    "rulesTexts": [
+      "You draw two cards and lose 2 life.\nVoid — If a nonland permanent left the battlefield this turn or a spell was warped this turn, instead you draw two cards and each opponent loses 2 life."
+    ],
     "keywords": [
       "void"
     ],
@@ -8540,7 +8986,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature or Spacecraft.",
+    "rulesTexts": [
+      "Exile target creature or Spacecraft."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8573,7 +9021,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +3/+2 until end of turn. If that creature was cast for its warp cost, it also gains trample and haste until end of turn.",
+    "rulesTexts": [
+      "Target creature you control gets +3/+2 until end of turn. If that creature was cast for its warp cost, it also gains trample and haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8609,7 +9059,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy target artifact or enchantment. If its mana value was 2 or less, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Destroy target artifact or enchantment. If its mana value was 2 or less, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8645,7 +9097,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8680,7 +9134,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Put a +1/+1 counter on target creature.\nDraw a card.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8715,7 +9171,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature you control\nWhen this Aura enters, enchanted creature deals damage equal to its power to any other target.\nWhenever enchanted creature is dealt damage, it deals that much damage to each opponent.",
+    "rulesTexts": [
+      "Enchant creature you control\nWhen this Aura enters, enchanted creature deals damage equal to its power to any other target.\nWhenever enchanted creature is dealt damage, it deals that much damage to each opponent."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8755,7 +9213,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Trample\nWhen this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nLandfall — Whenever a land you control enters, creatures you control get +1/+1 and gain vigilance and haste until end of turn.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, create a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")\nLandfall — Whenever a land you control enters, creatures you control get +1/+1 and gain vigilance and haste until end of turn."
+    ],
     "keywords": [
       "trample",
       "landfall"
@@ -8795,7 +9255,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, you may sacrifice a land or Lander. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying",
+    "rulesTexts": [
+      "When this Spacecraft enters, you may sacrifice a land or Lander. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying"
+    ],
     "keywords": [
       "station"
     ],
@@ -8832,7 +9294,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +2/+1 and has reach.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +2/+1 and has reach.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -8872,7 +9336,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card.",
+    "rulesTexts": [
+      "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card."
+    ],
     "keywords": [
       "mill",
       "landfall"
@@ -8908,7 +9374,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature deals damage to itself equal to its power. If that creature has flying, it deals twice that much damage to itself instead.",
+    "rulesTexts": [
+      "Target creature deals damage to itself equal to its power. If that creature has flying, it deals twice that much damage to itself instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8943,7 +9411,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nLandfall — Whenever a land you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card this turn.",
+    "rulesTexts": [
+      "Reach\nLandfall — Whenever a land you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card this turn."
+    ],
     "keywords": [
       "reach",
       "landfall"
@@ -8983,7 +9453,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying\nWhenever this Spacecraft attacks, you may put a creature card from your hand onto the battlefield.",
+    "rulesTexts": [
+      "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying\nWhenever this Spacecraft attacks, you may put a creature card from your hand onto the battlefield."
+    ],
     "keywords": [
       "station"
     ],
@@ -9021,7 +9493,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Choose one —\n• Exile target creature or planeswalker.\n• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.\n• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn.",
+    "rulesTexts": [
+      "Choose one —\n• Exile target creature or planeswalker.\n• Return one or two target creature and/or planeswalker cards from your graveyard to your hand.\n• Put two +1/+1 counters on target creature you control. It gains lifelink until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9056,7 +9530,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9097,7 +9573,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying\nOther tapped legendary creatures you control have indestructible.",
+    "rulesTexts": [
+      "When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)\n7+ | Flying\nOther tapped legendary creatures you control have indestructible."
+    ],
     "keywords": [
       "station"
     ],
@@ -9135,7 +9613,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nWarp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nWarp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -9172,7 +9652,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -9212,7 +9694,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a creature you control with a +1/+1 counter on it dies, draw a card.",
+    "rulesTexts": [
+      "Whenever a creature you control with a +1/+1 counter on it dies, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9248,7 +9732,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever this creature blocks a creature with flying, this creature gets +5/+0 until end of turn.",
+    "rulesTexts": [
+      "Reach\nWhenever this creature blocks a creature with flying, this creature gets +5/+0 until end of turn."
+    ],
     "keywords": [
       "reach"
     ],
@@ -9283,7 +9769,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +1/+0 and gains vigilance until end of turn. It deals damage equal to its power to target creature an opponent controls.",
+    "rulesTexts": [
+      "Target creature you control gets +1/+0 and gains vigilance until end of turn. It deals damage equal to its power to target creature an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9319,7 +9807,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "The second spell you cast each turn costs {2} less to cast.",
+    "rulesTexts": [
+      "The second spell you cast each turn costs {2} less to cast."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9354,7 +9844,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nHarmonious Grovestrider's power and toughness are each equal to the number of lands you control.",
+    "rulesTexts": [
+      "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nHarmonious Grovestrider's power and toughness are each equal to the number of lands you control."
+    ],
     "keywords": [
       "ward"
     ],
@@ -9392,7 +9884,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Surveil 1, then you draw a card and lose 1 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)\nVoid — If a nonland permanent left the battlefield this turn or a spell was warped this turn, draw another card.",
+    "rulesTexts": [
+      "Surveil 1, then you draw a card and lose 1 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)\nVoid — If a nonland permanent left the battlefield this turn or a spell was warped this turn, draw another card."
+    ],
     "keywords": [
       "surveil",
       "void"
@@ -9430,7 +9924,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nLandfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Trample\nLandfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "trample",
       "landfall"
@@ -9469,7 +9965,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nThis creature gets +2/+0 as long as you've cast two or more spells this turn.",
+    "rulesTexts": [
+      "Vigilance\nThis creature gets +2/+0 as long as you've cast two or more spells this turn."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -9506,7 +10004,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Counter target spell. If the amount of mana spent to cast that spell was less than its mana value, you draw a card.",
+    "rulesTexts": [
+      "Counter target spell. If the amount of mana spent to cast that spell was less than its mana value, you draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9544,7 +10044,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature enters, target creature an opponent controls gets -3/-0 until end of turn.\nWarp {U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, target creature an opponent controls gets -3/-0 until end of turn.\nWarp {U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -9584,7 +10086,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "When this Spacecraft enters, mill three cards, then return a creature or Spacecraft card from your graveyard to your hand.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying, lifelink",
+    "rulesTexts": [
+      "When this Spacecraft enters, mill three cards, then return a creature or Spacecraft card from your graveyard to your hand.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying, lifelink"
+    ],
     "keywords": [
       "station",
       "mill"
@@ -9623,7 +10127,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, each opponent discards a card.",
+    "rulesTexts": [
+      "When this creature enters, each opponent discards a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9658,7 +10164,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.\nAt the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it.",
+    "rulesTexts": [
+      "Whenever a creature you control dies, each opponent chooses a creature they control and exiles it.\nAt the beginning of your end step, if a player controls no creatures, sacrifice Sothera, then put a creature card exiled with it onto the battlefield under your control with two additional +1/+1 counters on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9694,7 +10202,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nVoid — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "menace",
       "void"
@@ -9735,7 +10245,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this Spacecraft enters, it deals 3 damage to any target.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying\n{1}{R}: This Spacecraft gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "When this Spacecraft enters, it deals 3 damage to any target.\nStation (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)\n8+ | Flying\n{1}{R}: This Spacecraft gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "station"
     ],
@@ -9777,7 +10289,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch, lifelink\nWhenever Syr Vondam enters or attacks, other creatures you control get +1/+0 and gain deathtouch until end of turn.",
+    "rulesTexts": [
+      "Deathtouch, lifelink\nWhenever Syr Vondam enters or attacks, other creatures you control get +1/+0 and gain deathtouch until end of turn."
+    ],
     "keywords": [
       "lifelink",
       "deathtouch"
@@ -9815,7 +10329,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of them.",
+    "rulesTexts": [
+      "Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9850,7 +10366,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player mills cards equal to your life total.",
+    "rulesTexts": [
+      "Target player mills cards equal to your life total."
+    ],
     "keywords": [
       "mill"
     ],
@@ -9888,7 +10406,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with a +1/+1 counter on it.\nWhen this creature dies, put its counters on target creature you control.",
+    "rulesTexts": [
+      "This creature enters with a +1/+1 counter on it.\nWhen this creature dies, put its counters on target creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9923,7 +10443,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nEquipped creature gets +1/+2.\nEquip {3}",
+    "rulesTexts": [
+      "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nEquipped creature gets +1/+2.\nEquip {3}"
+    ],
     "keywords": [
       "equip",
       "flash"
@@ -9961,7 +10483,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature or Spacecraft\nWhen this Aura enters, tap enchanted permanent.\nYou control enchanted permanent.\nEnchanted permanent doesn't untap during its controller's untap step.",
+    "rulesTexts": [
+      "Enchant creature or Spacecraft\nWhen this Aura enters, tap enchanted permanent.\nYou control enchanted permanent.\nEnchanted permanent doesn't untap during its controller's untap step."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -10000,7 +10524,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Enchant artifact or creature you control\nThe first time you would create one or more tokens each turn, you may instead create that many tokens that are copies of enchanted permanent.",
+    "rulesTexts": [
+      "Enchant artifact or creature you control\nThe first time you would create one or more tokens each turn, you may instead create that many tokens that are copies of enchanted permanent."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -10038,7 +10564,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.\nWarp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.\nWarp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp",
       "landfall"
@@ -10076,7 +10604,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\"\nWarp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\"\nWarp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],
@@ -10111,7 +10641,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+1 and has \"{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery.\" (You see all cards that player could see and make all decisions for them.)\nEquip {1}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1 and has \"{15}, Exile The Dominion Bracelet: You control target opponent during their next turn. This ability costs {X} less to activate, where X is this creature's power. Activate only as a sorcery.\" (You see all cards that player could see and make all decisions for them.)\nEquip {1}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -10146,7 +10678,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +2/+0 until end of turn. If it's not your turn, untap those creatures.",
+    "rulesTexts": [
+      "Creatures you control get +2/+0 until end of turn. If it's not your turn, untap those creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10183,7 +10717,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Target creature you control gets +1/+1 and gains haste until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{T}: Target creature you control gets +1/+1 and gains haste until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10218,7 +10754,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Target creature you control gains double strike until end of turn. If it has a +1/+1 counter on it, draw a card.",
+    "rulesTexts": [
+      "Target creature you control gains double strike until end of turn. If it has a +1/+1 counter on it, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10254,7 +10792,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10287,7 +10827,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {1} less to cast if it targets a blocking creature.\nTarget creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "This spell costs {1} less to cast if it targets a blocking creature.\nTarget creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10322,7 +10864,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -10361,7 +10905,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)\n2+ | At the beginning of combat on your turn, up to one other target artifact you control becomes an artifact creature with base power and toughness 2/2 and gains flying until end of turn.\n9+ | Flying, vigilance",
+    "rulesTexts": [
+      "Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 9+.)\n2+ | At the beginning of combat on your turn, up to one other target artifact you control becomes an artifact creature with base power and toughness 2/2 and gains flying until end of turn.\n9+ | Flying, vigilance"
+    ],
     "keywords": [
       "station"
     ],
@@ -10398,7 +10944,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Create X tokens that are copies of target artifact or creature you control. Those tokens gain haste until end of turn. Sacrifice them at the beginning of the next end step.",
+    "rulesTexts": [
+      "Create X tokens that are copies of target artifact or creature you control. Those tokens gain haste until end of turn. Sacrifice them at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10434,7 +10982,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy target nonland permanent. Its controller creates a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")",
+    "rulesTexts": [
+      "Destroy target nonland permanent. Its controller creates a Lander token. (It's an artifact with \"{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10470,7 +11020,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain 2 life.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "rulesTexts": [
+      "When this creature enters, you gain 2 life.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)"
+    ],
     "keywords": [
       "warp"
     ],

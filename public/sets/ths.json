@@ -23,7 +23,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{1}{W}: This creature can block an additional creature this turn.",
+    "rulesTexts": [
+      "Flying\n{1}{W}: This creature can block an additional creature this turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -62,7 +64,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{W}, Sacrifice this creature: Destroy target enchantment.",
+    "rulesTexts": [
+      "{3}{W}, Sacrifice this creature: Destroy target enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -100,7 +104,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance\n{W}{B}, Pay 3 life: Regenerate this creature.",
+    "rulesTexts": [
+      "Flying, vigilance\n{W}{B}, Pay 3 life: Regenerate this creature."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -140,7 +146,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets -1/-1, and its activated abilities can't be activated.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets -1/-1, and its activated abilities can't be activated."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -177,7 +185,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -214,7 +224,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nThis creature can block only creatures with flying.",
+    "rulesTexts": [
+      "Flying\nThis creature can block only creatures with flying."
+    ],
     "keywords": [
       "flying"
     ],
@@ -255,7 +267,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.",
+    "rulesTexts": [
+      "Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard."
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -294,7 +308,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on each creature you control.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on each creature you control."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -328,7 +344,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {W} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {W} or {B}."
+    ],
     "keywords": [
       "scry"
     ],
@@ -369,7 +387,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target player mills four cards.",
+    "rulesTexts": [
+      "When this creature enters, target player mills four cards."
+    ],
     "keywords": [
       "mill"
     ],
@@ -409,7 +429,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, draw a card.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, draw a card."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -446,7 +468,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -483,7 +507,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{1}{U}: Target creature an opponent controls attacks this turn if able.\n{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.",
+    "rulesTexts": [
+      "Flying\n{1}{U}: Target creature an opponent controls attacks this turn if able.\n{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -520,7 +546,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink",
+    "rulesTexts": [
+      "Flying, lifelink"
+    ],
     "keywords": [
       "flying",
       "lifelink"
@@ -559,7 +587,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Untap target land.",
+    "rulesTexts": [
+      "{T}: Untap target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -594,7 +624,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -631,7 +663,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature with power 2 or less. Its controller gains 4 life.",
+    "rulesTexts": [
+      "Exile target creature with power 2 or less. Its controller gains 4 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -667,7 +701,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Protection from red\nElemental creatures you control get +1/+1.\nWhen this creature enters, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+    "rulesTexts": [
+      "Protection from red\nElemental creatures you control get +1/+1.\nWhen this creature enters, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+    ],
     "keywords": [
       "protection"
     ],
@@ -705,7 +741,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {4}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nFlying\nEnchanted creature gets +2/+2 and has flying.",
+    "rulesTexts": [
+      "Bestow {4}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nFlying\nEnchanted creature gets +2/+2 and has flying."
+    ],
     "keywords": [
       "flying",
       "bestow"
@@ -743,7 +781,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -781,7 +821,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -814,7 +856,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature. Its controller loses 2 life.",
+    "rulesTexts": [
+      "Destroy target creature. Its controller loses 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -845,7 +889,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature has flying and haste.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature has flying and haste.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -883,7 +929,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {5}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nFirst strike\nEnchanted creature gets +2/+2 and has first strike.",
+    "rulesTexts": [
+      "Bestow {5}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nFirst strike\nEnchanted creature gets +2/+2 and has first strike."
+    ],
     "keywords": [
       "first strike",
       "bestow"
@@ -921,7 +969,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step.",
+    "rulesTexts": [
+      "Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return this card to the battlefield attached to that creature at the beginning of the next end step."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -954,7 +1004,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -990,7 +1042,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature and prevent all damage that would be dealt to it this turn.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature and prevent all damage that would be dealt to it this turn."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -1028,7 +1082,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nThis creature and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.",
+    "rulesTexts": [
+      "Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nThis creature and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards."
+    ],
     "keywords": [
       "bestow"
     ],
@@ -1065,7 +1121,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1102,7 +1160,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [
       "hexproof"
     ],
@@ -1140,7 +1200,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, put three +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, put three +1/+1 counters on this creature."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -1179,7 +1241,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1214,7 +1278,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\n{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)",
+    "rulesTexts": [
+      "Reach\n{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
+    ],
     "keywords": [
       "reach",
       "monstrosity"
@@ -1252,7 +1318,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nChoose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nChoose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1288,7 +1356,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {5}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nTrample\nEnchanted creature gets +3/+3 and has trample.",
+    "rulesTexts": [
+      "Bestow {5}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nTrample\nEnchanted creature gets +3/+3 and has trample."
+    ],
     "keywords": [
       "trample",
       "bestow"
@@ -1323,7 +1393,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {G} or {U}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {G} or {U}."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1363,7 +1435,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -1400,7 +1474,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Shredding Winds deals 7 damage to target creature with flying.",
+    "rulesTexts": [
+      "Shredding Winds deals 7 damage to target creature with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1436,7 +1512,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on this creature."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -1475,7 +1553,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature dies, scry 1.\n{B}: This creature gains deathtouch until end of turn.\n{1}{G}: This creature gains hexproof until end of turn.",
+    "rulesTexts": [
+      "Whenever another creature dies, scry 1.\n{B}: This creature gains deathtouch until end of turn.\n{1}{G}: This creature gains hexproof until end of turn."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1513,7 +1593,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +1/+1.\n{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn.",
+    "rulesTexts": [
+      "Creatures you control get +1/+1.\n{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1549,7 +1631,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{2}{G}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "Flying\n{2}{G}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1587,7 +1671,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+    "rulesTexts": [
+      "When this creature enters, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1623,7 +1709,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add an amount of {G} equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+    "rulesTexts": [
+      "{T}: Add an amount of {G} equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -1660,7 +1748,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature dies, tap this creature.",
+    "rulesTexts": [
+      "Whenever another creature dies, tap this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1693,7 +1783,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -1734,7 +1826,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This creature can't be blocked except by three or more creatures.\nCards in graveyards can't be the targets of spells or abilities.\nWhen this creature dies, exile it and each player returns all creature cards from their graveyard to their hand.",
+    "rulesTexts": [
+      "This creature can't be blocked except by three or more creatures.\nCards in graveyards can't be the targets of spells or abilities.\nWhen this creature dies, exile it and each player returns all creature cards from their graveyard to their hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1769,7 +1863,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1806,7 +1902,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw three cards. Target player mills three cards.",
+    "rulesTexts": [
+      "Draw three cards. Target player mills three cards."
+    ],
     "keywords": [
       "mill"
     ],
@@ -1849,7 +1947,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "+1: Add X mana in any combination of {R} and/or {G}, where X is the number of creatures you control.\n0: Create a 2/2 red and green Satyr creature token with haste.\n−6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.",
+    "rulesTexts": [
+      "+1: Add X mana in any combination of {R} and/or {G}, where X is the number of creatures you control.\n0: Create a 2/2 red and green Satyr creature token with haste.\n−6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -1887,7 +1987,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered.\nHaste, protection from blue\nThis creature enters with X +1/+1 counters on it.",
+    "rulesTexts": [
+      "This spell can't be countered.\nHaste, protection from blue\nThis creature enters with X +1/+1 counters on it."
+    ],
     "keywords": [
       "protection",
       "haste"
@@ -1925,7 +2027,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{6}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, creatures without flying your opponents control can't block this turn.",
+    "rulesTexts": [
+      "{6}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, creatures without flying your opponents control can't block this turn."
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -1960,7 +2064,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -1994,7 +2100,9 @@
     "toughness": 10,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender, indestructible\n{10}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)\nAs long as this creature is monstrous, it has trample and can attack as though it didn't have defender.",
+    "rulesTexts": [
+      "Defender, indestructible\n{10}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)\nAs long as this creature is monstrous, it has trample and can attack as though it didn't have defender."
+    ],
     "keywords": [
       "indestructible",
       "monstrosity",
@@ -2037,7 +2145,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Creatures you control have haste.\n{2}{R}, {T}, Sacrifice a land: Create a 3/3 colorless Golem enchantment artifact creature token.",
+    "rulesTexts": [
+      "Creatures you control have haste.\n{2}{R}, {T}, Sacrifice a land: Create a 3/3 colorless Golem enchantment artifact creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2075,7 +2185,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, this creature deals 2 damage to any target.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, this creature deals 2 damage to any target."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -2112,7 +2224,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't attack unless defending player controls an Island.\n{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, target land becomes an Island in addition to its other types.",
+    "rulesTexts": [
+      "This creature can't attack unless defending player controls an Island.\n{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, target land becomes an Island in addition to its other types."
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -2151,7 +2265,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Defender\nWhen this creature enters, you may return target instant or sorcery card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Defender\nWhen this creature enters, you may return target instant or sorcery card from your graveyard to your hand."
+    ],
     "keywords": [
       "defender"
     ],
@@ -2186,7 +2302,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.",
+    "rulesTexts": [
+      "Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2221,7 +2339,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nAt the beginning of your upkeep, sacrifice a creature.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nAt the beginning of your upkeep, sacrifice a creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2258,7 +2378,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{6}{U}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control this creature.",
+    "rulesTexts": [
+      "{6}{U}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control this creature."
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -2298,7 +2420,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash.",
+    "rulesTexts": [
+      "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2334,7 +2458,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2366,7 +2492,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {G}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {G}."
+    ],
     "keywords": [
       "scry"
     ],
@@ -2406,7 +2534,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, haste, protection from white\n{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.",
+    "rulesTexts": [
+      "Flying, haste, protection from white\n{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand."
+    ],
     "keywords": [
       "flying",
       "protection",
@@ -2447,7 +2577,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {6}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nWhenever this creature or enchanted creature attacks, tap target creature an opponent controls.\nEnchanted creature gets +3/+3.",
+    "rulesTexts": [
+      "Bestow {6}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nWhenever this creature or enchanted creature attacks, tap target creature an opponent controls.\nEnchanted creature gets +3/+3."
+    ],
     "keywords": [
       "bestow"
     ],
@@ -2486,7 +2618,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Polukranos becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.",
+    "rulesTexts": [
+      "{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Polukranos becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos."
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -2523,7 +2657,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or land.",
+    "rulesTexts": [
+      "Destroy target artifact or land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2561,7 +2697,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{2}{G}: This creature must be blocked this turn if able.\nWhen this creature dies, target creature an opponent controls gets -3/-3 until end of turn.",
+    "rulesTexts": [
+      "{2}{G}: This creature must be blocked this turn if able.\nWhen this creature dies, target creature an opponent controls gets -3/-3 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2604,7 +2742,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "{1}{R}, Sacrifice another creature: Tymaret deals 2 damage to target player or planeswalker.\n{1}{B}, Sacrifice a creature: Return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "{1}{R}, Sacrifice another creature: Tymaret deals 2 damage to target player or planeswalker.\n{1}{B}, Sacrifice a creature: Return this card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2640,7 +2780,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {3}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nEnchanted creature gets +1/+1 and has lifelink.",
+    "rulesTexts": [
+      "Bestow {3}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)\nEnchanted creature gets +1/+1 and has lifelink."
+    ],
     "keywords": [
       "lifelink",
       "bestow"
@@ -2681,7 +2823,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature, then scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom.)",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature, then scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom.)"
+    ],
     "keywords": [
       "heroic",
       "scry"
@@ -2720,7 +2864,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {6}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nMenace (This creature can't be blocked except by two or more creatures.)\nEnchanted creature gets +3/+3 and has menace.",
+    "rulesTexts": [
+      "Bestow {6}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nMenace (This creature can't be blocked except by two or more creatures.)\nEnchanted creature gets +3/+3 and has menace."
+    ],
     "keywords": [
       "menace",
       "bestow"
@@ -2755,7 +2901,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {W}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {W}."
+    ],
     "keywords": [
       "scry"
     ],
@@ -2795,7 +2943,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -2832,7 +2982,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever this creature attacks, each attacking Human gains flying until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhenever this creature attacks, each attacking Human gains flying until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2867,7 +3019,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target black creature.",
+    "rulesTexts": [
+      "Destroy target black creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2900,7 +3054,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell unless its controller pays {1}. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {1}. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -2938,7 +3094,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, it deals damage to each opponent equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)",
+    "rulesTexts": [
+      "When this creature enters, it deals damage to each opponent equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2980,7 +3138,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{1}, {T}: Put a fate counter on another target creature.\n{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.\n{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards.",
+    "rulesTexts": [
+      "{1}, {T}: Put a fate counter on another target creature.\n{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.\n{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3013,7 +3173,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn. Untap that creature.",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. Untap that creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3046,7 +3208,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature or planeswalker.",
+    "rulesTexts": [
+      "Destroy target creature or planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3087,7 +3251,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "+2: Exile the top three cards of target opponent's library.\n−X: Put a creature card with mana value X exiled with Ashiok onto the battlefield under your control. That creature is a Nightmare in addition to its other types.\n−10: Exile all cards from all opponents' hands and graveyards.",
+    "rulesTexts": [
+      "+2: Exile the top three cards of target opponent's library.\n−X: Put a creature card with mana value X exiled with Ashiok onto the battlefield under your control. That creature is a Nightmare in addition to its other types.\n−10: Exile all cards from all opponents' hands and graveyards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3123,7 +3289,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nDiscard a creature card: This creature gets +2/+2 until end of turn. If this permanent is an Aura, enchanted creature gets +2/+2 until end of turn instead.\nEnchanted creature gets +3/+3.",
+    "rulesTexts": [
+      "Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nDiscard a creature card: This creature gets +2/+2 until end of turn. If this permanent is an Aura, enchanted creature gets +2/+2 until end of turn instead.\nEnchanted creature gets +3/+3."
+    ],
     "keywords": [
       "bestow"
     ],
@@ -3158,7 +3326,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return up to three target creatures your opponents control to their owners' hands. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Return up to three target creatures your opponents control to their owners' hands. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -3195,7 +3365,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +2/+2.",
+    "rulesTexts": [
+      "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +2/+2."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -3230,7 +3402,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "{5}, {T}, Sacrifice this artifact: It deals 3 damage to target creature.",
+    "rulesTexts": [
+      "{5}, {T}, Sacrifice this artifact: It deals 3 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3266,7 +3440,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Protection from multicolored\nWhenever an opponent casts a multicolored spell, you gain 1 life.",
+    "rulesTexts": [
+      "Protection from multicolored\nWhenever an opponent casts a multicolored spell, you gain 1 life."
+    ],
     "keywords": [
       "protection"
     ],
@@ -3303,7 +3479,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Counter target artifact or enchantment spell.",
+    "rulesTexts": [
+      "Counter target artifact or enchantment spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3342,7 +3520,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nWhen this creature enters or dies, exile target permanent.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters or dies, exile target permanent."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3377,7 +3557,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls.",
+    "rulesTexts": [
+      "Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls."
+    ],
     "keywords": [
       "fight"
     ],
@@ -3416,7 +3598,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{G}{W}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nAs long as this creature is monstrous, it has hexproof and indestructible.",
+    "rulesTexts": [
+      "{3}{G}{W}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nAs long as this creature is monstrous, it has hexproof and indestructible."
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -3451,7 +3635,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures each get +1/+1 and gain lifelink until end of turn.",
+    "rulesTexts": [
+      "Up to two target creatures each get +1/+1 and gain lifelink until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3491,7 +3677,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike, vigilance\nHeroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.",
+    "rulesTexts": [
+      "First strike, vigilance\nHeroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn."
+    ],
     "keywords": [
       "vigilance",
       "heroic",
@@ -3530,7 +3718,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Until end of turn, up to two target creatures you control each gain \"Whenever this creature deals combat damage to a player, draw a card.\"",
+    "rulesTexts": [
+      "Until end of turn, up to two target creatures you control each gain \"Whenever this creature deals combat damage to a player, draw a card.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3566,7 +3756,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike\nHeroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.",
+    "rulesTexts": [
+      "Double strike\nHeroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it."
+    ],
     "keywords": [
       "heroic",
       "double strike"
@@ -3602,7 +3794,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.",
+    "rulesTexts": [
+      "Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3635,7 +3829,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Boulderfall deals 5 damage divided as you choose among any number of targets.",
+    "rulesTexts": [
+      "Boulderfall deals 5 damage divided as you choose among any number of targets."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3670,7 +3866,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "rulesTexts": [
+      "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -3708,7 +3906,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{B}: Regenerate this creature.",
+    "rulesTexts": [
+      "{2}{B}: Regenerate this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3744,7 +3944,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature is dealt damage, it deals that much damage to you.\n{1}{R}: This creature gets +1/+0 until end of turn and deals 1 damage to you.",
+    "rulesTexts": [
+      "Whenever this creature is dealt damage, it deals that much damage to you.\n{1}{R}: This creature gets +1/+0 until end of turn and deals 1 damage to you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3780,7 +3982,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhen this creature enters, it gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, it gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -3814,7 +4018,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {U} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {U} or {B}."
+    ],
     "keywords": [
       "scry"
     ],
@@ -3855,7 +4061,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, if you control an enchantment, you gain 3 life.",
+    "rulesTexts": [
+      "When this creature enters, if you control an enchantment, you gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3893,7 +4101,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.",
+    "rulesTexts": [
+      "Whenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3933,7 +4143,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Daxos can't be blocked by creatures with power 3 or greater.\nWhenever Daxos deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's mana value. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.",
+    "rulesTexts": [
+      "Daxos can't be blocked by creatures with power 3 or greater.\nWhenever Daxos deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's mana value. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3966,7 +4178,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures each get +1/+0 and gain first strike until end of turn. (They deal combat damage before creatures without first strike.)",
+    "rulesTexts": [
+      "Up to two target creatures each get +1/+0 and gain first strike until end of turn. (They deal combat damage before creatures without first strike.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3997,7 +4211,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature has \"{1}, {T}: Scry 1.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom.)\nEquip {1}",
+    "rulesTexts": [
+      "Equipped creature has \"{1}, {T}: Scry 1.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom.)\nEquip {1}"
+    ],
     "keywords": [
       "equip",
       "scry"
@@ -4037,7 +4253,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.",
+    "rulesTexts": [
+      "Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4072,7 +4290,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Spark Jolt deals 1 damage to any target. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Spark Jolt deals 1 damage to any target. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -4110,7 +4330,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Tap target creature with power 3 or less.",
+    "rulesTexts": [
+      "{T}: Tap target creature with power 3 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4146,7 +4368,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -4187,7 +4411,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flash\nFlying, trample\nWhenever you draw a card, you gain 1 life.",
+    "rulesTexts": [
+      "Flash\nFlying, trample\nWhenever you draw a card, you gain 1 life."
+    ],
     "keywords": [
       "flying",
       "trample",
@@ -4223,7 +4449,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nFirst strike (This creature deals combat damage before creatures without first strike.)",
+    "rulesTexts": [
+      "Flying\nFirst strike (This creature deals combat damage before creatures without first strike.)"
+    ],
     "keywords": [
       "flying",
       "first strike"
@@ -4258,7 +4486,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{3}, Sacrifice this creature: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4293,7 +4523,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, you gain 10 life.",
+    "rulesTexts": [
+      "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, you gain 10 life."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4333,7 +4565,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Minotaur creatures you control have haste.\nWhenever a Minotaur you control attacks, it gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Minotaur creatures you control have haste.\nWhenever a Minotaur you control attacks, it gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4368,7 +4602,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Exile X target creatures. For each creature exiled this way, its controller creates a 2/2 green Boar creature token.",
+    "rulesTexts": [
+      "Exile X target creatures. For each creature exiled this way, its controller creates a 2/2 green Boar creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4405,7 +4641,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.",
+    "rulesTexts": [
+      "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4438,7 +4676,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)",
+    "rulesTexts": [
+      "Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)"
+    ],
     "keywords": [
       "fight"
     ],
@@ -4473,7 +4713,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target attacking or blocking creature.",
+    "rulesTexts": [
+      "Destroy target attacking or blocking creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4508,7 +4750,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4545,7 +4789,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn.",
+    "rulesTexts": [
+      "Flying\n{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4585,7 +4831,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nWhenever another creature you control enters, Purphoros deals 2 damage to each opponent.\n{2}{R}: Creatures you control get +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nWhenever another creature you control enters, Purphoros deals 2 damage to each opponent.\n{2}{R}: Creatures you control get +1/+0 until end of turn."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -4620,7 +4868,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -4659,7 +4909,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample, protection from enchantments\n{4}{R}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhenever this creature deals combat damage to a player, if this creature is monstrous, destroy target enchantment that player controls.",
+    "rulesTexts": [
+      "Trample, protection from enchantments\n{4}{R}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhenever this creature deals combat damage to a player, if this creature is monstrous, destroy target enchantment that player controls."
+    ],
     "keywords": [
       "protection",
       "trample",
@@ -4698,7 +4950,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -4735,7 +4989,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\n{3}{W}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nAs long as this creature is monstrous, it has reach and can block an additional ninety-nine creatures each combat.",
+    "rulesTexts": [
+      "Vigilance\n{3}{W}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nAs long as this creature is monstrous, it has reach and can block an additional ninety-nine creatures each combat."
+    ],
     "keywords": [
       "vigilance",
       "monstrosity"
@@ -4774,7 +5030,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target player reveals a number of cards from their hand equal to your devotion to black. You choose one of them. That player discards that card. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+    "rulesTexts": [
+      "When this creature enters, target player reveals a number of cards from their hand equal to your devotion to black. You choose one of them. That player discards that card. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4811,7 +5069,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {3}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nReach\nEnchanted creature gets +2/+2 and has reach.",
+    "rulesTexts": [
+      "Bestow {3}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nReach\nEnchanted creature gets +2/+2 and has reach."
+    ],
     "keywords": [
       "reach",
       "bestow"
@@ -4845,7 +5105,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4884,7 +5146,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender (This creature can't attack.)",
+    "rulesTexts": [
+      "Defender (This creature can't attack.)"
+    ],
     "keywords": [
       "defender"
     ],
@@ -4922,7 +5186,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {4}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nEnchanted creature gets +1/+1 and has deathtouch.",
+    "rulesTexts": [
+      "Bestow {4}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nEnchanted creature gets +1/+1 and has deathtouch."
+    ],
     "keywords": [
       "bestow",
       "deathtouch"
@@ -4963,7 +5229,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able.",
+    "rulesTexts": [
+      "Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4999,7 +5267,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap another target creature you control.",
+    "rulesTexts": [
+      "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap another target creature you control."
+    ],
     "keywords": [
       "flash"
     ],
@@ -5037,7 +5307,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{R}, Sacrifice this creature: Add {R}{R}{R}.",
+    "rulesTexts": [
+      "{R}, Sacrifice this creature: Add {R}{R}{R}."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -5078,7 +5350,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Attacking creatures you control have deathtouch.\n{1}{G}, {T}: Choose one —\n• Put a +1/+1 counter on target creature.\n• Bow of Nylea deals 2 damage to target creature with flying.\n• You gain 3 life.\n• Put up to four target cards from your graveyard on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Attacking creatures you control have deathtouch.\n{1}{G}, {T}: Choose one —\n• Put a +1/+1 counter on target creature.\n• Bow of Nylea deals 2 damage to target creature with flying.\n• You gain 3 life.\n• Put up to four target cards from your graveyard on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5113,7 +5387,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Magma Jet deals 2 damage to any target. Scry 2.",
+    "rulesTexts": [
+      "Magma Jet deals 2 damage to any target. Scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -5150,7 +5426,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -5191,7 +5469,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{2}{R}, Sacrifice this creature: It deals 2 damage to any target.",
+    "rulesTexts": [
+      "{2}{R}, Sacrifice this creature: It deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5226,7 +5506,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target white permanent.",
+    "rulesTexts": [
+      "Exile target white permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5259,7 +5541,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature with power 4 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Destroy target creature with power 4 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -5294,7 +5578,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5331,7 +5617,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nWhen enchanted creature dies, its controller draws a card.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, draw a card.\nWhen enchanted creature dies, its controller draws a card."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5370,7 +5658,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\n{1}{U}: This creature can attack this turn as though it didn't have defender.",
+    "rulesTexts": [
+      "Defender\n{1}{U}: This creature can attack this turn as though it didn't have defender."
+    ],
     "keywords": [
       "defender"
     ],
@@ -5407,7 +5697,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature has trample and haste.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature has trample and haste."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5446,7 +5738,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way.",
+    "rulesTexts": [
+      "{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5482,7 +5776,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+    "rulesTexts": [
+      "When this creature enters, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5517,7 +5813,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return up to two target creature cards from your graveyard to your hand.",
+    "rulesTexts": [
+      "Return up to two target creature cards from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5550,7 +5848,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -5588,7 +5888,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5624,7 +5926,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, you gain 2 life.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, you gain 2 life."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -5664,7 +5968,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this creature enters, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it. Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+    "rulesTexts": [
+      "When this creature enters, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it. Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5699,7 +6005,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, target player discards two cards.",
+    "rulesTexts": [
+      "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, target player discards two cards."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5739,7 +6047,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5774,7 +6084,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nDiscard a card: This creature gains hexproof until end of turn. Tap it.\nWhenever this creature attacks, scry 3.",
+    "rulesTexts": [
+      "Flying\nDiscard a card: This creature gains hexproof until end of turn. Tap it.\nWhenever this creature attacks, scry 3."
+    ],
     "keywords": [
       "scry",
       "flying"
@@ -5813,7 +6125,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nFlying, first strike\nEnchanted creature gets +4/+4 and has flying and first strike.",
+    "rulesTexts": [
+      "Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nFlying, first strike\nEnchanted creature gets +4/+4 and has flying and first strike."
+    ],
     "keywords": [
       "flying",
       "first strike",
@@ -5850,7 +6164,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -5885,7 +6201,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put target creature on top of its owner's library.",
+    "rulesTexts": [
+      "Put target creature on top of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5923,7 +6241,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, create a 1/1 red Soldier creature token with haste. (It can attack and {T} as soon as it comes under your control.)",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, create a 1/1 red Soldier creature token with haste. (It can attack and {T} as soon as it comes under your control.)"
+    ],
     "keywords": [
       "heroic"
     ],
@@ -5962,7 +6282,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant Mountain you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield. (That creature returns under its owner's control.)",
+    "rulesTexts": [
+      "Enchant Mountain you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield. (That creature returns under its owner's control.)"
+    ],
     "keywords": [
       "enchant"
     ],
@@ -6000,7 +6322,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, you may have this creature become a copy of target creature, except it has this ability.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, you may have this creature become a copy of target creature, except it has this ability."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -6039,7 +6363,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\n{6}{B}{B}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Hythonia becomes monstrous, destroy all non-Gorgon creatures.",
+    "rulesTexts": [
+      "Deathtouch\n{6}{B}{B}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Hythonia becomes monstrous, destroy all non-Gorgon creatures."
+    ],
     "keywords": [
       "monstrosity",
       "deathtouch"
@@ -6075,7 +6401,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)\nScry 1.",
+    "rulesTexts": [
+      "Target creature you control gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)\nScry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -6112,7 +6440,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)"
+    ],
     "keywords": [
       "scry",
       "flying"
@@ -6150,7 +6480,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6187,7 +6519,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\n{5}{B}{B}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nWhen this creature becomes monstrous, destroy target non-Gorgon creature an opponent controls.",
+    "rulesTexts": [
+      "Deathtouch\n{5}{B}{B}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nWhen this creature becomes monstrous, destroy target non-Gorgon creature an opponent controls."
+    ],
     "keywords": [
       "monstrosity",
       "deathtouch"
@@ -6226,7 +6560,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may tap target creature.",
+    "rulesTexts": [
+      "When this creature enters, you may tap target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6261,7 +6597,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+    "rulesTexts": [
+      "When this creature enters, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6298,7 +6636,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature attacks each combat if able.\n{2}{B}: Regenerate this creature.",
+    "rulesTexts": [
+      "This creature attacks each combat if able.\n{2}{B}: Regenerate this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6333,7 +6673,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -6370,7 +6712,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6405,7 +6749,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or enchantment. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "rulesTexts": [
+      "Destroy target artifact or enchantment. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -6440,7 +6786,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target enchantment. You gain 3 life.",
+    "rulesTexts": [
+      "Destroy target enchantment. You gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6479,7 +6827,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever Medomai deals combat damage to a player, take an extra turn after this one.\nMedomai can't attack during extra turns.",
+    "rulesTexts": [
+      "Flying\nWhenever Medomai deals combat damage to a player, take an extra turn after this one.\nMedomai can't attack during extra turns."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6517,7 +6867,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you scry, this creature gets +2/+0 and gains first strike until end of turn.",
+    "rulesTexts": [
+      "Whenever you scry, this creature gets +2/+0 and gains first strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6552,7 +6904,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature can't be blocked.\nWhenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature can't be blocked.\nWhenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "enchant",
       "scry"
@@ -6590,7 +6944,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -4/-4 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets -4/-4 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6622,7 +6978,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6658,7 +7016,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, create a number of 1/1 white Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",
+    "rulesTexts": [
+      "When this creature enters, create a number of 1/1 white Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6693,7 +7053,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Lightning Strike deals 3 damage to any target.",
+    "rulesTexts": [
+      "Lightning Strike deals 3 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6729,7 +7091,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.",
+    "rulesTexts": [
+      "{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6764,7 +7128,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -6801,7 +7167,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Pharika's Cure deals 2 damage to target creature and you gain 2 life.",
+    "rulesTexts": [
+      "Pharika's Cure deals 2 damage to target creature and you gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6832,7 +7200,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature can't be blocked except by Walls.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature can't be blocked except by Walls.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6870,7 +7240,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters tapped.\nHeroic — Whenever you cast a spell that targets this creature, each opponent loses 1 life. You gain life equal to the life lost this way.",
+    "rulesTexts": [
+      "This creature enters tapped.\nHeroic — Whenever you cast a spell that targets this creature, each opponent loses 1 life. You gain life equal to the life lost this way."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -6905,7 +7277,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all combat damage that would be dealt to players this turn.",
+    "rulesTexts": [
+      "Prevent all combat damage that would be dealt to players this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6942,7 +7316,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This spell costs {1} less to cast for each creature card in your graveyard.\n{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)",
+    "rulesTexts": [
+      "This spell costs {1} less to cast for each creature card in your graveyard.\n{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)"
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -6982,7 +7358,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets Anthousa, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets Anthousa, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -7021,7 +7399,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{U}: This creature can't be blocked this turn.",
+    "rulesTexts": [
+      "{2}{U}: This creature can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7056,7 +7436,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample",
+    "rulesTexts": [
+      "Trample"
+    ],
     "keywords": [
       "trample"
     ],
@@ -7090,7 +7472,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -7136,7 +7520,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Indestructible\nAs long as your devotion to black is less than five, Erebos isn't a creature. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nYour opponents can't gain life.\n{1}{B}, Pay 2 life: Draw a card.",
+    "rulesTexts": [
+      "Indestructible\nAs long as your devotion to black is less than five, Erebos isn't a creature. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nYour opponents can't gain life.\n{1}{B}, Pay 2 life: Draw a card."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -7173,7 +7559,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\n{5}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)",
+    "rulesTexts": [
+      "Trample\n{5}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+    ],
     "keywords": [
       "trample",
       "monstrosity"
@@ -7211,7 +7599,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, each player loses 1 life.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, each player loses 1 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7248,7 +7638,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender, hexproof\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "Defender, hexproof\n{T}: Add one mana of any color."
+    ],
     "keywords": [
       "hexproof",
       "defender"
@@ -7295,7 +7687,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)\nAt the beginning of your upkeep, scry 1.\n{1}{U}: Target creature you control can't be blocked this turn.",
+    "rulesTexts": [
+      "Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)\nAt the beginning of your upkeep, scry 1.\n{1}{U}: Target creature you control can't be blocked this turn."
+    ],
     "keywords": [
       "indestructible",
       "scry"
@@ -7333,7 +7727,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -7372,7 +7768,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature gets +0/+2.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature gets +0/+2."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -7410,7 +7808,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7447,7 +7847,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\"",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\""
+    ],
     "keywords": [
       "enchant"
     ],
@@ -7484,7 +7886,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "rulesTexts": [
+      "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -7517,7 +7921,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}: Each player exiles the top card of their library face down.\n{7}, {T}, Sacrifice this artifact: Each player turns face up all cards they own exiled with this artifact, then puts all permanent cards among them onto the battlefield.",
+    "rulesTexts": [
+      "{T}: Each player exiles the top card of their library face down.\n{7}, {T}, Sacrifice this artifact: Each player turns face up all cards they own exiled with this artifact, then puts all permanent cards among them onto the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7552,7 +7958,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7587,7 +7995,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7629,7 +8039,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, draw a card if you control a creature with a +1/+1 counter on it.",
+    "rulesTexts": [
+      "When this creature enters, draw a card if you control a creature with a +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7664,7 +8076,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\n{3}{G}{G}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, destroy target creature with flying an opponent controls.",
+    "rulesTexts": [
+      "Reach\n{3}{G}{G}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, destroy target creature with flying an opponent controls."
+    ],
     "keywords": [
       "reach",
       "monstrosity"
@@ -7703,7 +8117,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nHeroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Flying\nHeroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "flying",
       "heroic"
@@ -7741,7 +8157,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard.",
+    "rulesTexts": [
+      "Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7777,7 +8195,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bestow {4}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nVigilance\nEnchanted creature gets +2/+2 and has vigilance.",
+    "rulesTexts": [
+      "Bestow {4}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nVigilance\nEnchanted creature gets +2/+2 and has vigilance."
+    ],
     "keywords": [
       "vigilance",
       "bestow"
@@ -7815,7 +8235,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Heroic — Whenever you cast a spell that targets this creature, target creature an opponent controls can't block this turn.",
+    "rulesTexts": [
+      "Heroic — Whenever you cast a spell that targets this creature, target creature an opponent controls can't block this turn."
+    ],
     "keywords": [
       "heroic"
     ],
@@ -7853,7 +8275,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{G}: Target creature must be blocked this turn if able.",
+    "rulesTexts": [
+      "{3}{G}: Target creature must be blocked this turn if able."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7888,7 +8312,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, each player sacrifices three lands of their choice.",
+    "rulesTexts": [
+      "{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen this creature becomes monstrous, each player sacrifices three lands of their choice."
+    ],
     "keywords": [
       "monstrosity"
     ],
@@ -7928,7 +8354,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nIntimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEnchanted creature gets +2/+2 and has intimidate.",
+    "rulesTexts": [
+      "Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nIntimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nEnchanted creature gets +2/+2 and has intimidate."
+    ],
     "keywords": [
       "bestow",
       "intimidate"
@@ -7967,7 +8395,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Exile target artifact or enchantment.",
+    "rulesTexts": [
+      "Exile target artifact or enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8002,7 +8432,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -8039,7 +8471,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8074,7 +8508,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures each get +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Up to two target creatures each get +2/+2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8107,7 +8543,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target blue spell.",
+    "rulesTexts": [
+      "Counter target blue spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8144,7 +8582,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant land\nWhen this Aura enters, draw a card.\nEnchanted land is every basic land type in addition to its other types.",
+    "rulesTexts": [
+      "Enchant land\nWhen this Aura enters, draw a card.\nEnchanted land is every basic land type in addition to its other types."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8181,7 +8621,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -8220,7 +8662,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this creature enters, you may destroy target artifact.",
+    "rulesTexts": [
+      "When this creature enters, you may destroy target artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8255,7 +8699,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8297,7 +8743,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nOther creatures you control have vigilance.\n{2}{W}{W}: Create a 2/1 white Cleric enchantment creature token.",
+    "rulesTexts": [
+      "Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nOther creatures you control have vigilance.\n{2}{W}{W}: Create a 2/1 white Cleric enchantment creature token."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -8334,7 +8782,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -8370,7 +8820,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Defender\nWhen this creature enters, an opponent gains control of it.\nAt the beginning of your upkeep, each opponent creates a 1/1 white Soldier creature token.",
+    "rulesTexts": [
+      "Defender\nWhen this creature enters, an opponent gains control of it.\nAt the beginning of your upkeep, each opponent creates a 1/1 white Soldier creature token."
+    ],
     "keywords": [
       "defender"
     ],
@@ -8408,7 +8860,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nHeroic — Whenever you cast a spell that targets this creature, each opponent sacrifices a creature of their choice.",
+    "rulesTexts": [
+      "Deathtouch\nHeroic — Whenever you cast a spell that targets this creature, each opponent sacrifices a creature of their choice."
+    ],
     "keywords": [
       "heroic",
       "deathtouch"
@@ -8444,7 +8898,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.",
+    "rulesTexts": [
+      "Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8481,7 +8937,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature gets +1/+0.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature gets +1/+0."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8519,7 +8977,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8556,7 +9016,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Each Human creature you control has \"{R}, {T}: This creature deals 1 damage to any target.\"",
+    "rulesTexts": [
+      "Each Human creature you control has \"{R}, {T}: This creature deals 1 damage to any target.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8589,7 +9051,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8626,7 +9090,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, it deals 3 damage to any target.",
+    "rulesTexts": [
+      "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, it deals 3 damage to any target."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8663,7 +9129,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying.",
+    "rulesTexts": [
+      "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8698,7 +9166,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -8738,7 +9208,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Indestructible\nAs long as your devotion to green is less than five, Nylea isn't a creature. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)\nOther creatures you control have trample.\n{3}{G}: Target creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "Indestructible\nAs long as your devotion to green is less than five, Nylea isn't a creature. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)\nOther creatures you control have trample.\n{3}{G}: Target creature gets +2/+2 until end of turn."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -8776,7 +9248,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "rulesTexts": [
+      "When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -8813,7 +9287,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8854,7 +9330,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, you may return target creature or enchantment card from your graveyard to your hand.",
+    "rulesTexts": [
+      "When this creature enters, you may return target creature or enchantment card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8890,7 +9368,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nBestow {3}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nEnchanted creature gets +4/+2.",
+    "rulesTexts": [
+      "Flash\nBestow {3}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nEnchanted creature gets +4/+2."
+    ],
     "keywords": [
       "bestow",
       "flash"
@@ -8931,7 +9411,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Bestow {5}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nWhenever this creature or enchanted creature deals combat damage to a player, draw a card.\nEnchanted creature gets +3/+3.",
+    "rulesTexts": [
+      "Bestow {5}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)\nWhenever this creature or enchanted creature deals combat damage to a player, draw a card.\nEnchanted creature gets +3/+3."
+    ],
     "keywords": [
       "bestow"
     ],
@@ -8968,7 +9450,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike (This creature deals both first-strike and regular combat damage.)",
+    "rulesTexts": [
+      "Double strike (This creature deals both first-strike and regular combat damage.)"
+    ],
     "keywords": [
       "double strike"
     ],
@@ -9005,7 +9489,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Flying\nWhenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry",
       "flying"
@@ -9045,7 +9531,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, draw two cards.",
+    "rulesTexts": [
+      "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, draw two cards."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -9082,7 +9570,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample",
+    "rulesTexts": [
+      "Trample"
+    ],
     "keywords": [
       "trample"
     ],
@@ -9119,7 +9609,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9158,7 +9650,9 @@
     "toughness": null,
     "loyalty": 4,
     "tags": [],
-    "oracleText": "+1: Create three 1/1 white Soldier creature tokens.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\"",
+    "rulesTexts": [
+      "+1: Create three 1/1 white Soldier creature tokens.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9194,7 +9688,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nOther Minotaur creatures you control get +1/+1 and have trample.",
+    "rulesTexts": [
+      "Trample\nOther Minotaur creatures you control get +1/+1 and have trample."
+    ],
     "keywords": [
       "trample"
     ],
@@ -9225,7 +9721,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",

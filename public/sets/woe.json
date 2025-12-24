@@ -27,7 +27,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying",
+      "Target creature gets -4/-0 until end of turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -63,7 +66,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nOther creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying.",
+    "rulesTexts": [
+      "Flying\nOther creatures you control that are enchanted by Auras you control have base power and toughness 4/4 and have flying."
+    ],
     "keywords": [
       "flying"
     ],
@@ -101,7 +106,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCelebration — This creature gets +1/+0 and has lifelink as long as two or more nonland permanents entered the battlefield under your control this turn.",
+    "rulesTexts": [
+      "Flying\nCelebration — This creature gets +1/+0 and has lifelink as long as two or more nonland permanents entered the battlefield under your control this turn."
+    ],
     "keywords": [
       "flying",
       "celebration"
@@ -138,7 +145,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "You may spend mana as though it were mana of any color to activate abilities of creatures you control.\nCreatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.\n{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control.",
+    "rulesTexts": [
+      "You may spend mana as though it were mana of any color to activate abilities of creatures you control.\nCreatures you control with +1/+1 counters on them have all activated abilities of all creature cards exiled with Agatha's Soul Cauldron.\n{T}: Exile target card from a graveyard. When a creature card is exiled this way, put a +1/+1 counter on target creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -174,7 +183,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may return another target nonland permanent you control to its owner's hand. If you do, scry 2.",
+    "rulesTexts": [
+      "When this creature enters, you may return another target nonland permanent you control to its owner's hand. If you do, scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -212,7 +223,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.",
+    "rulesTexts": [
+      "When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -248,7 +261,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control.",
+    "rulesTexts": [
+      "Regal Bunnicorn's power and toughness are each equal to the number of nonland permanents you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -289,7 +304,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying, vigilance, ward {1}",
+    "rulesTexts": [
+      "Flying, vigilance, ward {1}",
+      "Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -328,7 +346,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn.\nWhenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Whenever one or more artifacts you control enter, put two +1/+1 counters on this creature. This ability triggers only once each turn.\nWhenever one or more enchantments you control enter, draw a card. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -365,7 +385,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "You may discard a card. If you do, draw two cards.\nCreate a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",
+    "rulesTexts": [
+      "You may discard a card. If you do, draw two cards.\nCreate a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -403,7 +425,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -438,7 +462,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste (This creature can attack and {T} as soon as it comes under your control.)\n{1}: This creature can't be blocked this turn except by creatures with haste.\n{2}, {T}, Sacrifice this creature: You gain 3 life.",
+    "rulesTexts": [
+      "Haste (This creature can attack and {T} as soon as it comes under your control.)\n{1}: This creature can't be blocked this turn except by creatures with haste.\n{2}, {T}, Sacrifice this creature: You gain 3 life."
+    ],
     "keywords": [
       "haste"
     ],
@@ -479,7 +505,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{1}, Sacrifice a Food: This creature gets +2/+2 until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "{1}, Sacrifice a Food: This creature gets +2/+2 until end of turn. Activate only once each turn.",
+      "Create a Food token. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -517,7 +546,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nKellan's Lightblades deals 3 damage to target attacking or blocking creature. If this spell was bargained, destroy that creature instead.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nKellan's Lightblades deals 3 damage to target attacking or blocking creature. If this spell was bargained, destroy that creature instead."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -555,7 +586,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy target creature with mana value 3 or less. If it's your turn, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Destroy target creature with mana value 3 or less. If it's your turn, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -595,7 +628,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Create a 1/1 white Mouse creature token.\nII, III — Create a token that's a copy of target token you control.\nIV — Creatures you control get +1/+1 and gain vigilance until end of turn.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI — Create a 1/1 white Mouse creature token.\nII, III — Create a token that's a copy of target token you control.\nIV — Creatures you control get +1/+1 and gain vigilance until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -635,7 +670,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste.\nIII — Sacrifice all Reflections you control.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Choose target nontoken creature you control that doesn't have the same name as a token you control. Create a token that's a copy of it, except it isn't legendary, is a Reflection in addition to its other types, and has haste.\nIII — Sacrifice all Reflections you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -668,7 +705,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose a number between 0 and 10. Destroy all creatures with power greater than or equal to the chosen number.",
+    "rulesTexts": [
+      "Choose a number between 0 and 10. Destroy all creatures with power greater than or equal to the chosen number."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -708,7 +747,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "",
+    "rulesTexts": [
+      "",
+      "Tap target creature. Create a Cursed Role token attached to it. (Enchanted creature is 1/1.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -743,7 +785,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "When this artifact enters, exile target card from a graveyard.\n{T}, Sacrifice this artifact: Exile each opponent's graveyard.\n{1}, {T}, Sacrifice this artifact: Draw a card.",
+    "rulesTexts": [
+      "When this artifact enters, exile target card from a graveyard.\n{T}, Sacrifice this artifact: Exile each opponent's graveyard.\n{1}, {T}, Sacrifice this artifact: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -781,7 +825,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creature tokens you control get +1/+1.",
+    "rulesTexts": [
+      "Creature tokens you control get +1/+1.",
+      "Target creature you control gains vigilance and gets +X/+X until end of turn, where X is the number of creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -825,7 +872,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever Totentanz or another nontoken creature you control dies, create a 1/1 black Rat creature token with \"This token can't block.\"\n{1}{B}: Target attacking Rat you control gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "Whenever Totentanz or another nontoken creature you control dies, create a 1/1 black Rat creature token with \"This token can't block.\"\n{1}{B}: Target attacking Rat you control gains deathtouch until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -863,7 +912,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent.",
+    "rulesTexts": [
+      "Whenever an instant or sorcery spell you control that targets only a single creature deals damage to that creature, Imodane deals that much damage to each opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -903,7 +954,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\n{T}: Spells you cast this turn that are white and/or blue cost {X} less to cast, where X is the amount of life you gained this turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Vigilance\n{T}: Spells you cast this turn that are white and/or blue cost {X} less to cast, where X is the amount of life you gained this turn. Activate only as a sorcery."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -945,7 +998,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this creature: Draw a card. Create a Sorcerer Role token attached to up to one other target creature you control. Activate only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")",
+    "rulesTexts": [
+      "{1}, Sacrifice this creature: Draw a card. Create a Sorcerer Role token attached to up to one other target creature you control. Activate only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")"
+    ],
     "keywords": [
       "role token",
       "scry"
@@ -984,7 +1039,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nSearch your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nSearch your library for a card, exile it face down, then shuffle. If this spell was bargained, you may cast the exiled card without paying its mana cost if that spell's mana value is 4 or less. Put the exiled card into your hand if it wasn't cast this way."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -1023,7 +1080,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTarget creature gets -3/-3 until end of turn. If this spell was bargained, that creature gets -5/-5 until end of turn instead.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTarget creature gets -3/-3 until end of turn. If this spell was bargained, that creature gets -5/-5 until end of turn instead."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -1063,7 +1122,10 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach",
+    "rulesTexts": [
+      "Reach",
+      "You may play an additional land this turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1106,7 +1168,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nThe Goose Mother enters with X +1/+1 counters on it.\nWhen The Goose Mother enters, create half X Food tokens, rounded up.\nWhenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card.",
+    "rulesTexts": [
+      "Flying\nThe Goose Mother enters with X +1/+1 counters on it.\nWhen The Goose Mother enters, create half X Food tokens, rounded up.\nWhenever The Goose Mother attacks, you may sacrifice a Food. If you do, draw a card."
+    ],
     "keywords": [
       "flying",
       "food"
@@ -1145,7 +1209,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Artifacts you control have \"{2}, Sacrifice this artifact: It deals damage to any target equal to 1 plus the number of permanents named Food Fight you control.\"",
+    "rulesTexts": [
+      "Artifacts you control have \"{2}, Sacrifice this artifact: It deals damage to any target equal to 1 plus the number of permanents named Food Fight you control.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1180,7 +1246,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this artifact enters, scry 2.\n{2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.",
+    "rulesTexts": [
+      "When this artifact enters, scry 2.\n{2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1215,7 +1283,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap target creature an opponent controls and put three stun counters on it. Scry 2. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "Tap target creature an opponent controls and put three stun counters on it. Scry 2. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -1252,7 +1322,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -1289,7 +1361,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -1329,7 +1403,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nIf this spell was bargained, look at the top four cards of your library, then put up to two of them back on top of your library in any order and the rest into your graveyard.\nYou draw two cards and you lose 2 life.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nIf this spell was bargained, look at the top four cards of your library, then put up to two of them back on top of your library in any order and the rest into your graveyard.\nYou draw two cards and you lose 2 life."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -1369,7 +1445,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Haste\nWhen this creature dies, create a 1/1 black Rat creature token with \"This token can't block.\"",
+    "rulesTexts": [
+      "Haste\nWhen this creature dies, create a 1/1 black Rat creature token with \"This token can't block.\""
+    ],
     "keywords": [
       "haste"
     ],
@@ -1408,7 +1486,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      "",
+      "Target creature you control gets +1/+1 until end of turn. It can't be blocked by creatures with power 3 or greater this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1441,7 +1522,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1486,7 +1569,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this creature enters, choose one —\n• Create a 1/1 black Rat creature token with \"This token can't block.\"\n• You may sacrifice another creature. If you do, scry 2, then draw a card.\n• Creatures you control gain menace until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, choose one —\n• Create a 1/1 black Rat creature token with \"This token can't block.\"\n• You may sacrifice another creature. If you do, scry 2, then draw a card.\n• Creatures you control gain menace until end of turn."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1521,7 +1606,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +1/+0 and gains first strike until end of turn. Scry 1.",
+    "rulesTexts": [
+      "Target creature gets +1/+0 and gains first strike until end of turn. Scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1556,7 +1643,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell unless its controller pays {2} plus an additional {1} for each Faerie you control.",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {2} plus an additional {1} for each Faerie you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1591,7 +1680,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\nAt the beginning of combat on your turn, if you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn and can attack this turn as though it didn't have defender.",
+    "rulesTexts": [
+      "Defender\nAt the beginning of combat on your turn, if you control a creature with power 4 or greater, this creature gets +1/+0 until end of turn and can attack this turn as though it didn't have defender."
+    ],
     "keywords": [
       "defender"
     ],
@@ -1628,7 +1719,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 black Rat creature token with \"This token can't block.\"",
+    "rulesTexts": [
+      "Creatures you control get +2/+0 until end of turn. Whenever a nontoken creature you control dies this turn, create a 1/1 black Rat creature token with \"This token can't block.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1665,7 +1758,10 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste",
+    "rulesTexts": [
+      "Haste",
+      "Up to two target creatures can't block this turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1704,7 +1800,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 3/3 green Beast creature token.\nII — You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle.\nIII — Up to two target creatures each get +2/+2 and gain trample until end of turn.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 3/3 green Beast creature token.\nII — You may sacrifice a creature. If you do, search your library for a creature or basic land card, reveal it, put it into your hand, then shuffle.\nIII — Up to two target creatures each get +2/+2 and gain trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1737,7 +1835,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +1/+3 and gains reach until end of turn. Untap it.",
+    "rulesTexts": [
+      "Target creature gets +1/+3 and gains reach until end of turn. Untap it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1773,7 +1873,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this enchantment enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nFoods you control have \"{T}: Add {G}.\"\n{5}{G}{G}, Sacrifice this enchantment: Creatures you control get +X/+X until end of turn, where X is the number of Foods you control. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this enchantment enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nFoods you control have \"{T}: Add {G}.\"\n{5}{G}{G}, Sacrifice this enchantment: Creatures you control get +X/+X until end of turn, where X is the number of Foods you control. Activate only as a sorcery."
+    ],
     "keywords": [
       "food"
     ],
@@ -1812,7 +1914,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token.",
+    "rulesTexts": [
+      "Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1853,7 +1957,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Flying\n{T}: Draw a card, then discard a card.\n{X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Flying\n{T}: Draw a card, then discard a card.\n{X}: This creature becomes a copy of target creature card in your graveyard with mana value X, except it has flying and this ability. Activate only as a sorcery."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1891,7 +1997,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this creature enters, scry 2.",
+    "rulesTexts": [
+      "Flying\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this creature enters, scry 2."
+    ],
     "keywords": [
       "scry",
       "flying",
@@ -1930,7 +2038,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this enchantment enters, each opponent discards a card and loses 2 life.\nWhen this enchantment is put into a graveyard from the battlefield, scry 2.\n{2}{B}: Sacrifice this enchantment.",
+    "rulesTexts": [
+      "When this enchantment enters, each opponent discards a card and loses 2 life.\nWhen this enchantment is put into a graveyard from the battlefield, scry 2.\n{2}{B}: Sacrifice this enchantment."
+    ],
     "keywords": [
       "scry"
     ],
@@ -1976,7 +2086,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When Greta enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery.\n{1}{B}, Sacrifice a Food: You draw a card and you lose 1 life.",
+    "rulesTexts": [
+      "When Greta enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{G}, Sacrifice a Food: Put a +1/+1 counter on target creature. Activate only as a sorcery.\n{1}{B}, Sacrifice a Food: You draw a card and you lose 1 life."
+    ],
     "keywords": [
       "food"
     ],
@@ -2013,7 +2125,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this enchantment enters and whenever you cast a spell with mana value 5 or greater, draw a card.",
+    "rulesTexts": [
+      "When this enchantment enters and whenever you cast a spell with mana value 5 or greater, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2052,7 +2166,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a Monster Role token attached to it. (Enchanted creature gets +1/+1 and has trample.)\n{1}, Sacrifice an Aura attached to this creature: This creature fights target creature you don't control. If that creature would die this turn, exile it instead. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this creature enters, create a Monster Role token attached to it. (Enchanted creature gets +1/+1 and has trample.)\n{1}, Sacrifice an Aura attached to this creature: This creature fights target creature you don't control. If that creature would die this turn, exile it instead. Activate only as a sorcery."
+    ],
     "keywords": [
       "role token",
       "fight"
@@ -2091,7 +2207,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a Rat you control becomes blocked, it gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Whenever a Rat you control becomes blocked, it gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2127,7 +2245,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, ward {2}\nThis creature enters tapped with three stun counters on it. (If it would become untapped, remove a stun counter from it instead.)\n{1}{U}: Untap this creature.",
+    "rulesTexts": [
+      "Flying, ward {2}\nThis creature enters tapped with three stun counters on it. (If it would become untapped, remove a stun counter from it instead.)\n{1}{U}: Untap this creature."
+    ],
     "keywords": [
       "flying",
       "ward"
@@ -2167,7 +2287,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nThis spell costs {2} less to cast if it's bargained.\nReturn target nonland permanent to its owner's hand. Draw a card.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nThis spell costs {2} less to cast if it's bargained.\nReturn target nonland permanent to its owner's hand. Draw a card."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -2209,7 +2331,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying, trample\nWhenever this creature attacks, create a Treasure token.",
+    "rulesTexts": [
+      "Flying, trample\nWhenever this creature attacks, create a Treasure token.",
+      "Exile the top two cards of target opponent's library face down. You may look at and play those cards for as long as they remain exiled."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2248,7 +2373,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control.",
+    "rulesTexts": [
+      "Flying\nWhenever you attack with one or more Faeries, draw a card, then discard a card. When you discard a card this way, put a +1/+1 counter on target Faerie you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2286,7 +2413,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\nCreate a Wicked Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",
+    "rulesTexts": [
+      "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\nCreate a Wicked Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -2326,7 +2455,10 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Cruel Somnophage's power and toughness are each equal to the number of creature cards in all graveyards.",
+    "rulesTexts": [
+      "Cruel Somnophage's power and toughness are each equal to the number of creature cards in all graveyards.",
+      "Target player mills four cards. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2364,7 +2496,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever an Aura you control enters, draw a card.",
+    "rulesTexts": [
+      "Whenever an Aura you control enters, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2402,7 +2536,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Lifelink\nWhen this creature enters, create a Cursed Role token attached to it. (Enchanted creature is 1/1.)",
+    "rulesTexts": [
+      "Lifelink\nWhen this creature enters, create a Cursed Role token attached to it. (Enchanted creature is 1/1.)"
+    ],
     "keywords": [
       "lifelink",
       "role token"
@@ -2437,7 +2573,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\n{1}: Add one mana of any color. Activate only once each turn.",
+    "rulesTexts": [
+      "Reach\n{1}: Add one mana of any color. Activate only once each turn."
+    ],
     "keywords": [
       "reach"
     ],
@@ -2481,7 +2619,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\n{T}: This creature deals 1 damage to each opponent.\nWhenever you cast an instant or sorcery spell, untap this creature.",
+    "rulesTexts": [
+      "Defender\n{T}: This creature deals 1 damage to each opponent.\nWhenever you cast an instant or sorcery spell, untap this creature."
+    ],
     "keywords": [
       "defender"
     ],
@@ -2527,7 +2667,10 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nPermanent spells you cast that have an Adventure cost {1} less to cast.",
+    "rulesTexts": [
+      "Trample\nPermanent spells you cast that have an Adventure cost {1} less to cast.",
+      "Mill seven cards. Then put all cards that have an Adventure from among the milled cards into your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2567,7 +2710,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",
+    "rulesTexts": [
+      "When this creature enters, create a Cursed Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -2602,7 +2747,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all damage that would be dealt to you and creatures you control this turn by creatures.",
+    "rulesTexts": [
+      "Prevent all damage that would be dealt to you and creatures you control this turn by creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2642,7 +2789,10 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature dies, put it on the bottom of its owner's library.",
+    "rulesTexts": [
+      "When this creature dies, put it on the bottom of its owner's library.",
+      "Return target creature card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2680,7 +2830,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this creature enters, exile up to one other target non-Fox creature until this creature leaves the battlefield.\n{1}{W}, Sacrifice this creature: You gain 2 life.",
+    "rulesTexts": [
+      "Flash\nWhen this creature enters, exile up to one other target non-Fox creature until this creature leaves the battlefield.\n{1}{W}, Sacrifice this creature: You gain 2 life."
+    ],
     "keywords": [
       "flash"
     ],
@@ -2715,7 +2867,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +4/+4 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +4/+4 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2753,7 +2907,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {G}.\n{1}{G}, {T}, Discard a card: Return this creature to its owner's hand.",
+    "rulesTexts": [
+      "{T}: Add {G}.\n{1}{G}, {T}, Discard a card: Return this creature to its owner's hand.",
+      "Mill seven cards. Then put a creature, enchantment, or land card from among the milled cards onto the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2793,7 +2950,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target creature an opponent controls with mana value 2 or less.\nII — Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nIII — Create a Wicked Role token attached to target creature you control.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target creature an opponent controls with mana value 2 or less.\nII — Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nIII — Create a Wicked Role token attached to target creature you control."
+    ],
     "keywords": [
       "role token",
       "food"
@@ -2831,7 +2990,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2868,7 +3029,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Celebration — This creature gets +0/+2 as long as two or more nonland permanents entered the battlefield under your control this turn.",
+    "rulesTexts": [
+      "Celebration — This creature gets +0/+2 as long as two or more nonland permanents entered the battlefield under your control this turn."
+    ],
     "keywords": [
       "celebration"
     ],
@@ -2903,7 +3066,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature's owner puts it on their choice of the top or bottom of their library.",
+    "rulesTexts": [
+      "Target creature's owner puts it on their choice of the top or bottom of their library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2942,7 +3107,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Vigilance\nAt the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")",
+    "rulesTexts": [
+      "Vigilance\nAt the beginning of combat on your turn, you may pay {1}. When you do, create a Sorcerer Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")"
+    ],
     "keywords": [
       "role token",
       "vigilance",
@@ -2981,7 +3148,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "The second spell you cast each turn costs {1} less to cast.\nCelebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "The second spell you cast each turn costs {1} less to cast.\nCelebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "celebration"
     ],
@@ -3022,7 +3191,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, creatures you control get +1/+0 and gain haste until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, creatures you control get +1/+0 and gain haste until end of turn.",
+      "Create two 2/2 white Knight creature tokens with vigilance. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3059,7 +3231,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {G}.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "{T}: Add {G}.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3098,7 +3272,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Until end of turn, target creature you control has base power and toughness 4/4 and gains flying and hexproof. (It can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Until end of turn, target creature you control has base power and toughness 4/4 and gains flying and hexproof. (It can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3138,7 +3314,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\n{T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Menace\n{T}: Spells you cast this turn that are black and/or red cost {X} less to cast, where X is the amount of life you lost this turn. Activate only as a sorcery."
+    ],
     "keywords": [
       "menace"
     ],
@@ -3178,7 +3356,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nWhenever you cast a spell during an opponent's turn, up to one target creature an opponent controls gets -1/-1 until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a spell during an opponent's turn, up to one target creature an opponent controls gets -1/-1 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3216,7 +3396,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "You may cast this spell as though it had flash if you pay {2} more to cast it.\nFor each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",
+    "rulesTexts": [
+      "You may cast this spell as though it had flash if you pay {2} more to cast it.\nFor each creature your opponents control, create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -3251,7 +3433,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3289,7 +3473,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Trample\nWhenever an enchantment you control enters, you may pay {2}. If you do, return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Trample\nWhenever an enchantment you control enters, you may pay {2}. If you do, return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "trample"
     ],
@@ -3332,7 +3518,10 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Trample\nWhenever you cast a spell with mana value 5 or greater, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Trample\nWhenever you cast a spell with mana value 5 or greater, put a +1/+1 counter on this creature.",
+      "Draw two cards, then discard two cards. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3370,7 +3559,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2.\n{4}{G}: Return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +2/+2.\n{4}{G}: Return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -3411,7 +3602,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life."
+    ],
     "keywords": [
       "flying",
       "surveil"
@@ -3454,7 +3647,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "At the beginning of your upkeep, if an opponent controls more lands than you, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n{2}{W}: Choose another player. That player gains control of target Treasure you control. You draw a card.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, if an opponent controls more lands than you, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n{2}{W}: Choose another player. That player gains control of target Treasure you control. You draw a card."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -3495,7 +3690,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell with mana value 4 or greater.",
+    "rulesTexts": [
+      "Counter target spell with mana value 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3536,7 +3733,10 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Menace, trample\nAt the beginning of your upkeep, you may sacrifice an artifact, enchantment, or token. If you don't, tap this creature.",
+    "rulesTexts": [
+      "Menace, trample\nAt the beginning of your upkeep, you may sacrifice an artifact, enchantment, or token. If you don't, tap this creature.",
+      "Create a 1/1 white Human creature token and a Food token. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3576,7 +3776,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever an opponent casts a spell with mana value 3 or less, this creature deals 1 damage to that player.",
+    "rulesTexts": [
+      "Whenever an opponent casts a spell with mana value 3 or less, this creature deals 1 damage to that player.",
+      "Return target nonland permanent to its owner's hand. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3617,7 +3820,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "",
+    "rulesTexts": [
+      "",
+      "Create a Royal Role token attached to target creature you control. (Enchanted creature gets +1/+1 and has ward {1}.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3653,7 +3859,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Sacrifice any number of artifacts, enchantments, and/or tokens. Return that many creature cards from your graveyard to the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3691,7 +3899,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      "",
+      "Target creature gets +2/+1 until end of turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3725,7 +3936,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Eriette's Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n{2}, {T}, Sacrifice Eriette's Tempting Apple: You gain 3 life.\n{2}, {T}, Sacrifice Eriette's Tempting Apple: Target opponent loses 3 life.",
+    "rulesTexts": [
+      "When Eriette's Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n{2}, {T}, Sacrifice Eriette's Tempting Apple: You gain 3 life.\n{2}, {T}, Sacrifice Eriette's Tempting Apple: Target opponent loses 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3763,7 +3976,10 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      "",
+      "Return target creature you don't control with mana value 3 or less to its owner's hand. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3804,7 +4020,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Lifelink\nWhen this creature enters, up to one target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.",
+    "rulesTexts": [
+      "Lifelink\nWhen this creature enters, up to one target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.",
+      "Create a Food token. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3842,7 +4061,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you may exile one or more creature cards from your graveyard. When you do, each other creature gets -X/-X until end of turn, where X is the number of cards exiled this way."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3882,7 +4103,10 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance",
+    "rulesTexts": [
+      "Flying, vigilance",
+      "Mill four cards. Then put an instant, sorcery, or Faerie card from among the milled cards into your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3925,7 +4149,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When Sharae enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you tap one or more untapped creatures your opponents control, draw a card. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "When Sharae enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you tap one or more untapped creatures your opponents control, draw a card. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3965,7 +4191,10 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you cast a spell with mana value 5 or greater, tap target creature an opponent controls and put a stun counter on it.",
+    "rulesTexts": [
+      "Whenever you cast a spell with mana value 5 or greater, tap target creature an opponent controls and put a stun counter on it.",
+      "Draw four cards, then discard two cards. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4001,7 +4230,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever an enchantment you control enters, tap target creature an opponent controls.",
+    "rulesTexts": [
+      "Whenever an enchantment you control enters, tap target creature an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4036,7 +4267,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -4080,7 +4313,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nAs Talion enters, choose a number between 1 and 10.\nWhenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.",
+    "rulesTexts": [
+      "Flying\nAs Talion enters, choose a number between 1 and 10.\nWhenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4122,7 +4357,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nWhenever another Faerie you control enters, each opponent loses 1 life.",
+    "rulesTexts": [
+      "Flash\nFlying\nWhenever another Faerie you control enters, each opponent loses 1 life."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -4165,7 +4402,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nWhen this creature enters, if it was bargained, create a Cursed Role token attached to target creature an opponent controls. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nWhen this creature enters, if it was bargained, create a Cursed Role token attached to target creature an opponent controls. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)"
+    ],
     "keywords": [
       "role token",
       "bargain"
@@ -4203,7 +4442,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This spell costs {1} less to cast for each creature that attacked this turn.\nWitchstalker Frenzy deals 5 damage to target creature.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast for each creature that attacked this turn.\nWitchstalker Frenzy deals 5 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4244,7 +4485,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying\nWhenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn.",
+      "Blow Off Steam deals 1 damage to any target. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4282,7 +4526,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nReturn up to two target creature cards from your graveyard to your hand. If this spell was bargained, you may put one of those cards with mana value 4 or less onto the battlefield instead of putting it into your hand.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nReturn up to two target creature cards from your graveyard to your hand. If this spell was bargained, you may put one of those cards with mana value 4 or less onto the battlefield instead of putting it into your hand."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -4316,7 +4562,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {U} or {R}.\n{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with \"During your turn, this creature has first strike.\" It's still a land.\nWhenever this land attacks, scry 1.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {U} or {R}.\n{U}{R}: Until end of turn, this land becomes a 2/1 blue and red Elemental creature with \"During your turn, this creature has first strike.\" It's still a land.\nWhenever this land attacks, scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -4360,7 +4608,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while you control a creature with power 4 or greater, this creature gains double strike until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature attacks while you control a creature with power 4 or greater, this creature gains double strike until end of turn.",
+      "Distribute three +1/+1 counters among any number of target creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4397,7 +4648,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
+    "rulesTexts": [
+      "Celebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, target creature you control gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)"
+    ],
     "keywords": [
       "celebration"
     ],
@@ -4437,7 +4690,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Flick a Coin deals 1 damage to any target. You create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nDraw a card.",
+    "rulesTexts": [
+      "Flick a Coin deals 1 damage to any target. You create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nDraw a card."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4477,7 +4732,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {W} or {B}.\n{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.\nWhenever this land attacks, defending player loses 2 life and you gain 2 life.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {W} or {B}.\n{2}{W}{B}: This land becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.\nWhenever this land attacks, defending player loses 2 life and you gain 2 life."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4515,7 +4772,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nThis creature has lifelink as long as you control another Faerie.\n{2}{B}: This creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Flying\nThis creature has lifelink as long as you control another Faerie.\n{2}{B}: This creature gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4556,7 +4815,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this creature dies, create a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")",
+    "rulesTexts": [
+      "When this creature dies, create a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")"
+    ],
     "keywords": [
       "role token"
     ],
@@ -4591,7 +4852,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets -X/-X until end of turn. That creature gets an additional -3/-3 until end of turn if you controlled a Faerie as you cast this spell.",
+    "rulesTexts": [
+      "Target creature gets -X/-X until end of turn. That creature gets an additional -3/-3 until end of turn if you controlled a Faerie as you cast this spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4630,7 +4893,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead.\n+1: Look at the top two cards of your library. Exile one of them and put the other into your hand.\n−2: Create two 1/1 black Nightmare creature tokens with \"At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this token.\"\n−7: Target player exiles the top X cards of their library, where X is the total mana value of cards you own in exile.",
+    "rulesTexts": [
+      "If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead.\n+1: Look at the top two cards of your library. Exile one of them and put the other into your hand.\n−2: Create two 1/1 black Nightmare creature tokens with \"At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this token.\"\n−7: Target player exiles the top X cards of their library, where X is the total mana value of cards you own in exile."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4663,7 +4928,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one —\n• Untap target creature. It gets +1/+0 and gains indestructible until end of turn.\n• Destroy target creature with power 4 or greater.",
+    "rulesTexts": [
+      "Choose one —\n• Untap target creature. It gets +1/+0 and gains indestructible until end of turn.\n• Destroy target creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4692,7 +4959,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this land enters, scry 1.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this land enters, scry 1.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [
       "scry"
     ],
@@ -4738,7 +5007,10 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)",
+      "Target creature gains double strike until end of turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4780,7 +5052,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Whenever another Rat you control enters, exile up to one target card from an opponent's graveyard.\nAt the beginning of combat on your turn, create a 1/1 black Rat creature token with \"This token can't block.\"",
+    "rulesTexts": [
+      "Whenever another Rat you control enters, exile up to one target card from an opponent's graveyard.\nAt the beginning of combat on your turn, create a 1/1 black Rat creature token with \"This token can't block.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4819,7 +5093,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you cast a spell that's white, blue, black, or red, put a +1/+1 counter on this creature.",
+      "Exile the top two cards of your library. Until your next end step, you may play those cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4859,7 +5136,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Whenever you cast an instant or sorcery spell, create a Sorcerer Role token attached to up to one other target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")",
+    "rulesTexts": [
+      "Whenever you cast an instant or sorcery spell, create a Sorcerer Role token attached to up to one other target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")"
+    ],
     "keywords": [
       "role token",
       "scry"
@@ -4891,7 +5170,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4930,7 +5211,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with a +1/+1 counter on it for each creature that died under your control this turn.",
+    "rulesTexts": [
+      "This creature enters with a +1/+1 counter on it for each creature that died under your control this turn.",
+      "Target creature you control deals damage equal to its power to any other target. Then sacrifice it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4968,7 +5252,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "This creature can't block.\nWhen this creature dies, create X 1/1 black Rat creature tokens with \"This token can't block,\" where X is the amount of damage dealt to it this turn.",
+    "rulesTexts": [
+      "This creature can't block.\nWhen this creature dies, create X 1/1 black Rat creature tokens with \"This token can't block,\" where X is the amount of damage dealt to it this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5005,7 +5291,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.\nActivated abilities of lands you control cost {1} less to activate.\nLand creatures you control get +1/+1.",
+    "rulesTexts": [
+      "Whenever this creature enters or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.\nActivated abilities of lands you control cost {1} less to activate.\nLand creatures you control get +1/+1."
+    ],
     "keywords": [
       "mill"
     ],
@@ -5042,7 +5330,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {B} or {G}.\n{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.\nWhenever this land attacks, create a Food token and exile up to one target card from a graveyard.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {B} or {G}.\n{2}{B}{G}: This land becomes a 4/4 black and green Horror creature until end of turn. It's still a land.\nWhenever this land attacks, create a Food token and exile up to one target card from a graveyard."
+    ],
     "keywords": [
       "food"
     ],
@@ -5087,7 +5377,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}{G}: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature.\n{2}, {T}, Sacrifice this creature: You gain 3 life.",
+    "rulesTexts": [
+      "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}{G}: Until end of turn, target noncreature artifact you control becomes a 4/4 artifact creature.\n{2}, {T}, Sacrifice this creature: You gain 3 life."
+    ],
     "keywords": [
       "food"
     ],
@@ -5127,7 +5419,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Vigilance\nWhenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Vigilance\nWhenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5169,7 +5463,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "During your turn, this creature has first strike.",
+    "rulesTexts": [
+      "During your turn, this creature has first strike.",
+      "Create two 1/1 black Rat creature tokens with \"This token can't block.\" (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5209,7 +5506,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nWhen this creature enters, if it was bargained, exile target artifact or enchantment an opponent controls.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nWhen this creature enters, if it was bargained, exile target artifact or enchantment an opponent controls."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -5249,7 +5548,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Syr Ginger has trample, hexproof, and haste as long as an opponent controls a planeswalker.\nWhenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on Syr Ginger and scry 1.\n{2}, {T}, Sacrifice Syr Ginger: You gain life equal to its power.",
+    "rulesTexts": [
+      "Syr Ginger has trample, hexproof, and haste as long as an opponent controls a planeswalker.\nWhenever another artifact you control is put into a graveyard from the battlefield, put a +1/+1 counter on Syr Ginger and scry 1.\n{2}, {T}, Sacrifice Syr Ginger: You gain life equal to its power."
+    ],
     "keywords": [
       "scry"
     ],
@@ -5284,7 +5585,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}: Add {C}.\nWhenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and \"Equipped creature gets +3/+3\" and loses all other abilities.",
+    "rulesTexts": [
+      "{T}: Add {C}.\nWhenever a legendary creature you control enters, you may have The Irencrag become a legendary Equipment artifact named Everflame, Heroes' Legacy. If you do, it gains equip {3} and \"Equipped creature gets +3/+3\" and loses all other abilities."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -5323,7 +5626,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 black Rat creature token with \"This token can't block.\"\nWhenever another creature you control dies, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 black Rat creature token with \"This token can't block.\"\nWhenever another creature you control dies, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5356,7 +5661,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",
+    "rulesTexts": [
+      "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5397,7 +5704,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Instant and sorcery spells you control have lifelink.",
+    "rulesTexts": [
+      "Instant and sorcery spells you control have lifelink.",
+      "Heartflame Slash deals 3 damage to any target. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5434,7 +5744,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nIf this spell was bargained, target land you control becomes a 3/3 Elemental creature with haste that's still a land.\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nIf this spell was bargained, target land you control becomes a 3/3 Elemental creature with haste that's still a land.\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -5474,7 +5786,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Whenever an enchantment you control is put into a graveyard from the battlefield, draw a card.",
+    "rulesTexts": [
+      "Whenever an enchantment you control is put into a graveyard from the battlefield, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5507,7 +5821,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Any number of target enchanted creatures you control and up to one other target creature you control each deal damage equal to their power to target creature you don't control.",
+    "rulesTexts": [
+      "Any number of target enchanted creatures you control and up to one other target creature you control each deal damage equal to their power to target creature you don't control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5546,7 +5862,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nFlying, haste\nWhen this creature enters, if it was bargained, add four mana in any combination of colors.\n{1}{R}: This creature deals 1 damage to any target.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nFlying, haste\nWhen this creature enters, if it was bargained, add four mana in any combination of colors.\n{1}{R}: This creature deals 1 damage to any target."
+    ],
     "keywords": [
       "flying",
       "haste",
@@ -5593,7 +5911,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this enchantment enters, create a Wicked Role token attached to target creature you control. (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)\nAt the beginning of your draw step, if you control an enchanted creature, you lose 1 life and you draw an additional card.",
+    "rulesTexts": [
+      "When this enchantment enters, create a Wicked Role token attached to target creature you control. (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)\nAt the beginning of your draw step, if you control an enchanted creature, you lose 1 life and you draw an additional card."
+    ],
     "keywords": [
       "role token"
     ],
@@ -5638,7 +5958,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When Syr Armont enters, create a Monster Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)\nEnchanted creatures you control get +1/+1.",
+    "rulesTexts": [
+      "When Syr Armont enters, create a Monster Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)\nEnchanted creatures you control get +1/+1."
+    ],
     "keywords": [
       "role token"
     ],
@@ -5676,7 +5998,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhenever this creature attacks, you may pay {1}{U}. When you do, tap target creature an opponent controls.\nWhenever you tap an untapped creature an opponent controls, this creature gets +2/+1 until end of turn.",
+    "rulesTexts": [
+      "Vigilance\nWhenever this creature attacks, you may pay {1}{U}. When you do, tap target creature an opponent controls.\nWhenever you tap an untapped creature an opponent controls, this creature gets +2/+1 until end of turn."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5713,7 +6037,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nThis creature has haste as long as you own a card in exile that has an Adventure.",
+    "rulesTexts": [
+      "Vigilance\nThis creature has haste as long as you own a card in exile that has an Adventure."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5750,7 +6076,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -5790,7 +6118,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nWhen this Aura is put into a graveyard from the battlefield, you may pay {1}. If you do, scry 1, then draw a card.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nWhen this Aura is put into a graveyard from the battlefield, you may pay {1}. If you do, scry 1, then draw a card."
+    ],
     "keywords": [
       "enchant",
       "scry"
@@ -5829,7 +6159,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nThis spell costs {1} less to cast if it's bargained.\nCounter target spell.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nThis spell costs {1} less to cast if it's bargained.\nCounter target spell."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -5867,7 +6199,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Create a Monster Role token attached to target creature you control. When you do, that creature fights up to one target creature you don't control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample. Creatures that fight each deal damage equal to their power to the other.)",
+    "rulesTexts": [
+      "Create a Monster Role token attached to target creature you control. When you do, that creature fights up to one target creature you don't control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample. Creatures that fight each deal damage equal to their power to the other.)"
+    ],
     "keywords": [
       "role token",
       "fight"
@@ -5905,7 +6239,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -5942,7 +6278,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature can't attack or block.\n{2}{W}: Exile enchanted creature.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature can't attack or block.\n{2}{W}: Exile enchanted creature."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5982,7 +6320,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn.",
+    "rulesTexts": [
+      "Whenever a source you control deals noncombat damage to an opponent, you may exile that many cards from the top of your library. You may play those cards this turn.",
+      "Embereth Blaze deals 2 damage to any target. (Then exile this card. You may cast the enchantment later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6022,7 +6363,10 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, each opponent discards a card.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, each opponent discards a card.",
+      "Return target spell to its owner's hand. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6058,7 +6402,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nWhenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn.",
+    "rulesTexts": [
+      "Menace\nWhenever this creature deals combat damage to a player, put a skewer counter on this creature. Then you may sacrifice it. If you do, exile the top X cards of your library, where X is the number of skewer counters on this creature. You may play those cards this turn."
+    ],
     "keywords": [
       "menace"
     ],
@@ -6098,7 +6444,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 1/1 white Human creature token.\nII — Create a Food token.\nIII — Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 1/1 white Human creature token.\nII — Create a Food token.\nIII — Put X +1/+1 counters on target creature you control, where X is one plus the number of Foods you control."
+    ],
     "keywords": [
       "food"
     ],
@@ -6135,7 +6483,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -6174,7 +6524,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Cut In deals 4 damage to target creature.\nCreate a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")",
+    "rulesTexts": [
+      "Cut In deals 4 damage to target creature.\nCreate a Young Hero Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")"
+    ],
     "keywords": [
       "role token"
     ],
@@ -6209,7 +6561,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If you don't control a Faerie, exile a card from your hand.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If you don't control a Faerie, exile a card from your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6248,7 +6602,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTrample\nWhen this creature enters, if it was bargained, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTrample\nWhen this creature enters, if it was bargained, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)"
+    ],
     "keywords": [
       "trample",
       "fight",
@@ -6287,7 +6643,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Create X 1/1 black Rat creature tokens with \"This token can't block.\" Creatures you control gain haste until end of turn.",
+    "rulesTexts": [
+      "Create X 1/1 black Rat creature tokens with \"This token can't block.\" Creatures you control gain haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6323,7 +6681,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Choose two —\n• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n• Create a 1/1 white Human creature token.\n• Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Choose two —\n• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n• Create a 1/1 white Human creature token.\n• Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -6358,7 +6718,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "{2}, {T}: Draw a card, then discard a card. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "{2}, {T}: Draw a card, then discard a card. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -6402,7 +6764,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Draw three cards. Create a 1/1 blue Faerie creature token with flying and \"This token can block only creatures with flying.\"",
+    "rulesTexts": [
+      "Draw three cards. Create a 1/1 blue Faerie creature token with flying and \"This token can block only creatures with flying.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6439,7 +6803,10 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWard {2}\nThis creature enters tapped unless it's your turn.",
+    "rulesTexts": [
+      "Flash\nWard {2}\nThis creature enters tapped unless it's your turn.",
+      "The owner of target attacking creature you don't control puts it on their choice of the top or bottom of their library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6478,7 +6845,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Menace\nWhen this creature enters, create two 1/1 black Rat creature tokens with \"This token can't block.\"\nAt the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn.",
+    "rulesTexts": [
+      "Menace\nWhen this creature enters, create two 1/1 black Rat creature tokens with \"This token can't block.\"\nAt the beginning of your upkeep, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and exile the top card of your library. You may play that card this turn."
+    ],
     "keywords": [
       "menace"
     ],
@@ -6522,7 +6891,10 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Trample\nWhen this creature dies, you may cast it from your graveyard as an Adventure until the end of your next turn.",
+    "rulesTexts": [
+      "Trample\nWhen this creature dies, you may cast it from your graveyard as an Adventure until the end of your next turn.",
+      "You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6562,7 +6934,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)"
+    ],
     "keywords": [
       "flying",
       "role token"
@@ -6604,7 +6978,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)",
+    "rulesTexts": [
+      "When this creature enters, create a Royal Role token attached to another target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -6645,7 +7021,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Reach\nWhenever you cast a spell with mana value 5 or greater, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Reach\nWhenever you cast a spell with mana value 5 or greater, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "reach",
       "food"
@@ -6683,7 +7061,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +2/+0.\nCelebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, attach this Equipment to up to one target creature you control.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +2/+0.\nCelebration — At the beginning of combat on your turn, if two or more nonland permanents entered the battlefield under your control this turn, attach this Equipment to up to one target creature you control.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "celebration",
       "equip"
@@ -6721,7 +7101,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -6761,7 +7143,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nThis spell costs {2} less to cast if it's bargained.\nTrample\nWhen this creature enters, you gain 3 life.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nThis spell costs {2} less to cast if it's bargained.\nTrample\nWhen this creature enters, you gain 3 life."
+    ],
     "keywords": [
       "trample",
       "bargain"
@@ -6798,7 +7182,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "{2}, {T}: Choose one that hasn't been chosen —\n• This artifact deals 2 damage to target creature.\n• Tap target creature.\n• Sacrifice this artifact. You gain 3 life.",
+    "rulesTexts": [
+      "{2}, {T}: Choose one that hasn't been chosen —\n• This artifact deals 2 damage to target creature.\n• Tap target creature.\n• Sacrifice this artifact. You gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6833,7 +7219,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Target creature gets +3/+0 until end of turn.\nDraw a card.",
+    "rulesTexts": [
+      "Target creature gets +3/+0 until end of turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6872,7 +7260,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, you may pay {2}. If you do, create a Sorcerer Role token attached to it. (Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")",
+    "rulesTexts": [
+      "When this creature enters, you may pay {2}. If you do, create a Sorcerer Role token attached to it. (Enchanted creature gets +1/+1 and has \"Whenever this creature attacks, scry 1.\")"
+    ],
     "keywords": [
       "role token",
       "scry"
@@ -6910,7 +7300,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.\nWhenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "When this enchantment enters, exile up to X target creatures. For each of those cards, its owner may play it for as long as it remains exiled.\nWhenever one or more nontoken creatures enter, if one or more of them entered from exile or was cast from exile, you draw a card. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6949,7 +7341,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}, Sacrifice a Food: Target player loses 2 life.",
+    "rulesTexts": [
+      "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n{2}, Sacrifice a Food: Target player loses 2 life."
+    ],
     "keywords": [
       "food"
     ],
@@ -6986,7 +7380,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: This creature gets +1/-1 until end of turn.\nWhen this creature dies, scry 2.",
+    "rulesTexts": [
+      "{1}: This creature gets +1/-1 until end of turn.\nWhen this creature dies, scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7027,7 +7423,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nIII — Exile the top three cards of target opponent's library. You may play those cards this turn.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nIII — Exile the top three cards of target opponent's library. You may play those cards this turn."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -7075,7 +7473,10 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "This spell costs {X} less to cast, where X is the number of cards in your graveyard that are instant cards, sorcery cards, and/or have an Adventure.",
+    "rulesTexts": [
+      "This spell costs {X} less to cast, where X is the number of cards in your graveyard that are instant cards, sorcery cards, and/or have an Adventure.",
+      "Discard your hand, then draw two cards. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7115,7 +7516,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target creature you control gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, target creature you control gets +2/+2 until end of turn.",
+      "Creatures your opponents control get -1/-1 until end of turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7157,7 +7561,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Trample",
+    "rulesTexts": [
+      "Trample",
+      "Create a Monster Role token attached to target creature you control. (Enchanted creature gets +1/+1 and has trample.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7195,7 +7602,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, create a 1/1 black Rat creature token with \"This token can't block.\"",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, create a 1/1 black Rat creature token with \"This token can't block.\""
+    ],
     "keywords": [
       "menace"
     ],
@@ -7240,7 +7649,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —\n• Create a 4/4 white and blue Elemental creature token.\n• Put a +1/+1 counter on each creature you control.\n• Scry 2, then draw a card.",
+    "rulesTexts": [
+      "Whenever you tap an untapped creature an opponent controls, you may pay {1}. When you do, choose one —\n• Create a 4/4 white and blue Elemental creature token.\n• Put a +1/+1 counter on each creature you control.\n• Scry 2, then draw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7281,7 +7692,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a Cursed Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)\nII — Scry 2.\nIII — When you next cast an instant or sorcery spell with mana value 3 or less this turn, copy that spell. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a Cursed Role token attached to up to one target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)\nII — Scry 2.\nIII — When you next cast an instant or sorcery spell with mana value 3 or less this turn, copy that spell. You may choose new targets for the copy."
+    ],
     "keywords": [
       "role token",
       "scry"
@@ -7323,7 +7736,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this creature enters, you may pay {1}. When you do, create a Young Hero Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")",
+    "rulesTexts": [
+      "When this creature enters, you may pay {1}. When you do, create a Young Hero Role token attached to target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")"
+    ],
     "keywords": [
       "role token"
     ],
@@ -7358,7 +7773,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.\n{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control.",
+    "rulesTexts": [
+      "{1}, {T}: Tap target creature. This ability costs {1} less to activate during your turn.\n{3}, Sacrifice Hylda's Crown of Winter: Draw a card for each tapped creature your opponents control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7394,7 +7811,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "This spell costs {2} less to cast if your life total is 5 or less.\nExile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
+    "rulesTexts": [
+      "This spell costs {2} less to cast if your life total is 5 or less.\nExile target creature or planeswalker. Search its controller's graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card for each card exiled from their hand this way."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7431,7 +7850,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTorch the Tower deals 2 damage to target creature or planeswalker. If this spell was bargained, instead it deals 3 damage to that permanent and you scry 1.\nIf a permanent dealt damage by Torch the Tower would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTorch the Tower deals 2 damage to target creature or planeswalker. If this spell was bargained, instead it deals 3 damage to that permanent and you scry 1.\nIf a permanent dealt damage by Torch the Tower would die this turn, exile it instead."
+    ],
     "keywords": [
       "bargain",
       "scry"
@@ -7473,7 +7894,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 white Bird creature token with flying.",
+    "rulesTexts": [
+      "Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 white Bird creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7509,7 +7932,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Target creature you control gains hexproof until end of turn. Create a Royal Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)",
+    "rulesTexts": [
+      "Target creature you control gains hexproof until end of turn. Create a Royal Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has ward {1}.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -7547,7 +7972,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nWhen this creature enters, destroy target creature an opponent controls that was dealt damage this turn.",
+    "rulesTexts": [
+      "Flash\nFlying\nWhen this creature enters, destroy target creature an opponent controls that was dealt damage this turn."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -7585,7 +8012,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards.",
+    "rulesTexts": [
+      "Draw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7617,7 +8046,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {R} or {W}.\n{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.\nWhenever this land attacks, put a +1/+1 counter on target creature you control.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {R} or {W}.\n{1}{R}{W}: This land becomes a 2/2 red and white Ox creature until end of turn. It's still a land.\nWhenever this land attacks, put a +1/+1 counter on target creature you control."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -7660,7 +8091,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may look at the top card of your library any time.\nOnce each turn, you may cast an instant or sorcery spell from the top of your library. (You still pay its costs. Timing rules still apply.)",
+    "rulesTexts": [
+      "You may look at the top card of your library any time.\nOnce each turn, you may cast an instant or sorcery spell from the top of your library. (You still pay its costs. Timing rules still apply.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7697,7 +8130,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\n{2}{W}, Sacrifice two enchantments: Return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Flying\n{2}{W}, Sacrifice two enchantments: Return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7735,7 +8170,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{W}, {T}: Tap target creature.",
+    "rulesTexts": [
+      "{2}{W}, {T}: Tap target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7777,7 +8214,10 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "When this creature enters, draw a card.",
+    "rulesTexts": [
+      "When this creature enters, draw a card.",
+      "Put target permanent card from your graveyard on top of your library. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7814,7 +8254,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy up to one target artifact, enchantment, or creature with flying. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Destroy up to one target artifact, enchantment, or creature with flying. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -7856,7 +8298,10 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This creature can't be blocked by creatures with power 2 or less.",
+    "rulesTexts": [
+      "This creature can't be blocked by creatures with power 2 or less.",
+      "Destroy target artifact or enchantment. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7896,7 +8341,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "{1}, Sacrifice this creature: Create a Young Hero Role token attached to another target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")",
+    "rulesTexts": [
+      "{1}, Sacrifice this creature: Create a Young Hero Role token attached to another target creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\")"
+    ],
     "keywords": [
       "role token"
     ],
@@ -7936,7 +8383,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nCreatures with power less than this creature's power can't block it.",
+    "rulesTexts": [
+      "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nCreatures with power less than this creature's power can't block it.",
+      "Distribute X +1/+1 counters among any number of target creatures you control. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7972,7 +8422,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -8007,7 +8459,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap one or two target creatures an opponent controls. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "Tap one or two target creatures an opponent controls. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8043,7 +8497,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{G}: This creature can't be blocked by creatures with power 2 or less this turn.",
+    "rulesTexts": [
+      "{1}{G}: This creature can't be blocked by creatures with power 2 or less this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8083,7 +8539,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nWhen this creature enters, if it was bargained, return target instant or sorcery card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nWhen this creature enters, if it was bargained, return target instant or sorcery card from your graveyard to your hand."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -8123,7 +8581,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Deathtouch\nWhenever this creature deals combat damage to a player, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Deathtouch\nWhenever this creature deals combat damage to a player, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food",
       "deathtouch"
@@ -8165,7 +8625,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Haste\nWhen this creature enters, choose one —\n• Discard a card, then draw a card.\n• Create a Treasure token.\n• Create a Wicked Role token attached to target creature you control.",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, choose one —\n• Discard a card, then draw a card.\n• Create a Treasure token.\n• Create a Wicked Role token attached to target creature you control."
+    ],
     "keywords": [
       "role token",
       "treasure",
@@ -8205,7 +8667,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nLook at the top four cards of your library. If this spell was bargained, look at the top eight cards of your library instead. Put two of them into your hand and the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nLook at the top four cards of your library. If this spell was bargained, look at the top eight cards of your library instead. Put two of them into your hand and the rest on the bottom of your library in a random order."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -8242,7 +8706,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8277,7 +8743,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchanted creatures you control get +2/+2.",
+    "rulesTexts": [
+      "Enchanted creatures you control get +2/+2."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8313,7 +8781,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Destroy target creature or enchantment. Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",
+    "rulesTexts": [
+      "Destroy target creature or enchantment. Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -8353,7 +8823,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may discard a card. If you do, draw a card.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may discard a card. If you do, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8392,7 +8864,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -8438,7 +8912,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Skulk (This creature can't be blocked by creatures with greater power.)\nThis creature enters with X +1/+1 counters on it.\nAt the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card.",
+    "rulesTexts": [
+      "Skulk (This creature can't be blocked by creatures with greater power.)\nThis creature enters with X +1/+1 counters on it.\nAt the beginning of your upkeep, if this creature has one or more +1/+1 counters on it, you may remove a +1/+1 counter from it. If you do, draw a card."
+    ],
     "keywords": [
       "skulk"
     ],
@@ -8476,7 +8952,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Until end of turn, target creature you control gains \"When this creature dies, return it to the battlefield tapped under its owner's control, then create a Wicked Role token attached to it.\" (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",
+    "rulesTexts": [
+      "Until end of turn, target creature you control gains \"When this creature dies, return it to the battlefield tapped under its owner's control, then create a Wicked Role token attached to it.\" (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -8513,7 +8991,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -8548,7 +9028,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this enchantment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you tap an untapped creature an opponent controls, put a +1/+1 counter on target creature you control.",
+    "rulesTexts": [
+      "When this enchantment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you tap an untapped creature an opponent controls, put a +1/+1 counter on target creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8584,7 +9066,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this enchantment enters, create a 2/2 white Knight creature token with vigilance.\nWhen this enchantment is put into a graveyard from the battlefield, scry 2.\n{2}{W}: Sacrifice this enchantment.",
+    "rulesTexts": [
+      "When this enchantment enters, create a 2/2 white Knight creature token with vigilance.\nWhen this enchantment is put into a graveyard from the battlefield, scry 2.\n{2}{W}: Sacrifice this enchantment."
+    ],
     "keywords": [
       "scry"
     ],
@@ -8624,7 +9108,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 black Rat creature token with \"This token can't block.\"\n{1}{B}: This creature gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "Whenever an enchantment you control is put into a graveyard from the battlefield, create a 1/1 black Rat creature token with \"This token can't block.\"\n{1}{B}: This creature gains deathtouch until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8664,7 +9150,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nCelebration — Whenever Ash attacks, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on Ash.",
+    "rulesTexts": [
+      "Haste\nCelebration — Whenever Ash attacks, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on Ash."
+    ],
     "keywords": [
       "celebration",
       "haste"
@@ -8707,7 +9195,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.\n{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.",
+    "rulesTexts": [
+      "Activated abilities of creatures you control cost {X} less to activate, where X is Agatha's power. This effect can't reduce the mana in that cost to less than one mana.\n{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8746,7 +9236,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 black Rat creature token with \"This creature can't block.\" Then for each Rat you control, create a Wicked Role token attached to that Rat. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 black Rat creature token with \"This creature can't block.\" Then for each Rat you control, create a Wicked Role token attached to that Rat. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -8784,7 +9276,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Celebration — This creature gets +1/+1 and has trample as long as two or more nonland permanents entered the battlefield under your control this turn.",
+    "rulesTexts": [
+      "Celebration — This creature gets +1/+1 and has trample as long as two or more nonland permanents entered the battlefield under your control this turn."
+    ],
     "keywords": [
       "celebration"
     ],
@@ -8822,7 +9316,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever an enchantment you control enters, scry 1.\n{2}{W}: This creature gets +1/+1 until end of turn for each enchantment you control.",
+    "rulesTexts": [
+      "Whenever an enchantment you control enters, scry 1.\n{2}{W}: This creature gets +1/+1 until end of turn for each enchantment you control."
+    ],
     "keywords": [
       "scry"
     ],
@@ -8862,7 +9358,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature dies, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "When this creature dies, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -8900,7 +9398,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nLook at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nLook at the top twenty cards of your library. You may reveal up to two creature cards from among them. If this spell was bargained, put the revealed cards onto the battlefield. Otherwise, put the revealed cards into your hand. Then shuffle."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -8939,7 +9439,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile up to one target creature.\nII — Target creature you control gets +2/+2 and gains flying until end of turn.\nIII — Return the exiled card to the battlefield under its owner's control.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile up to one target creature.\nII — Target creature you control gets +2/+2 and gains flying until end of turn.\nIII — Return the exiled card to the battlefield under its owner's control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8977,7 +9479,10 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying",
+      "Destroy target tapped creature. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9011,7 +9516,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control.",
+    "rulesTexts": [
+      "Look at the top five cards of your library. You may exile a creature card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card this turn. At the beginning of the next combat phase this turn, target creature you control deals damage equal to its power to up to one target creature you don't control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9047,7 +9554,10 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+    "rulesTexts": [
+      "If a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+      "Copy target activated or triggered ability you control. You may choose new targets for the copy."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9084,7 +9594,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Target opponent discards two cards. Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",
+    "rulesTexts": [
+      "Target opponent discards two cards. Create a Wicked Role token attached to up to one target creature you control. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -9122,7 +9634,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike\nCelebration — This creature has double strike as long as two or more nonland permanents entered the battlefield under your control this turn.",
+    "rulesTexts": [
+      "First strike\nCelebration — This creature has double strike as long as two or more nonland permanents entered the battlefield under your control this turn."
+    ],
     "keywords": [
       "celebration",
       "first strike"
@@ -9162,7 +9676,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever an enchantment you control is put into a graveyard from the battlefield, each opponent loses 1 life.",
+    "rulesTexts": [
+      "Whenever an enchantment you control is put into a graveyard from the battlefield, each opponent loses 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9198,7 +9714,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nInstant and sorcery spells you cast cost {1} less to cast.",
+    "rulesTexts": [
+      "Flying\nInstant and sorcery spells you cast cost {1} less to cast."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9232,7 +9750,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped.\n{T}: Add {G} or {U}.\n{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.\nWhenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {G} or {U}.\n{3}{G}{U}: Until end of turn, this land becomes a 5/5 green and blue Plant creature with trample. It's still a land.\nWhenever this land attacks, up to one other target creature has base power and toughness 3/3 until end of turn."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -9277,7 +9797,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{2}, {T}: Choose target enchantment you control that doesn't have the same name as another permanent you control. Create a token that's a copy of it, except it isn't legendary. If the token is an Aura, untap Yenna, then scry 2. Activate only as a sorcery."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9318,7 +9840,10 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever you cast your first instant or sorcery spell each turn, this creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast your first instant or sorcery spell each turn, this creature gets +2/+0 until end of turn.",
+      "Put target instant or sorcery card from your graveyard on top of your library. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9361,7 +9886,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Menace\nWhen Neva enters, return target creature or enchantment card from your graveyard to your hand.\nWhenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on Neva, then scry 1.",
+    "rulesTexts": [
+      "Menace\nWhen Neva enters, return target creature or enchantment card from your graveyard to your hand.\nWhenever an enchantment you control is put into a graveyard from the battlefield, put a +1/+1 counter on Neva, then scry 1."
+    ],
     "keywords": [
       "menace",
       "scry"
@@ -9400,7 +9927,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTarget creature gets +2/+2 until end of turn. If this spell was bargained, that creature also gains flying and lifelink until end of turn.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nTarget creature gets +2/+2 until end of turn. If this spell was bargained, that creature also gains flying and lifelink until end of turn."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -9444,7 +9973,10 @@
       "token",
       "removal"
     ],
-    "oracleText": "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+      "Target creature gets -2/-2 until end of turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9481,7 +10013,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever this creature blocks or becomes blocked by a creature, this creature deals 1 damage to that creature.",
+    "rulesTexts": [
+      "Reach\nWhenever this creature blocks or becomes blocked by a creature, this creature deals 1 damage to that creature."
+    ],
     "keywords": [
       "reach"
     ],
@@ -9516,7 +10050,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one or more —\n• Each player discards two cards.\n• Each player loses 4 life.\n• Each player sacrifices two creatures of their choice.",
+    "rulesTexts": [
+      "Choose one or more —\n• Each player discards two cards.\n• Each player loses 4 life.\n• Each player sacrifices two creatures of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9554,7 +10090,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "At the beginning of your end step, put a +1/+1 counter on each creature you control. Untap those creatures.",
+    "rulesTexts": [
+      "At the beginning of your end step, put a +1/+1 counter on each creature you control. Untap those creatures.",
+      "Create a 2/2 white Knight creature token with vigilance. (Then exile this card. You may cast the enchantment later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9591,7 +10130,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, you may pay {2}. When you do, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you may pay {2}. When you do, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -9635,7 +10176,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{T}: Add {G}{U}. Spend this mana only to cast spells with mana value 5 or greater or spells with {X} in their mana costs.\n{U}, {T}: Draw a card, then discard a card.",
+    "rulesTexts": [
+      "{T}: Add {G}{U}. Spend this mana only to cast spells with mana value 5 or greater or spells with {X} in their mana costs.\n{U}, {T}: Draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -9669,7 +10212,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This land enters tapped.\nAs this land enters, choose a color.\n{T}: Add one mana of the chosen color.\n{3}, {T}, Sacrifice this land: Return target card that has an Adventure from your graveyard to your hand.",
+    "rulesTexts": [
+      "This land enters tapped.\nAs this land enters, choose a color.\n{T}: Add one mana of the chosen color.\n{3}, {T}, Sacrifice this land: Return target card that has an Adventure from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -9716,7 +10261,10 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike\nOther creatures you control get +1/+0 for each Aura and Equipment attached to Kellan.",
+    "rulesTexts": [
+      "Double strike\nOther creatures you control get +1/+0 for each Aura and Equipment attached to Kellan.",
+      "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9752,7 +10300,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -9794,7 +10344,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.\nAt the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control.",
+    "rulesTexts": [
+      "Each creature that's enchanted by an Aura you control can't attack you or planeswalkers you control.\nAt the beginning of your end step, each opponent loses X life and you gain X life, where X is the number of Auras you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9829,7 +10381,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -9866,7 +10420,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -9904,7 +10460,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Target creature gets +2/+0 until end of turn. Create a Monster Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)",
+    "rulesTexts": [
+      "Target creature gets +2/+0 until end of turn. Create a Monster Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has trample.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -9942,7 +10500,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Frantic Firebolt deals X damage to target creature, where X is 2 plus the number of cards in your graveyard that are instant cards, sorcery cards, and/or have an Adventure.",
+    "rulesTexts": [
+      "Frantic Firebolt deals X damage to target creature, where X is 2 plus the number of cards in your graveyard that are instant cards, sorcery cards, and/or have an Adventure."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9977,7 +10537,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\n{3}{G}: Put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\n{3}{G}: Put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "ward"
     ],
@@ -10014,7 +10576,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10055,7 +10619,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nFlying\nWhen this creature enters, if it was bargained, each opponent loses 3 life and you gain 3 life.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nFlying\nWhen this creature enters, if it was bargained, each opponent loses 3 life and you gain 3 life."
+    ],
     "keywords": [
       "flying",
       "bargain"
@@ -10097,7 +10663,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "When this creature enters, choose one or more —\n• Return target card you own in exile that has an Adventure to your hand.\n• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.\n• Exile target player's graveyard.",
+    "rulesTexts": [
+      "When this creature enters, choose one or more —\n• Return target card you own in exile that has an Adventure to your hand.\n• Put target card you don't own in exile that has an Adventure on the bottom of its owner's library.\n• Exile target player's graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10136,7 +10704,10 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.",
+      "Target creature gets -3/-3 until end of turn. You gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10173,7 +10744,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Up to one target creature gets -1/-1 until end of turn. You create a 1/1 black Rat creature token with \"This token can't block.\"",
+    "rulesTexts": [
+      "Up to one target creature gets -1/-1 until end of turn. You create a 1/1 black Rat creature token with \"This token can't block.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10209,7 +10782,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Young Hero Role token attached to it. (Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\" If you put another Role on the creature later, put this one into the graveyard.)",
+    "rulesTexts": [
+      "Return target creature card with mana value 3 or less from your graveyard to the battlefield. Create a Young Hero Role token attached to it. (Enchanted creature has \"Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.\" If you put another Role on the creature later, put this one into the graveyard.)"
+    ],
     "keywords": [
       "role token"
     ],
@@ -10247,7 +10822,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you cast an Adventure spell, you may copy it. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast an Adventure spell, you may copy it. You may choose new targets for the copy."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10285,7 +10862,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Destroy target enchantment. If a permanent you controlled or a token was destroyed this way, draw a card.",
+    "rulesTexts": [
+      "Destroy target enchantment. If a permanent you controlled or a token was destroyed this way, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10320,7 +10899,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature. If you control an enchantment, scry 2.",
+    "rulesTexts": [
+      "Exile target creature. If you control an enchantment, scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -10360,7 +10941,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Trample\nWhen this creature enters, if it isn't a token, create two tokens that are copies of it.\nWhen this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, if it isn't a token, create two tokens that are copies of it.\nWhen this creature dies, put a number of +1/+1 counters equal to its power on each creature you control named Gruff Triplets."
+    ],
     "keywords": [
       "trample"
     ],
@@ -10402,7 +10985,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)",
+      "Create a Wicked Role token attached to target creature you control. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10444,7 +11030,10 @@
       "token",
       "draw"
     ],
-    "oracleText": "Reach\n{2}{R}, Sacrifice an artifact or land: Draw a card.",
+    "rulesTexts": [
+      "Reach\n{2}{R}, Sacrifice an artifact or land: Draw a card.",
+      "Create a Treasure token. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10482,7 +11071,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nStonesplitter Bolt deals X damage to target creature or planeswalker. If this spell was bargained, it deals twice X damage to that permanent instead.",
+    "rulesTexts": [
+      "Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)\nStonesplitter Bolt deals X damage to target creature or planeswalker. If this spell was bargained, it deals twice X damage to that permanent instead."
+    ],
     "keywords": [
       "bargain"
     ],
@@ -10519,7 +11110,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Tap up to one target creature. Scry 1, then draw a card.",
+    "rulesTexts": [
+      "Tap up to one target creature. Scry 1, then draw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -10559,7 +11152,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nCelebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and \"{R}: Dragons you control get +1/+0 until end of turn.\" (It loses all other creature types.)",
+    "rulesTexts": [
+      "Haste\nCelebration — As long as two or more nonland permanents entered the battlefield under your control this turn, Goddric is a Dragon with base power and toughness 4/4, flying, and \"{R}: Dragons you control get +1/+0 until end of turn.\" (It loses all other creature types.)"
+    ],
     "keywords": [
       "flying",
       "celebration",
@@ -10599,7 +11194,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a spell with mana value 5 or greater, put two +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Whenever you cast a spell with mana value 5 or greater, put two +1/+1 counters on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10637,7 +11234,10 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "If you tap a basic land for mana, it produces three times as much of that mana instead.",
+    "rulesTexts": [
+      "If you tap a basic land for mana, it produces three times as much of that mana instead.",
+      "Return target creature or land card from your graveyard to your hand. (Then exile this card. You may cast the enchantment later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10678,7 +11278,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.\n{T}: Add {R} or {G}.",
+    "rulesTexts": [
+      "Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.\n{T}: Add {R} or {G}."
+    ],
     "keywords": [
       "haste"
     ],

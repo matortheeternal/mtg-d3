@@ -221,8 +221,8 @@ function getRangeString(value) {
 export const WordCount = {
     key: 'Word Count',
     getValue(card) {
-        const wordCount = card.rulesTexts().reduce((count, text) => {
-            return count + text.length;
+        const wordCount = card.rulesTexts.reduce((count, text) => {
+            return count + text.split(/\s+/).length;
         }, 0);
         return getRangeString(wordCount);
     }

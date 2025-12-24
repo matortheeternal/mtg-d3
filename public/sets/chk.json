@@ -24,7 +24,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.",
+    "rulesTexts": [
+      "Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -62,7 +64,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature dies, it deals damage to any target equal to the number of Zubera that died this turn.",
+    "rulesTexts": [
+      "When this creature dies, it deals damage to any target equal to the number of Zubera that died this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -99,7 +103,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -5/-5 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets -5/-5 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -130,7 +136,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Boseiju enters tapped.\n{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can't be countered.",
+    "rulesTexts": [
+      "Boseiju enters tapped.\n{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can't be countered."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -167,7 +175,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Equipped creature gets +3/+1.\nWhenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.\nWhen Oathkeeper is put into a graveyard from the battlefield, exile equipped creature.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +3/+1.\nWhenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.\nWhen Oathkeeper is put into a graveyard from the battlefield, exile equipped creature.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -204,7 +214,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, untap this creature and it gets +1/+1 until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, untap this creature and it gets +1/+1 until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -240,7 +252,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't block.\nAs long as you control a Demon, this creature has \"{B}: Regenerate this creature.\"",
+    "rulesTexts": [
+      "This creature can't block.\nAs long as you control a Demon, this creature has \"{B}: Regenerate this creature.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -275,7 +289,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent the next 3 damage that would be dealt to any target this turn. You gain life equal to the damage prevented this way.\nSplice onto Arcane {1}{W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Prevent the next 3 damage that would be dealt to any target this turn. You gain life equal to the damage prevented this way.\nSplice onto Arcane {1}{W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -314,7 +330,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards, then discard a card.\nIf you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle.",
+    "rulesTexts": [
+      "Draw two cards, then discard a card.\nIf you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -352,7 +370,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{B}{B}, {T}: Target creature deals damage to itself equal to its power.",
+    "rulesTexts": [
+      "{2}{B}{B}, {T}: Target creature deals damage to itself equal to its power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -385,7 +405,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target Spirit or Arcane spell.",
+    "rulesTexts": [
+      "Counter target Spirit or Arcane spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -422,7 +444,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.\nSoulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.\nSoulshift 2 (When this creature dies, you may return target Spirit card with mana value 2 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "soulshift"
     ],
@@ -457,7 +481,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Yamabushi's Storm deals 1 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Yamabushi's Storm deals 1 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -493,7 +519,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)"
+    ],
     "keywords": [
       "bushido"
     ],
@@ -528,7 +556,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target Spirit.",
+    "rulesTexts": [
+      "Destroy target Spirit."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -560,7 +590,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add {G} or {W}. This land doesn't untap during your next untap step.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add {G} or {W}. This land doesn't untap during your next untap step."
+    ],
     "keywords": [],
     "produces": [
       "C",
@@ -600,7 +632,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Prevent the next 1 damage that would be dealt to any target this turn.\n{T}: Prevent all damage that would be dealt to target legendary creature this turn.",
+    "rulesTexts": [
+      "{T}: Prevent the next 1 damage that would be dealt to any target this turn.\n{T}: Prevent all damage that would be dealt to target legendary creature this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -635,7 +669,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nAll creatures able to block enchanted creature do so.",
+    "rulesTexts": [
+      "Enchant creature\nAll creatures able to block enchanted creature do so."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -674,7 +710,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, each other creature you control gets +1/+1 and gains trample until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, each other creature you control gets +1/+1 and gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -705,7 +743,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature has shroud. (It can't be the target of spells or abilities.)\nPrevent all combat damage that would be dealt to equipped creature.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature has shroud. (It can't be the target of spells or abilities.)\nPrevent all combat damage that would be dealt to equipped creature.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -744,7 +784,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Myojin of Night's Reach enters with a divinity counter on it if you cast it from your hand.\nMyojin of Night's Reach has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Night's Reach: Each opponent discards their hand.",
+    "rulesTexts": [
+      "Myojin of Night's Reach enters with a divinity counter on it if you cast it from your hand.\nMyojin of Night's Reach has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Night's Reach: Each opponent discards their hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -780,7 +822,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{G}: Target creature blocks this creature this turn if able.\nWhenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "{2}{G}: Target creature blocks this creature this turn if able.\nWhenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -820,7 +864,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Tap an untapped Wizard you control: Draw a card.",
+    "rulesTexts": [
+      "Tap an untapped Wizard you control: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -860,7 +906,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+    "rulesTexts": [
+      "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
+    ],
     "keywords": [
       "haste"
     ],
@@ -900,7 +948,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nThis creature can't block.",
+    "rulesTexts": [
+      "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nThis creature can't block."
+    ],
     "keywords": [
       "fear"
     ],
@@ -940,7 +990,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen Ryusei dies, it deals 5 damage to each creature without flying.",
+    "rulesTexts": [
+      "Flying\nWhen Ryusei dies, it deals 5 damage to each creature without flying."
+    ],
     "keywords": [
       "flying"
     ],
@@ -980,7 +1032,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{2}{B}, {T}: Exile up to three target cards from a single graveyard.",
+    "rulesTexts": [
+      "{2}{B}, {T}: Exile up to three target cards from a single graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1015,7 +1069,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Yamabushi's Flame deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Yamabushi's Flame deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1053,7 +1109,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nAt the beginning of your upkeep, sacrifice a creature if you don't control an Ogre.",
+    "rulesTexts": [
+      "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nAt the beginning of your upkeep, sacrifice a creature if you don't control an Ogre."
+    ],
     "keywords": [
       "fear"
     ],
@@ -1093,7 +1151,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen Yosei dies, target player skips their next untap step. Tap up to five target permanents that player controls.",
+    "rulesTexts": [
+      "Flying\nWhen Yosei dies, target player skips their next untap step. Tap up to five target permanents that player controls."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1130,7 +1190,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player discards two cards.",
+    "rulesTexts": [
+      "Target player discards two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1163,7 +1225,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice any number of lands, then add that much {C}.",
+    "rulesTexts": [
+      "Sacrifice any number of lands, then add that much {C}."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -1205,7 +1269,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\n{1}, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying.",
+    "rulesTexts": [
+      "Flying\n{1}, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1246,7 +1312,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\n{1}, Sacrifice a Spirit: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Flying\n{1}, Sacrifice a Spirit: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate only as a sorcery.\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "flying",
       "soulshift"
@@ -1284,7 +1352,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you cast a creature spell this turn, draw a card.",
+    "rulesTexts": [
+      "Whenever you cast a creature spell this turn, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1319,7 +1389,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You gain 1 life for each land you control.",
+    "rulesTexts": [
+      "You gain 1 life for each land you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1355,7 +1427,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{3}, Return three lands you control to their owner's hand: Return target creature to its owner's hand.",
+    "rulesTexts": [
+      "Flying\n{3}, Return three lands you control to their owner's hand: Return target creature to its owner's hand."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1390,7 +1464,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {W}.\n{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn.",
+    "rulesTexts": [
+      "{T}: Add {W}.\n{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn."
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -1427,7 +1503,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1466,7 +1544,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying\nWhenever you cast a Spirit or Arcane spell, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a Spirit or Arcane spell, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -1505,7 +1585,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{G}{G}, Sacrifice this creature: Put target land on top of its owner's library.\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "{G}{G}, Sacrifice this creature: Put target land on top of its owner's library.\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "soulshift"
     ],
@@ -1542,7 +1624,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1579,7 +1663,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\n{1}, Tap an untapped creature you control: Untap enchanted creature.",
+    "rulesTexts": [
+      "Enchant creature\n{1}, Tap an untapped creature you control: Untap enchanted creature."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -1614,7 +1700,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gale Force deals 5 damage to each creature with flying.",
+    "rulesTexts": [
+      "Gale Force deals 5 damage to each creature with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1650,7 +1738,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, you gain 2 life for each Zubera that died this turn.",
+    "rulesTexts": [
+      "When this creature dies, you gain 2 life for each Zubera that died this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1685,7 +1775,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, this creature deals 2 damage to each creature without flying.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, this creature deals 2 damage to each creature without flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1720,7 +1812,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -1757,7 +1851,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Counter target activated ability. (Mana abilities can't be targeted.)\nDraw a card.",
+    "rulesTexts": [
+      "Counter target activated ability. (Mana abilities can't be targeted.)\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1793,7 +1889,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+    "rulesTexts": [
+      "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)"
+    ],
     "keywords": [
       "landwalk",
       "mountainwalk"
@@ -1833,7 +1931,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nShroud (This creature can't be the target of spells or abilities.)",
+    "rulesTexts": [
+      "Trample\nShroud (This creature can't be the target of spells or abilities.)"
+    ],
     "keywords": [
       "shroud",
       "trample"
@@ -1875,7 +1975,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When Iname enters, you may search your library for any number of Spirit cards, put them into your graveyard, then shuffle.",
+    "rulesTexts": [
+      "When Iname enters, you may search your library for any number of Spirit cards, put them into your graveyard, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1910,7 +2012,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}: Add {B}.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+    "rulesTexts": [
+      "{T}: Add {B}.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1945,7 +2049,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land or nonblack creature. It can't be regenerated.",
+    "rulesTexts": [
+      "Destroy target land or nonblack creature. It can't be regenerated."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1982,7 +2088,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhenever you cast a Spirit or Arcane spell, you may draw a card.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a Spirit or Arcane spell, you may draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2021,7 +2129,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2054,7 +2164,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this enchantment enters, choose a color word.\nAll instances of color words in the text of spells and permanents are changed to the chosen color word.",
+    "rulesTexts": [
+      "As this enchantment enters, choose a color word.\nAll instances of color words in the text of spells and permanents are changed to the chosen color word."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2089,7 +2201,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature can't be blocked by Spirits.\n{1}{U}: Return this Aura to its owner's hand.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature can't be blocked by Spirits.\n{1}{U}: Return this Aura to its owner's hand."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -2128,7 +2242,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Reach (This creature can block creatures with flying.)\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Reach (This creature can block creatures with flying.)\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "reach",
       "soulshift"
@@ -2166,7 +2282,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Switch target creature's power and toughness until end of turn.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Switch target creature's power and toughness until end of turn.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -2203,7 +2321,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.",
+    "rulesTexts": [
+      "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2238,7 +2358,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land. If that land was legendary, its controller sacrifices another land of their choice.",
+    "rulesTexts": [
+      "Destroy target land. If that land was legendary, its controller sacrifices another land of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2281,7 +2403,10 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip this creature.",
+    "rulesTexts": [
+      "{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip this creature.",
+      "{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2318,7 +2443,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+    "rulesTexts": [
+      "Flying\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)"
+    ],
     "keywords": [
       "flying",
       "bushido"
@@ -2356,7 +2483,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -2394,7 +2523,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn.",
+    "rulesTexts": [
+      "First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn."
+    ],
     "keywords": [
       "first strike"
     ],
@@ -2436,7 +2567,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Other Snake creatures you control get +2/+2.\nWhenever a Snake you control deals combat damage to a player, you may draw a card.",
+    "rulesTexts": [
+      "Other Snake creatures you control get +2/+2.\nWhenever a Snake you control deals combat damage to a player, you may draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2473,7 +2606,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)",
+    "rulesTexts": [
+      "Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2502,7 +2637,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2537,7 +2674,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for an Arcane card, reveal that card, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for an Arcane card, reveal that card, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2568,7 +2707,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untaidake enters tapped.\n{T}, Pay 2 life: Add {C}{C}. Spend this mana only to cast legendary spells.",
+    "rulesTexts": [
+      "Untaidake enters tapped.\n{T}, Pay 2 life: Add {C}{C}. Spend this mana only to cast legendary spells."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -2609,7 +2750,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "At the beginning of your upkeep, create a 1/1 colorless Spirit creature token for each Shrine you control.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, create a 1/1 colorless Spirit creature token for each Shrine you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2645,7 +2788,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.\n{1}{G}: Regenerate this creature.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.\n{1}{G}: Regenerate this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2680,7 +2825,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach (This creature can block creatures with flying.)\nWhenever you cast a Spirit or Arcane spell, this creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+    "rulesTexts": [
+      "Reach (This creature can block creatures with flying.)\nWhenever you cast a Spirit or Arcane spell, this creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)"
+    ],
     "keywords": [
       "reach"
     ],
@@ -2719,7 +2866,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or enchantment.\nSplice onto Arcane {3}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Destroy target artifact or enchantment.\nSplice onto Arcane {3}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -2757,7 +2906,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{2}, Return a land you control to its owner's hand: Target creature with power 2 or less can't be blocked this turn.",
+    "rulesTexts": [
+      "Flying\n{2}, Return a land you control to its owner's hand: Target creature with power 2 or less can't be blocked this turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2791,7 +2942,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add {U} or {B}. This land doesn't untap during your next untap step.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add {U} or {B}. This land doesn't untap during your next untap step."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -2832,7 +2985,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, this creature deals 1 damage to target creature.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, this creature deals 1 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2868,7 +3023,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, target opponent discards a card for each Zubera that died this turn.",
+    "rulesTexts": [
+      "When this creature dies, target opponent discards a card for each Zubera that died this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2903,7 +3060,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, target creature can't block this turn.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, target creature can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2936,7 +3095,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller.",
+    "rulesTexts": [
+      "Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2972,7 +3133,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{3}, Return a land you control to its owner's hand: Counter target spell unless its controller pays {3}.",
+    "rulesTexts": [
+      "Flying\n{3}, Return a land you control to its owner's hand: Counter target spell unless its controller pays {3}."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3009,7 +3172,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards.",
+    "rulesTexts": [
+      "Draw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3041,7 +3206,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "{T}: This artifact deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead.",
+    "rulesTexts": [
+      "{T}: This artifact deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3079,7 +3246,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\n{4}, Return two lands you control to their owner's hand: Discard all the cards in your hand, then draw that many cards.",
+    "rulesTexts": [
+      "Flying\n{4}, Return two lands you control to their owner's hand: Discard all the cards in your hand, then draw that many cards."
+    ],
     "keywords": [
       "flying"
     ],
@@ -3118,7 +3287,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, you gain 2 life for each Shrine you control.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you gain 2 life for each Shrine you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3151,7 +3322,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land.",
+    "rulesTexts": [
+      "Destroy target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3183,7 +3356,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add {B} or {R}. This land doesn't untap during your next untap step.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add {B} or {R}. This land doesn't untap during your next untap step."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3222,7 +3397,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target creature to its owner's hand.\nSplice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Return target creature to its owner's hand.\nSplice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -3267,7 +3444,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{T}: You may put a land card from your hand onto the battlefield. If you control ten or more lands, flip this creature.",
+    "rulesTexts": [
+      "{T}: You may put a land card from your hand onto the battlefield. If you control ten or more lands, flip this creature.",
+      "{4}{G}{G}, {T}: Create an X/X green Elemental creature token, where X is the number of lands you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3300,7 +3480,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library.",
+    "rulesTexts": [
+      "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put this artifact on top of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3335,7 +3517,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, you may sacrifice any number of Spirits.\nTarget player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may sacrifice any number of Spirits.\nTarget player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3370,7 +3554,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -3409,7 +3595,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nSoulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Flying\nSoulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "flying",
       "soulshift"
@@ -3450,7 +3638,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Other Snake creatures you control get +0/+1.\nShamans you control have \"{T}: Add {G}{G}.\"",
+    "rulesTexts": [
+      "Other Snake creatures you control get +0/+1.\nShamans you control have \"{T}: Add {G}{G}.\""
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -3488,7 +3678,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may choose not to untap this creature during your untap step.\n{1}{U}, {T}: Target creature you control other than this creature has shroud for as long as this creature remains tapped. (It can't be the target of spells or abilities.)",
+    "rulesTexts": [
+      "You may choose not to untap this creature during your untap step.\n{1}{U}, {T}: Target creature you control other than this creature has shroud for as long as this creature remains tapped. (It can't be the target of spells or abilities.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3521,7 +3713,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.)\n{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a spell from among cards exiled with Shell of the Last Kappa without paying its mana cost.",
+    "rulesTexts": [
+      "{3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.)\n{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a spell from among cards exiled with Shell of the Last Kappa without paying its mana cost."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3554,7 +3748,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "For each Spirit, return it to its owner's hand unless that player pays {3}.",
+    "rulesTexts": [
+      "For each Spirit, return it to its owner's hand unless that player pays {3}."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3589,7 +3785,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target permanent's controller sacrifices it. If the player does, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent, put that card onto the battlefield, then shuffle.\nSplice onto Arcane {2}{U}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Target permanent's controller sacrifices it. If the player does, they reveal cards from the top of their library until they reveal a permanent card that shares a card type with the sacrificed permanent, put that card onto the battlefield, then shuffle.\nSplice onto Arcane {2}{U}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -3624,7 +3822,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3663,7 +3863,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, trample\nWhenever The Unspeakable deals combat damage to a player, you may return target Arcane card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Flying, trample\nWhenever The Unspeakable deals combat damage to a player, you may return target Arcane card from your graveyard to your hand."
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -3703,7 +3905,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, target opponent discards a card for each Shrine you control.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, target opponent discards a card for each Shrine you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3740,7 +3944,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Glacial Ray deals 2 damage to any target.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Glacial Ray deals 2 damage to any target.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -3778,7 +3984,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+    "rulesTexts": [
+      "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
+    ],
     "keywords": [
       "landwalk",
       "forestwalk"
@@ -3814,7 +4022,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a source you control deals damage to another player, put that many theft counters on this enchantment.\n{2}{B}{B}, Remove X theft counters from this enchantment: Search your library for a nonland card with mana value X, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Whenever a source you control deals damage to another player, put that many theft counters on this enchantment.\n{2}{B}{B}, Remove X theft counters from this enchantment: Search your library for a nonland card with mana value X, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3847,7 +4057,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles.",
+    "rulesTexts": [
+      "Choose a nonland card name and a number greater than 0. Target player reveals their library. If that library contains exactly the chosen number of cards with the chosen name, Mindblaze deals 8 damage to that player. Then that player shuffles."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3878,7 +4090,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Hall of the Bandit Lord enters tapped.\n{T}, Pay 3 life: Add {C}. If that mana is spent on a creature spell, it gains haste.",
+    "rulesTexts": [
+      "Hall of the Bandit Lord enters tapped.\n{T}, Pay 3 life: Add {C}. If that mana is spent on a creature spell, it gains haste."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -3915,7 +4129,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3953,7 +4169,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{W}: Target permanent you control gains protection from white until end of turn.\n{1}: Target spell or permanent becomes white until end of turn.",
+    "rulesTexts": [
+      "{1}{W}: Target permanent you control gains protection from white until end of turn.\n{1}: Target spell or permanent becomes white until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3989,7 +4207,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4027,7 +4247,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen Jugan dies, you may distribute five +1/+1 counters among any number of target creatures.",
+    "rulesTexts": [
+      "Flying\nWhen Jugan dies, you may distribute five +1/+1 counters among any number of target creatures."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4066,7 +4288,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Soulshift 7 (When this creature dies, you may return target Spirit card with mana value 7 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Soulshift 7 (When this creature dies, you may return target Spirit card with mana value 7 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "soulshift"
     ],
@@ -4106,7 +4330,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, sacrifice a Snake.\nWhenever Shisato deals combat damage to a player, that player skips their next untap step.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, sacrifice a Snake.\nWhenever Shisato deals combat damage to a player, that player skips their next untap step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4141,7 +4367,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -4178,7 +4406,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature has \"{B}: This creature gets +1/+1 until end of turn.\"",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature has \"{B}: This creature gets +1/+1 until end of turn.\""
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4218,7 +4448,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\n{2}, Return a land you control to its owner's hand: Draw a card, then discard a card.",
+    "rulesTexts": [
+      "Flying\n{2}, Return a land you control to its owner's hand: Draw a card, then discard a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4258,7 +4490,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, indestructible\nBushido 5 (Whenever this creature blocks or becomes blocked, it gets +5/+5 until end of turn.)",
+    "rulesTexts": [
+      "Vigilance, indestructible\nBushido 5 (Whenever this creature blocks or becomes blocked, it gets +5/+5 until end of turn.)"
+    ],
     "keywords": [
       "indestructible",
       "bushido",
@@ -4298,7 +4532,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {G}.",
+    "rulesTexts": [
+      "{T}: Add {G}."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4335,7 +4571,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, you may sacrifice any number of Spirits.\nTarget creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may sacrifice any number of Spirits.\nTarget creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4372,7 +4610,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Lava Spike deals 3 damage to target player or planeswalker.",
+    "rulesTexts": [
+      "Lava Spike deals 3 damage to target player or planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4408,7 +4648,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+    "rulesTexts": [
+      "Haste\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)"
+    ],
     "keywords": [
       "bushido",
       "haste"
@@ -4446,7 +4688,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gets +1/+0 and gains flying until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gets +1/+0 and gains flying until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4482,7 +4726,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, each player loses 3 life.",
+    "rulesTexts": [
+      "When this creature dies, each player loses 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4520,7 +4766,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen Kokusho dies, each opponent loses 5 life. You gain life equal to the life lost this way.",
+    "rulesTexts": [
+      "Flying\nWhen Kokusho dies, each opponent loses 5 life. You gain life equal to the life lost this way."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4560,7 +4808,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature dies, draw a card for each Zubera that died this turn.",
+    "rulesTexts": [
+      "When this creature dies, draw a card for each Zubera that died this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4596,7 +4846,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You have no maximum hand size.",
+    "rulesTexts": [
+      "You have no maximum hand size."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4633,7 +4885,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, first strike\nSoulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Flying, first strike\nSoulshift 5 (When this creature dies, you may return target Spirit card with mana value 5 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "flying",
       "first strike",
@@ -4674,7 +4928,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{X}{R}, Sacrifice this creature: It deals X damage to target creature.",
+    "rulesTexts": [
+      "{X}{R}, Sacrifice this creature: It deals X damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4709,7 +4965,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit.",
+    "rulesTexts": [
+      "Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4746,7 +5004,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{1}{R}, Sacrifice a creature: This enchantment deals 2 damage to any target.",
+    "rulesTexts": [
+      "{1}{R}, Sacrifice a creature: This enchantment deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4783,7 +5043,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target creature card from your graveyard to your hand.\nSplice onto Arcane {1}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Return target creature card from your graveyard to your hand.\nSplice onto Arcane {1}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -4818,7 +5080,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may change any targets of target Arcane spell.",
+    "rulesTexts": [
+      "You may change any targets of target Arcane spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4851,7 +5115,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a player taps a land for mana, that player adds one mana of any type that land produced.",
+    "rulesTexts": [
+      "Whenever a player taps a land for mana, that player adds one mana of any type that land produced."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4892,7 +5158,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gets +2/+2 and gains trample until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gets +2/+2 and gains trample until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4923,7 +5191,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +2/+0 and has first strike.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +2/+0 and has first strike.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -4960,7 +5230,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\nSplice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\nSplice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -4997,7 +5269,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -5040,7 +5314,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever this creature deals damage to an opponent, flip it.",
+    "rulesTexts": [
+      "Haste\nWhenever this creature deals damage to an opponent, flip it.",
+      "Protection from red\nIf a red source would deal damage to a player, it deals that much damage plus 1 to that player instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5074,7 +5351,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Equipped creature has \"{T}: Put an aim counter on Hankyu\" and \"{T}, Remove all aim counters from Hankyu: This creature deals damage to any target equal to the number of aim counters removed this way.\"\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature has \"{T}: Put an aim counter on Hankyu\" and \"{T}, Remove all aim counters from Hankyu: This creature deals damage to any target equal to the number of aim counters removed this way.\"\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -5105,7 +5384,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Arcane spells you cast cost {1} less to cast.\nSpirit creatures you control get +1/+1.",
+    "rulesTexts": [
+      "Arcane spells you cast cost {1} less to cast.\nSpirit creatures you control get +1/+1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5140,7 +5421,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, this creature gains protection from the color of your choice until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, this creature gains protection from the color of your choice until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5175,7 +5458,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap up to three target creatures.",
+    "rulesTexts": [
+      "Tap up to three target creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5213,7 +5498,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As Shimatsu enters, sacrifice any number of permanents. Shimatsu enters with that many +1/+1 counters on it.",
+    "rulesTexts": [
+      "As Shimatsu enters, sacrifice any number of permanents. Shimatsu enters with that many +1/+1 counters on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5251,7 +5538,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control.",
+    "rulesTexts": [
+      "All Rats have fear.\n{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5286,7 +5575,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +1/+2.",
+    "rulesTexts": [
+      "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +1/+2."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -5322,7 +5613,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {U}.\n{U}, {T}: Untap target legendary permanent.",
+    "rulesTexts": [
+      "{T}: Add {U}.\n{U}, {T}: Untap target legendary permanent."
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -5357,7 +5650,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5390,7 +5685,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Konda's Banner can be attached only to a legendary creature.\nCreatures that share a color with equipped creature get +1/+1.\nCreatures that share a creature type with equipped creature get +1/+1.\nEquip {2}",
+    "rulesTexts": [
+      "Konda's Banner can be attached only to a legendary creature.\nCreatures that share a color with equipped creature get +1/+1.\nCreatures that share a creature type with equipped creature get +1/+1.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -5425,7 +5722,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control.",
+    "rulesTexts": [
+      "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5461,7 +5760,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nAt the beginning of your upkeep, discard a card if you don't control an Ogre.",
+    "rulesTexts": [
+      "Trample\nAt the beginning of your upkeep, discard a card if you don't control an Ogre."
+    ],
     "keywords": [
       "trample"
     ],
@@ -5507,7 +5808,10 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip this creature.",
+    "rulesTexts": [
+      "{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip this creature.",
+      "{4}{B}: Put target creature card from a graveyard onto the battlefield under your control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5540,7 +5844,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add {R} or {G}. This land doesn't untap during your next untap step.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add {R} or {G}. This land doesn't untap during your next untap step."
+    ],
     "keywords": [],
     "produces": [
       "C",
@@ -5577,7 +5883,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell with mana value 4 or less.",
+    "rulesTexts": [
+      "Counter target spell with mana value 4 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5606,7 +5914,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, you may have target creature you control get +X/+X until end of turn, where X is the number of creatures you control. If you do, sacrifice that creature at the beginning of the next end step.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you may have target creature you control get +X/+X until end of turn, where X is the number of creatures you control. If you do, sacrifice that creature at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5641,7 +5951,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gains \"Whenever this creature deals damage to a creature, destroy that creature\" until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gains \"Whenever this creature deals damage to a creature, destroy that creature\" until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5677,7 +5989,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5715,7 +6029,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -5752,7 +6068,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, regenerate target creature.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, regenerate target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5784,7 +6102,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "This artifact enters with X charge counters on it.\n{5}, {T}: Create a 1/1 green Snake creature token for each charge counter on this artifact.",
+    "rulesTexts": [
+      "This artifact enters with X charge counters on it.\n{5}, {T}: Create a 1/1 green Snake creature token for each charge counter on this artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5819,7 +6139,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all damage that would be dealt by creatures this turn.",
+    "rulesTexts": [
+      "Prevent all damage that would be dealt by creatures this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5852,7 +6174,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player reveals their hand. You choose a nonland card from it. That player discards that card.",
+    "rulesTexts": [
+      "Target player reveals their hand. You choose a nonland card from it. That player discards that card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5887,7 +6211,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5920,7 +6246,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+    "rulesTexts": [
+      "Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5956,7 +6284,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nAs long as you control a legendary Samurai, this creature gets +1/+2 and has vigilance. (Attacking doesn't cause this creature to tap.)",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nAs long as you control a legendary Samurai, this creature gets +1/+2 and has vigilance. (Attacking doesn't cause this creature to tap.)"
+    ],
     "keywords": [
       "bushido"
     ],
@@ -5993,7 +6323,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +2/+2 and attacks each combat if able.",
+    "rulesTexts": [
+      "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +2/+2 and attacks each combat if able."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -6031,7 +6363,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +X/+X until end of turn, where X is the number of lands you control.",
+    "rulesTexts": [
+      "Target creature gets +X/+X until end of turn, where X is the number of lands you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6066,7 +6400,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, target creature gains flying until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, target creature gains flying until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6101,7 +6437,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+    "rulesTexts": [
+      "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6142,7 +6480,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When a creature dealt damage by this creature this turn dies, flip this creature.",
+    "rulesTexts": [
+      "When a creature dealt damage by this creature this turn dies, flip this creature.",
+      "Double strike; bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6178,7 +6519,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Hanabi Blast deals 2 damage to any target. Return Hanabi Blast to its owner's hand, then discard a card at random.",
+    "rulesTexts": [
+      "Hanabi Blast deals 2 damage to any target. Return Hanabi Blast to its owner's hand, then discard a card at random."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6209,7 +6552,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{T}: Add one mana of any color.\nWhenever you tap this land for mana, target opponent creates a 1/1 colorless Spirit creature token.",
+    "rulesTexts": [
+      "{T}: Add one mana of any color.\nWhenever you tap this land for mana, target opponent creates a 1/1 colorless Spirit creature token."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -6250,7 +6595,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -6287,7 +6634,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice this creature: Return target creature you control to its owner's hand.",
+    "rulesTexts": [
+      "Sacrifice this creature: Return target creature you control to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6323,7 +6672,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",
+    "rulesTexts": [
+      "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)"
+    ],
     "keywords": [
       "bushido"
     ],
@@ -6360,7 +6711,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nEnchanted creature gets +1/+1.\n{G}: Regenerate enchanted creature.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nEnchanted creature gets +1/+1.\n{G}: Regenerate enchanted creature."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -6396,7 +6749,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Whenever you draw a card, exile the top card of your library face down.\nAt the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with this artifact into your hand.",
+    "rulesTexts": [
+      "Whenever you draw a card, exile the top card of your library face down.\nAt the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with this artifact into your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6429,7 +6784,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead.",
+    "rulesTexts": [
+      "{1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6468,7 +6825,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Myojin of Seeing Winds enters with a divinity counter on it if you cast it from your hand.\nMyojin of Seeing Winds has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control.",
+    "rulesTexts": [
+      "Myojin of Seeing Winds enters with a divinity counter on it if you cast it from your hand.\nMyojin of Seeing Winds has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6503,7 +6862,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6534,7 +6895,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{3}: Put target card from a graveyard on the bottom of its owner's library.",
+    "rulesTexts": [
+      "{3}: Put target card from a graveyard on the bottom of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6565,7 +6928,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Players can't untap more than one artifact during their untap steps.",
+    "rulesTexts": [
+      "Players can't untap more than one artifact during their untap steps."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6601,7 +6966,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6636,7 +7003,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target non-Spirit creature.",
+    "rulesTexts": [
+      "Destroy target non-Spirit creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6671,7 +7040,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice all creatures you control.\nSoulblast deals damage to any target equal to the total power of the sacrificed creatures.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice all creatures you control.\nSoulblast deals damage to any target equal to the total power of the sacrificed creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6708,7 +7079,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Sacrifice this creature: Target creature gets +2/+2 until end of turn.\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Sacrifice this creature: Target creature gets +2/+2 until end of turn.\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "soulshift"
     ],
@@ -6745,7 +7118,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "All creatures get -2/-2 until end of turn.\nSplice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "All creatures get -2/-2 until end of turn.\nSplice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -6782,7 +7157,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -6820,7 +7197,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy all enchantments.",
+    "rulesTexts": [
+      "Destroy all enchantments."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6855,7 +7234,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature can't attack or block.\n{1}{W}: Return this Aura to its owner's hand.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature can't attack or block.\n{1}{W}: Return this Aura to its owner's hand."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -6892,7 +7273,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Equipped creature gets +5/+5.\n{6}, Exile Tatsumasa: Create a 5/5 blue Dragon Spirit creature token with flying. Return Tatsumasa to the battlefield under its owner's control when that token dies.\nEquip {3}",
+    "rulesTexts": [
+      "Equipped creature gets +5/+5.\n{6}, Exile Tatsumasa: Create a 5/5 blue Dragon Spirit creature token with flying. Return Tatsumasa to the battlefield under its owner's control when that token dies.\nEquip {3}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6929,7 +7312,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -6968,7 +7353,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Flying\nSoulshift 3 (When this creature dies, you may return target Spirit card with mana value 3 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "flying",
       "soulshift"
@@ -7003,7 +7390,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add {W} or {U}. This land doesn't untap during your next untap step.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add {W} or {U}. This land doesn't untap during your next untap step."
+    ],
     "keywords": [],
     "produces": [
       "C",
@@ -7042,7 +7431,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7078,7 +7469,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, add {R}.",
+    "rulesTexts": [
+      "When this creature enters, add {R}."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -7115,7 +7508,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -7154,7 +7549,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw a card.",
+    "rulesTexts": [
+      "Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7195,7 +7592,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature has flying, flip it.",
+    "rulesTexts": [
+      "When this creature has flying, flip it.",
+      "Creatures you control have flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7231,7 +7631,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gains protection from the color of your choice until end of turn.\nSplice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Target creature you control gains protection from the color of your choice until end of turn.\nSplice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -7268,7 +7670,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may tap or untap target permanent.\nSplice onto Arcane {U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "You may tap or untap target permanent.\nSplice onto Arcane {U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -7308,7 +7712,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may play two additional lands on each of your turns.",
+    "rulesTexts": [
+      "You may play two additional lands on each of your turns."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7345,7 +7751,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Myojin of Cleansing Fire enters with a divinity counter on it if you cast it from your hand.\nMyojin of Cleansing Fire has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Cleansing Fire: Destroy all other creatures.",
+    "rulesTexts": [
+      "Myojin of Cleansing Fire enters with a divinity counter on it if you cast it from your hand.\nMyojin of Cleansing Fire has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Cleansing Fire: Destroy all other creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7382,7 +7790,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.",
+    "rulesTexts": [
+      "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7417,7 +7827,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7454,7 +7866,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample",
+    "rulesTexts": [
+      "Trample"
+    ],
     "keywords": [
       "trample"
     ],
@@ -7494,7 +7908,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever Nagao attacks, Samurai creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever Nagao attacks, Samurai creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -7531,7 +7947,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player mills four cards.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Target player mills four cards.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "mill",
       "splice"
@@ -7577,7 +7995,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "{2}{G}, {T}: Create a 1/1 green Snake creature token. If you control ten or more creatures, flip this creature.",
+    "rulesTexts": [
+      "{2}{G}, {T}: Create a 1/1 green Snake creature token. If you control ten or more creatures, flip this creature.",
+      "{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7613,7 +8034,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn.",
+    "rulesTexts": [
+      "Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7648,7 +8071,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gains haste until end of turn.",
+    "rulesTexts": [
+      "Target creature gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7686,7 +8111,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "If a creature dealt damage by this creature this turn would die, exile it instead.\n{T}: This creature deals 1 damage to any target.",
+    "rulesTexts": [
+      "If a creature dealt damage by this creature this turn would die, exile it instead.\n{T}: This creature deals 1 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7717,7 +8144,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, this artifact becomes a 4/4 Spirit artifact creature until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, this artifact becomes a 4/4 Spirit artifact creature until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7752,7 +8181,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gains flying until end of turn.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Target creature gains flying until end of turn.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -7790,7 +8221,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\nThis creature attacks each combat if able.",
+    "rulesTexts": [
+      "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\nThis creature attacks each combat if able."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -7829,7 +8262,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Flying\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "flying",
       "soulshift"
@@ -7869,7 +8304,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{1}{G}, Sacrifice this creature: Return target Arcane card from your graveyard to your hand.",
+    "rulesTexts": [
+      "{1}{G}, Sacrifice this creature: Return target Arcane card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7907,7 +8344,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{U}, Discard a card: Counter target spell if it has the same mana value as the discarded card.",
+    "rulesTexts": [
+      "{2}{U}, Discard a card: Counter target spell if it has the same mana value as the discarded card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7944,7 +8383,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Choose a nonland card name. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles.",
+    "rulesTexts": [
+      "Choose a nonland card name. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7977,7 +8418,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Redistribute any number of players' life totals. (Each of those players gets one life total back.)",
+    "rulesTexts": [
+      "Redistribute any number of players' life totals. (Each of those players gets one life total back.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8014,7 +8457,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Swallowing Plague deals X damage to target creature and you gain X life.",
+    "rulesTexts": [
+      "Swallowing Plague deals X damage to target creature and you gain X life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8052,7 +8497,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -8093,7 +8540,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of your upkeep, draw a card for each Shrine you control.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, draw a card for each Shrine you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8128,7 +8577,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, target land becomes a 3/3 creature until end of turn. It's still a land.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, target land becomes a 3/3 creature until end of turn. It's still a land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8167,7 +8618,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "At the beginning of your upkeep, Honden of Infinite Rage deals damage to any target equal to the number of Shrines you control.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, Honden of Infinite Rage deals damage to any target equal to the number of Shrines you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8202,7 +8655,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target permanent to its owner's hand.",
+    "rulesTexts": [
+      "Return target permanent to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8245,7 +8700,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{T}: This creature deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip this creature.",
+    "rulesTexts": [
+      "{T}: This creature deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip this creature.",
+      "{T}: Goka deals 4 damage to target creature that was dealt damage this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8283,7 +8741,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever a creature becomes the target of a spell or ability, destroy that creature.",
+    "rulesTexts": [
+      "Flying\nWhenever a creature becomes the target of a spell or ability, destroy that creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -8320,7 +8780,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice this creature: Destroy target enchantment.",
+    "rulesTexts": [
+      "Sacrifice this creature: Destroy target enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8360,7 +8822,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "At the beginning of your upkeep, sacrifice Kuro unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, sacrifice Kuro unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8396,7 +8860,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\n{B}, Pay 5 life: Regenerate this creature.",
+    "rulesTexts": [
+      "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\n{B}, Pay 5 life: Regenerate this creature."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -8434,7 +8900,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{B}: This creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{B}: This creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -8474,7 +8942,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{1}{W}, {T}: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{1}{W}, {T}: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate only as a sorcery."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -8512,7 +8982,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{3}, Return a land you control to its owner's hand: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+    "rulesTexts": [
+      "Flying\n{3}, Return a land you control to its owner's hand: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -8549,7 +9021,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -8586,7 +9060,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Target opponent reveals their hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards they exiled this way to their hand and puts the rest into their graveyard.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards they exiled this way to their hand and puts the rest into their graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8617,7 +9093,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}: Add {C}.\nTap an untapped legendary permanent you control: Untap this artifact.",
+    "rulesTexts": [
+      "{T}: Add {C}.\nTap an untapped legendary permanent you control: Untap this artifact."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -8655,7 +9133,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, put a devotion counter on this creature. Then if a creature named Eight-and-a-Half-Tails is on the battlefield, you gain 1 life for each devotion counter on this creature.\n{T}, Remove a devotion counter from this creature: You gain 1 life.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, put a devotion counter on this creature. Then if a creature named Eight-and-a-Half-Tails is on the battlefield, you gain 1 life for each devotion counter on this creature.\n{T}, Remove a devotion counter from this creature: You gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8694,7 +9174,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When Iname dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand.",
+    "rulesTexts": [
+      "When Iname dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8730,7 +9212,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice a land: This creature gets +2/+0 until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "Sacrifice a land: This creature gets +2/+0 until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8766,7 +9250,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{B}, Sacrifice a creature: Target player discards a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{B}, Sacrifice a creature: Target player discards a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8801,7 +9287,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -8838,7 +9326,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -8875,7 +9365,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{B}: Target player dealt damage by this creature this turn loses 1 life.",
+    "rulesTexts": [
+      "{B}: Target player dealt damage by this creature this turn loses 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8911,7 +9403,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Tap target Spirit.",
+    "rulesTexts": [
+      "{T}: Tap target Spirit."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8940,7 +9434,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Tap an untapped creature you control: Target player mills a card.",
+    "rulesTexts": [
+      "Tap an untapped creature you control: Target player mills a card."
+    ],
     "keywords": [
       "mill"
     ],
@@ -8979,7 +9475,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Put a devotion counter on this creature.\n{T}: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on this creature. Activate only if you control a Demon.",
+    "rulesTexts": [
+      "{T}: Put a devotion counter on this creature.\n{T}: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on this creature. Activate only if you control a Demon."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9016,7 +9514,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Crushing Pain deals 6 damage to target creature that was dealt damage this turn.",
+    "rulesTexts": [
+      "Crushing Pain deals 6 damage to target creature that was dealt damage this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9052,7 +9552,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If a creature dealt damage by this creature this turn would die, exile it instead.",
+    "rulesTexts": [
+      "If a creature dealt damage by this creature this turn would die, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9083,7 +9585,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature has \"{2}: This creature gets +1/+0 until end of turn.\"\nWhenever equipped creature deals damage to a blocking creature, this Equipment deals that much damage to each other creature defending player controls.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature has \"{2}: This creature gets +1/+0 until end of turn.\"\nWhenever equipped creature deals damage to a blocking creature, this Equipment deals that much damage to each other creature defending player controls.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -9120,7 +9624,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nWhenever enchanted creature is dealt damage, its controller loses that much life.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nWhenever enchanted creature is dealt damage, its controller loses that much life."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -9164,7 +9670,10 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip this creature.",
+    "rulesTexts": [
+      "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip this creature.",
+      "At the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in their hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9200,7 +9709,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Add {R}{R}{R}.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Add {R}{R}{R}.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -9239,7 +9750,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you cast a Spirit or Arcane spell, you may tap or untap target creature.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a Spirit or Arcane spell, you may tap or untap target creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9276,7 +9789,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -9316,7 +9831,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{2}, Return two lands you control to their owner's hand: Copy target instant or sorcery spell. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "Flying\n{2}, Return two lands you control to their owner's hand: Copy target instant or sorcery spell. You may choose new targets for the copy."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9351,7 +9868,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9386,7 +9905,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{T}: Target creature gets +1/+2 until end of turn.",
+    "rulesTexts": [
+      "Flying\n{T}: Target creature gets +1/+2 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9423,7 +9944,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Up to three target creatures can't block this turn.",
+    "rulesTexts": [
+      "Up to three target creatures can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9461,7 +9984,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\nEach other Samurai creature you control gets +1/+1 for each point of bushido it has.",
+    "rulesTexts": [
+      "Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\nEach other Samurai creature you control gets +1/+1 for each point of bushido it has."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -9498,7 +10023,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -9535,7 +10062,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn.\nSplice onto Arcane {G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn.\nSplice onto Arcane {G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)"
+    ],
     "keywords": [
       "splice"
     ],
@@ -9575,7 +10104,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Other Snake creatures you control get +1/+0.\nWhenever a Warrior you control deals combat damage to a creature, destroy that creature at end of combat.",
+    "rulesTexts": [
+      "Other Snake creatures you control get +1/+0.\nWhenever a Warrior you control deals combat damage to a creature, destroy that creature at end of combat."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9610,7 +10141,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature has vigilance. (Attacking doesn't cause it to tap.)",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature has vigilance. (Attacking doesn't cause it to tap.)"
+    ],
     "keywords": [
       "enchant"
     ],
@@ -9645,7 +10178,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {R}.\n{R}, {T}: Target legendary creature gains first strike until end of turn.",
+    "rulesTexts": [
+      "{T}: Add {R}.\n{R}, {T}: Target legendary creature gains first strike until end of turn."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9682,7 +10217,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -9722,7 +10259,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nTapped creatures you control can block as though they were untapped.",
+    "rulesTexts": [
+      "Flash\nTapped creatures you control can block as though they were untapped."
+    ],
     "keywords": [
       "flash"
     ],
@@ -9761,7 +10300,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{X}, Sacrifice this creature: Destroy target artifact with mana value X.",
+    "rulesTexts": [
+      "{X}, Sacrifice this creature: Destroy target artifact with mana value X."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9801,7 +10342,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{T}: Ben-Ben deals damage to target attacking creature equal to the number of untapped Mountains you control.",
+    "rulesTexts": [
+      "{T}: Ben-Ben deals damage to target attacking creature equal to the number of untapped Mountains you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9836,7 +10379,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return all creatures you control to their owner's hand.",
+    "rulesTexts": [
+      "Return all creatures you control to their owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9874,7 +10419,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Sacrifice this creature: Target creature gets -1/-1 until end of turn.\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Sacrifice this creature: Target creature gets -1/-1 until end of turn.\nSoulshift 4 (When this creature dies, you may return target Spirit card with mana value 4 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "soulshift"
     ],
@@ -9911,7 +10458,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Counter target spell. If that spell is countered this way, put that card on your choice of the top or bottom of its owner's library instead of into that player's graveyard.",
+    "rulesTexts": [
+      "Counter target spell. If that spell is countered this way, put that card on your choice of the top or bottom of its owner's library instead of into that player's graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9946,7 +10495,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "All creatures get -1/-1.",
+    "rulesTexts": [
+      "All creatures get -1/-1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9979,7 +10530,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Blocking creatures get +7/+7 until end of turn.",
+    "rulesTexts": [
+      "Blocking creatures get +7/+7 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10014,7 +10567,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -10051,7 +10606,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{W}, {T}: Tap target creature.\nWhenever you cast a Spirit or Arcane spell, untap this creature.",
+    "rulesTexts": [
+      "{W}, {T}: Tap target creature.\nWhenever you cast a Spirit or Arcane spell, untap this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10088,7 +10645,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Myojin of Infinite Rage enters with a divinity counter on it if you cast it from your hand.\nMyojin of Infinite Rage has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Infinite Rage: Destroy all lands.",
+    "rulesTexts": [
+      "Myojin of Infinite Rage enters with a divinity counter on it if you cast it from your hand.\nMyojin of Infinite Rage has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Infinite Rage: Destroy all lands."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10121,7 +10680,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+1. As long as it's legendary, it gets an additional +2/+2. As long as it's red, it has trample.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1. As long as it's legendary, it gets an additional +2/+2. As long as it's red, it has trample.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -10161,7 +10722,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of each player's upkeep, that player loses 2 life and draws two cards.",
+    "rulesTexts": [
+      "At the beginning of each player's upkeep, that player loses 2 life and draws two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10198,7 +10761,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you cast a Spirit or Arcane spell, you may exile Hikari. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a Spirit or Arcane spell, you may exile Hikari. If you do, return it to the battlefield under its owner's control at the beginning of the next end step."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10235,7 +10800,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gets +1/+0 and gains first strike until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, this creature gets +1/+0 and gains first strike until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10270,7 +10837,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10305,7 +10874,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -10345,7 +10916,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, create a 1/1 colorless Spirit creature token for each Zubera that died this turn.",
+    "rulesTexts": [
+      "When this creature dies, create a 1/1 colorless Spirit creature token for each Zubera that died this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10382,7 +10955,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10420,7 +10995,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen Keiga dies, gain control of target creature.",
+    "rulesTexts": [
+      "Flying\nWhen Keiga dies, gain control of target creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10460,7 +11037,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf a permanent would be put into a graveyard, exile it instead.",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf a permanent would be put into a graveyard, exile it instead."
+    ],
     "keywords": [
       "bushido"
     ],
@@ -10497,7 +11076,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land.",
+    "rulesTexts": [
+      "Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10532,7 +11113,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target enchantment.",
+    "rulesTexts": [
+      "Destroy target enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10565,7 +11148,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {G}.\n{G}, {T}: Target legendary creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "{T}: Add {G}.\n{G}, {T}: Target legendary creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -10604,7 +11189,9 @@
     "toughness": 8,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Myojin of Life's Web enters with a divinity counter on it if you cast it from your hand.\nMyojin of Life's Web has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Life's Web: Put any number of creature cards from your hand onto the battlefield.",
+    "rulesTexts": [
+      "Myojin of Life's Web enters with a divinity counter on it if you cast it from your hand.\nMyojin of Life's Web has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Life's Web: Put any number of creature cards from your hand onto the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10641,7 +11228,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage to a player, that player sacrifices a permanent of their choice.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, that player sacrifices a permanent of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10676,7 +11265,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -10716,7 +11307,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "At the beginning of your upkeep, you may sacrifice this creature. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle.\nWhenever a Demon you control enters, return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you may sacrifice this creature. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle.\nWhenever a Demon you control enters, return this card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10757,7 +11350,10 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of the end step, if this creature is enchanted by two or more Auras, flip it.",
+    "rulesTexts": [
+      "At the beginning of the end step, if this creature is enchanted by two or more Auras, flip it.",
+      "{1}: Attach target Aura attached to a creature to another creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10794,7 +11390,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Shroud (This creature can't be the target of spells or abilities.)",
+    "rulesTexts": [
+      "Shroud (This creature can't be the target of spells or abilities.)"
+    ],
     "keywords": [
       "shroud"
     ],
@@ -10832,7 +11430,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Protection from Spirits and from Arcane",
+    "rulesTexts": [
+      "Protection from Spirits and from Arcane"
+    ],
     "keywords": [
       "protection"
     ],
@@ -10870,7 +11470,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{G}: Add one mana of any color.",
+    "rulesTexts": [
+      "{G}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -10911,7 +11513,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature that dealt damage to you this turn.",
+    "rulesTexts": [
+      "Exile target creature that dealt damage to you this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10946,7 +11550,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10988,7 +11594,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{1}{R}: Kumano deals 1 damage to any target.\nIf a creature dealt damage by Kumano this turn would die, exile it instead.",
+    "rulesTexts": [
+      "{1}{R}: Kumano deals 1 damage to any target.\nIf a creature dealt damage by Kumano this turn would die, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11023,7 +11631,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and \"this turn\" and \"until end of turn\" effects end.)",
+    "rulesTexts": [
+      "End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and \"this turn\" and \"until end of turn\" effects end.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11055,7 +11665,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "If a player would draw a card, that player exiles that card face up instead.\nEach player may play lands and cast spells from among cards they exiled with this artifact this turn.",
+    "rulesTexts": [
+      "If a player would draw a card, that player exiles that card face up instead.\nEach player may play lands and cast spells from among cards they exiled with this artifact this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11093,7 +11705,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller.",
+    "rulesTexts": [
+      "Whenever a land enters, Zo-Zu deals 2 damage to that land's controller."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11130,7 +11744,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nSoulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nSoulshift 6 (When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.)"
+    ],
     "keywords": [
       "menace",
       "soulshift"
@@ -11169,7 +11785,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+    "rulesTexts": [
+      "First strike\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)"
+    ],
     "keywords": [
       "bushido",
       "first strike"
@@ -11208,7 +11826,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+    "rulesTexts": [
+      "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)"
+    ],
     "keywords": [
       "bushido"
     ],
@@ -11248,7 +11868,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Godo enters, you may search your library for an Equipment card, put it onto the battlefield, then shuffle.\nWhenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.",
+    "rulesTexts": [
+      "When Godo enters, you may search your library for an Equipment card, put it onto the battlefield, then shuffle.\nWhenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11286,7 +11908,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Players can cast spells only during their own turns.",
+    "rulesTexts": [
+      "Players can cast spells only during their own turns."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [

@@ -23,7 +23,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, put a +1/+1 counter on target creature.\nWhenever this creature attacks while saddled, double the number of +1/+1 counters on target creature.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, put a +1/+1 counter on target creature.\nWhenever this creature attacks while saddled, double the number of +1/+1 counters on target creature.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -66,7 +68,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever you commit a crime, put a +1/+1 counter on Lazav. Then you may exile a card from a graveyard. If a creature card was exiled this way, you may have Lazav become a copy of that card until end of turn. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Whenever you commit a crime, put a +1/+1 counter on Lazav. Then you may exile a card from a graveyard. If a creature card was exiled this way, you may have Lazav become a copy of that card until end of turn. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -101,7 +105,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {3} — Create a 2/2 white Spirit creature token with flying.\n+ {1} — Counter target spell unless its controller pays {2}.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {3} — Create a 2/2 white Spirit creature token with flying.\n+ {1} — Counter target spell unless its controller pays {2}."
+    ],
     "keywords": [
       "spree"
     ],
@@ -140,7 +146,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.\nWhenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.\nEquip {2}",
+    "rulesTexts": [
+      "When this Equipment enters, exile up to one target creature until this Equipment leaves the battlefield.\nWhenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, that creature becomes a copy of a creature card exiled with this Equipment.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -178,7 +186,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}, {T}: Tap target non-Mount creature.",
+    "rulesTexts": [
+      "{2}, {T}: Tap target non-Mount creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -215,7 +225,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward {2}\nYou may look at the top card of your library any time.\nThe top card of your library has plot. The plot cost is equal to its mana cost.\nYou may plot nonland cards from the top of your library.",
+    "rulesTexts": [
+      "Ward {2}\nYou may look at the top card of your library any time.\nThe top card of your library has plot. The plot cost is equal to its mana cost.\nYou may plot nonland cards from the top of your library."
+    ],
     "keywords": [
       "plot",
       "ward"
@@ -260,7 +272,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nWhenever Obeka deals combat damage to a player, you get that many additional upkeep steps after this phase.",
+    "rulesTexts": [
+      "Menace\nWhenever Obeka deals combat damage to a player, you get that many additional upkeep steps after this phase."
+    ],
     "keywords": [
       "menace"
     ],
@@ -297,7 +311,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.",
+    "rulesTexts": [
+      "Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -340,7 +356,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink\nWhenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield.",
+    "rulesTexts": [
+      "Flying, lifelink\nWhenever you cast a spell from anywhere other than your hand, you may cast a permanent spell with equal or lesser mana value from your hand without paying its mana cost. If you don't, you may put a land card from your hand onto the battlefield."
+    ],
     "keywords": [
       "flying",
       "lifelink"
@@ -378,7 +396,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top three cards of your library. You may exile a nonland card from among them. If you do, it becomes plotted. Put the rest into your hand. (You may cast it as a sorcery on a later turn without paying its mana cost.)",
+    "rulesTexts": [
+      "Look at the top three cards of your library. You may exile a nonland card from among them. If you do, it becomes plotted. Put the rest into your hand. (You may cast it as a sorcery on a later turn without paying its mana cost.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -418,7 +438,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Fortune enters, scry 2.\nWhenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.\nSaddle 1",
+    "rulesTexts": [
+      "When Fortune enters, scry 2.\nWhenever Fortune attacks while saddled, at end of combat, exile it and up to one creature that saddled it this turn, then return those cards to the battlefield under their owner's control.\nSaddle 1"
+    ],
     "keywords": [
       "saddle",
       "scry"
@@ -460,7 +482,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When Vraska Joins Up enters, put a deathtouch counter on each creature you control.\nWhenever a legendary creature you control deals combat damage to a player, draw a card.",
+    "rulesTexts": [
+      "When Vraska Joins Up enters, put a deathtouch counter on each creature you control.\nWhenever a legendary creature you control deals combat damage to a player, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -498,7 +522,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, if you control a creature with power 4 or greater, draw a card.\nPlot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, if you control a creature with power 4 or greater, draw a card.\nPlot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -533,7 +559,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Until end of turn, each creature you control gets +2/+2 and gains trample and \"This creature can't be blocked by more than one creature.\"",
+    "rulesTexts": [
+      "Until end of turn, each creature you control gets +2/+2 and gains trample and \"This creature can't be blocked by more than one creature.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -568,7 +596,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -605,7 +635,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a card, put it into your graveyard, then shuffle.\n+ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a card, put it into your graveyard, then shuffle.\n+ {2} — Return up to two creature cards with total mana value 4 or less from your graveyard to the battlefield."
+    ],
     "keywords": [
       "spree"
     ],
@@ -642,7 +674,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2}{B} — Destroy target creature.\n+ {1} — Create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2}{B} — Destroy target creature.\n+ {1} — Create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [
       "spree"
     ],
@@ -682,7 +716,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink\nWhenever this creature attacks while saddled, it gets +X/+X until end of turn, where X is the number of Mounts you control.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Flying, lifelink\nWhenever this creature attacks while saddled, it gets +X/+X until end of turn, where X is the number of Mounts you control.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "lifelink",
@@ -722,7 +758,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, return up to one target non-Faerie, nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, return up to one target non-Faerie, nonland permanent you control to its owner's hand. If a permanent was returned this way, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -760,7 +798,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{3}{B}: Target opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{3}{B}: Target opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -798,7 +838,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)\nPlot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)\nPlot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -844,7 +886,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with \"When this token enters, it deals 2 damage to any target\" and \"{T}: Add one mana of any color.\"\nWhenever you tap an artifact token for mana, add one mana of any type that artifact token produced.",
+    "rulesTexts": [
+      "Whenever Roxanne enters or attacks, create a tapped colorless artifact token named Meteorite with \"When this token enters, it deals 2 damage to any target\" and \"{T}: Add one mana of any color.\"\nWhenever you tap an artifact token for mana, add one mana of any type that artifact token produced."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -883,7 +927,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -918,7 +964,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Destroy target artifact.\n+ {1} — Destroy target enchantment.\n+ {1} — Put a +1/+1 counter on each creature target player controls.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Destroy target artifact.\n+ {1} — Destroy target enchantment.\n+ {1} — Put a +1/+1 counter on each creature target player controls."
+    ],
     "keywords": [
       "spree"
     ],
@@ -955,7 +1003,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Create a Treasure token. Until end of turn, up to one target creature gets +2/+2 for each Treasure you control.",
+    "rulesTexts": [
+      "Create a Treasure token. Until end of turn, up to one target creature gets +2/+2 for each Treasure you control."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -998,7 +1048,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When Annie Joins Up enters, it deals 5 damage to target creature or planeswalker an opponent controls.\nIf a triggered ability of a legendary creature you control triggers, that ability triggers an additional time.",
+    "rulesTexts": [
+      "When Annie Joins Up enters, it deals 5 damage to target creature or planeswalker an opponent controls.\nIf a triggered ability of a legendary creature you control triggers, that ability triggers an additional time."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1040,7 +1092,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.\n{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead.",
+    "rulesTexts": [
+      "Whenever a source you control deals noncombat damage to a creature equal to that creature's toughness, draw a card.\n{X}, {T}: If a source you control would deal noncombat damage to a permanent or player this turn, it deals that much damage plus X instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1073,7 +1127,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Search your library for up to two basic land cards and/or Desert cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Search your library for up to two basic land cards and/or Desert cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1110,7 +1166,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.\nEquip {2}{U}",
+    "rulesTexts": [
+      "Whenever equipped creature deals combat damage to a player, look at that many cards from the top of your library. You may exile a nonland card from among them. Put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost.\nEquip {2}{U}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -1150,7 +1208,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This creature can't block.\nWhenever you commit a crime, you may pay {B}. If you do, return this card from your graveyard to the battlefield. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "This creature can't block.\nWhenever you commit a crime, you may pay {B}. If you do, return this card from your graveyard to the battlefield. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1187,7 +1247,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Colossal Rattlewurm has flash as long as you control a Desert.\nTrample\n{1}{G}, Exile this card from your graveyard: Search your library for a Desert card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Colossal Rattlewurm has flash as long as you control a Desert.\nTrample\n{1}{G}, Exile this card from your graveyard: Search your library for a Desert card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [
       "trample"
     ],
@@ -1222,7 +1284,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target non-outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)",
+    "rulesTexts": [
+      "Destroy target non-outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Everyone else is fair game.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1258,7 +1322,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "You may cast this spell as though it had flash if you pay {2} more to cast it.\nWhen this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield.",
+    "rulesTexts": [
+      "You may cast this spell as though it had flash if you pay {2} more to cast it.\nWhen this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1291,7 +1357,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target tapped creature. You gain 2 life.",
+    "rulesTexts": [
+      "Destroy target tapped creature. You gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1330,7 +1398,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Trample\nWhen this creature enters, if you control another outlaw, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. A Treasure token is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, if you control another outlaw, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. A Treasure token is an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure",
       "trample"
@@ -1375,7 +1445,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while saddled, it gets +1/+2 until end of turn. Then you may return any number of creatures that saddled it this turn to their owner's hand.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks while saddled, it gets +1/+2 until end of turn. Then you may return any number of creatures that saddled it this turn to their owner's hand.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -1413,7 +1485,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {R} or {W}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {R} or {W}."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -1452,7 +1526,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhen this creature enters, you gain 3 life.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, you gain 3 life.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot",
       "trample"
@@ -1490,7 +1566,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This spell costs {1} less to cast if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nDraw two cards.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nDraw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1525,7 +1603,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Target opponent reveals their hand. You may choose a nonland card from it. If you do, they discard it. Otherwise, you may put a face-up exiled card they own into their graveyard.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You may choose a nonland card from it. If you do, they discard it. Otherwise, you may put a face-up exiled card they own into their graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1564,7 +1644,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When this creature enters, mill three cards. Put a land card from among the milled cards into your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards of your library into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, mill three cards. Put a land card from among the milled cards into your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards of your library into your graveyard.)"
+    ],
     "keywords": [
       "treasure",
       "mill"
@@ -1603,7 +1685,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Surveil 3 if you have no cards in hand. Then draw three cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Surveil 3 if you have no cards in hand. Then draw three cards. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "surveil",
       "plot"
@@ -1639,7 +1723,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2} — Exchange control of two target creatures.\n+ {1} — Exchange control of two target artifacts.\n+ {1} — Exchange control of two target enchantments.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2} — Exchange control of two target creatures.\n+ {1} — Exchange control of two target artifacts.\n+ {1} — Exchange control of two target enchantments."
+    ],
     "keywords": [
       "spree"
     ],
@@ -1677,7 +1763,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.\nPlot {3}{W} (You may pay {3}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.\nPlot {3}{W} (You may pay {3}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -1723,7 +1811,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —\n• Exile the top card of your library. Until the end of your next turn, you may play it.\n• Put a +1/+1 counter on Riku. It gains trample until end of turn.\n• Create a 1/1 blue Bird creature token with flying.",
+    "rulesTexts": [
+      "Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —\n• Exile the top card of your library. Until the end of your next turn, you may play it.\n• Put a +1/+1 counter on Riku. It gains trample until end of turn.\n• Create a 1/1 blue Bird creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1761,7 +1851,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, if a creature died this turn, create a 2/2 blue and black Zombie Rogue creature token.\nPlot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, if a creature died this turn, create a 2/2 blue and black Zombie Rogue creature token.\nPlot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -1805,7 +1897,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When Honest Rutstein enters, return target creature card from your graveyard to your hand.\nCreature spells you cast cost {1} less to cast.",
+    "rulesTexts": [
+      "When Honest Rutstein enters, return target creature card from your graveyard to your hand.\nCreature spells you cast cost {1} less to cast."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1840,7 +1934,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\n{3}{W}: This creature gets +X/+0 until end of turn, where X is its toughness.",
+    "rulesTexts": [
+      "Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\n{3}{W}: This creature gets +X/+0 until end of turn, where X is its toughness."
+    ],
     "keywords": [
       "ward"
     ],
@@ -1878,7 +1974,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy target artifact or creature. Its controller creates a 2/2 white Ox creature token.",
+    "rulesTexts": [
+      "Destroy target artifact or creature. Its controller creates a 2/2 white Ox creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1913,7 +2011,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Create an X/X green Elemental creature token, where X is the greatest power among creatures you control.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Create an X/X green Elemental creature token, where X is the greatest power among creatures you control.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -1957,7 +2057,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Oxen you control have double strike.\nWhenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn.",
+    "rulesTexts": [
+      "Oxen you control have double strike.\nWhenever Bruse Tarl enters or attacks, exile the top card of your library. If it's a land card, create a 2/2 white Ox creature token. Otherwise, you may cast it until the end of your next turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1995,7 +2097,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying, vigilance\nDuelist of the Mind's power is equal to the number of cards you've drawn this turn.\nWhenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Flying, vigilance\nDuelist of the Mind's power is equal to the number of cards you've drawn this turn.\nWhenever you commit a crime, you may draw a card. If you do, discard a card. This ability triggers only once each turn."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -2034,7 +2138,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever one or more other creatures you control die, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever one or more other creatures you control die, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2072,7 +2178,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This spell costs {1} less to cast if you control a Desert.\nReach\nWhenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast if you control a Desert.\nReach\nWhenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card."
+    ],
     "keywords": [
       "reach"
     ],
@@ -2110,7 +2218,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target player draws a card and loses 1 life.",
+    "rulesTexts": [
+      "When this creature enters, target player draws a card and loses 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2149,7 +2259,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)\nWhenever a legendary creature you control enters, put a +1/+1 counter on each creature you control.",
+    "rulesTexts": [
+      "When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)\nWhenever a legendary creature you control enters, put a +1/+1 counter on each creature you control."
+    ],
     "keywords": [
       "plot"
     ],
@@ -2189,7 +2301,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Lifelink\nWhen this creature dies, draw a card.",
+    "rulesTexts": [
+      "Lifelink\nWhen this creature dies, draw a card."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -2229,7 +2343,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAt the beginning of combat on your turn, other creatures you control with power 4 or greater gain trample and haste until end of turn.",
+    "rulesTexts": [
+      "Reach\nWard {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAt the beginning of combat on your turn, other creatures you control with power 4 or greater gain trample and haste until end of turn."
+    ],
     "keywords": [
       "reach",
       "ward"
@@ -2267,7 +2383,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You may discard a card or sacrifice a land. If you do, draw two cards.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "You may discard a card or sacrifice a land. If you do, draw two cards.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -2305,7 +2423,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Reach\nWhenever you commit a crime, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "reach"
     ],
@@ -2342,7 +2462,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, exile the top card of your library. Until end of turn, you may play that card.\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, exile the top card of your library. Until end of turn, you may play that card.\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -2382,7 +2504,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, add one mana of any color.\nWhenever another creature you control with power 4 or greater enters, draw a card.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, add one mana of any color.\nWhenever another creature you control with power 4 or greater enters, draw a card.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -2423,7 +2547,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Untap all creatures target player controls.\n+ {1} — Target creature gains double strike until end of turn.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Untap all creatures target player controls.\n+ {1} — Target creature gains double strike until end of turn."
+    ],
     "keywords": [
       "spree"
     ],
@@ -2461,7 +2587,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance, ward {2}\nWhenever you commit a crime, surveil 2. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Flying, vigilance, ward {2}\nWhenever you commit a crime, surveil 2. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "flying",
       "surveil",
@@ -2501,7 +2629,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.\n+ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.\n+ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2}{R} — Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase.\n+ {2} — Creatures you control get +1/+0 and gain first strike until end of turn.\n+ {R} — Choose target opponent. Whenever a creature you control deals combat damage to that player this turn, create a tapped Treasure token."
+    ],
     "keywords": [
       "treasure",
       "spree"
@@ -2537,7 +2667,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — All creatures lose all abilities until end of turn.\n+ {1} — Choose a creature you control. It gains indestructible until end of turn.\n+ {3}{W}{W} — Destroy all creatures.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — All creatures lose all abilities until end of turn.\n+ {1} — Choose a creature you control. It gains indestructible until end of turn.\n+ {3}{W}{W} — Destroy all creatures."
+    ],
     "keywords": [
       "spree"
     ],
@@ -2574,7 +2706,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each Desert you control.",
+    "rulesTexts": [
+      "Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each Desert you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2608,7 +2742,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{2}: Put target card from your graveyard on the bottom of your library.",
+    "rulesTexts": [
+      "{2}: Put target card from your graveyard on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2643,7 +2779,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, put a +1/+1 counter on this creature.\n{4}{W}: Until end of turn, if you would put one or more +1/+1 counters on a creature you control, put that many plus one +1/+1 counters on it instead.",
+    "rulesTexts": [
+      "Lifelink\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, put a +1/+1 counter on this creature.\n{4}{W}: Until end of turn, if you would put one or more +1/+1 counters on a creature you control, put that many plus one +1/+1 counters on it instead."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -2687,7 +2825,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.\n+1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.\n−1: Create a 3/3 green Elk creature token.\n−5: For each other nonland permanent you control, create a token that's a copy of that permanent.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, Oko becomes a copy of up to one target creature you control until end of turn, except he has hexproof.\n+1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.\n−1: Create a 3/3 green Elk creature token.\n−5: For each other nonland permanent you control, create a token that's a copy of that permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2725,7 +2865,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Reach\nWhen this card becomes plotted, it deals 2 damage to any target.\nPlot {3}{R} (You may pay {3}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Reach\nWhen this card becomes plotted, it deals 2 damage to any target.\nPlot {3}{R} (You may pay {3}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "reach",
       "plot"
@@ -2760,7 +2902,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may search your library for a basic land card or a Desert card, reveal it, then shuffle and put it on top.\n{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this creature enters, you may search your library for a basic land card or a Desert card, reveal it, then shuffle and put it on top.\n{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2795,7 +2939,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Create X 1/1 red Mercenary creature tokens with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "Create X 1/1 red Mercenary creature tokens with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2828,7 +2974,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Caught in the Crossfire deals 2 damage to each outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\n+ {1} — Caught in the Crossfire deals 2 damage to each non-outlaw creature.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Caught in the Crossfire deals 2 damage to each outlaw creature. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\n+ {1} — Caught in the Crossfire deals 2 damage to each non-outlaw creature."
+    ],
     "keywords": [
       "spree"
     ],
@@ -2861,7 +3009,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{3}, {T}: Target creature can't block this turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{3}, {T}: Target creature can't block this turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -2905,7 +3055,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever another outlaw you control enters, Vial Smasher deals 1 damage to target opponent. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",
+    "rulesTexts": [
+      "Whenever another outlaw you control enters, Vial Smasher deals 1 damage to target opponent. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2940,7 +3092,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -2978,7 +3132,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Affinity for outlaws (This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)\nTrample",
+    "rulesTexts": [
+      "Affinity for outlaws (This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)\nTrample"
+    ],
     "keywords": [
       "affinity",
       "trample"
@@ -3021,7 +3177,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Deathtouch\nWhenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",
+    "rulesTexts": [
+      "Deathtouch\nWhenever Tinybones deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -3056,7 +3214,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}{C}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand. If another Desert was returned this way, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}{C}."
+    ],
     "keywords": [
       "surveil"
     ],
@@ -3095,7 +3255,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch",
+    "rulesTexts": [
+      "Deathtouch"
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -3141,7 +3303,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Reach\nWhen Bonny Pall enters, create Beau, a legendary blue Ox creature token with \"Beau's power and toughness are each equal to the number of lands you control.\"\nWhenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield.",
+    "rulesTexts": [
+      "Reach\nWhen Bonny Pall enters, create Beau, a legendary blue Ox creature token with \"Beau's power and toughness are each equal to the number of lands you control.\"\nWhenever you attack, draw a card, then you may put a land card from your hand or graveyard onto the battlefield."
+    ],
     "keywords": [
       "reach"
     ],
@@ -3183,7 +3347,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nSacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Whenever you commit a crime, create a tapped Treasure token. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nSacrifice three Treasures: Create a 4/4 red Scorpion Dragon creature token with flying and haste. Activate only as a sorcery."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -3220,7 +3386,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Flying\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "plot"
@@ -3261,7 +3429,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, if you've cast two or more spells this turn, draw a card.\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, if you've cast two or more spells this turn, draw a card.\nPlot {3}{U} (You may pay {3}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -3299,7 +3469,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {B} or {G}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {B} or {G}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3338,7 +3510,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {W} or {U}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {W} or {U}."
+    ],
     "keywords": [],
     "produces": [
       "U",
@@ -3377,7 +3551,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\n{T}: Add {G}.\n{T}: Add two mana of any one color. Spend this mana only to cast Mount or Vehicle spells.",
+    "rulesTexts": [
+      "Reach\n{T}: Add {G}.\n{T}: Add two mana of any one color. Spend this mana only to cast Mount or Vehicle spells."
+    ],
     "keywords": [
       "reach"
     ],
@@ -3418,7 +3594,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times.",
+    "rulesTexts": [
+      "Exile any number of creatures you control, then return them to the battlefield under their owner's control. Then repeat this process X more times."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3462,7 +3640,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Flying, haste\nWhenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Flying, haste\nWhenever you cast your second spell each turn, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "flying",
       "investigate",
@@ -3501,7 +3681,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Steer Clear deals 2 damage to target attacking or blocking creature. Steer Clear deals 4 damage to that creature instead if you controlled a Mount as you cast this spell.",
+    "rulesTexts": [
+      "Steer Clear deals 2 damage to target attacking or blocking creature. Steer Clear deals 4 damage to that creature instead if you controlled a Mount as you cast this spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3539,7 +3721,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -3577,7 +3761,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Exile target creature. If it had mana value 3 or less, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+    "rulesTexts": [
+      "Exile target creature. If it had mana value 3 or less, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -3615,7 +3801,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while saddled, creatures you control gain trample until end of turn.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks while saddled, creatures you control gain trample until end of turn.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -3650,7 +3838,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +1/+1 and gains first strike until end of turn. Creatures target opponent controls lose first strike and double strike until end of turn.",
+    "rulesTexts": [
+      "Target creature you control gets +1/+1 and gains first strike until end of turn. Creatures target opponent controls lose first strike and double strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3686,7 +3876,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while saddled, it gets +1/+2 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks while saddled, it gets +1/+2 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -3723,7 +3915,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Tinybones Joins Up enters, any number of target players each discard a card.\nWhenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life.",
+    "rulesTexts": [
+      "When Tinybones Joins Up enters, any number of target players each discard a card.\nWhenever a legendary creature you control enters, any number of target players each mill a card and lose 1 life."
+    ],
     "keywords": [
       "mill"
     ],
@@ -3761,7 +3955,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nThis creature gets +2/+0 as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Vigilance\nThis creature gets +2/+0 as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -3800,7 +3996,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this enchantment enters, each opponent loses 1 life, you gain 1 life, and you draw a card.\nWhenever you commit a crime, you may return this enchantment to its owner's hand. (It returns only from the battlefield. Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "When this enchantment enters, each opponent loses 1 life, you gain 1 life, and you draw a card.\nWhenever you commit a crime, you may return this enchantment to its owner's hand. (It returns only from the battlefield. Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3832,7 +4030,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {U} or {R}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {U} or {R}."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -3873,7 +4073,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets +1/+1 and has menace and trample.\nWhen this Aura is put into a graveyard from the battlefield, draw a card.\nPlot {R} (You may pay {R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +1/+1 and has menace and trample.\nWhen this Aura is put into a graveyard from the battlefield, draw a card.\nPlot {R} (You may pay {R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot",
       "enchant"
@@ -3911,7 +4113,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhen this creature enters, another target creature you control gets +1/+1 and gains haste until end of turn.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, another target creature you control gets +1/+1 and gains haste until end of turn.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot",
       "haste"
@@ -3950,7 +4154,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {U} or {R}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {U} or {R}."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -3989,7 +4195,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {B} or {R}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {B} or {R}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4028,7 +4236,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nWhen this creature enters, create two 1/1 red Mercenary creature tokens with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "Other outlaws you control have haste. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nWhen this creature enters, create two 1/1 red Mercenary creature tokens with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4061,7 +4271,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4105,7 +4317,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Creatures target opponent controls get -1/-1 until end of turn. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+    "rulesTexts": [
+      "Creatures target opponent controls get -1/-1 until end of turn. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4142,7 +4356,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "At the beginning of your end step, if you haven't cast a spell from your hand this turn and this enchantment isn't a creature, it becomes a 3/3 Spirit creature with flying in addition to its other types.\n{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "At the beginning of your end step, if you haven't cast a spell from your hand this turn and this enchantment isn't a creature, it becomes a 3/3 Spirit creature with flying in addition to its other types.\n{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4181,7 +4397,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "Flying\nWhen this creature dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [
       "flying"
     ],
@@ -4218,7 +4436,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target nonland permanent to its owner's hand. If you control a Desert, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Return target nonland permanent to its owner's hand. If you control a Desert, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4255,7 +4475,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a player casts a noncreature spell, this creature deals damage to that player equal to the number of noncreature spells they've cast this turn.",
+    "rulesTexts": [
+      "Whenever a player casts a noncreature spell, this creature deals damage to that player equal to the number of noncreature spells they've cast this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4291,7 +4513,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhen this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle.",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card and put it onto the battlefield tapped. Then if an opponent controls more lands than you, repeat this process once. If you search your library this way, shuffle."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -4329,7 +4553,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {U} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {U} or {B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4368,7 +4594,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may have this creature enter as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types.\nPlot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "You may have this creature enter as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types.\nPlot {2}{U} (You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -4402,7 +4630,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever you commit a crime, put a loot counter on this artifact. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{T}: Add one mana of any color.\n{2}, {T}, Remove two loot counters from this artifact: Draw a card.",
+    "rulesTexts": [
+      "Whenever you commit a crime, put a loot counter on this artifact. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\n{T}: Add one mana of any color.\n{2}, {T}, Remove two loot counters from this artifact: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4449,7 +4679,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn.",
+    "rulesTexts": [
+      "Flying, trample\nSacrifice three other creatures: You may put a creature card from your hand onto the battlefield. Activate only as a sorcery and only once each turn."
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -4487,7 +4719,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.\n+ {2} — Destroy target creature if no other creature has greater power.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Exile target nontoken creature. Return it to the battlefield under its owner's control at the beginning of the next end step.\n+ {2} — Destroy target creature if no other creature has greater power."
+    ],
     "keywords": [
       "spree"
     ],
@@ -4525,7 +4759,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhen this card becomes plotted, target creature gets +3/+2 and gains trample until end of turn.\nPlot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Trample\nWhen this card becomes plotted, target creature gets +3/+2 and gains trample until end of turn.\nPlot {1}{G} (You may pay {1}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot",
       "trample"
@@ -4564,7 +4800,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\nAs long as you control a creature with power 4 or greater, this creature can attack as though it didn't have defender.",
+    "rulesTexts": [
+      "Defender\nAs long as you control a creature with power 4 or greater, this creature can attack as though it didn't have defender."
+    ],
     "keywords": [
       "defender"
     ],
@@ -4597,7 +4835,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Mount spell.\n{3}, {T}: Look at the top card of your library. If it's a Mount card, you may reveal it and put it into your hand. If you don't put it into your hand, you may put it on the bottom of your library.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Mount spell.\n{3}, {T}: Look at the top card of your library. If it's a Mount card, you may reveal it and put it into your hand. If you don't put it into your hand, you may put it on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4643,7 +4883,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature becomes saddled for the first time each turn, mill two cards, then this creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature becomes saddled for the first time each turn, mill two cards, then this creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle",
       "mill"
@@ -4684,7 +4926,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "When this creature dies, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4726,7 +4970,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Spells you cast from your graveyard or from exile cost {2} less to cast.\nPlotting cards from your hand costs {2} less.",
+    "rulesTexts": [
+      "Spells you cast from your graveyard or from exile cost {2} less to cast.\nPlotting cards from your hand costs {2} less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4762,7 +5008,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, haste\nWhenever you cast a noncreature spell, this creature gets +2/+0 until end of turn.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Flying, haste\nWhenever you cast a noncreature spell, this creature gets +2/+0 until end of turn.\nPlot {1}{R} (You may pay {1}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "plot",
@@ -4801,7 +5049,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nIf you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.\nPlot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Flying\nIf you control five or more untapped lands, this creature enters with two +1/+1 counters and a lifelink counter on it.\nPlot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "plot"
@@ -4841,7 +5091,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature enters, tap target permanent.\n{2}{U}: Draw a card, then discard a card.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, tap target permanent.\n{2}{U}: Draw a card, then discard a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4878,7 +5130,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Each player may shuffle their hand and graveyard into their library. Each player who does draws seven cards. Exile Step Between Worlds.\nPlot {4}{U}{U} (You may pay {4}{U}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Each player may shuffle their hand and graveyard into their library. Each player who does draws seven cards. Exile Step Between Worlds.\nPlot {4}{U}{U} (You may pay {4}{U}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -4915,7 +5169,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nWhenever an outlaw you control dies, each opponent loses 1 life and you gain 1 life. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",
+    "rulesTexts": [
+      "When this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nWhenever an outlaw you control dies, each opponent loses 1 life and you gain 1 life. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4950,7 +5206,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2} — Return target creature card from your graveyard to the battlefield.\n+ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.\n+ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2} — Return target creature card from your graveyard to the battlefield.\n+ {1} — Return target Mount or Vehicle card from your graveyard to the battlefield.\n+ {1} — Return target Aura or Equipment card from your graveyard to the battlefield attached to a creature you control."
+    ],
     "keywords": [
       "spree"
     ],
@@ -4985,7 +5243,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Target opponent sacrifices half the creatures they control of their choice, rounded up.\n+ {2} — Target opponent discards half the cards in their hand, rounded up.\n+ {2} — Target opponent loses half their life, rounded up.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Target opponent sacrifices half the creatures they control of their choice, rounded up.\n+ {2} — Target opponent discards half the cards in their hand, rounded up.\n+ {2} — Target opponent loses half their life, rounded up."
+    ],
     "keywords": [
       "spree"
     ],
@@ -5025,7 +5285,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, you may discard a card. If you do, draw a card.",
+    "rulesTexts": [
+      "When this creature enters, you may discard a card. If you do, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5063,7 +5325,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This creature can't be blocked if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nWhenever this creature deals combat damage to a player, draw a card.",
+    "rulesTexts": [
+      "This creature can't be blocked if you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nWhenever this creature deals combat damage to a player, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5098,7 +5362,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1.\nWhenever equipped creature attacks, tap target creature defending player controls.\nEquip {2}",
+    "rulesTexts": [
+      "When this Equipment enters, attach it to target creature you control.\nEquipped creature gets +1/+1.\nWhenever equipped creature attacks, tap target creature defending player controls.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -5133,7 +5399,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature. It gains lifelink and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5166,7 +5434,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +1/+1 until end of turn. Put a +1/+1 counter on it instead if it's a Mount. Then it deals damage equal to its power to target creature you don't control.",
+    "rulesTexts": [
+      "Target creature you control gets +1/+1 until end of turn. Put a +1/+1 counter on it instead if it's a Mount. Then it deals damage equal to its power to target creature you don't control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5199,7 +5469,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, choose one —\n• Target creature you control gets +2/+0 until end of turn.\n• Target creature you control gains menace and haste until end of turn.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, choose one —\n• Target creature you control gets +2/+0 until end of turn.\n• Target creature you control gains menace and haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5235,7 +5507,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control and you create a Treasure token.\" (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield tapped under its owner's control and you create a Treasure token.\" (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -5283,7 +5557,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "First strike, lifelink\nWhenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.\nSaddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "First strike, lifelink\nWhenever this creature attacks while saddled, create a 3/3 white Angel creature token with flying.\nSaddle 4 (Tap any number of other creatures you control with total power 4 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "lifelink",
       "saddle",
@@ -5329,7 +5605,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Vigilance\nWhenever you cast a creature spell, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\n{T}: Choose a color. Add one mana of that color for each different power among creatures you control.",
+    "rulesTexts": [
+      "Vigilance\nWhenever you cast a creature spell, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\n{T}: Choose a color. Add one mana of that color for each different power among creatures you control."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5373,7 +5651,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature has double strike as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "This creature has double strike as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5413,7 +5693,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)",
+    "rulesTexts": [
+      "Whenever you commit a crime, exile up to one target black card from your graveyard and copy it. You may cast the copy. If you do, you lose 2 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Copies of permanent spells become tokens.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5448,7 +5730,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5491,7 +5775,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Trample, haste\nWhenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.\nSaddle 1",
+    "rulesTexts": [
+      "Trample, haste\nWhenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.\nSaddle 1"
+    ],
     "keywords": [
       "saddle",
       "haste",
@@ -5533,7 +5819,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you commit a crime, put a +1/+1 counter on Vadmir. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nAs long as Vadmir has four or more +1/+1 counters on it, it has menace and lifelink.",
+    "rulesTexts": [
+      "Whenever you commit a crime, put a +1/+1 counter on Vadmir. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nAs long as Vadmir has four or more +1/+1 counters on it, it has menace and lifelink."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5568,7 +5856,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Hell to Pay deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way.",
+    "rulesTexts": [
+      "Hell to Pay deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -5602,7 +5892,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {W}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {W}."
+    ],
     "keywords": [],
     "produces": [
       "R",
@@ -5637,7 +5929,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {G}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {G}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -5677,7 +5971,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while saddled, put a +1/+1 counter on each other creature you control. You gain 1 life for each of those creatures.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks while saddled, put a +1/+1 counter on each other creature you control. You gain 1 life for each of those creatures.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -5716,7 +6012,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "During your turn, outlaws you control have first strike. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nWhenever you commit a crime, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\" This ability triggers only once each turn.",
+    "rulesTexts": [
+      "During your turn, outlaws you control have first strike. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nWhenever you commit a crime, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\" This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5753,7 +6051,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return up to one target creature card from your graveyard to the battlefield. Return up to one target permanent card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Return up to one target creature card from your graveyard to the battlefield. Return up to one target permanent card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5797,7 +6097,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flash\nWhen Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.\nWhenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn.",
+    "rulesTexts": [
+      "Flash\nWhen Annie Flash enters, if you cast it, return target permanent card with mana value 3 or less from your graveyard to the battlefield tapped.\nWhenever Annie Flash becomes tapped, exile the top two cards of your library. You may play those cards this turn."
+    ],
     "keywords": [
       "flash"
     ],
@@ -5835,7 +6137,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}, {T}: Put a +1/+1 counter on each creature you control that entered this turn.",
+    "rulesTexts": [
+      "{1}, {T}: Put a +1/+1 counter on each creature you control that entered this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5871,7 +6175,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Defender\n{2}, {T}, Sacrifice a land: Draw a card and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Defender\n{2}, {T}, Sacrifice a land: Draw a card and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure",
       "defender"
@@ -5913,7 +6219,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)",
+    "rulesTexts": [
+      "Whenever you cast an outlaw spell, copy that spell. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws. Copies of permanent spells become tokens.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5946,7 +6254,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gains hexproof until end of turn. Untap that creature. Until end of turn, it becomes a copy of up to one other target creature.",
+    "rulesTexts": [
+      "Target creature you control gains hexproof until end of turn. Untap that creature. Until end of turn, it becomes a copy of up to one other target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5983,7 +6293,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1}{U} — Counter target spell.\n+ {3} — Create a token that's a copy of target artifact or creature you control.\n+ {2} — Draw two cards, then discard a card."
+    ],
     "keywords": [
       "spree"
     ],
@@ -6020,7 +6332,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nSpells your opponents cast that target this creature cost an additional 3 life to cast.\nWhenever another creature you control enters, this creature deals damage equal to that creature's power to any target.",
+    "rulesTexts": [
+      "Flying\nSpells your opponents cast that target this creature cost an additional 3 life to cast.\nWhenever another creature you control enters, this creature deals damage equal to that creature's power to any target."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6058,7 +6372,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nWhen this creature enters, you gain 2 life and scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Flash\nFlying\nWhen this creature enters, you gain 2 life and scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry",
       "flying",
@@ -6102,7 +6418,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "First strike, haste\n{2}{R}, Sacrifice this creature: Draw a card and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "First strike, haste\n{2}{R}, Sacrifice this creature: Draw a card and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "first strike",
       "treasure",
@@ -6148,7 +6466,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhenever this creature attacks while saddled, put a +1/+1 counter on target creature that saddled it this turn.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Vigilance\nWhenever this creature attacks while saddled, put a +1/+1 counter on target creature that saddled it this turn.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle",
       "vigilance"
@@ -6187,7 +6507,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with two +1/+1 counters on it if it wasn't cast or no mana was spent to cast it.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "This creature enters with two +1/+1 counters on it if it wasn't cast or no mana was spent to cast it.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -6227,7 +6549,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent.",
+    "rulesTexts": [
+      "When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6263,7 +6587,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, look at the top five cards of your library. You may reveal a Mount creature card or a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "When this creature enters, look at the top five cards of your library. You may reveal a Mount creature card or a Plains card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6300,7 +6626,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flash\nWhen this creature enters, target creature an opponent controls gets -2/-2 until end of turn.",
+    "rulesTexts": [
+      "Flash\nWhen this creature enters, target creature an opponent controls gets -2/-2 until end of turn."
+    ],
     "keywords": [
       "flash"
     ],
@@ -6344,7 +6672,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on Kraum and draw a card.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast your second spell each turn, put a +1/+1 counter on Kraum and draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6382,7 +6712,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {W} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {W} or {B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -6421,7 +6753,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Return up to one target creature card from your graveyard to your hand. Create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "Return up to one target creature card from your graveyard to your hand. Create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6457,7 +6791,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {G} or {U}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {G} or {U}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -6496,7 +6832,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Each player can't cast more than one spell each turn.\n{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target.",
+    "rulesTexts": [
+      "Each player can't cast more than one spell each turn.\n{4}{R}, Sacrifice this enchantment: It deals 5 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6533,7 +6871,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Vigilance\n{1}, Sacrifice this creature: Destroy target artifact or enchantment.",
+    "rulesTexts": [
+      "Vigilance\n{1}, Sacrifice this creature: Destroy target artifact or enchantment."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -6571,7 +6911,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhenever you commit a crime, target creature you control gains your choice of menace or lifelink until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Deathtouch\nWhenever you commit a crime, target creature you control gains your choice of menace or lifelink until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -6609,7 +6951,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may sacrifice a creature. When you do, target player draws two cards and loses 2 life.\nPlot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, you may sacrifice a creature. When you do, target player draws two cards and loses 2 life.\nPlot {2}{B} (You may pay {2}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -6645,7 +6989,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+    "rulesTexts": [
+      "When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -6683,7 +7029,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach, trample\nWhenever another creature you control enters, put X +1/+1 counters on it, where X is its power.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Reach, trample\nWhenever another creature you control enters, put X +1/+1 counters on it, where X is its power.\nPlot {3}{G} (You may pay {3}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "reach",
       "plot",
@@ -6723,7 +7071,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Target creature gets -1/-0 until end of turn. It gets -4/-0 until end of turn instead if you control an outlaw. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nDraw a card.",
+    "rulesTexts": [
+      "Target creature gets -1/-0 until end of turn. It gets -4/-0 until end of turn instead if you control an outlaw. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6761,7 +7111,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Flash\nEnchant artifact or creature\nWhen this Aura enters, tap enchanted permanent.\nEnchanted permanent loses all abilities and doesn't untap during its controller's untap step.",
+    "rulesTexts": [
+      "Flash\nEnchant artifact or creature\nWhen this Aura enters, tap enchanted permanent.\nEnchanted permanent loses all abilities and doesn't untap during its controller's untap step."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -6799,7 +7151,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Thunder Salvo deals X damage to target creature, where X is 2 plus the number of other spells you've cast this turn.",
+    "rulesTexts": [
+      "Thunder Salvo deals X damage to target creature, where X is 2 plus the number of other spells you've cast this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6832,7 +7186,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2} — Search your library for a card, then shuffle and put that card on top.\n+ {B}{B} — Target player draws three cards and loses 3 life.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2} — Search your library for a card, then shuffle and put that card on top.\n+ {B}{B} — Target player draws three cards and loses 3 life."
+    ],
     "keywords": [
       "spree"
     ],
@@ -6872,7 +7228,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)\nSaddle 3",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if this creature is saddled. (You may cast that card from your graveyard for its flashback cost. Then exile it.)\nSaddle 3"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -6909,7 +7267,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {3} — Put a +1/+1 counter on target creature. It can't be blocked this turn.\n+ {2} — Target artifact or creature's owner puts it on their choice of the top or bottom of their library.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {3} — Put a +1/+1 counter on target creature. It can't be blocked this turn.\n+ {2} — Target artifact or creature's owner puts it on their choice of the top or bottom of their library."
+    ],
     "keywords": [
       "spree"
     ],
@@ -6953,7 +7313,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Ertha Jo enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nWhenever you activate an ability that targets a creature or player, copy that ability. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "When Ertha Jo enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nWhenever you activate an ability that targets a creature or player, copy that ability. You may choose new targets for the copy."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6990,7 +7352,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Lifelink\nWhen this creature enters, target player mills two cards. (They put the top two cards of their library into their graveyard.)",
+    "rulesTexts": [
+      "Lifelink\nWhen this creature enters, target player mills two cards. (They put the top two cards of their library into their graveyard.)"
+    ],
     "keywords": [
       "lifelink",
       "mill"
@@ -7028,7 +7392,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -7063,7 +7429,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.\n+ {1} — Change the target of target spell or ability with a single target.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.\n+ {1} — Change the target of target spell or ability with a single target."
+    ],
     "keywords": [
       "spree"
     ],
@@ -7108,7 +7476,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Menace\nWhenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card.",
+    "rulesTexts": [
+      "Menace\nWhenever Satoru and/or one or more other nontoken creatures you control enter, if none of them were cast or no mana was spent to cast them, draw a card."
+    ],
     "keywords": [
       "menace"
     ],
@@ -7146,7 +7516,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, return up to one target tapped creature to its owner's hand.",
+    "rulesTexts": [
+      "When this creature enters, return up to one target tapped creature to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7186,7 +7558,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells.",
+    "rulesTexts": [
+      "Creatures you control but don't own are Mercenaries in addition to their other types.\nAt the beginning of your upkeep, exile the top X cards of target opponent's library, where X is the number of outlaws you control. Until end of turn, you may cast spells from among those cards, and mana of any type can be spent to cast those spells."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7226,7 +7600,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.\nWhenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn.",
+    "rulesTexts": [
+      "Whenever you cast a spell during your turn other than your first spell that turn, create a 2/2 blue and black Zombie Rogue creature token.\nWhenever a Zombie you control enters, put a +1/+1 counter on it for each other Zombie that entered the battlefield under your control this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7268,7 +7644,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Deathtouch\nWhenever a nontoken creature an opponent controls dies, you may pay {1}. If you do, return that card to the battlefield tapped under your control. It's a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color,\" and it loses all other card types.",
+    "rulesTexts": [
+      "Deathtouch\nWhenever a nontoken creature an opponent controls dies, you may pay {1}. If you do, return that card to the battlefield tapped under your control. It's a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color,\" and it loses all other card types."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -7311,7 +7689,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nDuring turns other than yours, spells you cast cost {1} less to cast.",
+    "rulesTexts": [
+      "Flying\nDuring turns other than yours, spells you cast cost {1} less to cast."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7349,7 +7729,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nThis creature enters tapped.",
+    "rulesTexts": [
+      "Flash\nThis creature enters tapped."
+    ],
     "keywords": [
       "flash"
     ],
@@ -7391,7 +7773,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flash\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, create a 2/2 white Spirit creature token with flying.",
+    "rulesTexts": [
+      "Flash\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, create a 2/2 white Spirit creature token with flying."
+    ],
     "keywords": [
       "flash"
     ],
@@ -7429,7 +7813,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhenever this creature deals combat damage to a player, if you've committed a crime this turn, you may sacrifice this creature. If you do, search your library for a card, put it into your hand, then shuffle. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Deathtouch\nWhenever this creature deals combat damage to a player, if you've committed a crime this turn, you may sacrifice this creature. If you do, search your library for a card, put it into your hand, then shuffle. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -7467,7 +7853,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, put a +1/+1 counter on another target creature you control.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, put a +1/+1 counter on another target creature you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7507,7 +7895,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever this creature attacks, target creature defending player controls gets -3/-0 until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature attacks, target creature defending player controls gets -3/-0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7543,7 +7933,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your end step, if you haven't cast a spell from your hand this turn and this creature doesn't have a flying counter on it, put a flying counter on it.",
+    "rulesTexts": [
+      "At the beginning of your end step, if you haven't cast a spell from your hand this turn and this creature doesn't have a flying counter on it, put a flying counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7580,7 +7972,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{1}{U}: This creature gets +2/-2 until end of turn.\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card, then discard a card.",
+    "rulesTexts": [
+      "{1}{U}: This creature gets +2/-2 until end of turn.\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7612,7 +8006,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -7653,7 +8049,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 2/2 blue and black Zombie Rogue creature token, then put two +1/+1 counters on that token for each spell you've cast this turn other than the first.\nPlot {4}{U} (You may pay {4}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "When this creature enters, create a 2/2 blue and black Zombie Rogue creature token, then put two +1/+1 counters on that token for each spell you've cast this turn other than the first.\nPlot {4}{U} (You may pay {4}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -7690,7 +8088,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7725,7 +8125,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {3} less to cast if it targets a permanent you control.\nReturn up to two target nonland permanents to their owners' hands.",
+    "rulesTexts": [
+      "This spell costs {3} less to cast if it targets a permanent you control.\nReturn up to two target nonland permanents to their owners' hands."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7765,7 +8167,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, trample\nWhenever you sacrifice another creature, exile cards equal to its mana value from the top of target player's library. Until your next end step, you may play those cards, and mana of any type can be spent to cast those spells.\nSacrifice another creature: Rakdos gains indestructible until end of turn. Tap it. Activate only once each turn.",
+    "rulesTexts": [
+      "Flying, trample\nWhenever you sacrifice another creature, exile cards equal to its mana value from the top of target player's library. Until your next end step, you may play those cards, and mana of any type can be spent to cast those spells.\nSacrifice another creature: Rakdos gains indestructible until end of turn. Tap it. Activate only once each turn."
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -7810,7 +8214,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Vigilance\nWhenever Wylie Duke becomes tapped, you gain 1 life and draw a card.",
+    "rulesTexts": [
+      "Vigilance\nWhenever Wylie Duke becomes tapped, you gain 1 life and draw a card."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -7847,7 +8253,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you cast your second spell each turn, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -7882,7 +8290,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Until end of turn, target creature becomes a white Rabbit with base power and toughness 0/1.\n+ {3} — Target player draws two cards.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Until end of turn, target creature becomes a white Rabbit with base power and toughness 0/1.\n+ {3} — Target player draws two cards."
+    ],
     "keywords": [
       "spree"
     ],
@@ -7922,7 +8332,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Slick Sequence deals 2 damage to any target. If you've cast another spell this turn, draw a card.",
+    "rulesTexts": [
+      "Slick Sequence deals 2 damage to any target. If you've cast another spell this turn, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7962,7 +8374,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "During your turn, Mounts and Vehicles you control have hexproof.\nWhenever a Mount or Vehicle you control attacks, put a +1/+1 counter on it.",
+    "rulesTexts": [
+      "During your turn, Mounts and Vehicles you control have hexproof.\nWhenever a Mount or Vehicle you control attacks, put a +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7999,7 +8413,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, vigilance\nWhen this creature enters, return target permanent card with mana value 3 or less from your graveyard to your hand. Return that card to the battlefield instead if you control a Mount.",
+    "rulesTexts": [
+      "Flying, vigilance\nWhen this creature enters, return target permanent card with mana value 3 or less from your graveyard to your hand. Return that card to the battlefield instead if you control a Mount."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -8038,7 +8454,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with a +1/+1 counter on it plus an additional +1/+1 counter on it for each other creature you control.\nPlot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "This creature enters with a +1/+1 counter on it plus an additional +1/+1 counter on it for each other creature you control.\nPlot {1}{W} (You may pay {1}{W} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -8071,7 +8489,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color.",
+    "rulesTexts": [
+      "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8110,7 +8530,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control deals damage equal to its power to each of two other target creatures.",
+    "rulesTexts": [
+      "Target creature you control deals damage equal to its power to each of two other target creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8146,7 +8568,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {G} or {W}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {G} or {W}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -8188,7 +8612,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.\nWhenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent.",
+    "rulesTexts": [
+      "When Rakdos Joins Up enters, return target creature card from your graveyard to the battlefield with two additional +1/+1 counters on it.\nWhenever a legendary creature you control dies, Rakdos Joins Up deals damage equal to that creature's power to target opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8223,7 +8649,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nAs long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.\nAs long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures.",
+    "rulesTexts": [
+      "Flying\nAs long as this creature is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.\nAs long as this creature is attacking, creatures can't block unless their controller pays {1} for each of those creatures."
+    ],
     "keywords": [
       "flying"
     ],
@@ -8264,7 +8692,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "{1}, {T}, Pay 1 life: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "{1}, {T}, Pay 1 life: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -8305,7 +8735,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Take for a Ride has flash as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+    "rulesTexts": [
+      "Take for a Ride has flash as long as you've committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8341,7 +8773,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle.\nThis creature gets +1/+1 for each Desert you control.",
+    "rulesTexts": [
+      "When this creature enters, search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle.\nThis creature gets +1/+1 for each Desert you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8376,7 +8810,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle.\n+ {3} — Create an X/X green Elemental creature token, where X is the number of lands you control.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {1} — Search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle.\n+ {3} — Create an X/X green Elemental creature token, where X is the number of lands you control."
+    ],
     "keywords": [
       "spree"
     ],
@@ -8414,7 +8850,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add one mana of any color.\nWhenever you commit a crime, untap this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "{T}: Add one mana of any color.\nWhenever you commit a crime, untap this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8452,7 +8890,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {U}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {U}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -8489,7 +8929,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever this Vehicle attacks, create a Treasure token for each creature that crewed it this turn. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")\nCrew 1. Activate only once each turn. (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Whenever this Vehicle attacks, create a Treasure token for each creature that crewed it this turn. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")\nCrew 1. Activate only once each turn. (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "treasure",
       "crew"
@@ -8534,7 +8976,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Trick Shot deals 6 damage to target creature and 2 damage to up to one other target creature token.",
+    "rulesTexts": [
+      "Trick Shot deals 6 damage to target creature and 2 damage to up to one other target creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8572,7 +9016,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Reach\nWhenever you cast your second spell each turn, this creature deals 2 damage to target opponent. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "Reach\nWhenever you cast your second spell each turn, this creature deals 2 damage to target opponent. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "reach",
       "scry"
@@ -8611,7 +9057,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you commit a crime during your turn, this creature gains indestructible until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Damage and effects that say \"destroy\" don't destroy a creature with indestructible.)",
+    "rulesTexts": [
+      "Whenever you commit a crime during your turn, this creature gains indestructible until end of turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime. Damage and effects that say \"destroy\" don't destroy a creature with indestructible.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8653,7 +9101,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Menace\nWhenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target.",
+    "rulesTexts": [
+      "Menace\nWhenever you cast your second spell each turn, you may sacrifice an artifact. If you do, flip a coin. When you win the flip, copy that spell. You may choose new targets for the copy. When you lose the flip, Breeches deals damage equal to that spell's mana value to any target."
+    ],
     "keywords": [
       "menace"
     ],
@@ -8690,7 +9140,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8730,7 +9182,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flash\nFlying\nWhen this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)\nSpells your opponents cast from graveyards or from exile cost {2} more to cast.",
+    "rulesTexts": [
+      "Flash\nFlying\nWhen this creature enters, exile target spell. It becomes plotted. (Its owner may cast it as a sorcery on a later turn without paying its mana cost.)\nSpells your opponents cast from graveyards or from exile cost {2} more to cast."
+    ],
     "keywords": [
       "flying",
       "plot",
@@ -8772,7 +9226,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Menace\n{1}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature. If an outlaw was sacrificed this way, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",
+    "rulesTexts": [
+      "Menace\n{1}{B}, Sacrifice another creature: Put a +1/+1 counter on this creature. If an outlaw was sacrificed this way, create a Treasure token. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+    ],
     "keywords": [
       "treasure",
       "menace"
@@ -8817,7 +9273,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.\nWhenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Whenever one or more tokens your opponents control enter, for each of them, create a tapped token that's a copy of it. This ability triggers only once each turn.\nWhenever one or more tokens you control enter, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8850,7 +9308,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This Vehicle has haste as long as you control a Mount.\nWhenever this Vehicle attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "This Vehicle has haste as long as you control a Mount.\nWhenever this Vehicle attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew"
     ],
@@ -8890,7 +9350,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever this creature attacks, create a 3/1 red Dinosaur creature token if you control a creature with power 4 or greater.",
+    "rulesTexts": [
+      "Whenever this creature attacks, create a 3/1 red Dinosaur creature token if you control a creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8926,7 +9388,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {R} or {G}.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, it deals 1 damage to target opponent.\n{T}: Add {R} or {G}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -8967,7 +9431,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying, trample\nThis creature gets -1/-1 for each card in your hand.\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Flying, trample\nThis creature gets -1/-1 for each card in your hand.\nPlot {2}{R} (You may pay {2}{R} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "plot",
@@ -9009,7 +9475,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward—{2}, Pay 2 life.\nSkeletons and Zombies you control get +1/+1 and have menace.\nWhenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Ward—{2}, Pay 2 life.\nSkeletons and Zombies you control get +1/+1 and have menace.\nWhenever you commit a crime, create two tapped 2/2 blue and black Zombie Rogue creature tokens. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "ward"
     ],
@@ -9045,7 +9513,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this Equipment enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nEquipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "When this Equipment enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nEquipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "treasure",
       "equip"
@@ -9089,7 +9559,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, trample, haste\nThis creature enters with X +1/+1 counters on it.\nWhen this creature dies, create a number of tapped Treasure tokens equal to its power.",
+    "rulesTexts": [
+      "Vigilance, trample, haste\nThis creature enters with X +1/+1 counters on it.\nWhen this creature dies, create a number of tapped Treasure tokens equal to its power."
+    ],
     "keywords": [
       "vigilance",
       "treasure",
@@ -9133,7 +9605,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "This spell costs {1} less to cast for each creature card in your graveyard.\nFlying\nWhen this creature enters, any number of target opponents each discard a card. For each of those opponents who didn't discard a card with mana value 4 or greater, draw a card.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast for each creature card in your graveyard.\nFlying\nWhen this creature enters, any number of target opponents each discard a card. For each of those opponents who didn't discard a card with mana value 4 or greater, draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9171,7 +9645,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast your first spell each turn, add {R}{R}.",
+    "rulesTexts": [
+      "Whenever you cast your first spell each turn, add {R}{R}."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9208,7 +9684,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste, protection from Coyotes\n{3}: This creature can't be blocked this turn except by creatures with haste.",
+    "rulesTexts": [
+      "Haste, protection from Coyotes\n{3}: This creature can't be blocked this turn except by creatures with haste."
+    ],
     "keywords": [
       "protection",
       "haste"
@@ -9253,7 +9731,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)",
+    "rulesTexts": [
+      "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a multicolored instant or sorcery spell from your hand, exile that spell instead of putting it into your graveyard as it resolves. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)"
+    ],
     "keywords": [
       "plot",
       "prowess"
@@ -9298,7 +9778,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying, vigilance\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card.",
+    "rulesTexts": [
+      "Flying, vigilance\nAt the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -9336,7 +9818,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever you commit a crime, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Flying\nWhenever you commit a crime, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -9382,7 +9866,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Haste\nNontoken creatures you control have \"{T}: Create a token that's a copy of target token you control that entered this turn.\"",
+    "rulesTexts": [
+      "Haste\nNontoken creatures you control have \"{T}: Create a token that's a copy of target token you control that entered this turn.\""
+    ],
     "keywords": [
       "haste"
     ],
@@ -9420,7 +9906,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying, lifelink\nWhen this creature enters, destroy target creature an opponent controls that was dealt damage this turn.",
+    "rulesTexts": [
+      "Flash\nFlying, lifelink\nWhen this creature enters, destroy target creature an opponent controls that was dealt damage this turn."
+    ],
     "keywords": [
       "flying",
       "lifelink",
@@ -9455,7 +9943,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+0 and has haste and ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\nEquip {1}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+0 and has haste and ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\nEquip {1}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -9493,7 +9983,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast your second spell each turn, choose target creature an opponent controls. If it's tapped, put a stun counter on it. Otherwise, tap it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, choose target creature an opponent controls. If it's tapped, put a stun counter on it. Otherwise, tap it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9531,7 +10023,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9571,7 +10065,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Haste\nWhenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.\nSaddle 1",
+    "rulesTexts": [
+      "Haste\nWhenever Calamity attacks while saddled, choose a nonlegendary creature that saddled it this turn and create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step. Repeat this process once.\nSaddle 1"
+    ],
     "keywords": [
       "saddle",
       "haste"
@@ -9607,7 +10103,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2} — Mill four cards. You may put up to two creature and/or land cards from among the milled cards into your hand.\n+ {4}{G} — You may put up to two creature cards from your hand onto the battlefield.\n+ {1} — Creatures you control with power 4 or greater gain hexproof and indestructible until end of turn.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2} — Mill four cards. You may put up to two creature and/or land cards from among the milled cards into your hand.\n+ {4}{G} — You may put up to two creature cards from your hand onto the battlefield.\n+ {1} — Creatures you control with power 4 or greater gain hexproof and indestructible until end of turn."
+    ],
     "keywords": [
       "spree",
       "mill"
@@ -9647,7 +10145,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if this creature isn't saddled. Otherwise, each opponent loses that much life.\nSaddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -9687,7 +10187,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Reach\n{1}, {T}: This creature deals 1 damage to target opponent.",
+    "rulesTexts": [
+      "Reach\n{1}, {T}: This creature deals 1 damage to target opponent."
+    ],
     "keywords": [
       "reach"
     ],
@@ -9733,7 +10235,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever one or more tokens you control enter, create a 1/1 black Vampire Rogue creature token with lifelink. This ability triggers only once each turn.\n{1}{B}, Sacrifice another creature or artifact: Draw a card.",
+    "rulesTexts": [
+      "Whenever one or more tokens you control enter, create a 1/1 black Vampire Rogue creature token with lifelink. This ability triggers only once each turn.\n{1}{B}, Sacrifice another creature or artifact: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9764,7 +10268,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{6}, {T}, Sacrifice this artifact: Destroy up to one target artifact, up to one target creature, and up to one target land.",
+    "rulesTexts": [
+      "{6}, {T}, Sacrifice this artifact: Destroy up to one target artifact, up to one target creature, and up to one target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9800,7 +10306,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"",
+    "rulesTexts": [
+      "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9838,7 +10346,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Flash\nEnchant creature\nEnchanted creature gets +3/+2 and has reach.\nWhen this Aura is put into a graveyard from the battlefield, draw a card.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nEnchanted creature gets +3/+2 and has reach.\nWhen this Aura is put into a graveyard from the battlefield, draw a card."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -9876,7 +10386,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2} — Put two +1/+1 counters on target creature.\n+ {1} — Target creature gains trample until end of turn.\n+ {1} — Until end of turn, target creature gains \"Whenever this creature deals combat damage to a player, draw two cards.\"",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2} — Put two +1/+1 counters on target creature.\n+ {1} — Target creature gains trample until end of turn.\n+ {1} — Until end of turn, target creature gains \"Whenever this creature deals combat damage to a player, draw two cards.\""
+    ],
     "keywords": [
       "spree"
     ],
@@ -9910,7 +10422,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain 2 life.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this creature enters, you gain 2 life.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -9960,7 +10474,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Whenever you commit a crime, you may pay {1}. If you do, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9995,7 +10511,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nThis creature enters with a +1/+1 counter on it if a creature died this turn.\nPlot {1}{B} (You may pay {1}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Flying\nThis creature enters with a +1/+1 counter on it if a creature died this turn.\nPlot {1}{B} (You may pay {1}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "flying",
       "plot"
@@ -10035,7 +10553,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while saddled, it gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks while saddled, it gains first strike until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle",
       "scry"
@@ -10074,7 +10594,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Spree (Choose one or more additional costs.)\n+ {2} — Explosive Derailment deals 4 damage to target creature.\n+ {2} — Destroy target artifact.",
+    "rulesTexts": [
+      "Spree (Choose one or more additional costs.)\n+ {2} — Explosive Derailment deals 4 damage to target creature.\n+ {2} — Destroy target artifact."
+    ],
     "keywords": [
       "spree"
     ],
@@ -10118,7 +10640,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink\nWhenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it.",
+    "rulesTexts": [
+      "Lifelink\nWhenever an Aura you control becomes attached to a nonland permanent an opponent controls with mana value less than or equal to that Aura's mana value, gain control of that permanent for as long as that Aura is attached to it."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -10155,7 +10679,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Create X 2/1 green Varmint creature tokens, where X is the number of creature cards in your graveyard.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Create X 2/1 green Varmint creature tokens, where X is the number of creature cards in your graveyard.\nPlot {2}{G} (You may pay {2}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -10193,7 +10719,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks while saddled, exile the top card of your library. Until the end of your next turn, you may play that card.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Whenever this creature attacks while saddled, exile the top card of your library. Until the end of your next turn, you may play that card.\nSaddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle"
     ],
@@ -10228,7 +10756,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +2/+0 until end of turn. If you control an outlaw, exile the top card of your library. Until the end of your next turn, you may play that card. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)",
+    "rulesTexts": [
+      "Creatures you control get +2/+0 until end of turn. If you control an outlaw, exile the top card of your library. Until the end of your next turn, you may play that card. (Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10263,7 +10793,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWard {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)\n{1}{G}, Discard this card: Search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle. You gain 3 life.",
+    "rulesTexts": [
+      "Reach\nWard {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)\n{1}{G}, Discard this card: Search your library for a basic land card or a Desert card, reveal it, put it into your hand, then shuffle. You gain 3 life."
+    ],
     "keywords": [
       "reach",
       "ward"
@@ -10302,7 +10834,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. It can't be blocked this turn.",
+    "rulesTexts": [
+      "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature. It can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10340,7 +10874,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\n{2}, Sacrifice a token: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 red Mercenary creature token with \"{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.\"\n{2}, Sacrifice a token: This creature gains indestructible until end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10375,7 +10911,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Scorching Shot deals 5 damage to target creature.",
+    "rulesTexts": [
+      "Scorching Shot deals 5 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10410,7 +10948,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nThis creature has hexproof as long as you haven't cast a spell this turn.",
+    "rulesTexts": [
+      "Flash\nFlying\nThis creature has hexproof as long as you haven't cast a spell this turn."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -10449,7 +10989,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)",
+    "rulesTexts": [
+      "Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)"
+    ],
     "keywords": [
       "mill"
     ],
@@ -10486,7 +11028,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.\nPlot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Look at the top X cards of your library, where X is twice the number of lands you control. Put one of them into your hand and the rest on the bottom of your library in a random order.\nPlot {1}{B}{G} (You may pay {1}{B}{G} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -10523,7 +11067,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Sacrifice any number of permanents you control, then draw that many cards.\nPlot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)",
+    "rulesTexts": [
+      "Sacrifice any number of permanents you control, then draw that many cards.\nPlot {1}{B}{B} (You may pay {1}{B}{B} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)"
+    ],
     "keywords": [
       "plot"
     ],
@@ -10563,7 +11109,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Vigilance\nWhenever this creature attacks while saddled, create a 1/1 white Sheep creature token.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",
+    "rulesTexts": [
+      "Vigilance\nWhenever this creature attacks while saddled, create a 1/1 white Sheep creature token.\nSaddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)"
+    ],
     "keywords": [
       "saddle",
       "vigilance"
@@ -10605,7 +11153,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You can't cast Jace Reawakened during your first, second, or third turns of the game.\n+1: Draw a card, then discard a card.\n+1: You may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted.\n−6: Until end of turn, whenever you cast a spell, copy it. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "You can't cast Jace Reawakened during your first, second, or third turns of the game.\n+1: Draw a card, then discard a card.\n+1: You may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted.\n−6: Until end of turn, whenever you cast a spell, copy it. You may choose new targets for the copy."
+    ],
     "keywords": [
       "plot"
     ],
@@ -10650,7 +11200,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever you attack with one or more creatures with power 4 or greater, create a Treasure token.\n{1}{R}, Sacrifice a Treasure: Jolene deals 1 damage to any target.",
+    "rulesTexts": [
+      "Whenever you attack with one or more creatures with power 4 or greater, create a Treasure token.\n{1}{R}, Sacrifice a Treasure: Jolene deals 1 damage to any target."
+    ],
     "keywords": [
       "treasure"
     ],

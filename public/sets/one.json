@@ -20,7 +20,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each opponent sacrifices a creature or planeswalker of their choice and gets a poison counter.",
+    "rulesTexts": [
+      "Each opponent sacrifices a creature or planeswalker of their choice and gets a poison counter."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -55,7 +57,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {W}.\n{1}{W}, {T}, Sacrifice this land: Draw a card.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {W}.\n{1}{W}, {T}, Sacrifice this land: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -90,7 +94,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Hazardous Blast deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn.",
+    "rulesTexts": [
+      "Hazardous Blast deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -126,7 +132,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If that creature has toxic, instead it gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If that creature has toxic, instead it gets +2/+2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -166,7 +174,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, exile target artifact or creature an opponent controls with mana value 3 or less until this creature leaves the battlefield.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, exile target artifact or creature an opponent controls with mana value 3 or less until this creature leaves the battlefield."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -204,7 +214,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "rulesTexts": [
+      "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)"
+    ],
     "keywords": [
       "toxic",
       "deathtouch"
@@ -242,7 +254,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You draw two cards and you lose 2 life. Each opponent gets a poison counter.",
+    "rulesTexts": [
+      "You draw two cards and you lose 2 life. Each opponent gets a poison counter."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -280,7 +294,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Corrupted — {2}{B}: Return this card from your graveyard to the battlefield tapped. You lose 1 life. Activate only if an opponent has three or more poison counters.",
+    "rulesTexts": [
+      "Corrupted — {2}{B}: Return this card from your graveyard to the battlefield tapped. You lose 1 life. Activate only if an opponent has three or more poison counters."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -318,7 +334,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with an oil counter on it.\n{1}, Remove an oil counter from this creature: This creature gains indestructible until end of turn.",
+    "rulesTexts": [
+      "This creature enters with an oil counter on it.\n{1}, Remove an oil counter from this creature: This creature gains indestructible until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -355,7 +373,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "At the beginning of your upkeep, put an oil counter on another target nontoken artifact or creature you control.\n{2}, {T}: Create a 1/1 red Phyrexian Goblin creature token. Activate only if an oil counter was removed from a permanent you controlled this turn or a permanent with an oil counter on it was put into a graveyard this turn.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, put an oil counter on another target nontoken artifact or creature you control.\n{2}, {T}: Create a 1/1 red Phyrexian Goblin creature token. Activate only if an oil counter was removed from a permanent you controlled this turn or a permanent with an oil counter on it was put into a graveyard this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -398,7 +418,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once.\n+1: Up to one target creature can't attack or block until your next turn.\n0: Draw a card.\n−2: Create a 2/2 colorless Drone artifact creature token with deathtouch and \"When this token leaves the battlefield, each opponent loses 2 life and you gain 2 life.\"",
+    "rulesTexts": [
+      "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once.\n+1: Up to one target creature can't attack or block until your next turn.\n0: Draw a card.\n−2: Create a 2/2 colorless Drone artifact creature token with deathtouch and \"When this token leaves the battlefield, each opponent loses 2 life and you gain 2 life.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -435,7 +457,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant basic land you control\nWhen this Aura enters, exile target creature or planeswalker an opponent controls until this Aura leaves the battlefield.",
+    "rulesTexts": [
+      "Enchant basic land you control\nWhen this Aura enters, exile target creature or planeswalker an opponent controls until this Aura leaves the battlefield."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -472,7 +496,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Hexgold Slash deals 2 damage to target creature. If that creature has toxic, Hexgold Slash deals 4 damage to that creature instead.",
+    "rulesTexts": [
+      "Hexgold Slash deals 2 damage to target creature. If that creature has toxic, Hexgold Slash deals 4 damage to that creature instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -508,7 +534,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{5}{U}, {T}: Draw a card. This ability costs {1} less to activate for each other artifact you control.",
+    "rulesTexts": [
+      "{5}{U}, {T}: Draw a card. This ability costs {1} less to activate for each other artifact you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -544,7 +572,9 @@
     "toughness": 8,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered.\nTrample, ward {4}, haste\nToxic 4 (Players dealt combat damage by this creature also get four poison counters.)",
+    "rulesTexts": [
+      "This spell can't be countered.\nTrample, ward {4}, haste\nToxic 4 (Players dealt combat damage by this creature also get four poison counters.)"
+    ],
     "keywords": [
       "toxic",
       "haste",
@@ -583,7 +613,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{G}, Sacrifice this artifact: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{1}, Sacrifice this artifact: Draw a card.\n{2}{G}, Sacrifice this artifact: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -616,7 +648,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "rulesTexts": [
+      "Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+    ],
     "keywords": [
       "fight"
     ],
@@ -654,7 +688,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with an oil counter on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever another creature you control enters, if that creature has greater power or toughness than this creature, put an oil counter on this creature.",
+    "rulesTexts": [
+      "This creature enters with an oil counter on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever another creature you control enters, if that creature has greater power or toughness than this creature, put an oil counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -690,7 +726,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, another target creature you control with toxic gets +1/+1 and gains flying until end of turn.",
+    "rulesTexts": [
+      "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, another target creature you control with toxic gets +1/+1 and gains flying until end of turn."
+    ],
     "keywords": [
       "flying",
       "toxic"
@@ -726,7 +764,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a player casts their first multicolored spell each turn, each other player draws a card.",
+    "rulesTexts": [
+      "Whenever a player casts their first multicolored spell each turn, each other player draws a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -758,7 +798,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -797,7 +839,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nToxic 3 (Players dealt combat damage by this creature also get three poison counters.)",
+    "rulesTexts": [
+      "Haste\nToxic 3 (Players dealt combat damage by this creature also get three poison counters.)"
+    ],
     "keywords": [
       "toxic",
       "haste"
@@ -842,7 +886,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Other blue creatures you control have \"Whenever this creature becomes tapped, draw a card, then discard a card.\"\nOther artifact creatures you control get +1/+1.\n{U/P}: Until end of turn, target creature you control becomes a blue artifact in addition to its other colors and types. Activate only as a sorcery. ({U/P} can be paid with either {U} or 2 life.)",
+    "rulesTexts": [
+      "Other blue creatures you control have \"Whenever this creature becomes tapped, draw a card, then discard a card.\"\nOther artifact creatures you control get +1/+1.\n{U/P}: Until end of turn, target creature you control becomes a blue artifact in addition to its other colors and types. Activate only as a sorcery. ({U/P} can be paid with either {U} or 2 life.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -875,7 +921,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reveal the top X plus one cards of your library. Choose a creature card and/or a land card from among them. Put those cards into your hand and the rest on the bottom of your library in a random order. If X is 5 or more, instead put the chosen cards onto the battlefield or into your hand and the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Reveal the top X plus one cards of your library. Choose a creature card and/or a land card from among them. Put those cards into your hand and the rest on the bottom of your library in a random order. If X is 5 or more, instead put the chosen cards onto the battlefield or into your hand and the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -910,7 +958,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -949,7 +999,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature enters, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -986,7 +1038,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {B}.\n{1}{B}, {T}, Sacrifice this land: Draw a card.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {B}.\n{1}{B}, {T}, Sacrifice this land: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1023,7 +1077,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {U}.\n{1}{U}, {T}, Sacrifice this land: Draw a card.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {U}.\n{1}{U}, {T}, Sacrifice this land: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -1069,7 +1125,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Lifelink, toxic 1\nWhenever you proliferate, choose one —\n• If you don't control a creature named The Hollow Sentinel, create The Hollow Sentinel, a legendary 3/3 colorless Phyrexian Golem artifact creature token.\n• Target artifact creature you control gains flying and lifelink until end of turn.",
+    "rulesTexts": [
+      "Lifelink, toxic 1\nWhenever you proliferate, choose one —\n• If you don't control a creature named The Hollow Sentinel, create The Hollow Sentinel, a legendary 3/3 colorless Phyrexian Golem artifact creature token.\n• Target artifact creature you control gains flying and lifelink until end of turn."
+    ],
     "keywords": [
       "lifelink",
       "toxic",
@@ -1113,7 +1171,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Compleated ({G/P} can be paid with {G} or 2 life. For each {G/P} paid with life, this planeswalker enters with two fewer loyalty counters.)\n+1: Create an X/X green Phyrexian Horror creature token, where X is Nissa's loyalty.\n−1: Destroy target artifact or enchantment.\n−7: Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
+    "rulesTexts": [
+      "Compleated ({G/P} can be paid with {G} or 2 life. For each {G/P} paid with life, this planeswalker enters with two fewer loyalty counters.)\n+1: Create an X/X green Phyrexian Horror creature token, where X is Nissa's loyalty.\n−1: Destroy target artifact or enchantment.\n−7: Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample."
+    ],
     "keywords": [
       "compleated"
     ],
@@ -1149,7 +1209,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen this Vehicle enters, draw a card.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen this Vehicle enters, draw a card.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "toxic",
       "crew"
@@ -1187,7 +1249,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, discard a card.\nDraw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1222,7 +1286,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever this artifact or another artifact you control enters, target creature you control gets +1/+1 and gains vigilance until end of turn.",
+    "rulesTexts": [
+      "Whenever this artifact or another artifact you control enters, target creature you control gets +1/+1 and gains vigilance until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1258,7 +1324,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Whenever another artifact or creature you control is put into a graveyard from the battlefield, put an oil counter on this artifact.\n{2}{B}, {T}, Remove four oil counters from this artifact: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Whenever another artifact or creature you control is put into a graveyard from the battlefield, put an oil counter on this artifact.\n{2}{B}, {T}, Remove four oil counters from this artifact: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1296,7 +1364,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This spell costs {3} less to cast if you have nine or more cards in your graveyard.\nFlying\nWhen this creature enters, exile three cards at random from your graveyard. Choose a noncreature, nonland card from among them and copy it. You may cast the copy without paying its mana cost.",
+    "rulesTexts": [
+      "This spell costs {3} less to cast if you have nine or more cards in your graveyard.\nFlying\nWhen this creature enters, exile three cards at random from your graveyard. Choose a noncreature, nonland card from among them and copy it. You may cast the copy without paying its mana cost."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1333,7 +1403,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This artifact enters with two oil counters on it.\n{3}, {T}: Target player mills X cards, where X is the number of oil counters on this artifact.",
+    "rulesTexts": [
+      "This artifact enters with two oil counters on it.\n{3}, {T}: Target player mills X cards, where X is the number of oil counters on this artifact."
+    ],
     "keywords": [
       "mill"
     ],
@@ -1372,7 +1444,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nWhenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, you may have that creature become a copy of another target creature you control.\nEquip {2}",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nWhenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, you may have that creature become a copy of another target creature you control.\nEquip {2}"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -1411,7 +1485,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters or dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature enters or dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -1444,7 +1520,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast Phyrexian creature spells.\nCorrupted — {T}: Target 1/1 creature gets +2/+1 until end of turn. Activate only if an opponent has three or more poison counters.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast Phyrexian creature spells.\nCorrupted — {T}: Target 1/1 creature gets +2/+1 until end of turn. Activate only if an opponent has three or more poison counters."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -1486,7 +1564,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -1529,7 +1609,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}, Sacrifice an artifact: Add an amount of {R} equal to the sacrificed artifact's mana value. Spend this mana only to cast artifact spells or activate abilities of artifacts.",
+    "rulesTexts": [
+      "{T}, Sacrifice an artifact: Add an amount of {R} equal to the sacrificed artifact's mana value. Spend this mana only to cast artifact spells or activate abilities of artifacts."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1566,7 +1648,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Target creature you control gets +2/+2 until end of turn. If that creature has toxic, draw a card.",
+    "rulesTexts": [
+      "Target creature you control gets +2/+2 until end of turn. If that creature has toxic, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1599,7 +1683,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Planeswalkers you control have \"[0]: Proliferate\" and \"[−12]: Take an extra turn after this one.\"\nWhenever you cast a noncreature spell, choose a counter on target permanent. Put an additional counter of that kind on that permanent.",
+    "rulesTexts": [
+      "Planeswalkers you control have \"[0]: Proliferate\" and \"[−12]: Take an extra turn after this one.\"\nWhenever you cast a noncreature spell, choose a counter on target permanent. Put an additional counter of that kind on that permanent."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -1634,7 +1720,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn. Put two oil counters on it.",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. Put two oil counters on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1670,7 +1758,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nEquipment spells you cast cost {1} less to cast.\nActivated abilities of Equipment you control that target this creature cost {1} less to activate.",
+    "rulesTexts": [
+      "Menace\nEquipment spells you cast cost {1} less to cast.\nActivated abilities of Equipment you control that target this creature cost {1} less to activate."
+    ],
     "keywords": [
       "menace"
     ],
@@ -1703,7 +1793,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -1743,7 +1835,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Haste\nWhen this creature enters, put two oil counters on target artifact or creature you control.\nAt the beginning of your end step, return this creature to its owner's hand unless you remove two oil counters from it.",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, put two oil counters on target artifact or creature you control.\nAt the beginning of your end step, return this creature to its owner's hand unless you remove two oil counters from it."
+    ],
     "keywords": [
       "haste"
     ],
@@ -1782,7 +1876,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+1 and has vigilance.\nEquip {3}{W} ({3}{W}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+1 and has vigilance.\nEquip {3}{W} ({3}{W}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -1823,7 +1919,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 for as long as this creature remains on the battlefield.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 for as long as this creature remains on the battlefield."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -1857,7 +1955,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1902,7 +2002,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCephalopod Sentry's power is equal to the number of artifacts you control.",
+    "rulesTexts": [
+      "Flying\nCephalopod Sentry's power is equal to the number of artifacts you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1945,7 +2047,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Flying\nWhenever you cast a noncreature spell, put an oil counter on this creature.\nRemove three oil counters from this creature: Draw a card. Then you may discard a nonland card. When you discard a card this way, this creature deals 3 damage to target creature or planeswalker. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Flying\nWhenever you cast a noncreature spell, put an oil counter on this creature.\nRemove three oil counters from this creature: Draw a card. Then you may discard a nonland card. When you discard a card this way, this creature deals 3 damage to target creature or planeswalker. Activate only as a sorcery."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1984,7 +2088,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nWhen this creature dies, it deals damage equal to its power to any target.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nWhen this creature dies, it deals damage equal to its power to any target."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -2019,7 +2125,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2052,7 +2160,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +4/+4 until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +4/+4 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2085,7 +2195,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell with mana value 1 or less.",
+    "rulesTexts": [
+      "Counter target spell with mana value 1 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2129,7 +2241,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When Malcator enters, create a 3/3 colorless Phyrexian Golem artifact creature token.\nAt the beginning of your end step, if three or more artifacts entered the battlefield under your control this turn, create a 3/3 colorless Phyrexian Golem artifact creature token.",
+    "rulesTexts": [
+      "When Malcator enters, create a 3/3 colorless Phyrexian Golem artifact creature token.\nAt the beginning of your end step, if three or more artifacts entered the battlefield under your control this turn, create a 3/3 colorless Phyrexian Golem artifact creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2164,7 +2278,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2201,7 +2317,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Put target creature card from a graveyard onto the battlefield under your control. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -2238,7 +2356,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nEnchanted creature gets +1/+1.\nCorrupted — As long as an opponent has three or more poison counters, enchanted creature gets an additional +1/+0 and has first strike.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nEnchanted creature gets +1/+1.\nCorrupted — As long as an opponent has three or more poison counters, enchanted creature gets an additional +1/+0 and has first strike."
+    ],
     "keywords": [
       "enchant",
       "corrupted",
@@ -2277,7 +2397,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature.",
+    "rulesTexts": [
+      "Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2310,7 +2432,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If it's equipped, you may destroy all Equipment attached to that creature.",
+    "rulesTexts": [
+      "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If it's equipped, you may destroy all Equipment attached to that creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2347,7 +2471,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one or both —\n• Exile target artifact or creature you control, then return it to the battlefield under its owner's control.\n• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Choose one or both —\n• Exile target artifact or creature you control, then return it to the battlefield under its owner's control.\n• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2383,7 +2509,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhen this creature enters, choose one —\n• Target creature gets +2/+2 and gains vigilance until end of turn.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, choose one —\n• Target creature gets +2/+2 and gains vigilance until end of turn.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "vigilance",
       "proliferate"
@@ -2422,7 +2550,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Trample\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "toxic",
       "trample",
@@ -2466,7 +2596,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your end step, you may sacrifice another creature. If you do, reveal cards from the top of your library until you reveal a nonlegendary creature card with lesser mana value, put it onto the battlefield, then put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "At the beginning of your end step, you may sacrifice another creature. If you do, reveal cards from the top of your library until you reveal a nonlegendary creature card with lesser mana value, put it onto the battlefield, then put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2503,7 +2635,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with two oil counters on it.\n{2}{G}, {T}, Remove an oil counter from this creature: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "This creature enters with two oil counters on it.\n{2}{G}, {T}, Remove an oil counter from this creature: Target creature gets +2/+2 until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2539,7 +2673,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Choose one —\n• Charge of the Mites deals damage equal to the number of creatures you control to target creature or planeswalker.\n• Create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" (Players dealt combat damage by them also get a poison counter.)",
+    "rulesTexts": [
+      "Choose one —\n• Charge of the Mites deals damage equal to the number of creatures you control to target creature or planeswalker.\n• Create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" (Players dealt combat damage by them also get a poison counter.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2578,7 +2714,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature enters, you may pay 2 life. When you do, target creature gets -1/-1 until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, you may pay 2 life. When you do, target creature gets -1/-1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2616,7 +2754,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering don't cause abilities of permanents your opponents control to trigger.",
+    "rulesTexts": [
+      "Vigilance\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering don't cause abilities of permanents your opponents control to trigger."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -2660,7 +2800,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 red Phyrexian Goblin creature token.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.\nRemove three oil counters from this creature: Exile the top card of your library. You may play that card this turn.",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 red Phyrexian Goblin creature token.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.\nRemove three oil counters from this creature: Exile the top card of your library. You may play that card this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2695,7 +2837,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCreatures you control get +2/+1 until end of turn.",
+    "rulesTexts": [
+      "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCreatures you control get +2/+1 until end of turn."
+    ],
     "keywords": [
       "affinity"
     ],
@@ -2743,7 +2887,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flying, vigilance, deathtouch, lifelink\nWhen Atraxa enters, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)",
+    "rulesTexts": [
+      "Flying, vigilance, deathtouch, lifelink\nWhen Atraxa enters, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)"
+    ],
     "keywords": [
       "deathtouch",
       "flying",
@@ -2786,7 +2932,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever another creature you control with toxic attacks, it gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever another creature you control with toxic attacks, it gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -2826,7 +2974,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever one or more other creatures you control die, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Whenever one or more other creatures you control die, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2861,7 +3011,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target permanent card from your graveyard to your hand. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Return target permanent card from your graveyard to your hand. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -2899,7 +3051,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nThis creature enters with three oil counters on it.\nRemove an oil counter from this creature: This creature gets +1/-1 until end of turn.",
+    "rulesTexts": [
+      "Flying\nThis creature enters with three oil counters on it.\nRemove an oil counter from this creature: This creature gets +1/-1 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2936,7 +3090,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -2973,7 +3129,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -3014,7 +3172,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Lifelink\nWhenever another artifact you control enters, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Lifelink\nWhenever another artifact you control enters, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -3053,7 +3213,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+2 and has flying and haste.\nEquip {3}{R}{R}",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+2 and has flying and haste.\nEquip {3}{R}{R}"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -3090,7 +3252,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Activate only if this land entered this turn.\n{3}, {T}: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\" (Players dealt combat damage by it also get a poison counter.)",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add one mana of any color. Activate only if this land entered this turn.\n{3}, {T}: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\" (Players dealt combat damage by it also get a poison counter.)"
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3132,7 +3296,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you draw a card and you lose 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3167,7 +3333,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -3208,7 +3376,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquip abilities you activate of other Equipment cost {1} less to activate.\nEquipped creature has double strike.\nEquip {3}{R}{W}",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquip abilities you activate of other Equipment cost {1} less to activate.\nEquipped creature has double strike.\nEquip {3}{R}{W}"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -3247,7 +3417,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nDuring your turn, this creature has first strike.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nDuring your turn, this creature has first strike."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -3288,7 +3460,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Haste\nWhen this creature enters, create a 1/1 red Phyrexian Goblin creature token.",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, create a 1/1 red Phyrexian Goblin creature token."
+    ],
     "keywords": [
       "haste"
     ],
@@ -3322,7 +3496,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, scry 2. Then each opponent may scry 1. (To scry X, a player looks at the top X cards of their library, then puts any number of them on the bottom and the rest on top in any order.)",
+    "rulesTexts": [
+      "When this creature enters, scry 2. Then each opponent may scry 1. (To scry X, a player looks at the top X cards of their library, then puts any number of them on the bottom and the rest on top in any order.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -3357,7 +3533,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top six cards of your library. Put up to two land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order. If you put fewer than two lands onto the battlefield this way, proliferate a number of times equal to the difference. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Look at the top six cards of your library. Put up to two land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order. If you put fewer than two lands onto the battlefield this way, proliferate a number of times equal to the difference. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -3392,7 +3570,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Until end of turn, target creature gets +1/+3 and gains flying and toxic 1. (Players dealt combat damage by that creature also get a poison counter.)",
+    "rulesTexts": [
+      "Until end of turn, target creature gets +1/+3 and gains flying and toxic 1. (Players dealt combat damage by that creature also get a poison counter.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3436,7 +3616,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Compleated ({R/W/P} can be paid with {R}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Until your next turn, up to one target creature attacks a player each combat if able.\n+1: Discard a card, then draw a card.\n0: Exile target creature or Equipment card with mana value less than Nahiri's loyalty from your graveyard. Create a token that's a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
+    "rulesTexts": [
+      "Compleated ({R/W/P} can be paid with {R}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Until your next turn, up to one target creature attacks a player each combat if able.\n+1: Discard a card, then draw a card.\n0: Exile target creature or Equipment card with mana value less than Nahiri's loyalty from your graveyard. Create a token that's a copy of it. That token gains haste. Exile it at the beginning of the next end step."
+    ],
     "keywords": [
       "compleated"
     ],
@@ -3473,7 +3655,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -1/-1 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Target creature gets -1/-1 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -3508,7 +3692,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{X}, {T}: This land becomes a copy of target nontoken artifact you control with mana value X.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{X}, {T}: This land becomes a copy of target nontoken artifact you control with mana value X."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3544,7 +3730,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3579,7 +3767,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -3617,7 +3807,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 2\n{2}{G}: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)",
+    "rulesTexts": [
+      "Toxic 2\n{2}{G}: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)"
+    ],
     "keywords": [
       "toxic"
     ],
@@ -3651,7 +3843,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may search your library for a Myr card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, you may search your library for a Myr card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3690,7 +3884,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nSkrelv can't block.\n{W/P}, {T}: Choose a color. Another target creature you control gains toxic 1 and hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. ({W/P} can be paid with either {W} or 2 life.)",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nSkrelv can't block.\n{W/P}, {T}: Choose a color. Another target creature you control gains toxic 1 and hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. ({W/P} can be paid with either {W} or 2 life.)"
+    ],
     "keywords": [
       "toxic"
     ],
@@ -3729,7 +3925,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, target creature an opponent controls gets -X/-0 until end of turn, where X is the number of artifacts you control.",
+    "rulesTexts": [
+      "Whenever this creature attacks, target creature an opponent controls gets -X/-0 until end of turn, where X is the number of artifacts you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3768,7 +3966,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "This creature gets +3/+0 as long as it has three or more oil counters on it.\n{T}: Add one mana of any color.\nWhenever this creature becomes tapped, exile target card from a graveyard and put an oil counter on this creature.",
+    "rulesTexts": [
+      "This creature gets +3/+0 as long as it has three or more oil counters on it.\n{T}: Add one mana of any color.\nWhenever this creature becomes tapped, exile target card from a graveyard and put an oil counter on this creature."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3810,7 +4010,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nReach (This creature can block creatures with flying.)",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nReach (This creature can block creatures with flying.)"
+    ],
     "keywords": [
       "reach",
       "menace"
@@ -3851,7 +4053,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nCorrupted — When this creature enters, if an opponent has three or more poison counters, destroy target creature or planeswalker an opponent controls.",
+    "rulesTexts": [
+      "Vigilance\nCorrupted — When this creature enters, if an opponent has three or more poison counters, destroy target creature or planeswalker an opponent controls."
+    ],
     "keywords": [
       "vigilance",
       "corrupted"
@@ -3889,7 +4093,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "You may play lands from your graveyard.\n{T}: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "You may play lands from your graveyard.\n{T}: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3925,7 +4131,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may tap it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "When this creature enters, you may tap it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -3962,7 +4170,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {G}.\n{1}{G}, {T}, Sacrifice this land: Draw a card.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {G}.\n{1}{G}, {T}, Sacrifice this land: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -4005,7 +4215,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Compleated ({U/P} can be paid with {U} or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Until your next turn, up to one target creature gets -3/-0.\n−2: Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card.\n−X: Target player mills three times X cards.",
+    "rulesTexts": [
+      "Compleated ({U/P} can be paid with {U} or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Until your next turn, up to one target creature gets -3/-0.\n−2: Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card.\n−X: Target player mills three times X cards."
+    ],
     "keywords": [
       "mill",
       "compleated"
@@ -4047,7 +4259,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "+2: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.\n−3: Koth deals damage to target creature equal to the number of Mountains you control.\n−7: You get an emblem with \"Whenever a Mountain you control enters, this emblem deals 4 damage to any target.\"",
+    "rulesTexts": [
+      "+2: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.\n−3: Koth deals damage to target creature equal to the number of Mountains you control.\n−7: You get an emblem with \"Whenever a Mountain you control enters, this emblem deals 4 damage to any target.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4080,7 +4294,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Nonland permanents you control are artifacts in addition to their other types. The same is true for permanent spells you control and nonland permanent cards you own that aren't on the battlefield.",
+    "rulesTexts": [
+      "Nonland permanents you control are artifacts in addition to their other types. The same is true for permanent spells you control and nonland permanent cards you own that aren't on the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4112,7 +4328,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -4151,7 +4369,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nAt the beginning of each player's upkeep, this creature deals 2 damage to that player unless they control two or more basic lands.",
+    "rulesTexts": [
+      "Menace\nAt the beginning of each player's upkeep, this creature deals 2 damage to that player unless they control two or more basic lands."
+    ],
     "keywords": [
       "menace"
     ],
@@ -4188,7 +4408,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{B}, Sacrifice this artifact: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{1}, Sacrifice this artifact: Draw a card.\n{2}{B}, Sacrifice this artifact: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4229,7 +4451,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "You may activate abilities of creatures you control as though those creatures had haste.\n+1: Untap up to one target creature.\n−2: Mill three cards, then you may return a creature card with mana value 2 or less from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "You may activate abilities of creatures you control as though those creatures had haste.\n+1: Untap up to one target creature.\n−2: Mill three cards, then you may return a creature card with mana value 2 or less from your graveyard to the battlefield."
+    ],
     "keywords": [
       "mill"
     ],
@@ -4267,7 +4491,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever a source deals damage to this creature, that source's controller sacrifices that many permanents of their choice.",
+    "rulesTexts": [
+      "Trample\nWhenever a source deals damage to this creature, that source's controller sacrifices that many permanents of their choice."
+    ],
     "keywords": [
       "trample"
     ],
@@ -4306,7 +4532,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Flying\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "flying",
       "proliferate"
@@ -4352,7 +4580,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Hexproof\n+2: Each opponent loses 3 life and you gain 3 life.\n0: You draw two cards. Then each opponent may scry 1.\n−3: Exile target creature or enchantment. If it wasn't an Aura, create a token that's a copy of it, except it's a 1/1 white Spirit creature with flying in addition to its other types.",
+    "rulesTexts": [
+      "Hexproof\n+2: Each opponent loses 3 life and you gain 3 life.\n0: You draw two cards. Then each opponent may scry 1.\n−3: Exile target creature or enchantment. If it wasn't an Aura, create a token that's a copy of it, except it's a 1/1 white Spirit creature with flying in addition to its other types."
+    ],
     "keywords": [
       "hexproof",
       "scry"
@@ -4391,7 +4621,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "At the beginning of combat on your turn, put an oil counter on this artifact, then create an X/1 red Phyrexian Horror creature token with trample and haste, where X is the number of oil counters on this artifact. Sacrifice that token at the beginning of the next end step.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, put an oil counter on this artifact, then create an X/1 red Phyrexian Horror creature token with trample and haste, where X is the number of oil counters on this artifact. Sacrifice that token at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4426,7 +4658,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature you control\nEnchanted creature has toxic 2. (Players dealt combat damage by it also get two poison counters.)\nWhen enchanted creature dies, return that card to the battlefield under your control.",
+    "rulesTexts": [
+      "Enchant creature you control\nEnchanted creature has toxic 2. (Players dealt combat damage by it also get two poison counters.)\nWhen enchanted creature dies, return that card to the battlefield under your control."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4465,7 +4699,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Put an oil counter on this creature.\n{T}, Remove an oil counter from this creature: Untap target land.",
+    "rulesTexts": [
+      "{T}: Put an oil counter on this creature.\n{T}, Remove an oil counter from this creature: Untap target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4505,7 +4741,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\n{B/P}{B/P}, Exile three creature cards from your graveyard: Put an indestructible counter on Drivnod. ({B/P} can be paid with either {B} or 2 life.)",
+    "rulesTexts": [
+      "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\n{B/P}{B/P}, Exile three creature cards from your graveyard: Put an indestructible counter on Drivnod. ({B/P} can be paid with either {B} or 2 life.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4540,7 +4778,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.",
+    "rulesTexts": [
+      "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4575,7 +4815,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -4615,7 +4857,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered.\nTrample\nThrun can't be the target of nongreen spells your opponents control or abilities from nongreen sources your opponents control.\nDuring your turn, Thrun has indestructible.",
+    "rulesTexts": [
+      "This spell can't be countered.\nTrample\nThrun can't be the target of nongreen spells your opponents control or abilities from nongreen sources your opponents control.\nDuring your turn, Thrun has indestructible."
+    ],
     "keywords": [
       "trample"
     ],
@@ -4658,7 +4902,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Compleated ({R/G/P} can be paid with {R}, {G}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Add {R}{G}. Spend this mana only to cast creature spells or activate abilities of creatures.\n−1: Create a 3/3 green Phyrexian Beast creature token with toxic 1.\n−4: Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you control as you activate this ability.",
+    "rulesTexts": [
+      "Compleated ({R/G/P} can be paid with {R}, {G}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Add {R}{G}. Spend this mana only to cast creature spells or activate abilities of creatures.\n−1: Create a 3/3 green Phyrexian Beast creature token with toxic 1.\n−4: Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you control as you activate this ability."
+    ],
     "keywords": [
       "compleated"
     ],
@@ -4696,7 +4942,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "{T}: Put an oil counter on The Filigree Sylex.\n{T}, Sacrifice The Filigree Sylex: Destroy each nonland permanent with mana value equal to the number of oil counters on The Filigree Sylex.\n{T}, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target.",
+    "rulesTexts": [
+      "{T}: Put an oil counter on The Filigree Sylex.\n{T}, Sacrifice The Filigree Sylex: Destroy each nonland permanent with mana value equal to the number of oil counters on The Filigree Sylex.\n{T}, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4732,7 +4980,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nTrample",
+    "rulesTexts": [
+      "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nTrample"
+    ],
     "keywords": [
       "affinity",
       "trample"
@@ -4772,7 +5022,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +4/+4 and has trample.\nEquip {5}{G}{G}",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +4/+4 and has trample.\nEquip {5}{G}{G}"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -4814,7 +5066,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Flying\nThis creature enters with two oil counters on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.",
+    "rulesTexts": [
+      "Flying\nThis creature enters with two oil counters on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4851,7 +5105,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -4888,7 +5144,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -4926,7 +5184,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 6 (Players dealt combat damage by this creature also get six poison counters.)\nThis creature can't be blocked by creatures with power 2 or less.",
+    "rulesTexts": [
+      "Toxic 6 (Players dealt combat damage by this creature also get six poison counters.)\nThis creature can't be blocked by creatures with power 2 or less."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -4959,7 +5219,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +0/+2 and has toxic 1. (Players dealt combat damage by equipped creature also get a poison counter.)\nEquip {1}",
+    "rulesTexts": [
+      "Equipped creature gets +0/+2 and has toxic 1. (Players dealt combat damage by equipped creature also get a poison counter.)\nEquip {1}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -4994,7 +5256,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one —\n• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Choose one —\n• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -5035,7 +5299,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, you gain 3 life. Then if you control a permanent with an oil counter on it, draw a card.",
+    "rulesTexts": [
+      "When this creature enters, you gain 3 life. Then if you control a permanent with an oil counter on it, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5067,7 +5333,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -5105,7 +5373,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact, enchantment, or creature with flying. If that permanent's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Destroy target artifact, enchantment, or creature with flying. If that permanent's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -5143,7 +5413,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy up to X target artifacts. If X is 5 or more, for each artifact destroyed this way, create a token that's a copy of it. Those tokens gain haste. Exile them at the beginning of the next end step.",
+    "rulesTexts": [
+      "Destroy up to X target artifacts. If X is 5 or more, for each artifact destroyed this way, create a token that's a copy of it. Those tokens gain haste. Exile them at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5178,7 +5450,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\nWhenever another artifact you control enters, this artifact becomes a 4/4 Phyrexian Eye artifact creature until end of turn.",
+    "rulesTexts": [
+      "When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\nWhenever another artifact you control enters, this artifact becomes a 4/4 Phyrexian Eye artifact creature until end of turn."
+    ],
     "keywords": [
       "scry"
     ],
@@ -5216,7 +5490,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever you cast a noncreature spell, put an oil counter on this creature.\n{T}, Remove an oil counter from this creature: It deals 1 damage to each opponent.",
+    "rulesTexts": [
+      "Haste\nWhenever you cast a noncreature spell, put an oil counter on this creature.\n{T}, Remove an oil counter from this creature: It deals 1 damage to each opponent."
+    ],
     "keywords": [
       "haste"
     ],
@@ -5253,7 +5529,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flash\nAt the beginning of your upkeep, put an oil counter on this artifact.\nInstant and sorcery spells you cast cost {1} less to cast for each oil counter on this artifact.",
+    "rulesTexts": [
+      "Flash\nAt the beginning of your upkeep, put an oil counter on this artifact.\nInstant and sorcery spells you cast cost {1} less to cast for each oil counter on this artifact."
+    ],
     "keywords": [
       "flash"
     ],
@@ -5291,7 +5569,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a noncreature spell, put an oil counter on this creature.\nAs long as this creature has four or more oil counters on it, it gets +2/+0 and can't be blocked.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, put an oil counter on this creature.\nAs long as this creature has four or more oil counters on it, it gets +2/+0 and can't be blocked."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5330,7 +5610,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" (Players dealt combat damage by them also get a poison counter.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" (Players dealt combat damage by them also get a poison counter.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -5370,7 +5652,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak. ({W/P} can be paid with either {W} or 2 life.)",
+    "rulesTexts": [
+      "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak. ({W/P} can be paid with either {W} or 2 life.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5403,7 +5687,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control deals damage equal to its power to target creature you don't control. Each opponent gets a poison counter.",
+    "rulesTexts": [
+      "Target creature you control deals damage equal to its power to target creature you don't control. Each opponent gets a poison counter."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5439,7 +5725,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)\nCorrupted — As long as an opponent has three or more poison counters and this card is in your graveyard, it has flashback {2}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "rulesTexts": [
+      "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)\nCorrupted — As long as an opponent has three or more poison counters and this card is in your graveyard, it has flashback {2}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -5477,7 +5765,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nThis creature enters with four oil counters on it.\nAt the beginning of your upkeep, remove an oil counter from this creature. Then if it has no oil counters on it, you lose the game.\nWhenever a creature an opponent controls dies, its controller loses 2 life.",
+    "rulesTexts": [
+      "Flying\nThis creature enters with four oil counters on it.\nAt the beginning of your upkeep, remove an oil counter from this creature. Then if it has no oil counters on it, you lose the game.\nWhenever a creature an opponent controls dies, its controller loses 2 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5518,7 +5808,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever a creature you control with toxic deals combat damage to a player, that player gets an additional poison counter.\n{1}{B}{G}: Target creature you control with toxic gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever a creature you control with toxic deals combat damage to a player, that player gets an additional poison counter.\n{1}{B}{G}: Target creature you control with toxic gains deathtouch until end of turn."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -5558,7 +5850,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{1}, Sacrifice this creature: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "{1}, Sacrifice this creature: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -5600,7 +5894,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen you proliferate, return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen you proliferate, return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "flying",
       "toxic",
@@ -5640,7 +5936,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has double strike.",
+    "rulesTexts": [
+      "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has double strike."
+    ],
     "keywords": [
       "flying",
       "corrupted"
@@ -5679,7 +5977,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nToxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
+    "rulesTexts": [
+      "Menace\nToxic 2 (Players dealt combat damage by this creature also get two poison counters.)"
+    ],
     "keywords": [
       "toxic",
       "menace"
@@ -5718,7 +6018,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nThis creature gets +2/+0 as long as you control two or more artifacts.",
+    "rulesTexts": [
+      "Vigilance\nThis creature gets +2/+0 as long as you control two or more artifacts."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5756,7 +6058,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you proliferate, each opponent loses 2 life and you gain 2 life.",
+    "rulesTexts": [
+      "Whenever you proliferate, each opponent loses 2 life and you gain 2 life."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -5792,7 +6096,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{W}, Sacrifice this artifact: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{1}, Sacrifice this artifact: Draw a card.\n{2}{W}, Sacrifice this artifact: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5829,7 +6135,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Enchant artifact, creature, or planeswalker\nEnchanted permanent can't attack or block, and its activated abilities can't be activated.",
+    "rulesTexts": [
+      "Enchant artifact, creature, or planeswalker\nEnchanted permanent can't attack or block, and its activated abilities can't be activated."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -5866,7 +6174,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This spell costs {3} more to cast if it targets a creature.\nExile target nonland permanent.",
+    "rulesTexts": [
+      "This spell costs {3} more to cast if it targets a creature.\nExile target nonland permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5904,7 +6214,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "No more than one creature can attack The Eternal Wanderer each combat.\n+1: Exile up to one target artifact or creature. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.\n0: Create a 2/2 white Samurai creature token with double strike.\n−4: For each player, choose a creature that player controls. Each player sacrifices all creatures they control not chosen this way.",
+    "rulesTexts": [
+      "No more than one creature can attack The Eternal Wanderer each combat.\n+1: Exile up to one target artifact or creature. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.\n0: Create a 2/2 white Samurai creature token with double strike.\n−4: For each player, choose a creature that player controls. Each player sacrifices all creatures they control not chosen this way."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5940,7 +6252,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "toxic",
       "proliferate"
@@ -5983,7 +6297,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever Kemba or another Cat you control enters, attach up to one target Equipment you control to that creature.\nEquipped creatures you control get +1/+1.\n{3}{W}{W}: Create a 2/2 white Cat creature token.",
+    "rulesTexts": [
+      "Whenever Kemba or another Cat you control enters, attach up to one target Equipment you control to that creature.\nEquipped creatures you control get +1/+1.\n{3}{W}{W}: Create a 2/2 white Cat creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6019,7 +6335,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "rulesTexts": [
+      "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)"
+    ],
     "keywords": [
       "flying",
       "toxic"
@@ -6061,7 +6379,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying, vigilance\nWhen this creature dies, draw a card.",
+    "rulesTexts": [
+      "Flying, vigilance\nWhen this creature dies, draw a card."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -6097,7 +6417,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +2/+2 until end of turn. Whenever a creature blocks this turn, its controller gets a poison counter.",
+    "rulesTexts": [
+      "Creatures you control get +2/+2 until end of turn. Whenever a creature blocks this turn, its controller gets a poison counter."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6133,7 +6455,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAs long as this creature is equipped, it gets +1/+1.",
+    "rulesTexts": [
+      "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAs long as this creature is equipped, it gets +1/+1."
+    ],
     "keywords": [
       "ward"
     ],
@@ -6168,7 +6492,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike, protection from multicolored\nAt the beginning of your upkeep, sacrifice this creature unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card.",
+    "rulesTexts": [
+      "First strike, protection from multicolored\nAt the beginning of your upkeep, sacrifice this creature unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card."
+    ],
     "keywords": [
       "first strike",
       "protection"
@@ -6203,7 +6529,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}: Put an oil counter on this artifact.\n{T}: Add {C}. Activate only if this artifact has two or more oil counters on it.\n{1}, {T}: Draw a card. Activate only if this artifact has five or more oil counters on it.",
+    "rulesTexts": [
+      "{T}: Put an oil counter on this artifact.\n{T}: Add {C}. Activate only if this artifact has two or more oil counters on it.\n{1}, {T}: Draw a card. Activate only if this artifact has five or more oil counters on it."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -6240,7 +6568,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature with mana value X.\nNahiri's Sacrifice deals X damage divided as you choose among any number of target creatures.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice an artifact or creature with mana value X.\nNahiri's Sacrifice deals X damage divided as you choose among any number of target creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6274,7 +6604,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{U}, Sacrifice this artifact: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{1}, Sacrifice this artifact: Draw a card.\n{2}{U}, Sacrifice this artifact: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6307,7 +6639,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\n{T}, Pay 2 life: Add one mana of any color.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\n{T}, Pay 2 life: Add one mana of any color."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -6347,7 +6681,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}."
+    ],
     "keywords": [],
     "produces": [
       "U",
@@ -6385,7 +6721,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You draw three cards and you lose 3 life.\nCorrupted — Each opponent who has three or more poison counters loses 3 life.",
+    "rulesTexts": [
+      "You draw three cards and you lose 3 life.\nCorrupted — Each opponent who has three or more poison counters loses 3 life."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -6425,7 +6763,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Equipped creature gets +2/+0.\nWhenever equipped creature attacks, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\" (Players dealt combat damage by it also get a poison counter.)\nEquip {2}{W}",
+    "rulesTexts": [
+      "Equipped creature gets +2/+0.\nWhenever equipped creature attacks, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\" (Players dealt combat damage by it also get a poison counter.)\nEquip {2}{W}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6462,7 +6802,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact. If you controlled that artifact, create three 1/1 red Phyrexian Goblin creature tokens.",
+    "rulesTexts": [
+      "Destroy target artifact. If you controlled that artifact, create three 1/1 red Phyrexian Goblin creature tokens."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6500,7 +6842,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature dies, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
+    "rulesTexts": [
+      "When this creature dies, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6539,7 +6883,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this creature enters, you may sacrifice a creature. When you do, destroy target artifact an opponent controls.",
+    "rulesTexts": [
+      "When this creature enters, you may sacrifice a creature. When you do, destroy target artifact an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6575,7 +6921,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "This artifact enters with three oil counters on it.\n{4}, {T}, Remove an oil counter from this artifact: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery.",
+    "rulesTexts": [
+      "This artifact enters with three oil counters on it.\n{4}, {T}, Remove an oil counter from this artifact: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6615,7 +6963,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Trample\nThis creature gets +1/+0 for each oil counter on it.\nWhen this creature enters and whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.",
+    "rulesTexts": [
+      "Trample\nThis creature gets +1/+0 for each oil counter on it.\nWhen this creature enters and whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature."
+    ],
     "keywords": [
       "trample"
     ],
@@ -6655,7 +7005,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nThis creature enters with an oil counter on it.\nWhen this creature dies, draw cards equal to the number of oil counters on it.",
+    "rulesTexts": [
+      "Flying\nThis creature enters with an oil counter on it.\nWhen this creature dies, draw cards equal to the number of oil counters on it."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6692,7 +7044,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Choose one —\n• Each opponent sacrifices a nontoken creature of their choice.\n• Each opponent sacrifices a creature token of their choice.\n• Each opponent sacrifices a planeswalker of their choice.",
+    "rulesTexts": [
+      "Choose one —\n• Each opponent sacrifices a nontoken creature of their choice.\n• Each opponent sacrifices a creature token of their choice.\n• Each opponent sacrifices a planeswalker of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6729,7 +7083,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this creature enters, tap target creature an opponent controls.",
+    "rulesTexts": [
+      "Flash\nWhen this creature enters, tap target creature an opponent controls."
+    ],
     "keywords": [
       "flash"
     ],
@@ -6769,7 +7125,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen this creature enters, return target creature card with mana value 3 or less from your graveyard to your hand.",
+    "rulesTexts": [
+      "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen this creature enters, return target creature card with mana value 3 or less from your graveyard to your hand."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -6807,7 +7165,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with two oil counters on it.\nRemove an oil counter from this creature: Target creature you control gains haste until end of turn.",
+    "rulesTexts": [
+      "This creature enters with two oil counters on it.\nRemove an oil counter from this creature: Target creature you control gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6846,7 +7206,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\"",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\""
+    ],
     "keywords": [
       "toxic"
     ],
@@ -6880,7 +7242,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "{3}, {T}: Search your library for a basic, Sphere, or Locus land card, reveal it, put it into your hand, then shuffle.\n{3}: This artifact becomes a 9/9 Phyrexian Construct artifact creature, loses all abilities, and gains indestructible and toxic 9. Activate only if there are nine or more lands with different names among the basic, Sphere, and Locus lands you control.",
+    "rulesTexts": [
+      "{3}, {T}: Search your library for a basic, Sphere, or Locus land card, reveal it, put it into your hand, then shuffle.\n{3}: This artifact becomes a 9/9 Phyrexian Construct artifact creature, loses all abilities, and gains indestructible and toxic 9. Activate only if there are nine or more lands with different names among the basic, Sphere, and Locus lands you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6915,7 +7279,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Each opponent gets a poison counter.\nDraw a card.",
+    "rulesTexts": [
+      "Each opponent gets a poison counter.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6950,7 +7316,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6988,7 +7356,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "rulesTexts": [
+      "Double strike\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)"
+    ],
     "keywords": [
       "toxic",
       "double strike"
@@ -7024,7 +7394,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "Target creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7064,7 +7436,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWard—{3}, Pay 3 life.\nWhenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn.",
+    "rulesTexts": [
+      "Flying\nWard—{3}, Pay 3 life.\nWhenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn."
+    ],
     "keywords": [
       "flying",
       "ward"
@@ -7110,7 +7484,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "First strike, deathtouch\nWhenever Glissa Sunslayer deals combat damage to a player, choose one —\n• You draw a card and lose 1 life.\n• Destroy target enchantment.\n• Remove up to three counters from target permanent.",
+    "rulesTexts": [
+      "First strike, deathtouch\nWhenever Glissa Sunslayer deals combat damage to a player, choose one —\n• You draw a card and lose 1 life.\n• Destroy target enchantment.\n• Remove up to three counters from target permanent."
+    ],
     "keywords": [
       "first strike",
       "deathtouch"
@@ -7152,7 +7528,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Sacrifice another artifact or creature: This creature gets +2/+2 until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "Sacrifice another artifact or creature: This creature gets +2/+2 until end of turn. Activate only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7189,7 +7567,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCorrupted — Whenever this creature attacks, if an opponent has three or more poison counters, creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Flying\nCorrupted — Whenever this creature attacks, if an opponent has three or more poison counters, creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "flying",
       "corrupted"
@@ -7231,7 +7611,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature enters, it deals X damage to any target, where X is the number of permanents you control with oil counters on them.",
+    "rulesTexts": [
+      "When this creature enters, it deals X damage to any target, where X is the number of permanents you control with oil counters on them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7262,7 +7644,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}: Add one mana of any color.\nCorrupted — Whenever this artifact becomes tapped, each opponent who has three or more poison counters loses 1 life.",
+    "rulesTexts": [
+      "{T}: Add one mana of any color.\nCorrupted — Whenever this artifact becomes tapped, each opponent who has three or more poison counters loses 1 life."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -7307,7 +7691,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance",
+    "rulesTexts": [
+      "Flying, vigilance"
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -7345,7 +7731,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7383,7 +7771,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has deathtouch and lifelink.",
+    "rulesTexts": [
+      "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has deathtouch and lifelink."
+    ],
     "keywords": [
       "flying",
       "corrupted"
@@ -7424,7 +7814,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever another creature you control enters, you may pay {2}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever another creature you control enters, you may pay {2}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "flying",
       "toxic",
@@ -7461,7 +7853,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell unless its controller pays {2}.\nCorrupted — Counter that spell instead if its controller has three or more poison counters.",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {2}.\nCorrupted — Counter that spell instead if its controller has three or more poison counters."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -7501,7 +7895,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature enters, draw a card, then discard a card.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, draw a card, then discard a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7536,7 +7932,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn.\nEquipped creatures you control gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn.\nEquipped creatures you control gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7571,7 +7969,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nWhen this Aura enters, if enchanted creature has toxic, that creature gains hexproof until end of turn.\nEnchanted creature gets +2/+2.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nWhen this Aura enters, if enchanted creature has toxic, that creature gains hexproof until end of turn.\nEnchanted creature gets +2/+2."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -7606,7 +8006,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -7644,7 +8046,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature or planeswalker.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature or planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7679,7 +8083,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Target creature gets -4/-4 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Target creature gets -4/-4 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -7714,7 +8120,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Permanent cards in graveyards can't enter the battlefield.\nPlayers can't cast noncreature spells from graveyards or exile.",
+    "rulesTexts": [
+      "Permanent cards in graveyards can't enter the battlefield.\nPlayers can't cast noncreature spells from graveyards or exile."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7756,7 +8164,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Migloz enters with five oil counters on it.\n{1}, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn.\n{2}, Remove two oil counters from Migloz: It gets +2/+2 until end of turn.\n{3}, Remove three oil counters from Migloz: Destroy target artifact or enchantment.",
+    "rulesTexts": [
+      "Migloz enters with five oil counters on it.\n{1}, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn.\n{2}, Remove two oil counters from Migloz: It gets +2/+2 until end of turn.\n{3}, Remove three oil counters from Migloz: Destroy target artifact or enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7791,7 +8201,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {R}.\n{1}{R}, {T}, Sacrifice this land: Draw a card.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {R}.\n{1}{R}, {T}, Sacrifice this land: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -7829,7 +8241,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with three oil counters on it.\n{T}, Remove an oil counter from this creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "rulesTexts": [
+      "This creature enters with three oil counters on it.\n{T}, Remove an oil counter from this creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -7871,7 +8285,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Other creatures you control get -1/-1.\n{1}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains \"If this creature would leave the battlefield, exile it instead of putting it anywhere else.\" Activate only as a sorcery.",
+    "rulesTexts": [
+      "Other creatures you control get -1/-1.\n{1}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains \"If this creature would leave the battlefield, exile it instead of putting it anywhere else.\" Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7909,7 +8325,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals double that damage to that player or permanent instead.\n{1}{R/P}{R/P}, Discard two cards: Put an indestructible counter on Solphim. ({R/P} can be paid with either {R} or 2 life.)",
+    "rulesTexts": [
+      "If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals double that damage to that player or permanent instead.\n{1}{R/P}{R/P}, Discard two cards: Put an indestructible counter on Solphim. ({R/P} can be paid with either {R} or 2 life.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7946,7 +8364,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature has flying.\nCreatures you control that are equipped get +1/+0.\nEquip {2}{W}",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature has flying.\nCreatures you control that are equipped get +1/+0.\nEquip {2}{W}"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -7988,7 +8408,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.\nWhenever this creature attacks, you may remove two oil counters from it. When you do, target creature can't block this turn.",
+    "rulesTexts": [
+      "Whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.\nWhenever this creature attacks, you may remove two oil counters from it. When you do, target creature can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8025,7 +8447,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Vigilance\nThis Vehicle enters with an oil counter on it.\nRemove an oil counter from this Vehicle: It becomes an artifact creature until end of turn.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Vigilance\nThis Vehicle enters with an oil counter on it.\nRemove an oil counter from this Vehicle: It becomes an artifact creature until end of turn.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "vigilance",
       "crew"
@@ -8064,7 +8488,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a noncreature spell, put an oil counter on this creature.\nRemove an oil counter from this creature: Target creature gains flying until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, put an oil counter on this creature.\nRemove an oil counter from this creature: Target creature gains flying until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8097,7 +8523,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8130,7 +8558,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell. If that spell's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Counter target spell. If that spell's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8170,7 +8600,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This creature enters with two oil counters on it.\n{T}, Remove an oil counter from this creature, Discard a card: Draw a card.",
+    "rulesTexts": [
+      "This creature enters with two oil counters on it.\n{T}, Remove an oil counter from this creature, Discard a card: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8204,7 +8636,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{1}{R}, Sacrifice this artifact: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{1}, Sacrifice this artifact: Draw a card.\n{1}{R}, Sacrifice this artifact: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8239,7 +8673,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw three cards. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Draw three cards. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8276,7 +8712,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nRebel Salvo deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.",
+    "rulesTexts": [
+      "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nRebel Salvo deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn."
+    ],
     "keywords": [
       "affinity"
     ],
@@ -8317,7 +8755,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\"",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\""
+    ],
     "keywords": [
       "toxic"
     ],
@@ -8352,7 +8792,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with three oil counters on it.\nAt the beginning of combat on your turn, you may remove an oil counter from this creature. When you do, target creature you control gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.",
+    "rulesTexts": [
+      "This creature enters with three oil counters on it.\nAt the beginning of combat on your turn, you may remove an oil counter from this creature. When you do, target creature you control gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8388,7 +8830,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Corrupted — When this creature enters, sacrifice a creature unless an opponent has three or more poison counters.",
+    "rulesTexts": [
+      "Corrupted — When this creature enters, sacrifice a creature unless an opponent has three or more poison counters."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -8426,7 +8870,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked.\nWhenever you cast a noncreature spell, put an oil counter on this creature.\nWhenever this creature deals combat damage to a player, you may remove two oil counters from it. If you do, when you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+    "rulesTexts": [
+      "This creature can't be blocked.\nWhenever you cast a noncreature spell, put an oil counter on this creature.\nWhenever this creature deals combat damage to a player, you may remove two oil counters from it. If you do, when you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8465,7 +8911,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, you may return another permanent you control to its owner's hand. If you do, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\"",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, you may return another permanent you control to its owner's hand. If you do, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\""
+    ],
     "keywords": [
       "toxic"
     ],
@@ -8503,7 +8951,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever a creature you control becomes the target of a spell, target opponent gets a poison counter.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever a creature you control becomes the target of a spell, target opponent gets a poison counter."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -8537,7 +8987,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}, Pay 1 life: Destroy target permanent you own.\n{T}, Pay 2 life: Add one mana of any color.\n{T}, Pay 3 life: Proliferate.\n{T}, Pay 4 life: Draw a card.\n{5}: Untap this artifact.",
+    "rulesTexts": [
+      "{T}, Pay 1 life: Destroy target permanent you own.\n{T}, Pay 2 life: Add one mana of any color.\n{T}, Pay 3 life: Proliferate.\n{T}, Pay 4 life: Draw a card.\n{5}: Untap this artifact."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8580,7 +9032,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Choose one or both —\n• Molten Rebuke deals 5 damage to target creature or planeswalker.\n• Destroy target Equipment.",
+    "rulesTexts": [
+      "Choose one or both —\n• Molten Rebuke deals 5 damage to target creature or planeswalker.\n• Destroy target Equipment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8613,7 +9067,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target nonland permanent to its owner's hand. If that permanent had mana value 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Return target nonland permanent to its owner's hand. If that permanent had mana value 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8658,7 +9114,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When Ezuri enters, you may pay {3}. If you do, proliferate twice.\nWhenever you proliferate, draw a card.",
+    "rulesTexts": [
+      "When Ezuri enters, you may pay {3}. If you do, proliferate twice.\nWhenever you proliferate, draw a card."
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -8693,7 +9151,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This land enters with two oil counters on it.\n{T}: Add {C}.\n{T}, Remove an oil counter from this land: Put an oil counter on target artifact or creature you control. Activate only as a sorcery.",
+    "rulesTexts": [
+      "This land enters with two oil counters on it.\n{T}: Add {C}.\n{T}, Remove an oil counter from this land: Put an oil counter on target artifact or creature you control. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -8728,7 +9188,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+1 until end of turn.\nExile the top card of your library. Until the end of your next turn, you may play that card.",
+    "rulesTexts": [
+      "Target creature gets +3/+1 until end of turn.\nExile the top card of your library. Until the end of your next turn, you may play that card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8759,7 +9221,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As long as this artifact is on the battlefield, it has all activated abilities of all land cards in all graveyards.",
+    "rulesTexts": [
+      "As long as this artifact is on the battlefield, it has all activated abilities of all land cards in all graveyards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8795,7 +9259,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach, trample\nThis creature can't be blocked by creatures with flying.",
+    "rulesTexts": [
+      "Reach, trample\nThis creature can't be blocked by creatures with flying."
+    ],
     "keywords": [
       "reach",
       "trample"
@@ -8833,7 +9299,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This artifact enters with four oil counters on it.\n{T}, Remove an oil counter from this artifact: Tap target artifact or creature.",
+    "rulesTexts": [
+      "This artifact enters with four oil counters on it.\n{T}, Remove an oil counter from this artifact: Tap target artifact or creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8868,7 +9336,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nEnchanted creature doesn't untap during its controller's untap step.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, tap enchanted creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nEnchanted creature doesn't untap during its controller's untap step."
+    ],
     "keywords": [
       "enchant",
       "proliferate"
@@ -8907,7 +9377,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with four oil counters on it.\nThis creature has trample as long as it has two or fewer oil counters on it. Otherwise, it has hexproof.\nAt the beginning of your upkeep, remove an oil counter from this creature. Then if it has no oil counters on it, sacrifice it.",
+    "rulesTexts": [
+      "This creature enters with four oil counters on it.\nThis creature has trample as long as it has two or fewer oil counters on it. Otherwise, it has hexproof.\nAt the beginning of your upkeep, remove an oil counter from this creature. Then if it has no oil counters on it, sacrifice it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8943,7 +9415,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 3 (Players dealt combat damage by this creature also get three poison counters.)\nWhen this creature enters, you may pay {1}{G}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Toxic 3 (Players dealt combat damage by this creature also get three poison counters.)\nWhen this creature enters, you may pay {1}{G}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "toxic",
       "proliferate"
@@ -8983,7 +9457,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +1/-1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +1/-1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -9022,7 +9498,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+    "rulesTexts": [
+      "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)"
+    ],
     "keywords": [
       "toxic",
       "deathtouch"
@@ -9064,7 +9542,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Corrupted — Sacrifice an artifact or creature: Draw a card. Activate only if an opponent has three or more poison counters and only once each turn.",
+    "rulesTexts": [
+      "Corrupted — Sacrifice an artifact or creature: Draw a card. Activate only if an opponent has three or more poison counters and only once each turn."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -9100,7 +9580,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Juggernauts you control attack each combat if able.\nJuggernauts you control can't be blocked by Walls.\nOther creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types.",
+    "rulesTexts": [
+      "Juggernauts you control attack each combat if able.\nJuggernauts you control can't be blocked by Walls.\nOther creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9143,7 +9625,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "If you would get one or more poison counters, instead you get one poison counter and you can't get additional poison counters this turn.\nExile Melira: Choose another target creature or artifact. When it's put into a graveyard this turn, return that card to the battlefield under its owner's control.",
+    "rulesTexts": [
+      "If you would get one or more poison counters, instead you get one poison counter and you can't get additional poison counters this turn.\nExile Melira: Choose another target creature or artifact. When it's put into a graveyard this turn, return that card to the battlefield under its owner's control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9179,7 +9663,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nIf damage would be dealt to this creature, prevent that damage. When damage is prevented this way, this creature deals that much damage to any other target.",
+    "rulesTexts": [
+      "Flying\nIf damage would be dealt to this creature, prevent that damage. When damage is prevented this way, this creature deals that much damage to any other target."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9217,7 +9703,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, each opponent discards a card. For each opponent who can't, you gain 4 life.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, each opponent discards a card. For each opponent who can't, you gain 4 life."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -9252,7 +9740,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "proliferate"
     ],
@@ -9291,7 +9781,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
+    "rulesTexts": [
+      "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)"
+    ],
     "keywords": [
       "toxic"
     ],
@@ -9326,7 +9818,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a creature you control enters, if it has one or more oil counters on it, put an oil counter on it.\nCreatures you control with oil counters on them get +1/+1.",
+    "rulesTexts": [
+      "Whenever a creature you control enters, if it has one or more oil counters on it, put an oil counter on it.\nCreatures you control with oil counters on them get +1/+1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9361,7 +9855,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Up to one target creature gets -X/-X until end of turn. If X is 5 or more, return a creature card with mana value X or less from your graveyard to the battlefield tapped.",
+    "rulesTexts": [
+      "Up to one target creature gets -X/-X until end of turn. If X is 5 or more, return a creature card with mana value X or less from your graveyard to the battlefield tapped."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9403,7 +9899,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Trample\nWhenever Jor Kadeen attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card.",
+    "rulesTexts": [
+      "Trample\nWhenever Jor Kadeen attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card."
+    ],
     "keywords": [
       "trample"
     ],
@@ -9441,7 +9939,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{W}, {T}: Tap target creature.\nCorrupted — {W}, {T}: Tap target creature. Activate only if an opponent has three or more poison counters.",
+    "rulesTexts": [
+      "{3}{W}, {T}: Tap target creature.\nCorrupted — {W}, {T}: Tap target creature. Activate only if an opponent has three or more poison counters."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -9481,7 +9981,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {1} less to cast for each permanent you control with oil counters on it.\nVigilance\nWhen this creature enters, it deals 1 damage to each creature your opponents control.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast for each permanent you control with oil counters on it.\nVigilance\nWhen this creature enters, it deals 1 damage to each creature your opponents control."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -9519,7 +10021,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever a creature you control dies, scry 1 and put an oil counter on this artifact.\n{1}, {T}, Remove two oil counters from this artifact: Draw a card.",
+    "rulesTexts": [
+      "Whenever a creature you control dies, scry 1 and put an oil counter on this artifact.\n{1}, {T}, Remove two oil counters from this artifact: Draw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9558,7 +10062,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+0.\nEquip {2}{R} ({2}{R}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+0.\nEquip {2}{R} ({2}{R}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -9599,7 +10105,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, put up to one target instant or sorcery card from your graveyard on top of your library.",
+    "rulesTexts": [
+      "When this creature enters, put up to one target instant or sorcery card from your graveyard on top of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9637,7 +10145,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nOther Rats you control have toxic 1.\nWhen Karumonix enters, look at the top five cards of your library. You may reveal any number of Rat cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nOther Rats you control have toxic 1.\nWhen Karumonix enters, look at the top five cards of your library. You may reveal any number of Rat cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [
       "toxic"
     ],
@@ -9677,7 +10187,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nIf you would proliferate, proliferate twice instead.\n{1}{U/P}{U/P}, Remove three counters from among other artifacts, creatures, and planeswalkers you control: Put an indestructible counter on Tekuthal. ({U/P} can be paid with either {U} or 2 life.)",
+    "rulesTexts": [
+      "Flying\nIf you would proliferate, proliferate twice instead.\n{1}{U/P}{U/P}, Remove three counters from among other artifacts, creatures, and planeswalkers you control: Put an indestructible counter on Tekuthal. ({U/P} can be paid with either {U} or 2 life.)"
+    ],
     "keywords": [
       "flying",
       "proliferate"
@@ -9717,7 +10229,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nDuring your turn, equipped creature has first strike and trample.\nEquip {2}{R}",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nDuring your turn, equipped creature has first strike and trample.\nEquip {2}{R}"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -9757,7 +10271,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +0/+1.\nEquip {1}{W} ({1}{W}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +0/+1.\nEquip {1}{W} ({1}{W}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "for mirrodin!",
       "equip"
@@ -9796,7 +10312,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nThis creature enters with an oil counter on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever you cast a noncreature spell, put an oil counter on this creature.",
+    "rulesTexts": [
+      "Flying\nThis creature enters with an oil counter on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever you cast a noncreature spell, put an oil counter on this creature."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9838,7 +10356,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Compleated ({B/P} can be paid with {B} or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n0: You draw a card and lose 1 life. Proliferate.\n−2: Target creature becomes a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color\" and loses all other card types and abilities.\n−9: If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.",
+    "rulesTexts": [
+      "Compleated ({B/P} can be paid with {B} or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n0: You draw a card and lose 1 life. Proliferate.\n−2: Target creature becomes a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color\" and loses all other card types and abilities.\n−9: If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference."
+    ],
     "keywords": [
       "proliferate",
       "compleated"
@@ -9885,7 +10405,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you cast a noncreature spell, put an oil counter on this creature.\n{6}{R}, Sacrifice this creature: Discard your hand, then draw four cards. This ability costs {1} less to activate for each oil counter on this creature.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, put an oil counter on this creature.\n{6}{R}, Sacrifice this creature: Discard your hand, then draw four cards. This ability costs {1} less to activate for each oil counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9921,7 +10443,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of permanents you control with oil counters on them.",
+    "rulesTexts": [
+      "Trample\nWhenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of permanents you control with oil counters on them."
+    ],
     "keywords": [
       "trample"
     ],
@@ -9959,7 +10483,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters with two oil counters on it.\nWhenever this creature attacks, you may remove an oil counter from it. If you do, untap it and it gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "This creature enters with two oil counters on it.\nWhenever this creature attacks, you may remove an oil counter from it. If you do, untap it and it gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10002,7 +10528,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nAt the beginning of combat on your turn, the next time target creature would deal combat damage to one or more players this combat, prevent that damage. If damage is prevented this way, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\"",
+    "rulesTexts": [
+      "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nAt the beginning of combat on your turn, the next time target creature would deal combat damage to one or more players this combat, prevent that damage. If damage is prevented this way, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\""
+    ],
     "keywords": [
       "battle cry"
     ],
@@ -10039,7 +10567,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature if it has mana value 3 or less.\nCorrupted — Exile that creature instead if its controller has three or more poison counters.",
+    "rulesTexts": [
+      "Exile target creature if it has mana value 3 or less.\nCorrupted — Exile that creature instead if its controller has three or more poison counters."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -10077,7 +10607,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\n{1}{G}, Sacrifice this creature: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "rulesTexts": [
+      "Reach\n{1}{G}, Sacrifice this creature: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+    ],
     "keywords": [
       "reach",
       "proliferate"
@@ -10121,7 +10653,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever this creature or another artifact you control enters, you may draw a card. If you do, discard a card.\n{2}: Put target card from your graveyard on the bottom of your library.",
+    "rulesTexts": [
+      "Whenever this creature or another artifact you control enters, you may draw a card. If you do, discard a card.\n{2}: Put target card from your graveyard on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10156,7 +10690,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Corrupted — This spell costs {2} less to cast if an opponent has three or more poison counters.\nDraw two cards.",
+    "rulesTexts": [
+      "Corrupted — This spell costs {2} less to cast if an opponent has three or more poison counters.\nDraw two cards."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -10196,7 +10732,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nAt the beginning of each combat, double the power and toughness of each creature you control until end of turn.\n{G/P}{G/P}, Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ({G/P} can be paid with either {G} or 2 life.)",
+    "rulesTexts": [
+      "Reach\nAt the beginning of each combat, double the power and toughness of each creature you control until end of turn.\n{G/P}{G/P}, Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ({G/P} can be paid with either {G} or 2 life.)"
+    ],
     "keywords": [
       "reach"
     ],
@@ -10234,7 +10772,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "At the beginning of your upkeep, you lose 1 life and create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\"\nCorrupted — As long as an opponent has three or more poison counters, creatures you control with toxic have lifelink.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you lose 1 life and create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and \"This token can't block.\"\nCorrupted — As long as an opponent has three or more poison counters, creatures you control with toxic have lifelink."
+    ],
     "keywords": [
       "corrupted"
     ],
@@ -10272,7 +10812,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)",
+    "rulesTexts": [
+      "You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [

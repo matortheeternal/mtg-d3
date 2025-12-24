@@ -27,7 +27,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace, ward {2}, haste\nWhenever Kylox attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs.",
+    "rulesTexts": [
+      "Menace, ward {2}, haste\nWhenever Kylox attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs."
+    ],
     "keywords": [
       "haste",
       "menace",
@@ -68,7 +70,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever one or more creature cards leave your graveyard, this creature gets +1/+0 and gains menace and lifelink until end of turn.",
+    "rulesTexts": [
+      "Whenever one or more creature cards leave your graveyard, this creature gets +1/+0 and gains menace and lifelink until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -104,7 +108,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "Trample\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "landcycling",
       "trample",
@@ -145,7 +151,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature you control with power 2 or less enters, target creature you control gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Whenever another creature you control with power 2 or less enters, target creature you control gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -180,7 +188,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, target creature you control other than enchanted creature gets +2/+2 and gains vigilance until end of turn.\nEnchanted creature gets +2/+2 and has vigilance.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, target creature you control other than enchanted creature gets +2/+2 and gains vigilance until end of turn.\nEnchanted creature gets +2/+2 and has vigilance."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -218,7 +228,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWard—Sacrifice a creature.\nWhenever a creature dies, target opponent loses 2 life and you gain 2 life.",
+    "rulesTexts": [
+      "Flying\nWard—Sacrifice a creature.\nWhenever a creature dies, target opponent loses 2 life and you gain 2 life."
+    ],
     "keywords": [
       "flying",
       "ward"
@@ -253,7 +265,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}: Until end of turn, you may look at face-down creatures you don't control any time.\nDisguise {5} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "{2}: Until end of turn, you may look at face-down creatures you don't control any time.\nDisguise {5} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise"
     ],
@@ -295,7 +309,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever this creature is dealt 3 or more damage, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Whenever this creature is dealt 3 or more damage, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -332,7 +348,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Case enters, choose target creature you don't control. Each creature you control deals 1 damage to that creature.\nTo solve — Three or more creatures attacked this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Creatures you control get +1/+0.",
+    "rulesTexts": [
+      "When this Case enters, choose target creature you don't control. Each creature you control deals 1 damage to that creature.\nTo solve — Three or more creatures attacked this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Creatures you control get +1/+0."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -374,7 +392,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Lifelink\nWhen Tolsimir enters, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.\nWhenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able.",
+    "rulesTexts": [
+      "Lifelink\nWhen Tolsimir enters, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.\nWhenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able."
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -411,7 +431,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may play an additional land on each of your turns.\nTo solve — You control seven or more lands. (If unsolved, solve at the beginning of your end step.)\nSolved — You may look at the top card of your library any time, and you may play lands and cast creature and enchantment spells from the top of your library.",
+    "rulesTexts": [
+      "You may play an additional land on each of your turns.\nTo solve — You control seven or more lands. (If unsolved, solve at the beginning of your end step.)\nSolved — You may look at the top card of your library any time, and you may play lands and cast creature and enchantment spells from the top of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -451,7 +473,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -490,7 +514,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards. Then you may discard two cards. When you do, Ill-Timed Explosion deals X damage to each creature, where X is the greatest mana value among cards discarded this way.",
+    "rulesTexts": [
+      "Draw two cards. Then you may discard two cards. When you do, Ill-Timed Explosion deals X damage to each creature, where X is the greatest mana value among cards discarded this way."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -523,7 +549,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "The owner of target spell or nonland permanent puts it on their choice of the top or bottom of their library.",
+    "rulesTexts": [
+      "The owner of target spell or nonland permanent puts it on their choice of the top or bottom of their library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -561,7 +589,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Creature tokens you control have \"{T}: Add one mana of any color.\"\nWhenever one or more creature cards leave your graveyard, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control.",
+    "rulesTexts": [
+      "Creature tokens you control have \"{T}: Add one mana of any color.\"\nWhenever one or more creature cards leave your graveyard, create a 0/1 green Plant creature token, then put a +1/+1 counter on each Plant you control."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -607,7 +637,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Reach\nWhen this creature enters, destroy target token an opponent controls.",
+    "rulesTexts": [
+      "Reach\nWhen this creature enters, destroy target token an opponent controls."
+    ],
     "keywords": [
       "reach"
     ],
@@ -645,7 +677,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{2}{B}: If this creature is suspected, put a +1/+1 counter on it. Otherwise, suspect it. (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "{2}{B}: If this creature is suspected, put a +1/+1 counter on it. Otherwise, suspect it. (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [
       "suspect"
     ],
@@ -682,7 +716,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Equipment enters, cloak the top card of your library, then attach this Equipment to it. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)\nEquipped creature gets +1/+0 and can't be blocked.\n{1}{U}: Return this Equipment to its owner's hand.",
+    "rulesTexts": [
+      "When this Equipment enters, cloak the top card of your library, then attach this Equipment to it. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)\nEquipped creature gets +1/+0 and can't be blocked.\n{1}{U}: Return this Equipment to its owner's hand."
+    ],
     "keywords": [
       "cloak"
     ],
@@ -721,7 +757,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying, trample\nWhenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)",
+    "rulesTexts": [
+      "Flying, trample\nWhenever this creature deals combat damage to a player, you may collect evidence X. When you do, this creature deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)"
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -764,7 +802,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature dies, it deals 2 damage to any target.\nDisguise {2}{B/R}{B/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "When this creature dies, it deals 2 damage to any target.\nDisguise {2}{B/R}{B/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise"
     ],
@@ -803,7 +843,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Target creature gains deathtouch and lifelink until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Target creature gains deathtouch and lifelink until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -842,7 +884,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, trample\nWhen this creature enters, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Flying, trample\nWhen this creature enters, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -882,7 +926,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the card's mana value is 1 or less, create a 1/1 white and black Spirit creature token with flying.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a nonland card from it. Exile that card. If the card's mana value is 1 or less, create a 1/1 white and black Spirit creature token with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -918,7 +964,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhenever this creature or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.",
+    "rulesTexts": [
+      "Disguise {R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhenever this creature or another creature you control is turned face up, that creature deals damage equal to its power to each opponent."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -958,7 +1006,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{T}: Untap another target permanent you control.\n{T}, Collect evidence 3: Tap target creature you don't control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",
+    "rulesTexts": [
+      "{T}: Untap another target permanent you control.\n{T}, Collect evidence 3: Tap target creature you don't control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)"
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -998,7 +1048,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever you sacrifice an artifact, put a +1/+1 counter on this creature and add {R}.",
+    "rulesTexts": [
+      "Whenever you sacrifice an artifact, put a +1/+1 counter on this creature and add {R}."
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1038,7 +1090,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 2/2 white and blue Detective creature token.\n{3}, {T}: Target Detective you control gets +2/+0 and gains vigilance until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this creature enters, create a 2/2 white and blue Detective creature token.\n{3}, {T}: Target Detective you control gets +2/+0 and gains vigilance until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1075,7 +1129,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Instant and sorcery spells you cast cost {1} less to cast.\nTo solve — You've cast four or more instant and sorcery spells this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Whenever you cast an instant or sorcery spell, draw a card.",
+    "rulesTexts": [
+      "Instant and sorcery spells you cast cost {1} less to cast.\nTo solve — You've cast four or more instant and sorcery spells this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Whenever you cast an instant or sorcery spell, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1112,7 +1168,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {U} or {R}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {U} or {R}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -1156,7 +1214,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever this creature attacks, you may sacrifice an artifact or discard a card. If you do, draw a card and this creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature attacks, you may sacrifice an artifact or discard a card. If you do, draw a card and this creature gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1194,7 +1254,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\n{3}{G}, Sacrifice this creature: Return all land cards from your graveyard to the battlefield tapped.",
+    "rulesTexts": [
+      "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\n{3}{G}, Sacrifice this creature: Return all land cards from your graveyard to the battlefield tapped."
+    ],
     "keywords": [
       "mill"
     ],
@@ -1234,7 +1296,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Indestructible\nWhen this creature enters, suspect it. (It has menace and can't block.)\nWhenever this creature deals combat damage to a player, you draw a card and you lose 1 life.\nWhenever this creature is dealt damage, target opponent loses that much life.",
+    "rulesTexts": [
+      "Indestructible\nWhen this creature enters, suspect it. (It has menace and can't block.)\nWhenever this creature deals combat damage to a player, you draw a card and you lose 1 life.\nWhenever this creature is dealt damage, target opponent loses that much life."
+    ],
     "keywords": [
       "indestructible",
       "suspect"
@@ -1274,7 +1338,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Target creature gets +3/+0 and gains first strike until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Target creature gets +3/+0 and gains first strike until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -1313,7 +1379,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Counter target spell unless its controller pays {3}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {3}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1346,7 +1414,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature.",
+    "rulesTexts": [
+      "Destroy target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1382,7 +1452,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Create a 0/0 green Ooze creature token with trample. Put X +1/+1 counters on it, where X is two plus the total number of cards you own in exile and in your graveyard that are Oozes or are named Slime Against Humanity.\nA deck can have any number of cards named Slime Against Humanity.",
+    "rulesTexts": [
+      "Create a 0/0 green Ooze creature token with trample. Put X +1/+1 counters on it, where X is two plus the total number of cards you own in exile and in your graveyard that are Oozes or are named Slime Against Humanity.\nA deck can have any number of cards named Slime Against Humanity."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1418,7 +1490,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink\nWhenever another Detective you control enters and whenever a Detective you control is turned face up, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Flying, lifelink\nWhenever another Detective you control enters and whenever a Detective you control is turned face up, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "flying",
       "lifelink"
@@ -1452,7 +1526,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This land enters tapped.\nWhen this land enters, sacrifice it unless you tap an untapped artifact or land you control.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "This land enters tapped.\nWhen this land enters, sacrifice it unless you tap an untapped artifact or land you control.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1493,7 +1569,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "{1}: Add one mana of any color. Activate only once each turn.\n{2}, Exile this card from your graveyard: Exile target card from a graveyard.",
+    "rulesTexts": [
+      "{1}: Add one mana of any color. Activate only once each turn.\n{2}, Exile this card from your graveyard: Exile target card from a graveyard."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1539,7 +1617,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nDisguise {1}{U/B}{U/B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, look at the top two cards of your library. Put one into your hand and the other into your graveyard.",
+    "rulesTexts": [
+      "Flying\nDisguise {1}{U/B}{U/B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, look at the top two cards of your library. Put one into your hand and the other into your graveyard."
+    ],
     "keywords": [
       "flying",
       "disguise"
@@ -1580,7 +1660,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Return up to one target artifact card, up to one target land card, and up to one target non-Aura enchantment card from your graveyard to the battlefield. They are 5/5 Elemental creatures in addition to their other types.",
+    "rulesTexts": [
+      "Return up to one target artifact card, up to one target land card, and up to one target non-Aura enchantment card from your graveyard to the battlefield. They are 5/5 Elemental creatures in addition to their other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1620,7 +1702,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -1660,7 +1744,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Torch the Witness deals twice X damage to target creature. If excess damage was dealt to that creature this way, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Torch the Witness deals twice X damage to target creature. If excess damage was dealt to that creature this way, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -1697,7 +1783,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nEach opponent sacrifices a creature of their choice. If evidence was collected, instead each opponent sacrifices a creature with the greatest power among creatures they control.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nEach opponent sacrifices a creature of their choice. If evidence was collected, instead each opponent sacrifices a creature with the greatest power among creatures they control."
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -1738,7 +1826,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this Case enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nTo solve — You control three or more artifacts. (If unsolved, solve at the beginning of your end step.)\nSolved — {2}{U}, Sacrifice this Case: Put four +1/+1 counters on target noncreature artifact. It becomes a 0/0 Bird creature with flying in addition to its other types.",
+    "rulesTexts": [
+      "When this Case enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nTo solve — You control three or more artifacts. (If unsolved, solve at the beginning of your end step.)\nSolved — {2}{U}, Sacrifice this Case: Put four +1/+1 counters on target noncreature artifact. It becomes a 0/0 Bird creature with flying in addition to its other types."
+    ],
     "keywords": [
       "investigate"
     ],
@@ -1776,7 +1866,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked by creatures with power 3 or greater.\nDisguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, return another target creature to its owner's hand.",
+    "rulesTexts": [
+      "This creature can't be blocked by creatures with power 3 or greater.\nDisguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, return another target creature to its owner's hand."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -1818,7 +1910,10 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Put a +1/+1 counter on each attacking creature you control.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on each attacking creature you control.",
+      "Create three 1/1 colorless Thopter artifact creature tokens with flying. Surveil 2."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1852,7 +1947,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell unless its controller pays {2}.\nSuspect up to one target creature. (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "Counter target spell unless its controller pays {2}.\nSuspect up to one target creature. (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1890,7 +1987,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Defender\nWhenever you draw your second card each turn, this creature loses defender and gains vigilance until end of turn.",
+    "rulesTexts": [
+      "Defender\nWhenever you draw your second card each turn, this creature loses defender and gains vigilance until end of turn."
+    ],
     "keywords": [
       "defender"
     ],
@@ -1931,7 +2030,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Whenever this creature enters or attacks, you may sacrifice an artifact. If you do, draw a card.",
+    "rulesTexts": [
+      "Whenever this creature enters or attacks, you may sacrifice an artifact. If you do, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1971,7 +2072,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen you sacrifice a Clue, return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Flying\nWhen you sacrifice a Clue, return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2013,7 +2116,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Flying, vigilance\nAt the beginning of your upkeep, investigate once for each opponent who has more cards in hand than you. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Flying, vigilance\nAt the beginning of your upkeep, investigate once for each opponent who has more cards in hand than you. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "flying",
       "investigate",
@@ -2052,7 +2157,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Shock deals 2 damage to any target.",
+    "rulesTexts": [
+      "Shock deals 2 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2087,7 +2194,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 6. This spell costs {2} less to cast if evidence was collected. (To collect evidence 6, exile cards with total mana value 6 or greater from your graveyard.)\nTarget creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 6. This spell costs {2} less to cast if evidence was collected. (To collect evidence 6, exile cards with total mana value 6 or greater from your graveyard.)\nTarget creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control."
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -2126,7 +2235,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this Case enters, it deals 3 damage to target creature an opponent controls.\nTo solve — Three or more sources you controlled dealt damage this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Sacrifice this Case: Exile the top three cards of your library. Choose one of them. You may play that card this turn.",
+    "rulesTexts": [
+      "When this Case enters, it deals 3 damage to target creature an opponent controls.\nTo solve — Three or more sources you controlled dealt damage this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Sacrifice this Case: Exile the top three cards of your library. Choose one of them. You may play that card this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2157,7 +2268,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Case enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nTo solve — There are five colors among permanents you control. (If unsolved, solve at the beginning of your end step.)\nSolved — At the beginning of combat on your turn, target creature you control gains flying, double strike, and vigilance until end of turn.",
+    "rulesTexts": [
+      "When this Case enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nTo solve — There are five colors among permanents you control. (If unsolved, solve at the beginning of your end step.)\nSolved — At the beginning of combat on your turn, target creature you control gains flying, double strike, and vigilance until end of turn."
+    ],
     "keywords": [
       "double strike"
     ],
@@ -2194,7 +2307,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flash\nWhen this enchantment enters, put an impostor counter on each creature you control.\nWhenever a creature you control with an impostor counter on it dies, exile it. Return up to one other target creature card from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Flash\nWhen this enchantment enters, put an impostor counter on each creature you control.\nWhenever a creature you control with an impostor counter on it dies, exile it. Return up to one other target creature card from your graveyard to the battlefield."
+    ],
     "keywords": [
       "flash"
     ],
@@ -2233,7 +2348,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {U} or {B}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {U} or {B}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -2276,7 +2393,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "When this enchantment enters, it deals 3 damage to target creature an opponent controls.\nWhenever one or more creatures die, mill a card and put a bloodstain counter on this enchantment. Then sacrifice it if it has five or more bloodstain counters on it. When you do, return target creature card from your graveyard to your hand.",
+    "rulesTexts": [
+      "When this enchantment enters, it deals 3 damage to target creature an opponent controls.\nWhenever one or more creatures die, mill a card and put a bloodstain counter on this enchantment. Then sacrifice it if it has five or more bloodstain counters on it. When you do, return target creature card from your graveyard to your hand."
+    ],
     "keywords": [
       "mill"
     ],
@@ -2317,7 +2436,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this artifact enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only if you've sacrificed an artifact this turn.",
+    "rulesTexts": [
+      "When this artifact enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only if you've sacrificed an artifact this turn."
+    ],
     "keywords": [
       "investigate"
     ],
@@ -2354,7 +2475,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this enchantment enters, create a 1/1 white Human creature token, a 1/1 blue Merfolk creature token, and a 1/1 red Goblin creature token. Then secretly choose Human, Merfolk, or Goblin.\nSacrifice this enchantment, Reveal the creature type you chose: If target attacking creature token is the chosen type, put three +1/+1 counters on it and it gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "When this enchantment enters, create a 1/1 white Human creature token, a 1/1 blue Merfolk creature token, and a 1/1 red Goblin creature token. Then secretly choose Human, Merfolk, or Goblin.\nSacrifice this enchantment, Reveal the creature type you chose: If target attacking creature token is the chosen type, put three +1/+1 counters on it and it gains deathtouch until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2389,7 +2512,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\n{U}{U}: Shuffle enchanted creature into its owner's library.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\n{U}{U}: Shuffle enchanted creature into its owner's library."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -2427,7 +2552,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters or is turned face up, target creature blocks this turn if able.\nDisguise {4}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "When this creature enters or is turned face up, target creature blocks this turn if able.\nDisguise {4}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise"
     ],
@@ -2466,7 +2593,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Enchant creature\nWhen this Aura enters, suspect enchanted creature. (It has menace and can't block.)\nEnchanted creature gets +1/+1.\n{2}{R}: Return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, suspect enchanted creature. (It has menace and can't block.)\nEnchanted creature gets +1/+1.\n{2}{R}: Return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -2505,7 +2634,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nYou control enchanted creature.\nEnchanted creature has base power and toughness 1/1, has deathtouch, and is an Assassin in addition to its other types.",
+    "rulesTexts": [
+      "Enchant creature\nYou control enchanted creature.\nEnchanted creature has base power and toughness 1/1, has deathtouch, and is an Assassin in addition to its other types."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -2545,7 +2676,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, suspect up to one other target creature you control. (A suspected creature has menace and can't block.)\nWhenever one or more suspected creatures you control attack, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, suspect up to one other target creature you control. (A suspected creature has menace and can't block.)\nWhenever one or more suspected creatures you control attack, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -2584,7 +2717,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature dies, you may exile it and collect evidence 4. If you do, return this card to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature dies, you may exile it and collect evidence 4. If you do, return this card to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)"
+    ],
     "keywords": [
       "flying",
       "collect evidence"
@@ -2620,7 +2755,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered. (This includes by the ward ability.)\nTarget creature gets -X/-X until end of turn.",
+    "rulesTexts": [
+      "This spell can't be countered. (This includes by the ward ability.)\nTarget creature gets -X/-X until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2653,7 +2790,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one or both —\n• Turn target face-down creature face up.\n• Exile any number of face-up creatures you control with disguise in a face-down pile, shuffle that pile, then cloak them. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)",
+    "rulesTexts": [
+      "Choose one or both —\n• Turn target face-down creature face up.\n• Exile any number of face-up creatures you control with disguise in a face-down pile, shuffle that pile, then cloak them. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)"
+    ],
     "keywords": [
       "cloak"
     ],
@@ -2697,7 +2836,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Other creatures you control have haste.\nWhenever one or more face-down creatures you control deal combat damage to a player, draw a card.\nWhenever a face-down creature you control dies, return it to the battlefield face down under its owner's control if it's a permanent card, then turn it face up.",
+    "rulesTexts": [
+      "Other creatures you control have haste.\nWhenever one or more face-down creatures you control deal combat damage to a player, draw a card.\nWhenever a face-down creature you control dies, return it to the battlefield face down under its owner's control if it's a permanent card, then turn it face up."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2736,7 +2877,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever a Detective you control enters or is turned face up, put a +1/+1 counter on it.\nTo solve — You control three or more Detectives. (If unsolved, solve at the beginning of your end step.)\nSolved — If one or more tokens would be created under your control, those tokens plus a Clue token are created instead. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Whenever a Detective you control enters or is turned face up, put a +1/+1 counter on it.\nTo solve — You control three or more Detectives. (If unsolved, solve at the beginning of your end step.)\nSolved — If one or more tokens would be created under your control, those tokens plus a Clue token are created instead. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2775,7 +2918,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{G}: Target creature gains deathtouch until end of turn.\n{G/W}: Target creature gains vigilance until end of turn.\n{2}{W}: Target creature gains double strike until end of turn.",
+    "rulesTexts": [
+      "{1}{G}: Target creature gains deathtouch until end of turn.\n{G/W}: Target creature gains vigilance until end of turn.\n{2}{W}: Target creature gains double strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2823,7 +2968,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Flying, hexproof from multicolored\nWhenever Niv-Mizzet deals combat damage to a player, it deals X damage to any target, target player draws X cards, and you gain X life, where X is the number of different color pairs among permanents you control that are exactly two colors.",
+    "rulesTexts": [
+      "Flying, hexproof from multicolored\nWhenever Niv-Mizzet deals combat damage to a player, it deals X damage to any target, target player draws X cards, and you gain X life, where X is the number of different color pairs among permanents you control that are exactly two colors."
+    ],
     "keywords": [
       "flying",
       "hexproof from",
@@ -2860,7 +3007,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Until end of turn, target creature gets +1/+1 for each creature you control and gains reach.",
+    "rulesTexts": [
+      "Until end of turn, target creature gets +1/+1 for each creature you control and gains reach."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2899,7 +3048,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "At the beginning of combat on your turn, create a 1/1 colorless Thopter artifact creature token with flying. It gains haste until end of turn. Sacrifice it at the beginning of your next end step.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, create a 1/1 colorless Thopter artifact creature token with flying. It gains haste until end of turn. Sacrifice it at the beginning of your next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2935,7 +3086,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target opponent exiles a card from their hand.",
+    "rulesTexts": [
+      "When this creature enters, target opponent exiles a card from their hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2973,7 +3126,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, create a 2/2 white and blue Detective creature token.\nDisguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "When this creature dies, create a 2/2 white and blue Detective creature token.\nDisguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise"
     ],
@@ -3010,7 +3165,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 6.\nDestroy all creatures. If evidence was collected, exile a card from an opponent's graveyard. Then search its owner's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 6.\nDestroy all creatures. If evidence was collected, exile a card from an opponent's graveyard. Then search its owner's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way."
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -3047,7 +3204,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +3/+0.\nDisguise {2}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this Equipment is turned face up, attach it to target creature you control.\nEquip {1}{R}",
+    "rulesTexts": [
+      "Equipped creature gets +3/+0.\nDisguise {2}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this Equipment is turned face up, attach it to target creature you control.\nEquip {1}{R}"
+    ],
     "keywords": [
       "disguise",
       "equip"
@@ -3091,7 +3250,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters or is turned face up, create a 1/1 colorless Thopter artifact creature token with flying.\nDisguise {U/R}{U/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "When this creature enters or is turned face up, create a 1/1 colorless Thopter artifact creature token with flying.\nDisguise {U/R}{U/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise"
     ],
@@ -3131,7 +3292,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever a face-down permanent you control is turned face up, put a +1/+1 counter on it and a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Reach\nWhenever a face-down permanent you control is turned face up, put a +1/+1 counter on it and a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "reach"
     ],
@@ -3166,7 +3329,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one —\n• Target opponent discards two cards.\n• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.",
+    "rulesTexts": [
+      "Choose one —\n• Target opponent discards two cards.\n• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3206,7 +3371,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Vigilance\nWhenever a creature you control enters, if its power is greater than this creature's power or its toughness is greater than this creature's toughness, put a +1/+1 counter on this creature and investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Vigilance\nWhenever a creature you control enters, if its power is greater than this creature's power or its toughness is greater than this creature's toughness, put a +1/+1 counter on this creature and investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate",
       "vigilance"
@@ -3245,7 +3412,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your end step, if a face-down creature entered the battlefield under your control this turn, put a +1/+1 counter on this creature.\n{T}: Add {G}.",
+    "rulesTexts": [
+      "At the beginning of your end step, if a face-down creature entered the battlefield under your control this turn, put a +1/+1 counter on this creature.\n{T}: Add {G}."
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -3289,7 +3458,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you cast an instant or sorcery spell, choose one —\n• That spell gains deathtouch and lifelink.\n• Create a 2/2 red Imp creature token with \"When this token dies, it deals 2 damage to each opponent.\"",
+    "rulesTexts": [
+      "Whenever you cast an instant or sorcery spell, choose one —\n• That spell gains deathtouch and lifelink.\n• Create a 2/2 red Imp creature token with \"When this token dies, it deals 2 damage to each opponent.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3327,7 +3498,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\n{T}: Add {R}{G}. Spend this mana only to cast face-down spells or to turn creatures face up.",
+    "rulesTexts": [
+      "Vigilance\n{T}: Add {R}{G}. Spend this mana only to cast face-down spells or to turn creatures face up."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -3369,7 +3542,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+    "rulesTexts": [
+      "Lightning Helix deals 3 damage to any target and you gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3413,7 +3588,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Vigilance\nWhen Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.",
+    "rulesTexts": [
+      "Vigilance\nWhen Alquist Proft enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life."
+    ],
     "keywords": [
       "investigate",
       "vigilance"
@@ -3456,7 +3633,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nFace-down creatures you control have \"{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.\"\nWhenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library.",
+    "rulesTexts": [
+      "Deathtouch\nFace-down creatures you control have \"{2}{U}{B}: Turn this creature face up. If you can't, exile it, then you may cast the exiled card without paying its mana cost.\"\nWhenever an Assassin you control deals combat damage to an opponent, cloak the top card of that player's library."
+    ],
     "keywords": [
       "cloak",
       "deathtouch"
@@ -3494,7 +3673,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Target creature you control gets +2/+0 and gains haste until end of turn. When that creature dies this turn, create a 2/2 white and blue Detective creature token.",
+    "rulesTexts": [
+      "Target creature you control gets +2/+0 and gains haste until end of turn. When that creature dies this turn, create a 2/2 white and blue Detective creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3529,7 +3710,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Case enters, destroy up to one target creature that was dealt damage this turn.\nTo solve — Three or more creature cards were put into graveyards from anywhere this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — This Case is a 4/4 Gorgon creature with deathtouch and lifelink in addition to its other types.",
+    "rulesTexts": [
+      "When this Case enters, destroy up to one target creature that was dealt damage this turn.\nTo solve — Three or more creature cards were put into graveyards from anywhere this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — This Case is a 4/4 Gorgon creature with deathtouch and lifelink in addition to its other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3568,7 +3751,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "You may choose not to untap this creature during your untap step.\n{3}{G}, {T}, Collect evidence 4: Target land you control becomes a 5/5 green Plant Boar creature with haste for as long as this creature remains tapped. It's still a land. Activate only as a sorcery. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)",
+    "rulesTexts": [
+      "You may choose not to untap this creature during your untap step.\n{3}{G}, {T}, Collect evidence 4: Target land you control becomes a 5/5 green Plant Boar creature with haste for as long as this creature remains tapped. It's still a land. Activate only as a sorcery. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)"
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -3607,7 +3792,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Investigate. Creatures your opponents control get -2/-0 until end of turn. If any of them are suspected, they're no longer suspected. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -3646,7 +3833,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Creatures you control get +2/+1 until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Creatures you control get +2/+1 until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -3681,7 +3870,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+3 and gains trample until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +3/+3 and gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3717,7 +3908,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\n{2}{W}, {T}: Tap target creature. You may put a stun counter on it. If you do, put a stun counter on this creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "Defender\n{2}{W}, {T}: Tap target creature. You may put a stun counter on it. If you do, put a stun counter on this creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [
       "defender"
     ],
@@ -3756,7 +3949,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this Case enters, create a 2/1 black Skeleton creature token and suspect it. (It has menace and can't block.)\nTo solve — You control no suspected Skeletons. (If unsolved, solve at the beginning of your end step.)\nSolved — {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this Case enters, create a 2/1 black Skeleton creature token and suspect it. (It has menace and can't block.)\nTo solve — You control no suspected Skeletons. (If unsolved, solve at the beginning of your end step.)\nSolved — {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery."
+    ],
     "keywords": [
       "suspect"
     ],
@@ -3793,7 +3988,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, return target land card from your graveyard to the battlefield tapped."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3828,7 +4025,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, target creature you control with power 2 or less gets +1/+0 and gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, target creature you control with power 2 or less gets +1/+0 and gains deathtouch until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3861,7 +4060,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield under its owner's control and suspect it.\" (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield under its owner's control and suspect it.\" (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [
       "suspect"
     ],
@@ -3898,7 +4099,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nEnchanted creature gets +2/+2 as long as it's a Detective you control. Otherwise, it has base power and toughness 1/1 and can't block Detectives.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nEnchanted creature gets +2/+2 as long as it's a Detective you control. Otherwise, it has base power and toughness 1/1 and can't block Detectives."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -3940,7 +4143,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Create a 2/2 white and blue Detective creature token. If a creature died this turn, you gain 2 life, surveil 2, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Create a 2/2 white and blue Detective creature token. If a creature died this turn, you gain 2 life, surveil 2, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "surveil",
       "investigate"
@@ -3980,7 +4185,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Target creature gets +2/+2 until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -4016,7 +4223,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4055,7 +4264,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {G} or {U}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {G} or {U}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4096,7 +4307,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature enters or attacks, put a +1/+1 counter on target creature you control with power 2 or less.",
+    "rulesTexts": [
+      "Whenever this creature enters or attacks, put a +1/+1 counter on target creature you control with power 2 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4136,7 +4349,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature enters, suspect up to one target creature you control. (A suspected creature has menace and can't block.)\n{3}{B}{R}, Sacrifice a suspected creature: Target creature gets -5/-5 until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, suspect up to one target creature you control. (A suspected creature has menace and can't block.)\n{3}{B}{R}, Sacrifice a suspected creature: Target creature gets -5/-5 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4171,7 +4386,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -4208,7 +4425,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -4251,7 +4470,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Haste\n{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.\nWhenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.",
+    "rulesTexts": [
+      "Haste\n{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.\nWhenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -4288,7 +4509,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 8. (Exile cards with total mana value 8 or greater from your graveyard.)\nSearch your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 8. (Exile cards with total mana value 8 or greater from your graveyard.)\nSearch your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle."
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -4330,7 +4553,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike, vigilance\nWhenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "Double strike, vigilance\nWhenever Agrus Kos enters or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [
       "vigilance",
       "suspect",
@@ -4369,7 +4594,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink, ward {2}\nDisguise {X}{3}{W}\nWhen this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.\nWhen this creature leaves the battlefield, return the exiled cards to their owners' hands.",
+    "rulesTexts": [
+      "Flying, lifelink, ward {2}\nDisguise {X}{3}{W}\nWhen this creature is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.\nWhen this creature leaves the battlefield, return the exiled cards to their owners' hands."
+    ],
     "keywords": [
       "flying",
       "lifelink",
@@ -4409,7 +4636,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -4450,7 +4679,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets +1/+1 and has \"Whenever this creature deals combat damage to a player, investigate.\" (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +1/+1 and has \"Whenever this creature deals combat damage to a player, investigate.\" (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate",
       "enchant"
@@ -4492,7 +4723,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Equipped creature gets +1/+1 and has \"Whenever this creature attacks, surveil 2.\" (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1 and has \"Whenever this creature attacks, surveil 2.\" (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}"
+    ],
     "keywords": [
       "surveil",
       "equip"
@@ -4538,7 +4771,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever this creature deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nDisguise {3}{G/U}{G/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nDisguise {3}{G/U}{G/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "investigate",
       "disguise"
@@ -4577,7 +4812,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one —\n• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.\n• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.\n• Exile target artifact or enchantment.",
+    "rulesTexts": [
+      "Choose one —\n• Search your library for a creature or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.\n• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.\n• Exile target artifact or enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4613,7 +4850,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature gets +1/+1 for each Forest you control.\nDisguise {4}{G}\nWhen this creature is turned face up, search your library for up to two Forest cards and reveal them. Put one of them onto the battlefield tapped and the other into your hand, then shuffle.",
+    "rulesTexts": [
+      "This creature gets +1/+1 for each Forest you control.\nDisguise {4}{G}\nWhen this creature is turned face up, search your library for up to two Forest cards and reveal them. Put one of them onto the battlefield tapped and the other into your hand, then shuffle."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -4653,7 +4892,10 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature attacks or blocks this turn if able.",
+    "rulesTexts": [
+      "Target creature attacks or blocks this turn if able.",
+      "Creatures you control get +2/+2 and gain trample until end of turn. You may turn a creature you control face up."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4691,7 +4933,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Deathtouch, haste\nWard—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)",
+    "rulesTexts": [
+      "Deathtouch, haste\nWard—Collect evidence 4. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player exiles cards with total mana value 4 or greater from their graveyard.)"
+    ],
     "keywords": [
       "collect evidence",
       "haste",
@@ -4732,7 +4976,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, face-down spells you cast this turn cost {1} less to cast.",
+    "rulesTexts": [
+      "Whenever this creature attacks, face-down spells you cast this turn cost {1} less to cast."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4765,7 +5011,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this enchantment enters, tap X target creatures. Put a stun counter on each of those creatures you don't control. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nTapped creatures you control have hexproof.",
+    "rulesTexts": [
+      "Flash\nWhen this enchantment enters, tap X target creatures. Put a stun counter on each of those creatures you don't control. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nTapped creatures you control have hexproof."
+    ],
     "keywords": [
       "flash"
     ],
@@ -4802,7 +5050,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Galvanize deals 3 damage to target creature. If you've drawn two or more cards this turn, Galvanize deals 5 damage to that creature instead.",
+    "rulesTexts": [
+      "Galvanize deals 3 damage to target creature. If you've drawn two or more cards this turn, Galvanize deals 5 damage to that creature instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4839,7 +5089,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {W} or {U}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {W} or {U}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -4882,7 +5134,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nReach\nWhen this creature enters, if evidence was collected, put a +1/+1 counter on target creature and you gain 2 life.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nReach\nWhen this creature enters, if evidence was collected, put a +1/+1 counter on target creature and you gain 2 life."
+    ],
     "keywords": [
       "collect evidence",
       "reach"
@@ -4923,7 +5177,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Equipped creature gets +1/+2, has reach, and can't be blocked by more than one creature.\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {3}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+2, has reach, and can't be blocked by more than one creature.\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {3}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -4962,7 +5218,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Reach\nWhen this creature enters, choose one —\n• Destroy up to one target artifact.\n• Sacrifice an artifact. If you do, put two +1/+1 counters on this creature."
+    ],
     "keywords": [
       "reach"
     ],
@@ -4999,7 +5257,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -5038,7 +5298,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {W} or {B}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {W} or {B}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -5081,7 +5343,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters or is turned face up, target creature gains indestructible until end of turn.\nDisguise {4}{B/G}{B/G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters or is turned face up, target creature gains indestructible until end of turn.\nDisguise {4}{B/G}{B/G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise",
       "deathtouch"
@@ -5120,7 +5384,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {5}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nAs this creature is turned face up, put four +1/+1 counters on it.",
+    "rulesTexts": [
+      "Disguise {5}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nAs this creature is turned face up, put four +1/+1 counters on it."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -5160,7 +5426,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying, vigilance\nWhen this creature enters, draw two cards. Then discard two cards unless you discard an instant or sorcery card or a creature card with flying.",
+    "rulesTexts": [
+      "Flying, vigilance\nWhen this creature enters, draw two cards. Then discard two cards unless you discard an instant or sorcery card or a creature card with flying."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -5202,7 +5470,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Haste\nThis creature attacks each combat if able.\n{2}, Sacrifice this creature: Draw a card.",
+    "rulesTexts": [
+      "Haste\nThis creature attacks each combat if able.\n{2}, Sacrifice this creature: Draw a card."
+    ],
     "keywords": [
       "haste"
     ],
@@ -5239,7 +5509,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -5272,7 +5544,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+2.\nEquip Detective {1}\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +1/+2.\nEquip Detective {1}\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -5310,7 +5584,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "During your turn, this creature has hexproof.\nThis creature can't be blocked by creatures that don't have a name.",
+    "rulesTexts": [
+      "During your turn, this creature has hexproof.\nThis creature can't be blocked by creatures that don't have a name."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5346,7 +5622,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "This spell costs {3} less to cast if you've sacrificed an artifact this turn.\nThis spell can't be countered. (This includes by the ward ability.)\nSuspicious Detonation deals 4 damage to target creature.",
+    "rulesTexts": [
+      "This spell costs {3} less to cast if you've sacrificed an artifact this turn.\nThis spell can't be countered. (This includes by the ward ability.)\nSuspicious Detonation deals 4 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5382,7 +5660,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Flash\nWhen this enchantment enters, target creature gets -4/-4 until end of turn.\nWhenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Flash\nWhen this enchantment enters, target creature gets -4/-4 until end of turn.\nWhenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [
       "flash"
     ],
@@ -5423,7 +5703,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "This creature can't be blocked as long as you've sacrificed an artifact this turn.\nWhenever this creature attacks, draw a card, then discard a card.",
+    "rulesTexts": [
+      "This creature can't be blocked as long as you've sacrificed an artifact this turn.\nWhenever this creature attacks, draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5458,7 +5740,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target attacking creature.",
+    "rulesTexts": [
+      "Exile target attacking creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5498,7 +5782,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, you may collect evidence 4. (Exile cards with total mana value 4 or greater from your graveyard.)\nWhenever you collect evidence, create a 1/1 colorless Thopter artifact creature token with flying.",
+    "rulesTexts": [
+      "When this creature enters, you may collect evidence 4. (Exile cards with total mana value 4 or greater from your graveyard.)\nWhenever you collect evidence, create a 1/1 colorless Thopter artifact creature token with flying."
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -5535,7 +5821,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "When this creature enters, return target Equipment card from your graveyard to the battlefield attached to this creature.\nWhenever you sacrifice an artifact, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "When this creature enters, return target Equipment card from your graveyard to the battlefield attached to this creature.\nWhenever you sacrifice an artifact, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5571,7 +5859,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters and whenever you solve a Case, look at the top six cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nYou may spend mana as though it were mana of any color to cast Case spells.",
+    "rulesTexts": [
+      "When this creature enters and whenever you solve a Case, look at the top six cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nYou may spend mana as though it were mana of any color to cast Case spells."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5606,7 +5896,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -5648,7 +5940,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.\n{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.",
+    "rulesTexts": [
+      "Whenever Anzrag becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.\n{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5690,7 +5984,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Menace\nWhenever Izoni enters or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.\nSacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life.",
+    "rulesTexts": [
+      "Menace\nWhenever Izoni enters or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.\nSacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life."
+    ],
     "keywords": [
       "collect evidence",
       "surveil",
@@ -5729,7 +6025,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put X +1/+1 counters on target creature you control. Then counter up to one target spell unless its controller pays mana equal to the greatest power among creatures you control.",
+    "rulesTexts": [
+      "Put X +1/+1 counters on target creature you control. Then counter up to one target spell unless its controller pays mana equal to the greatest power among creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5766,7 +6064,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {R} or {W}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {R} or {W}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -5806,7 +6106,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact, enchantment, or creature with power 4 or greater.",
+    "rulesTexts": [
+      "Destroy target artifact, enchantment, or creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5835,7 +6137,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\nDisguise {3} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this land is turned face up, add two mana of any one color. Until end of turn, you don't lose this mana as steps and phases end.",
+    "rulesTexts": [
+      "{T}: Add {C}.\nDisguise {3} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this land is turned face up, add two mana of any one color. Until end of turn, you don't lose this mana as steps and phases end."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -5882,7 +6186,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature attacks, you may collect evidence 3. When you do, put a +1/+1 counter on target creature you control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",
+    "rulesTexts": [
+      "Whenever this creature attacks, you may collect evidence 3. When you do, put a +1/+1 counter on target creature you control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)"
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -5919,7 +6225,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nPermanents your opponents control can't be turned face up during your turn.\nWhenever you attack with three or more creatures, creatures you control get +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Vigilance\nPermanents your opponents control can't be turned face up during your turn.\nWhenever you attack with three or more creatures, creatures you control get +1/+1 until end of turn."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -5959,7 +6267,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Disguise {5}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, destroy target artifact or enchantment an opponent controls.",
+    "rulesTexts": [
+      "Disguise {5}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, destroy target artifact or enchantment an opponent controls."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -5996,7 +6306,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{W}, Collect evidence 2: This creature becomes a Human Detective with base power and toughness 4/4 and gains vigilance.\n{2}{W}, Collect evidence 4: If this creature is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains \"Other creatures you control have indestructible.\"",
+    "rulesTexts": [
+      "{1}{W}, Collect evidence 2: This creature becomes a Human Detective with base power and toughness 4/4 and gains vigilance.\n{2}{W}, Collect evidence 4: If this creature is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains \"Other creatures you control have indestructible.\""
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -6033,7 +6345,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one or both —\n• Destroy target creature.\n• Put a +1/+1 counter on target suspected creature you control. You may have it become no longer suspected.",
+    "rulesTexts": [
+      "Choose one or both —\n• Destroy target creature.\n• Put a +1/+1 counter on target suspected creature you control. You may have it become no longer suspected."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6070,7 +6384,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Draw a card. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Draw a card. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -6110,7 +6426,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, suspect it. Create a 2/2 white and blue Detective creature token. (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "When this creature enters, suspect it. Create a 2/2 white and blue Detective creature token. (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [
       "suspect"
     ],
@@ -6151,7 +6469,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant land\nWhen this Aura enters, exile target nonland permanent you don't control until this Aura leaves the battlefield.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
+    "rulesTexts": [
+      "Enchant land\nWhen this Aura enters, exile target nonland permanent you don't control until this Aura leaves the battlefield.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -6194,7 +6514,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nArtifacts and creatures entering don't cause abilities to trigger.",
+    "rulesTexts": [
+      "Flash\nFlying\nArtifacts and creatures entering don't cause abilities to trigger."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -6235,7 +6557,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature enters, you may search your graveyard, hand and/or library for a card named Magnifying Glass and/or a card named Thinking Cap and put them onto the battlefield. If you search your library this way, shuffle.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you may search your graveyard, hand and/or library for a card named Magnifying Glass and/or a card named Thinking Cap and put them onto the battlefield. If you search your library this way, shuffle."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6272,7 +6596,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -6309,7 +6635,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -6349,7 +6677,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\n{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\n{G}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery."
+    ],
     "keywords": [
       "surveil"
     ],
@@ -6387,7 +6717,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature deals combat damage to a player, you mill two cards.\n{1}{B}: This creature gets +2/+2 until end of turn. Activate only once each turn.",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, you mill two cards.\n{1}{B}: This creature gets +2/+2 until end of turn. Activate only once each turn."
+    ],
     "keywords": [
       "mill"
     ],
@@ -6429,7 +6761,10 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Destroy target tapped creature.",
+    "rulesTexts": [
+      "Destroy target tapped creature.",
+      "Put up to two target creature cards from a single graveyard onto the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6470,7 +6805,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "Collect evidence 6: This Vehicle becomes an artifact creature until end of turn.\nWhenever this Vehicle attacks, you may cast an instant or sorcery spell from among cards exiled with it. If that spell would be put into a graveyard, put it on the bottom of its owner's library instead.\nCrew 2",
+    "rulesTexts": [
+      "Collect evidence 6: This Vehicle becomes an artifact creature until end of turn.\nWhenever this Vehicle attacks, you may cast an instant or sorcery spell from among cards exiled with it. If that spell would be put into a graveyard, put it on the bottom of its owner's library instead.\nCrew 2"
+    ],
     "keywords": [
       "collect evidence",
       "crew"
@@ -6511,7 +6848,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Equipped creature gets +2/+0.\nWhenever equipped creature dies, each opponent loses 1 life.\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +2/+0.\nWhenever equipped creature dies, each opponent loses 1 life.\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6549,7 +6888,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {5}{G}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, put a +1/+1 counter on each creature you control. Creatures you control gain trample until end of turn.",
+    "rulesTexts": [
+      "Disguise {5}{G}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, put a +1/+1 counter on each creature you control. Creatures you control gain trample until end of turn."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -6589,7 +6930,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nYou may collect evidence 10 rather than pay the mana cost for spells you cast. (To collect evidence 10, exile cards with total mana value 10 or greater from your graveyard.)",
+    "rulesTexts": [
+      "Flying\nYou may collect evidence 10 rather than pay the mana cost for spells you cast. (To collect evidence 10, exile cards with total mana value 10 or greater from your graveyard.)"
+    ],
     "keywords": [
       "flying",
       "collect evidence"
@@ -6627,7 +6970,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target nonland permanent to its owner's hand. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Return target nonland permanent to its owner's hand. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -6662,7 +7007,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.",
+    "rulesTexts": [
+      "Target creature you control deals damage equal to its power to target creature or planeswalker you don't control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6697,7 +7044,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nDisguise {4}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Flying\nDisguise {4}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "flying",
       "disguise"
@@ -6735,7 +7084,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top six cards of your library. You may reveal a creature card from among them. If that card has mana value 2 or less, you may put it onto the battlefield and it gains haste until end of turn. If you didn't put the revealed card onto the battlefield this way, put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Look at the top six cards of your library. You may reveal a creature card from among them. If that card has mana value 2 or less, you may put it onto the battlefield and it gains haste until end of turn. If you didn't put the revealed card onto the battlefield this way, put it into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6775,7 +7126,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this creature enters, return up to one other target creature to its owner's hand. If you controlled it, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "When this creature enters, return up to one other target creature to its owner's hand. If you controlled it, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -6810,7 +7163,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a creature you control attacks, exile the top card of your library face down. (You can't look at it.)\n{1}{R}, Discard your hand, Sacrifice this enchantment: Put all cards exiled with this enchantment into their owners' hands.",
+    "rulesTexts": [
+      "Whenever a creature you control attacks, exile the top card of your library face down. (You can't look at it.)\n{1}{R}, Discard your hand, Sacrifice this enchantment: Put all cards exiled with this enchantment into their owners' hands."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6851,7 +7206,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying, vigilance, haste\nWhenever a player attacks with three or more creatures, you draw a card.\nWhenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life.",
+    "rulesTexts": [
+      "Flying, vigilance, haste\nWhenever a player attacks with three or more creatures, you draw a card.\nWhenever a player attacks with five or more creatures, Aurelia deals 3 damage to each of your opponents and you gain 3 life."
+    ],
     "keywords": [
       "flying",
       "vigilance",
@@ -6892,7 +7249,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Menace\nWhenever another creature you control with power 2 or less enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "Menace\nWhenever another creature you control with power 2 or less enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil",
       "menace"
@@ -6930,7 +7289,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "Disguise {G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -6961,7 +7322,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn.",
+    "rulesTexts": [
+      "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n{T}, Sacrifice this land: Target creature with power 2 or less can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7005,7 +7368,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Flying\nWhen Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhen Ezrim enters, investigate twice. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn."
+    ],
     "keywords": [
       "flying",
       "investigate"
@@ -7041,7 +7406,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered. (This includes by the ward ability.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Suspect it. (It has menace and can't block.)",
+    "rulesTexts": [
+      "This spell can't be countered. (This includes by the ward ability.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Suspect it. (It has menace and can't block.)"
+    ],
     "keywords": [
       "suspect"
     ],
@@ -7081,7 +7448,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature enters, exile up to two target cards from a single graveyard.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, exile up to two target cards from a single graveyard."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7124,7 +7493,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nActivated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+    "rulesTexts": [
+      "Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nActivated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana."
+    ],
     "keywords": [
       "investigate"
     ],
@@ -7163,7 +7534,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Hexproof\nIf you would draw a card while your library has no cards in it, skip that draw instead.\nAs long as there are no cards in your library, this creature has base power and toughness 10/10 and has flying and vigilance.",
+    "rulesTexts": [
+      "Hexproof\nIf you would draw a card while your library has no cards in it, skip that draw instead.\nAs long as there are no cards in your library, this creature has base power and toughness 10/10 and has flying and vigilance."
+    ],
     "keywords": [
       "hexproof"
     ],
@@ -7208,7 +7581,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Deathtouch\nAt the beginning of your end step, investigate for each opponent who lost life this turn.\nWhenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Deathtouch\nAt the beginning of your end step, investigate for each opponent who lost life this turn.\nWhenever a Clue you control is put into a graveyard from the battlefield, create a 1/1 white and black Spirit creature token with flying. This ability triggers only once each turn."
+    ],
     "keywords": [
       "investigate",
       "deathtouch"
@@ -7249,7 +7624,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, lifelink\nDisguise {W/B}{W/B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, another target creature you control gains lifelink until end of turn.",
+    "rulesTexts": [
+      "Flying, lifelink\nDisguise {W/B}{W/B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, another target creature you control gains lifelink until end of turn."
+    ],
     "keywords": [
       "flying",
       "lifelink",
@@ -7286,7 +7663,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy all artifacts you don't control, then exile the top X cards of your library, where X is the number of artifacts that were put into graveyards from the battlefield this turn. You may put a creature card exiled this way onto the battlefield. It gains haste. Return it to your hand at the beginning of the next end step.",
+    "rulesTexts": [
+      "Destroy all artifacts you don't control, then exile the top X cards of your library, where X is the number of artifacts that were put into graveyards from the battlefield this turn. You may put a creature card exiled this way onto the battlefield. It gains haste. Return it to your hand at the beginning of the next end step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7321,7 +7700,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Case enters, distribute two +1/+1 counters among one or two target creatures you control.\nTo solve — Creatures you control have total power 8 or greater. (If unsolved, solve at the beginning of your end step.)\nSolved — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.",
+    "rulesTexts": [
+      "When this Case enters, distribute two +1/+1 counters among one or two target creatures you control.\nTo solve — Creatures you control have total power 8 or greater. (If unsolved, solve at the beginning of your end step.)\nSolved — Whenever you attack, put a +1/+1 counter on target attacking creature. It gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7358,7 +7739,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nDisguise {4}{R/G}{R/G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Reach\nDisguise {4}{R/G}{R/G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "reach",
       "disguise"
@@ -7399,7 +7782,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever an opponent sacrifices an artifact, this creature deals 2 damage to them.",
+    "rulesTexts": [
+      "Whenever an opponent sacrifices an artifact, this creature deals 2 damage to them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7442,7 +7827,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever one or more creatures you control and/or creature cards in your graveyard are put into exile, you may choose a creature card from among them. Until end of turn, target token you control becomes a copy of it, except it has flying.\n+2: Surveil 2, then exile a card from a graveyard.\n+1: Create a 1/1 white and black Spirit creature token with flying.\n−2: Exile target creature you control. For each other player, exile up to one target creature that player controls.",
+    "rulesTexts": [
+      "Whenever one or more creatures you control and/or creature cards in your graveyard are put into exile, you may choose a creature card from among them. Until end of turn, target token you control becomes a copy of it, except it has flying.\n+2: Surveil 2, then exile a card from a graveyard.\n+1: Create a 1/1 white and black Spirit creature token with flying.\n−2: Exile target creature you control. For each other player, exile up to one target creature that player controls."
+    ],
     "keywords": [
       "surveil"
     ],
@@ -7479,7 +7866,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "For each of X target permanents, create X tokens that are copies of that permanent.",
+    "rulesTexts": [
+      "For each of X target permanents, create X tokens that are copies of that permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7517,7 +7906,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever another creature you control with power 2 or less enters, each opponent loses 1 life and you gain 1 life.\n{5}{W}{B}: Creatures you control with power 2 or less gain deathtouch and lifelink until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhenever another creature you control with power 2 or less enters, each opponent loses 1 life and you gain 1 life.\n{5}{W}{B}: Creatures you control with power 2 or less gain deathtouch and lifelink until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7558,7 +7949,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this creature enters, you may sacrifice an artifact. When you do, this creature deals 3 damage to any target.",
+    "rulesTexts": [
+      "When this creature enters, you may sacrifice an artifact. When you do, this creature deals 3 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7593,7 +7986,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {W}{U} more to cast for each target beyond the first.\nChoose any number of target players. Investigate X times, where X is the total number of creatures those players control.",
+    "rulesTexts": [
+      "This spell costs {W}{U} more to cast for each target beyond the first.\nChoose any number of target players. Investigate X times, where X is the total number of creatures those players control."
+    ],
     "keywords": [
       "investigate"
     ],
@@ -7631,7 +8026,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nWhen this creature enters, target opponent creates two 1/1 white Dog creature tokens.\nWhen this creature dies, each opponent loses 3 life.\nDisguise {1}{B}",
+    "rulesTexts": [
+      "Menace\nWhen this creature enters, target opponent creates two 1/1 white Dog creature tokens.\nWhen this creature dies, each opponent loses 3 life.\nDisguise {1}{B}"
+    ],
     "keywords": [
       "menace",
       "disguise"
@@ -7673,7 +8070,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this creature enters, you may sacrifice an artifact or creature. When you do, exile target creature an opponent controls.",
+    "rulesTexts": [
+      "When this creature enters, you may sacrifice an artifact or creature. When you do, exile target creature an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7709,7 +8108,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "When this artifact enters, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.\n{2}, {T}, Collect evidence 3: Each opponent loses 3 life unless they discard a card or sacrifice a creature. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)",
+    "rulesTexts": [
+      "When this artifact enters, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.\n{2}, {T}, Collect evidence 3: Each opponent loses 3 life unless they discard a card or sacrifice a creature. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)"
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -7749,7 +8150,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nDisguise {R/W}{R/W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, create two tapped 1/1 white Dog creature tokens.",
+    "rulesTexts": [
+      "Vigilance\nDisguise {R/W}{R/W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, create two tapped 1/1 white Dog creature tokens."
+    ],
     "keywords": [
       "vigilance",
       "disguise"
@@ -7788,7 +8191,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Create a 0/1 green Plant creature token, then draw cards equal to the number of differently named creature tokens you control.",
+    "rulesTexts": [
+      "Create a 0/1 green Plant creature token, then draw cards equal to the number of differently named creature tokens you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7821,7 +8226,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered. (This includes by the ward ability.)\nTap up to two target creatures and put a stun counter on each of them. Investigate. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "This spell can't be countered. (This includes by the ward ability.)\nTap up to two target creatures and put a stun counter on each of them. Investigate. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -7858,7 +8265,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "This spell costs {2} less to cast if a creature card was put into your graveyard from anywhere this turn.\nReturn up to two target creature cards from your graveyard to your hand.",
+    "rulesTexts": [
+      "This spell costs {2} less to cast if a creature card was put into your graveyard from anywhere this turn.\nReturn up to two target creature cards from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7895,7 +8304,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever a creature you control enters, you gain 1 life.\nTo solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Sacrifice this Case: Creature cards in your graveyard gain \"You may cast this card from your graveyard\" until end of turn.",
+    "rulesTexts": [
+      "Whenever a creature you control enters, you gain 1 life.\nTo solve — You've gained 5 or more life this turn. (If unsolved, solve at the beginning of your end step.)\nSolved — Sacrifice this Case: Creature cards in your graveyard gain \"You may cast this card from your graveyard\" until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7933,7 +8344,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever this creature or another Detective you control enters and whenever a Detective you control is turned face up, you may draw a card. If you do, discard a card.",
+    "rulesTexts": [
+      "Whenever this creature or another Detective you control enters and whenever a Detective you control is turned face up, you may draw a card. If you do, discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7969,7 +8382,9 @@
     "toughness": 10,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {2}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, creatures you control gain hexproof until end of turn. Untap them.",
+    "rulesTexts": [
+      "Disguise {2}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, creatures you control gain hexproof until end of turn. Untap them."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -8013,7 +8428,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Haste\nWhenever you attack with three or more creatures, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Haste\nWhenever you attack with three or more creatures, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate",
       "haste"
@@ -8053,7 +8470,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When Proft's Eidetic Memory enters, draw a card.\nYou have no maximum hand size.\nAt the beginning of combat on your turn, if you've drawn more than one card this turn, put X +1/+1 counters on target creature you control, where X is the number of cards you've drawn this turn minus one.",
+    "rulesTexts": [
+      "When Proft's Eidetic Memory enters, draw a card.\nYou have no maximum hand size.\nAt the beginning of combat on your turn, if you've drawn more than one card this turn, put X +1/+1 counters on target creature you control, where X is the number of cards you've drawn this turn minus one."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8088,7 +8507,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, return another target permanent you control to its owner's hand and put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, return another target permanent you control to its owner's hand and put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -8125,7 +8546,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -8162,7 +8585,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +1/+1.\nWhenever a creature you control enters, this enchantment deals 1 damage to each opponent.",
+    "rulesTexts": [
+      "Creatures you control get +1/+1.\nWhenever a creature you control enters, this enchantment deals 1 damage to each opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8200,7 +8625,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -8239,7 +8666,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {B} or {R}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {B} or {R}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -8277,7 +8706,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a creature is dealt damage, its controller may exile that many cards from the top of their library. They may play those cards until the end of their next turn.",
+    "rulesTexts": [
+      "Whenever a creature is dealt damage, its controller may exile that many cards from the top of their library. They may play those cards until the end of their next turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8316,7 +8747,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Prowess, haste\nDisguise {5}{R}. This cost is reduced by {1} for each instant and sorcery card in your graveyard. (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, discard your hand, then draw three cards.",
+    "rulesTexts": [
+      "Prowess, haste\nDisguise {5}{R}. This cost is reduced by {1} for each instant and sorcery card in your graveyard. (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, discard your hand, then draw three cards."
+    ],
     "keywords": [
       "prowess",
       "haste",
@@ -8358,7 +8791,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "During your turn, equipped creature gets +1/+0 and has first strike.\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}",
+    "rulesTexts": [
+      "During your turn, equipped creature gets +1/+0 and has first strike.\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -8400,7 +8835,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Other Detectives you control get +1/+1.\nWhenever you draw your second card each turn, target Detective can't be blocked this turn.",
+    "rulesTexts": [
+      "Other Detectives you control get +1/+1.\nWhenever you draw your second card each turn, target Detective can't be blocked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8436,7 +8873,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike, trample\nDisguise {3}{R}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Double strike, trample\nDisguise {3}{R}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "trample",
       "disguise",
@@ -8473,7 +8912,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target opponent exiles the top X cards of their library face down. You may look at and play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any type to cast it.",
+    "rulesTexts": [
+      "Target opponent exiles the top X cards of their library face down. You may look at and play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any type to cast it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8510,7 +8951,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this Case enters, discard a card, then draw two cards.\nTo solve — You have no cards in hand. (If unsolved, solve at the beginning of your end step.)\nSolved — At the beginning of your upkeep, discard your hand, then draw two cards.",
+    "rulesTexts": [
+      "When this Case enters, discard a card, then draw two cards.\nTo solve — You have no cards in hand. (If unsolved, solve at the beginning of your end step.)\nSolved — At the beginning of your upkeep, discard your hand, then draw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8550,7 +8993,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you draw your second card each turn, this creature gets +1/+1 and gains vigilance until end of turn.",
+    "rulesTexts": [
+      "When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you draw your second card each turn, this creature gets +1/+1 and gains vigilance until end of turn."
+    ],
     "keywords": [
       "investigate"
     ],
@@ -8590,7 +9035,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhenever this creature attacks, gain control of target permanent you own but don't control.\nDisguise {1}{U}\nWhen this creature is turned face up, target opponent gains control of any number of target permanents you control. Draw a card for each one they gained control of this way.",
+    "rulesTexts": [
+      "Flying\nWhenever this creature attacks, gain control of target permanent you own but don't control.\nDisguise {1}{U}\nWhen this creature is turned face up, target opponent gains control of any number of target permanents you control. Draw a card for each one they gained control of this way."
+    ],
     "keywords": [
       "flying",
       "disguise"
@@ -8628,7 +9075,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, all suspected creatures are no longer suspected.\nWhen this creature dies, you gain 3 life and suspect up to one target creature an opponent controls. (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, all suspected creatures are no longer suspected.\nWhen this creature dies, you gain 3 life and suspect up to one target creature an opponent controls. (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [
       "flying"
     ],
@@ -8668,7 +9117,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.\nIf an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",
+    "rulesTexts": [
+      "Creatures you control with power 2 or less can't be blocked by creatures with power 3 or greater.\nIf an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8705,7 +9156,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {R} or {G}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {R} or {G}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -8751,7 +9204,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If this card is in your opening hand, you may begin the game with it on the battlefield.\nEach nonland permanent you control is all colors.\nLands you control are every basic land type in addition to their other types.",
+    "rulesTexts": [
+      "If this card is in your opening hand, you may begin the game with it on the battlefield.\nEach nonland permanent you control is all colors.\nLands you control are every basic land type in addition to their other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8786,7 +9241,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nWhen this Aura enters, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.\nEnchanted creature gets +2/+2 and can't become suspected.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nWhen this Aura enters, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.\nEnchanted creature gets +2/+2 and can't become suspected."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -8825,7 +9282,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you attack with three or more creatures, this creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Whenever you attack with three or more creatures, this creature gets +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8868,7 +9327,10 @@
       "token",
       "draw"
     ],
-    "oracleText": "Mill three cards. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Mill three cards. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+      "Each opponent mills three cards, then you may cast a spell from each opponent's graveyard without paying its mana cost. If a spell cast this way would be put into a graveyard, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8906,7 +9368,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {G} or {W}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {G} or {W}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -8949,7 +9413,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Equipped creature gets +1/+1 and has vigilance and \"{3}, {T}: Tap target creature.\"\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1 and has vigilance and \"{3}, {T}: Tap target creature.\"\n{2}, Sacrifice this Equipment: Draw a card.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -8984,7 +9450,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered. (This includes by the ward ability.)\nDestroy target creature or planeswalker with mana value 3 or less.",
+    "rulesTexts": [
+      "This spell can't be countered. (This includes by the ward ability.)\nDestroy target creature or planeswalker with mana value 3 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9030,7 +9498,10 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Flying, vigilance\nWhenever Kellan attacks, destroy up to one target artifact. If you controlled that permanent, draw a card.",
+    "rulesTexts": [
+      "Flying, vigilance\nWhenever Kellan attacks, destroy up to one target artifact. If you controlled that permanent, draw a card.",
+      "Investigate. You may play an additional land this turn. (Then exile this card. You may cast the creature later from exile.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9064,7 +9535,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "{T}: Add {C}.\n{4}, {T}: Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{4}, {T}: Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -9103,7 +9576,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhen this creature enters, distribute three +1/+1 counters among one, two, or three target creatures, then you gain life equal to the greatest toughness among creatures you control.",
+    "rulesTexts": [
+      "Reach\nWhen this creature enters, distribute three +1/+1 counters among one, two, or three target creatures, then you gain life equal to the greatest toughness among creatures you control."
+    ],
     "keywords": [
       "reach"
     ],
@@ -9147,7 +9622,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice an artifact, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice an artifact, put a +1/+1 counter on this creature."
+    ],
     "keywords": [
       "flying",
       "investigate"
@@ -9190,7 +9667,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Menace\nCreatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)\nWhenever a creature an opponent controls dies, if its toughness was less than 1, draw a card.",
+    "rulesTexts": [
+      "Menace\nCreatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)\nWhenever a creature an opponent controls dies, if its toughness was less than 1, draw a card."
+    ],
     "keywords": [
       "menace"
     ],
@@ -9232,7 +9711,10 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Exile up to two target cards from a single graveyard. Target player gains 2 life and draws a card.",
+    "rulesTexts": [
+      "Exile up to two target cards from a single graveyard. Target player gains 2 life and draws a card.",
+      "Destroy all artifacts and enchantments."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9279,7 +9761,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.",
+    "rulesTexts": [
+      "Whenever Lazav attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn."
+    ],
     "keywords": [
       "investigate"
     ],
@@ -9316,7 +9800,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -9359,7 +9845,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying, trample\nAt the beginning of your end step, target opponent may sacrifice two nonland, nontoken permanents of their choice. If they don't, you draw two cards.",
+    "rulesTexts": [
+      "Flying, trample\nAt the beginning of your end step, target opponent may sacrifice two nonland, nontoken permanents of their choice. If they don't, you draw two cards."
+    ],
     "keywords": [
       "flying",
       "trample"
@@ -9397,7 +9885,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9437,7 +9927,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this creature enters or is turned face up, put X +1/+1 counters on it, where X is the number of other creatures you control.\nDisguise {3}{G/W}{G/W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "As this creature enters or is turned face up, put X +1/+1 counters on it, where X is the number of other creatures you control.\nDisguise {3}{G/W}{G/W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "disguise"
     ],
@@ -9474,7 +9966,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, you lose 3 life.\nDisguise {B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, you lose 3 life.\nDisguise {B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "flying",
       "disguise"
@@ -9514,7 +10008,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As an additional cost to cast this spell, collect evidence X, where X is the total mana value of the permanents this spell targets.\nDestroy up to one target artifact, up to one target creature, up to one target enchantment, and up to one target planeswalker.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, collect evidence X, where X is the total mana value of the permanents this spell targets.\nDestroy up to one target artifact, up to one target creature, up to one target enchantment, and up to one target planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9552,7 +10048,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{2}{B}, Sacrifice another creature: Draw a card. If the sacrificed creature was suspected, draw two cards instead.",
+    "rulesTexts": [
+      "{2}{B}, Sacrifice another creature: Draw a card. If the sacrificed creature was suspected, draw two cards instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9585,7 +10083,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top five cards of your library, cloak two of them, and put the rest on the bottom of your library in a random order. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)",
+    "rulesTexts": [
+      "Look at the top five cards of your library, cloak two of them, and put the rest on the bottom of your library in a random order. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)"
+    ],
     "keywords": [
       "cloak"
     ],
@@ -9623,7 +10123,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Exile target nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost.",
+    "rulesTexts": [
+      "Exile target nonland card in a graveyard that was put there from anywhere this turn. Copy it. You may cast the copy without paying its mana cost."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9658,7 +10160,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nWhen this Aura enters, enchanted creature gains hexproof until end of turn.\nEnchanted creature gets +1/+0 and has flying.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nWhen this Aura enters, enchanted creature gains hexproof until end of turn.\nEnchanted creature gets +1/+0 and has flying."
+    ],
     "keywords": [
       "enchant",
       "flash"
@@ -9700,7 +10204,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, vigilance\nDisguise {W/U}{W/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, you may tap or untap target creature.",
+    "rulesTexts": [
+      "Flying, vigilance\nDisguise {W/U}{W/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, you may tap or untap target creature."
+    ],
     "keywords": [
       "flying",
       "vigilance",
@@ -9740,7 +10246,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature you control with power 2 or less enters, this creature gains flying until end of turn.",
+    "rulesTexts": [
+      "Whenever another creature you control with power 2 or less enters, this creature gains flying until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9778,7 +10286,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nFlying\nWhen this creature enters, tap target creature. If evidence was collected, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nFlying\nWhen this creature enters, tap target creature. If evidence was collected, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)"
+    ],
     "keywords": [
       "flying",
       "collect evidence"
@@ -9818,7 +10328,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\n{2}{B}{B}, Exile this card from your graveyard: Create two tapped 1/1 black Bat creature tokens with flying.",
+    "rulesTexts": [
+      "Flying\n{2}{B}{B}, Exile this card from your graveyard: Create two tapped 1/1 black Bat creature tokens with flying."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9854,7 +10366,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This land enters tapped.\n{T}: Add {C}.\n{T}, Tap an untapped creature you control: Add one mana of any color.\n{2}, Sacrifice this land: Draw a card.",
+    "rulesTexts": [
+      "This land enters tapped.\n{T}: Add {C}.\n{T}, Tap an untapped creature you control: Add one mana of any color.\n{2}, Sacrifice this land: Draw a card."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -9896,7 +10410,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9933,7 +10449,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -9970,7 +10488,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. You gain 2 life.",
+    "rulesTexts": [
+      "When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield. You gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10007,7 +10527,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature that dealt damage this turn.\nDraw three cards. Each opponent loses 3 life and you gain 3 life.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature that dealt damage this turn.\nDraw three cards. Each opponent loses 3 life and you gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10043,7 +10565,9 @@
       "graveyard",
       "artifact"
     ],
-    "oracleText": "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nUntil end of turn, target artifact or creature becomes an artifact creature with base power and toughness 4/3. If evidence was collected, it has base power and toughness 1/1 until end of turn instead.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, you may collect evidence 6. (Exile cards with total mana value 6 or greater from your graveyard.)\nUntil end of turn, target artifact or creature becomes an artifact creature with base power and toughness 4/3. If evidence was collected, it has base power and toughness 1/1 until end of turn instead."
+    ],
     "keywords": [
       "collect evidence"
     ],
@@ -10081,7 +10605,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nDisguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, until end of turn, whenever a creature you control deals combat damage to a player, investigate.",
+    "rulesTexts": [
+      "Flying\nDisguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, until end of turn, whenever a creature you control deals combat damage to a player, investigate."
+    ],
     "keywords": [
       "flying",
       "investigate",
@@ -10120,7 +10646,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhen this creature enters, suspect it. (It has menace and can't block.)\nWhenever one or more other creatures you control enter, if this creature is suspected, you may suspect one of the other creatures. If you do, this creature is no longer suspected.",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, suspect it. (It has menace and can't block.)\nWhenever one or more other creatures you control enter, if this creature is suspected, you may suspect one of the other creatures. If you do, this creature is no longer suspected."
+    ],
     "keywords": [
       "suspect",
       "haste"
@@ -10158,7 +10686,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -10196,7 +10726,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or discard a card.\nDraw two cards.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice an artifact or discard a card.\nDraw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10231,7 +10763,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.",
+    "rulesTexts": [
+      "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10273,7 +10807,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This spell costs {X} less to cast, where X is the total toughness of creatures you control.\nDefender\n{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains \"Whenever this creature deals combat damage to a player, draw cards equal to its toughness,\" and can attack as though it didn't have defender.",
+    "rulesTexts": [
+      "This spell costs {X} less to cast, where X is the total toughness of creatures you control.\nDefender\n{2}{U}{U}: Until end of turn, target creature you control gets +1/+0, gains \"Whenever this creature deals combat damage to a player, draw cards equal to its toughness,\" and can attack as though it didn't have defender."
+    ],
     "keywords": [
       "defender"
     ],
@@ -10311,7 +10847,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature enters tapped.\nDisguise {4}{B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, target opponent loses 3 life and you gain 3 life.",
+    "rulesTexts": [
+      "This creature enters tapped.\nDisguise {4}{B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, target opponent loses 3 life and you gain 3 life."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -10353,7 +10891,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Clue, target opponent gets two poison counters. (A player with ten or more poison counters loses the game.)",
+    "rulesTexts": [
+      "When this creature enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a Clue, target opponent gets two poison counters. (A player with ten or more poison counters loses the game.)"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -10395,7 +10935,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature dies, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Flying\nWhen this creature dies, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "flying",
       "investigate"
@@ -10434,7 +10976,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Disguise {4}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature enters or is turned face up, up to one target creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Disguise {4}{R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature enters or is turned face up, up to one target creature gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -10475,7 +11019,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token.",
+    "rulesTexts": [
+      "Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)\nWhen this creature is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token."
+    ],
     "keywords": [
       "disguise"
     ],
@@ -10514,7 +11060,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -10551,7 +11099,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a flying counter on it. It's a Spirit in addition to its other types.",
+    "rulesTexts": [
+      "Return target creature card with mana value 3 or less from your graveyard to the battlefield. Put a flying counter on it. It's a Spirit in addition to its other types."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10594,7 +11144,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "At the beginning of combat on your turn, you may collect evidence 4. (Exile cards with total mana value 4 or greater from your graveyard.)\nWhenever you collect evidence, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, you may collect evidence 4. (Exile cards with total mana value 4 or greater from your graveyard.)\nWhenever you collect evidence, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "collect evidence",
       "investigate"
@@ -10632,7 +11184,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Choose one —\n• Each opponent sacrifices an artifact of their choice.\n• Each opponent sacrifices an enchantment of their choice.\n• Each opponent sacrifices a creature with flying of their choice.",
+    "rulesTexts": [
+      "Choose one —\n• Each opponent sacrifices an artifact of their choice.\n• Each opponent sacrifices an enchantment of their choice.\n• Each opponent sacrifices a creature with flying of their choice."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10665,7 +11219,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may look at the top card of your library any time.\nOnce each turn, you may cast a creature spell with power 2 or less from the top of your library.",
+    "rulesTexts": [
+      "You may look at the top card of your library any time.\nOnce each turn, you may cast a creature spell with power 2 or less from the top of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10703,7 +11259,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Equipped creature gets +2/+0.\n{2}, {T}, Sacrifice this Equipment: You gain 3 life.\nWhen this Equipment is put into a graveyard from the battlefield, you may pay {1}{W}. If you do, create two 1/1 white Dog creature tokens.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +2/+0.\n{2}, {T}, Sacrifice this Equipment: You gain 3 life.\nWhen this Equipment is put into a graveyard from the battlefield, you may pay {1}{W}. If you do, create two 1/1 white Dog creature tokens.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -10742,7 +11300,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "({T}: Add {B} or {G}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+    "rulesTexts": [
+      "({T}: Add {B} or {G}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+    ],
     "keywords": [
       "surveil"
     ],
@@ -10788,7 +11348,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, choose one —\n• Cloak a card from your hand. (Put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)\n• Put a +1/+1 counter on each colorless creature you control.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, choose one —\n• Cloak a card from your hand. (Put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)\n• Put a +1/+1 counter on each colorless creature you control."
+    ],
     "keywords": [
       "cloak"
     ],
@@ -10826,7 +11388,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, if it's not suspected, you may suspect it. (A suspected creature has menace and can't block.)",
+    "rulesTexts": [
+      "Whenever this creature attacks, if it's not suspected, you may suspect it. (A suspected creature has menace and can't block.)"
+    ],
     "keywords": [
       "suspect"
     ],
@@ -10861,7 +11425,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "{T}, Collect evidence 3: Add one mana of any color. Put an unlock counter on this artifact. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)\nSacrifice this artifact: Surveil 3, then draw three cards. Activate only if this artifact has five or more unlock counters on it.",
+    "rulesTexts": [
+      "{T}, Collect evidence 3: Add one mana of any color. Put an unlock counter on this artifact. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)\nSacrifice this artifact: Surveil 3, then draw three cards. Activate only if this artifact has five or more unlock counters on it."
+    ],
     "keywords": [
       "collect evidence",
       "surveil"
@@ -10907,7 +11473,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Each player who controls the most creatures investigates. Then destroy all creatures. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "rulesTexts": [
+      "Each player who controls the most creatures investigates. Then destroy all creatures. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")"
+    ],
     "keywords": [
       "investigate"
     ],
@@ -10944,7 +11512,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target creature card from your graveyard to the battlefield. Suspect it. (It has menace and can't block.)",
+    "rulesTexts": [
+      "Return target creature card from your graveyard to the battlefield. Suspect it. (It has menace and can't block.)"
+    ],
     "keywords": [
       "suspect"
     ],
@@ -10983,7 +11553,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard. Create a 0/0 colorless Thopter artifact creature token with flying, then put a +1/+1 counter on it for each card put into your graveyard this way.",
+    "rulesTexts": [
+      "Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard. Create a 0/0 colorless Thopter artifact creature token with flying, then put a +1/+1 counter on it for each card put into your graveyard this way."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11021,7 +11593,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Worldsoul's Rage deals X damage to any target. Put up to X land cards from your hand and/or graveyard onto the battlefield tapped.",
+    "rulesTexts": [
+      "Worldsoul's Rage deals X damage to any target. Put up to X land cards from your hand and/or graveyard onto the battlefield tapped."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11059,7 +11633,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhenever this creature deals combat damage to a player, you gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\nDisguise {4}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)",
+    "rulesTexts": [
+      "Flying\nWhenever this creature deals combat damage to a player, you gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\nDisguise {4}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)"
+    ],
     "keywords": [
       "flying",
       "surveil",
@@ -11098,7 +11674,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"

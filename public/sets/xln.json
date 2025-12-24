@@ -25,7 +25,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "flying",
       "explore"
@@ -61,7 +63,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target non-Merfolk creature.",
+    "rulesTexts": [
+      "Destroy target non-Merfolk creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -96,7 +100,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk.",
+    "rulesTexts": [
+      "Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -129,7 +135,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -161,7 +169,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -196,7 +206,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has haste.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +2/+2 and has haste."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -231,7 +243,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.",
+    "rulesTexts": [
+      "Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -267,7 +281,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature has flying as long as you control another Merfolk.",
+    "rulesTexts": [
+      "This creature has flying as long as you control another Merfolk."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -303,7 +319,10 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this Vehicle attacks, exile it at end of combat, then return it to the battlefield transformed under your control.\nCrew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "When this Vehicle attacks, exile it at end of combat, then return it to the battlefield transformed under your control.\nCrew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",
+      "(Transforms from Conqueror's Galleon.)\n{T}: Add {C}.\n{2}, {T}: Draw a card, then discard a card.\n{4}, {T}: Draw a card.\n{6}, {T}: Return target card from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -340,7 +359,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.\n{3}{W}{W}, Sacrifice this creature: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.\n{3}{W}{W}, Sacrifice this creature: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -375,7 +396,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Dark Nourishment deals 3 damage to any target. You gain 3 life.",
+    "rulesTexts": [
+      "Dark Nourishment deals 3 damage to any target. You gain 3 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -414,7 +437,10 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Legion's Landing enters, create a 1/1 white Vampire creature token with lifelink.\nWhen you attack with three or more creatures, transform Legion's Landing.",
+    "rulesTexts": [
+      "When Legion's Landing enters, create a 1/1 white Vampire creature token with lifelink.\nWhen you attack with three or more creatures, transform Legion's Landing.",
+      "(Transforms from Legion's Landing.)\n{T}: Add {W}.\n{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -453,7 +479,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "First strike\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "First strike\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "first strike",
       "explore"
@@ -491,7 +519,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -526,7 +556,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{B}: This creature gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "{B}: This creature gains deathtouch until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -561,7 +593,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnrage — Whenever this creature is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)",
+    "rulesTexts": [
+      "Flash\nEnrage — Whenever this creature is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)"
+    ],
     "keywords": [
       "enrage",
       "flash"
@@ -597,7 +631,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Dual Shot deals 1 damage to each of up to two target creatures.",
+    "rulesTexts": [
+      "Dual Shot deals 1 damage to each of up to two target creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -629,7 +665,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this artifact enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}, Exile this artifact: Exile all graveyards.",
+    "rulesTexts": [
+      "When this artifact enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}, Exile this artifact: Exile all graveyards."
+    ],
     "keywords": [
       "scry"
     ],
@@ -667,7 +705,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+    "rulesTexts": [
+      "When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -699,7 +739,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control a Forest or a Plains.\n{T}: Add {G} or {W}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -737,7 +779,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -778,7 +822,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "When this creature dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -823,7 +869,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{7}{U}, {T}, Sacrifice this creature: Draw three cards.",
+    "rulesTexts": [
+      "{7}{U}, {T}, Sacrifice this creature: Draw three cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -861,7 +909,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this creature enters, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.",
+    "rulesTexts": [
+      "When this creature enters, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -894,7 +944,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gain control of target creature with mana value X.",
+    "rulesTexts": [
+      "Gain control of target creature with mana value X."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -931,7 +983,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhen this creature enters, it deals 1 damage to each other creature.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, it deals 1 damage to each other creature."
+    ],
     "keywords": [
       "trample"
     ],
@@ -968,7 +1022,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant land\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\nEnchanted land has \"{T}: Add two mana of any one color.\"",
+    "rulesTexts": [
+      "Enchant land\nWhen this Aura enters, put a +1/+1 counter on target creature you control.\nEnchanted land has \"{T}: Add two mana of any one color.\""
+    ],
     "keywords": [
       "enchant"
     ],
@@ -1011,7 +1067,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1048,7 +1106,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -1087,7 +1147,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying, menace",
+    "rulesTexts": [
+      "Flying, menace"
+    ],
     "keywords": [
       "flying",
       "menace"
@@ -1126,7 +1188,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control with +1/+1 counters on them can't be blocked.",
+    "rulesTexts": [
+      "Creatures you control with +1/+1 counters on them can't be blocked."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1161,7 +1225,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\n{1}{W}, {T}: This creature deals damage equal to its toughness to target creature blocking or blocked by it.",
+    "rulesTexts": [
+      "Vigilance\n{1}{W}, {T}: This creature deals damage equal to its toughness to target creature blocking or blocked by it."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -1205,7 +1271,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Tishana's power and toughness are each equal to the number of cards in your hand.\nYou have no maximum hand size.\nWhen Tishana enters, draw a card for each creature you control.",
+    "rulesTexts": [
+      "Tishana's power and toughness are each equal to the number of cards in your hand.\nYou have no maximum hand size.\nWhen Tishana enters, draw a card for each creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1244,7 +1312,10 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "At the beginning of your upkeep, surveil 1. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta. (Look at the top card of your library. You may put that card into your graveyard.)",
+    "rulesTexts": [
+      "At the beginning of your upkeep, surveil 1. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta. (Look at the top card of your library. You may put that card into your graveyard.)",
+      "(Transforms from Search for Azcanta.)\n{T}: Add {U}.\n{2}{U}, {T}: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1280,7 +1351,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -1321,7 +1394,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "{2}{B}, Sacrifice a creature: Create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")\nSacrifice three Treasures: Draw a card.",
+    "rulesTexts": [
+      "{2}{B}, Sacrifice a creature: Create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")\nSacrifice three Treasures: Draw a card."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -1362,7 +1437,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1398,7 +1475,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, target opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, target opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1433,7 +1512,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+3 and gains trample until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +3/+3 and gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1469,7 +1550,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As long as this creature is attacking, it gets +2/+0.\nPay 4 life: This creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "rulesTexts": [
+      "As long as this creature is attacking, it gets +2/+0.\nPay 4 life: This creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1504,7 +1587,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1537,7 +1622,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.",
+    "rulesTexts": [
+      "Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1570,7 +1657,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Pirates you control get +1/+0.\nWhenever this Vehicle deals combat damage to a player, that player discards a card.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Pirates you control get +1/+0.\nWhenever this Vehicle deals combat damage to a player, that player discards a card.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew"
     ],
@@ -1607,7 +1696,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As long as you control another Dinosaur, this creature gets +2/+0 and has trample.",
+    "rulesTexts": [
+      "As long as you control another Dinosaur, this creature gets +2/+0 and has trample."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1642,7 +1733,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -1680,7 +1773,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, each opponent loses 1 life.",
+    "rulesTexts": [
+      "Whenever this creature attacks, each opponent loses 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1716,7 +1811,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1749,7 +1846,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "rulesTexts": [
+      "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+    ],
     "keywords": [
       "fight"
     ],
@@ -1786,7 +1885,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nCreatures your opponents control enter tapped.",
+    "rulesTexts": [
+      "Flying\nCreatures your opponents control enter tapped."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1824,7 +1925,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked.\nWhenever another Merfolk you control enters, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "This creature can't be blocked.\nWhenever another Merfolk you control enters, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1859,7 +1962,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has flying.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +2/+2 and has flying."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -1899,7 +2004,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore"
     ],
@@ -1936,7 +2043,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1971,7 +2080,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enrage — Whenever this creature is dealt damage, you gain 2 life.",
+    "rulesTexts": [
+      "Enrage — Whenever this creature is dealt damage, you gain 2 life."
+    ],
     "keywords": [
       "enrage"
     ],
@@ -2009,7 +2120,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you gain 4 life.",
+    "rulesTexts": [
+      "When this creature enters, you gain 4 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2044,7 +2157,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Destroy target attacking creature.\nDraw a card.",
+    "rulesTexts": [
+      "Destroy target attacking creature.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2082,7 +2197,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Spells your opponents cast that target a Merfolk you control cost {2} more to cast.\nAbilities your opponents activate that target a Merfolk you control cost {2} more to activate.",
+    "rulesTexts": [
+      "Spells your opponents cast that target a Merfolk you control cost {2} more to cast.\nAbilities your opponents activate that target a Merfolk you control cost {2} more to activate."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2120,7 +2237,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Lifelink\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "Lifelink\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "lifelink",
       "explore"
@@ -2160,7 +2279,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Other Dinosaurs you control get +1/+1.\n{5}{G}: Create a 3/3 green Dinosaur creature token with trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+    "rulesTexts": [
+      "Other Dinosaurs you control get +1/+1.\n{5}{G}: Create a 3/3 green Dinosaur creature token with trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2193,7 +2314,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards.",
+    "rulesTexts": [
+      "Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2231,7 +2354,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Menace\nWhenever this creature attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace.",
+    "rulesTexts": [
+      "Menace\nWhenever this creature attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace."
+    ],
     "keywords": [
       "menace"
     ],
@@ -2269,7 +2394,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, target opponent loses 1 life for each Vampire you control.",
+    "rulesTexts": [
+      "When this creature enters, target opponent loses 1 life for each Vampire you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2302,7 +2429,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature with power 4 or greater.",
+    "rulesTexts": [
+      "Destroy target creature with power 4 or greater."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2334,7 +2463,10 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nAt the beginning of your end step, if you control seven or more lands, transform this artifact.",
+    "rulesTexts": [
+      "{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nAt the beginning of your end step, if you control seven or more lands, transform this artifact.",
+      "(Transforms from Thaumatic Compass.)\n{T}: Add {C}.\n{T}: Untap target attacking creature an opponent controls and remove it from combat."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2370,7 +2502,9 @@
     "toughness": 9,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2405,7 +2539,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -2442,7 +2578,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2481,7 +2619,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Each creature you control assigns combat damage equal to its toughness rather than its power.",
+    "rulesTexts": [
+      "Each creature you control assigns combat damage equal to its toughness rather than its power."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2516,7 +2656,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller.",
+    "rulesTexts": [
+      "Menace\nPlayers can't gain life.\nWhenever another creature enters, this creature deals 1 damage to that creature's controller."
+    ],
     "keywords": [
       "menace"
     ],
@@ -2549,7 +2691,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature has flying.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature has flying.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -2584,7 +2728,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of your upkeep, you may have two target players exchange life totals.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, you may have two target players exchange life totals."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2620,7 +2766,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{7}{B}, {T}, Sacrifice this creature: Target opponent loses 4 life and you gain 4 life.",
+    "rulesTexts": [
+      "Flying\n{7}{B}, {T}, Sacrifice this creature: Target opponent loses 4 life and you gain 4 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -2657,7 +2805,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be countered.\nTrample, hexproof",
+    "rulesTexts": [
+      "This spell can't be countered.\nTrample, hexproof"
+    ],
     "keywords": [
       "hexproof",
       "trample"
@@ -2700,7 +2850,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card.",
+    "rulesTexts": [
+      "Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card."
+    ],
     "keywords": [
       "raid"
     ],
@@ -2739,7 +2891,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enrage — Whenever this creature is dealt damage, it deals 3 damage to target opponent or planeswalker.",
+    "rulesTexts": [
+      "Enrage — Whenever this creature is dealt damage, it deals 3 damage to target opponent or planeswalker."
+    ],
     "keywords": [
       "enrage"
     ],
@@ -2779,7 +2933,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Vigilance\nWhenever this creature attacks, you may return target creature card with mana value 3 or less from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Vigilance\nWhenever this creature attacks, you may return target creature card with mana value 3 or less from your graveyard to the battlefield."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -2816,7 +2972,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Choose one —\n• Return target creature card from your graveyard to your hand.\n• Return two target Pirate cards from your graveyard to your hand.",
+    "rulesTexts": [
+      "Choose one —\n• Return target creature card from your graveyard to your hand.\n• Return two target Pirate cards from your graveyard to your hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2852,7 +3010,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhen this creature enters, you may have it fight another target creature. (Each deals damage equal to its power to the other.)",
+    "rulesTexts": [
+      "Reach\nWhen this creature enters, you may have it fight another target creature. (Each deals damage equal to its power to the other.)"
+    ],
     "keywords": [
       "reach",
       "fight"
@@ -2891,7 +3051,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nThis creature enters with a +1/+1 counter on it for each creature that died this turn.",
+    "rulesTexts": [
+      "Flash\nThis creature enters with a +1/+1 counter on it for each creature that died this turn."
+    ],
     "keywords": [
       "flash"
     ],
@@ -2928,7 +3090,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -2965,7 +3129,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can block an additional creature each combat.",
+    "rulesTexts": [
+      "This creature can block an additional creature each combat."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3001,7 +3167,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature has flying as long as you control a Dinosaur.",
+    "rulesTexts": [
+      "This creature has flying as long as you control a Dinosaur."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3037,7 +3205,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Destroy target artifact or enchantment.\nDraw a card.",
+    "rulesTexts": [
+      "Destroy target artifact or enchantment.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3073,7 +3243,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's mana value.",
+    "rulesTexts": [
+      "Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's mana value."
+    ],
     "keywords": [
       "raid"
     ],
@@ -3112,7 +3284,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Draw two cards. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Draw two cards. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -3152,7 +3326,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "This artifact doesn't untap during your untap step.\n{4}, {T}: This artifact deals 2 damage to any target.\nAt the beginning of your upkeep, you may discard a card. If you do, untap this artifact.",
+    "rulesTexts": [
+      "This artifact doesn't untap during your untap step.\n{4}, {T}: This artifact deals 2 damage to any target.\nAt the beginning of your upkeep, you may discard a card. If you do, untap this artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3187,7 +3363,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -3222,7 +3400,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Players can't cast spells from graveyards or activate abilities of cards in graveyards.\nWhenever a creature dies, you gain 1 life.",
+    "rulesTexts": [
+      "Players can't cast spells from graveyards or activate abilities of cards in graveyards.\nWhenever a creature dies, you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3260,7 +3440,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "When this creature enters, create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -3300,7 +3482,10 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Equipment enters, target opponent creates two 0/2 green Plant creature tokens with defender.\nEquipped creature gets +2/+1.\nWhenever equipped creature deals combat damage to a player, you may transform this Equipment.\nEquip {2}",
+    "rulesTexts": [
+      "When this Equipment enters, target opponent creates two 0/2 green Plant creature tokens with defender.\nEquipped creature gets +2/+1.\nWhenever equipped creature deals combat damage to a player, you may transform this Equipment.\nEquip {2}",
+      "(Transforms from Dowsing Dagger.)\n{T}: Add three mana of any one color."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3330,7 +3515,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{1}, {T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3372,7 +3559,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.",
+    "rulesTexts": [
+      "Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3408,7 +3597,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature gets +2/+2 as long as you control a Dinosaur.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "This creature gets +2/+2 as long as you control a Dinosaur.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -3449,7 +3640,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -3487,7 +3680,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{R}: This creature gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "{1}{R}: This creature gets +1/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3522,7 +3717,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a creature you control explores, put a +1/+1 counter on this creature and you gain 3 life.",
+    "rulesTexts": [
+      "Whenever a creature you control explores, put a +1/+1 counter on this creature and you gain 3 life."
+    ],
     "keywords": [
       "explore"
     ],
@@ -3560,7 +3757,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature gets +1/+1 as long as you control another Merfolk or an Island.",
+    "rulesTexts": [
+      "This creature gets +1/+1 as long as you control another Merfolk or an Island."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3593,7 +3792,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+    "rulesTexts": [
+      "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3630,7 +3831,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace, deathtouch\nWhen this creature enters, each player loses a third of their life, rounded up.",
+    "rulesTexts": [
+      "Menace, deathtouch\nWhen this creature enters, each player loses a third of their life, rounded up."
+    ],
     "keywords": [
       "menace",
       "deathtouch"
@@ -3668,7 +3871,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\n{7}{R}, {T}, Sacrifice this creature: It deals 3 damage to each of up to two target creatures.",
+    "rulesTexts": [
+      "Menace\n{7}{R}, {T}, Sacrifice this creature: It deals 3 damage to each of up to two target creatures."
+    ],
     "keywords": [
       "menace"
     ],
@@ -3706,7 +3911,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nThis creature can block only creatures with flying.\nWhen this creature enters, if you control another Pirate, tap up to two target nonland permanents.",
+    "rulesTexts": [
+      "Flash\nFlying\nThis creature can block only creatures with flying.\nWhen this creature enters, if you control another Pirate, tap up to two target nonland permanents."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -3744,7 +3951,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has lifelink.",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets +2/+2 and has lifelink."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -3781,7 +3990,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste",
+    "rulesTexts": [
+      "Haste"
+    ],
     "keywords": [
       "haste"
     ],
@@ -3821,7 +4032,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{2}{U}: This creature can't be blocked this turn.\nWhenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.",
+    "rulesTexts": [
+      "{2}{U}: This creature can't be blocked this turn.\nWhenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3859,7 +4072,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 white Vampire creature token with lifelink.",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 white Vampire creature token with lifelink."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3900,7 +4115,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Haste\nWhenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nWhenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Haste\nWhenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nWhenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "treasure",
       "haste"
@@ -3945,7 +4162,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3980,7 +4199,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nYour opponents can't cast spells with the same name as the exiled card.",
+    "rulesTexts": [
+      "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nYour opponents can't cast spells with the same name as the exiled card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4012,7 +4233,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card.",
+    "rulesTexts": [
+      "As this artifact enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.\nWhenever you cast a creature spell of the chosen type, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4048,7 +4271,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
+    "rulesTexts": [
+      "Flash (You may cast this spell any time you could cast an instant.)\nFlying"
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -4087,7 +4312,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Dinosaur spells you cast cost {1} less to cast.",
+    "rulesTexts": [
+      "Dinosaur spells you cast cost {1} less to cast."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4123,7 +4350,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Return target creature to its owner's hand. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Return target creature to its owner's hand. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4172,7 +4401,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "This creature gets +1/+1 for each artifact you control.\n{2}{U}{B}: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "This creature gets +1/+1 for each artifact you control.\n{2}{U}{B}: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4216,7 +4447,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, tap all creatures target opponent controls.",
+    "rulesTexts": [
+      "When this creature enters, tap all creatures target opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4252,7 +4485,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "{1}, Sacrifice an artifact or creature: This enchantment deals 1 damage to any target.",
+    "rulesTexts": [
+      "{1}, Sacrifice an artifact or creature: This enchantment deals 1 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4285,7 +4520,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Fiery Cannonade deals 2 damage to each non-Pirate creature.",
+    "rulesTexts": [
+      "Fiery Cannonade deals 2 damage to each non-Pirate creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4321,7 +4558,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't block.\nThis creature has menace as long as you control another Pirate.",
+    "rulesTexts": [
+      "This creature can't block.\nThis creature has menace as long as you control another Pirate."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4356,7 +4595,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Untap target land.",
+    "rulesTexts": [
+      "{T}: Untap target land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4391,7 +4632,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nDraw a card.",
+    "rulesTexts": [
+      "Scry 1. (Look at the top card of your library. You may put that card on the bottom.)\nDraw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -4431,7 +4674,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, target opponent creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "When this creature dies, target opponent creates two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4474,7 +4719,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, you gain 2 life.\nEnchanted creature can't attack or block.",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, you gain 2 life.\nEnchanted creature can't attack or block."
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4512,7 +4759,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -4553,7 +4802,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4596,7 +4847,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You gain 4 life.\nDraw a card.",
+    "rulesTexts": [
+      "You gain 4 life.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4629,7 +4882,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target noncreature spell unless its controller pays {2}.",
+    "rulesTexts": [
+      "Counter target noncreature spell unless its controller pays {2}."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4664,7 +4919,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Counter target spell. Create X Treasure tokens, where X is that spell's mana value. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Counter target spell. Create X Treasure tokens, where X is that spell's mana value. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4703,7 +4960,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this artifact enters, target opponent loses 1 life and you gain 1 life.\n{T}: Add {C}.",
+    "rulesTexts": [
+      "When this artifact enters, target opponent loses 1 life and you gain 1 life.\n{T}: Add {C}."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -4740,7 +4999,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike\n{7}{W}, {T}, Sacrifice this creature: Creatures you control get +2/+2 until end of turn.",
+    "rulesTexts": [
+      "First strike\n{7}{W}, {T}, Sacrifice this creature: Creatures you control get +2/+2 until end of turn."
+    ],
     "keywords": [
       "first strike"
     ],
@@ -4780,7 +5041,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Vigilance\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "vigilance",
       "explore"
@@ -4819,7 +5082,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4856,7 +5121,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{U}, Sacrifice this creature: Counter target spell or ability that targets you or a creature you control.",
+    "rulesTexts": [
+      "Flying\n{U}, Sacrifice this creature: Counter target spell or ability that targets you or a creature you control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4900,7 +5167,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, trample, haste\nWhenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Vigilance, trample, haste\nWhenever Gishath deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order."
+    ],
     "keywords": [
       "vigilance",
       "haste",
@@ -4940,7 +5209,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, if you cast it from your hand, destroy all non-Dinosaur creatures.",
+    "rulesTexts": [
+      "When this creature enters, if you cast it from your hand, destroy all non-Dinosaur creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4975,7 +5246,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach",
+    "rulesTexts": [
+      "Reach"
+    ],
     "keywords": [
       "reach"
     ],
@@ -5010,7 +5283,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew"
     ],
@@ -5047,7 +5322,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+    "rulesTexts": [
+      "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
+    ],
     "keywords": [
       "trample"
     ],
@@ -5085,7 +5362,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nAt the beginning of your upkeep, if you control ten or more Treasures, you win the game.",
+    "rulesTexts": [
+      "Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nAt the beginning of your upkeep, if you control ten or more Treasures, you win the game."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -5128,7 +5407,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Unfriendly Fire deals 4 damage to any target.",
+    "rulesTexts": [
+      "Unfriendly Fire deals 4 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5168,7 +5449,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{3}{G}: Put a +1/+1 counter on target creature.\n{2}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.",
+    "rulesTexts": [
+      "{3}{G}: Put a +1/+1 counter on target creature.\n{2}{U}, Remove a +1/+1 counter from a creature you control: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5204,7 +5487,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature becomes blocked, it gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature becomes blocked, it gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5241,7 +5526,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Enrage — Whenever this creature is dealt damage, draw a card.",
+    "rulesTexts": [
+      "Enrage — Whenever this creature is dealt damage, draw a card."
+    ],
     "keywords": [
       "enrage"
     ],
@@ -5278,7 +5565,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, another target creature you control gets +1/+1 and gains flying until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, another target creature you control gets +1/+1 and gains flying until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5316,7 +5605,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.",
+    "rulesTexts": [
+      "{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5352,7 +5643,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature has double strike as long as you control a Dinosaur.",
+    "rulesTexts": [
+      "This creature has double strike as long as you control a Dinosaur."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5387,7 +5680,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, target player mills half their library, rounded up.",
+    "rulesTexts": [
+      "Whenever this creature attacks, target player mills half their library, rounded up."
+    ],
     "keywords": [
       "mill"
     ],
@@ -5424,7 +5719,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -5462,7 +5759,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Rile deals 1 damage to target creature you control. That creature gains trample until end of turn.\nDraw a card.",
+    "rulesTexts": [
+      "Rile deals 1 damage to target creature you control. That creature gains trample until end of turn.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5499,7 +5798,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Enrage — Whenever this creature is dealt damage, create a 3/3 green Dinosaur creature token with trample.",
+    "rulesTexts": [
+      "Enrage — Whenever this creature is dealt damage, create a 3/3 green Dinosaur creature token with trample."
+    ],
     "keywords": [
       "enrage"
     ],
@@ -5539,7 +5840,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, it gets +1/+1 until end of turn for each other attacking Pirate.",
+    "rulesTexts": [
+      "Whenever this creature attacks, it gets +1/+1 until end of turn for each other attacking Pirate."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5574,7 +5877,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike\nWhenever this creature attacks, other creatures you control gain double strike until end of turn.",
+    "rulesTexts": [
+      "Double strike\nWhenever this creature attacks, other creatures you control gain double strike until end of turn."
+    ],
     "keywords": [
       "double strike"
     ],
@@ -5614,7 +5919,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{T}, Discard a card: Draw a card.",
+    "rulesTexts": [
+      "{T}, Discard a card: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5652,7 +5959,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{1}{B}, {T}: Exile two target cards from an opponent's graveyard. This creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "{1}{B}, {T}: Exile two target cards from an opponent's graveyard. This creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore"
     ],
@@ -5685,7 +5994,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As this artifact enters, look at an opponent's hand, then choose any card name.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities.",
+    "rulesTexts": [
+      "As this artifact enters, look at an opponent's hand, then choose any card name.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5718,7 +6029,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5756,7 +6069,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Raid — When this creature enters, if you attacked this turn, you may draw a card. If you do, discard a card.",
+    "rulesTexts": [
+      "Raid — When this creature enters, if you attacked this turn, you may draw a card. If you do, discard a card."
+    ],
     "keywords": [
       "raid"
     ],
@@ -5796,7 +6111,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flying\nTap three untapped Vampires you control: Return this card from your graveyard to your hand.",
+    "rulesTexts": [
+      "Flying\nTap three untapped Vampires you control: Return this card from your graveyard to your hand."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5834,7 +6151,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Raid — When this creature enters, if you attacked this turn, target opponent sacrifices a permanent of their choice.",
+    "rulesTexts": [
+      "Raid — When this creature enters, if you attacked this turn, target opponent sacrifices a permanent of their choice."
+    ],
     "keywords": [
       "raid"
     ],
@@ -5869,7 +6188,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +5/+5 until end of turn and must be blocked this turn if able.",
+    "rulesTexts": [
+      "Target creature gets +5/+5 until end of turn and must be blocked this turn if able."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5904,7 +6225,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying",
+    "rulesTexts": [
+      "Flying"
+    ],
     "keywords": [
       "flying"
     ],
@@ -5938,7 +6261,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -5977,7 +6302,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card.",
+    "rulesTexts": [
+      "Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6009,7 +6336,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R}."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -6047,7 +6376,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.",
+    "rulesTexts": [
+      "Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6083,7 +6414,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked.\nWhen this creature enters, return a creature you control to its owner's hand.",
+    "rulesTexts": [
+      "This creature can't be blocked.\nWhen this creature enters, return a creature you control to its owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6118,7 +6451,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -6162,7 +6497,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "+2: Create a 2/2 black Pirate creature token with menace.\n−3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n−10: Target player's life total becomes 1.",
+    "rulesTexts": [
+      "+2: Create a 2/2 black Pirate creature token with menace.\n−3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n−10: Target player's life total becomes 1."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -6205,7 +6542,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw two cards. Then discard a card unless you attacked this turn.",
+    "rulesTexts": [
+      "Draw two cards. Then discard a card unless you attacked this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6247,7 +6586,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Other Pirates you control get +1/+1.\nAt the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn.",
+    "rulesTexts": [
+      "Other Pirates you control get +1/+1.\nAt the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6285,7 +6626,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This creature can't attack unless you control an artifact.",
+    "rulesTexts": [
+      "This creature can't attack unless you control an artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6320,7 +6663,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Until end of turn, target creature gains \"When this creature dies, return it to its owner's hand.\"\nDraw a card.",
+    "rulesTexts": [
+      "Until end of turn, target creature gains \"When this creature dies, return it to its owner's hand.\"\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6356,7 +6701,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6394,7 +6741,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Haste\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "Haste\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "haste",
       "explore"
@@ -6432,7 +6781,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6468,7 +6819,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature or another creature you control enters, you gain life equal to that creature's toughness.",
+    "rulesTexts": [
+      "Whenever this creature or another creature you control enters, you gain life equal to that creature's toughness."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6504,7 +6857,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nRaid — This creature enters with a +1/+1 counter on it if you attacked this turn.",
+    "rulesTexts": [
+      "Flying\nRaid — This creature enters with a +1/+1 counter on it if you attacked this turn."
+    ],
     "keywords": [
       "flying",
       "raid"
@@ -6546,7 +6901,10 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.\nWhenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.\nWhenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons.",
+      "(Transforms from Vance's Blasting Cannons.)\n{T}: Add {R}.\n{2}{R}, {T}: Spitfire Bastion deals 3 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6582,7 +6940,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enrage — Whenever this creature is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Enrage — Whenever this creature is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [
       "enrage"
     ],
@@ -6619,7 +6979,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Put target artifact or creature on top of its owner's library.",
+    "rulesTexts": [
+      "Put target artifact or creature on top of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6654,7 +7016,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -6697,7 +7061,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "+2: You gain life equal to the greatest power among creatures you control.\n0: Create a 3/3 green Dinosaur creature token with trample.\n−X: Huatli deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.",
+    "rulesTexts": [
+      "+2: You gain life equal to the greatest power among creatures you control.\n0: Create a 3/3 green Dinosaur creature token with trample.\n−X: Huatli deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6735,7 +7101,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Whenever this creature enters or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature enters or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6774,7 +7142,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "When this creature enters, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -6815,7 +7185,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn.",
+    "rulesTexts": [
+      "Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6851,7 +7223,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures entering don't cause abilities to trigger.",
+    "rulesTexts": [
+      "Creatures entering don't cause abilities to trigger."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6886,7 +7260,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't attack or block alone.",
+    "rulesTexts": [
+      "This creature can't attack or block alone."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6919,7 +7295,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Choose one —\n• Destroy target creature with flying.\n• Destroy target enchantment.",
+    "rulesTexts": [
+      "Choose one —\n• Destroy target creature with flying.\n• Destroy target enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6954,7 +7332,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6989,7 +7369,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Slash of Talons deals 2 damage to target attacking or blocking creature.",
+    "rulesTexts": [
+      "Slash of Talons deals 2 damage to target attacking or blocking creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7025,7 +7407,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever this creature attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn.",
+    "rulesTexts": [
+      "Haste\nWhenever this creature attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -7063,7 +7447,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Pay 2 life: This creature gains flying until end of turn.\nPay 2 life: This creature gains vigilance until end of turn.",
+    "rulesTexts": [
+      "Pay 2 life: This creature gains flying until end of turn.\nPay 2 life: This creature gains vigilance until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7102,7 +7488,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Raid — When this creature enters, if you attacked this turn, this creature deals 2 damage to any target.",
+    "rulesTexts": [
+      "Raid — When this creature enters, if you attacked this turn, this creature deals 2 damage to any target."
+    ],
     "keywords": [
       "raid"
     ],
@@ -7139,7 +7527,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -7179,7 +7569,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn.",
+    "rulesTexts": [
+      "Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn."
+    ],
     "keywords": [
       "explore"
     ],
@@ -7217,7 +7609,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhen this creature enters, put a +1/+1 counter on target Merfolk you control.",
+    "rulesTexts": [
+      "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhen this creature enters, put a +1/+1 counter on target Merfolk you control."
+    ],
     "keywords": [
       "hexproof"
     ],
@@ -7253,7 +7647,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Equipped creature gets +1/+0.\nWhenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +1/+0.\nWhenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "treasure",
       "equip"
@@ -7295,7 +7691,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control with flying get +1/+1.",
+    "rulesTexts": [
+      "Creatures you control with flying get +1/+1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7328,7 +7726,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Vigilance\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Vigilance\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "vigilance",
       "crew"
@@ -7369,7 +7769,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore"
     ],
@@ -7406,7 +7808,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, tap target creature an opponent controls.",
+    "rulesTexts": [
+      "Whenever this creature attacks, tap target creature an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7439,7 +7843,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say \"destroy\" don't destroy the creature.)",
+    "rulesTexts": [
+      "Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say \"destroy\" don't destroy the creature.)"
+    ],
     "keywords": [
       "scry"
     ],
@@ -7476,7 +7882,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Firecannon Blast deals 3 damage to target creature.\nRaid — Firecannon Blast deals 6 damage instead if you attacked this turn.",
+    "rulesTexts": [
+      "Firecannon Blast deals 3 damage to target creature.\nRaid — Firecannon Blast deals 6 damage instead if you attacked this turn."
+    ],
     "keywords": [
       "raid"
     ],
@@ -7516,7 +7924,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore"
     ],
@@ -7554,7 +7964,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, if you control a Dinosaur, this creature gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Whenever this creature attacks, if you control a Dinosaur, this creature gets +1/+1 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7587,7 +7999,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Whenever a creature you control explores, put a +1/+1 counter on this Vehicle.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Whenever a creature you control explores, put a +1/+1 counter on this Vehicle.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew",
       "explore"
@@ -7623,7 +8037,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7660,7 +8076,10 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Growing Rites of Itlimoc enters, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\nAt the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.",
+    "rulesTexts": [
+      "When Growing Rites of Itlimoc enters, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\nAt the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.",
+      "(Transforms from Growing Rites of Itlimoc.)\n{T}: Add {G}.\n{T}: Add {G} for each creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7692,7 +8111,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this Equipment enters, attach it to target Pirate you control.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "When this Equipment enters, attach it to target Pirate you control.\nEquipped creature gets +2/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -7726,7 +8147,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}."
+    ],
     "keywords": [],
     "produces": [
       "G",
@@ -7769,7 +8192,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.\n−2: Create a 2/2 blue Illusion creature token with \"When this token becomes the target of a spell, sacrifice it.\"\n−5: Create two tokens that are copies of Jace, except they're not legendary.",
+    "rulesTexts": [
+      "+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.\n−2: Create a 2/2 blue Illusion creature token with \"When this token becomes the target of a spell, sacrifice it.\"\n−5: Create two tokens that are copies of Jace, except they're not legendary."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7804,7 +8229,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.",
+    "rulesTexts": [
+      "Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7840,7 +8267,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Repeating Barrage deals 3 damage to any target.\nRaid — {3}{R}{R}: Return this card from your graveyard to your hand. Activate only if you attacked this turn.",
+    "rulesTexts": [
+      "Repeating Barrage deals 3 damage to any target.\nRaid — {3}{R}{R}: Return this card from your graveyard to your hand. Activate only if you attacked this turn."
+    ],
     "keywords": [
       "raid"
     ],
@@ -7878,7 +8307,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\n{W}, {T}: Target attacking Vampire gets +1/+1 until end of turn.",
+    "rulesTexts": [
+      "Flying\n{W}, {T}: Target attacking Vampire gets +1/+1 until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7913,7 +8344,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7948,7 +8381,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature or planeswalker. You gain 2 life.",
+    "rulesTexts": [
+      "Exile target creature or planeswalker. You gain 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7986,7 +8421,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Trample\nWhen this creature enters, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on this creature.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on this creature."
+    ],
     "keywords": [
       "trample"
     ],
@@ -8024,7 +8461,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{G}: Put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "{3}{G}: Put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8057,7 +8496,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.",
+    "rulesTexts": [
+      "As this enchantment enters, choose a creature type.\nCreatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8091,7 +8532,10 @@
       "token",
       "draw"
     ],
-    "oracleText": "{1}, {T}: Scry 1. Put a landmark counter on this artifact. Then if there are three or more landmark counters on it, remove those counters, transform this artifact, and create three Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "{1}, {T}: Scry 1. Put a landmark counter on this artifact. Then if there are three or more landmark counters on it, remove those counters, transform this artifact, and create three Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "(Transforms from Treasure Map.)\n{T}: Add {C}.\n{T}, Sacrifice a Treasure: Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8132,7 +8576,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, lifelink\n{T}, Pay 7 life: Destroy target nonland permanent. Activate only during your turn.",
+    "rulesTexts": [
+      "Vigilance, lifelink\n{T}, Pay 7 life: Destroy target nonland permanent. Activate only during your turn."
+    ],
     "keywords": [
       "lifelink",
       "vigilance"
@@ -8171,7 +8617,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Dinosaur spells you cast cost {1} less to cast.\n{T}: Target Dinosaur gains haste until end of turn.",
+    "rulesTexts": [
+      "Dinosaur spells you cast cost {1} less to cast.\n{T}: Target Dinosaur gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8206,7 +8654,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enrage — Whenever this creature is dealt damage, put a +1/+1 counter on each other creature you control.",
+    "rulesTexts": [
+      "Enrage — Whenever this creature is dealt damage, put a +1/+1 counter on each other creature you control."
+    ],
     "keywords": [
       "enrage"
     ],
@@ -8244,7 +8694,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw two cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8280,7 +8732,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, put a +1/+1 counter on each of up to two target Merfolk you control.",
+    "rulesTexts": [
+      "When this creature enters, put a +1/+1 counter on each of up to two target Merfolk you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8319,7 +8773,10 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{1}{B}, Pay 2 life: Draw a card.\nAt the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",
+    "rulesTexts": [
+      "{1}{B}, Pay 2 life: Draw a card.\nAt the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",
+      "(Transforms from Arguel's Blood Fast.)\n{T}: Add {B}.\n{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8356,7 +8813,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Target opponent discards two cards.\nRaid — If you attacked this turn, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Target opponent discards two cards.\nRaid — If you attacked this turn, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure",
       "raid"
@@ -8401,7 +8860,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8434,7 +8895,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target nonland permanent you don't control to its owner's hand. If its mana value was 2 or less, scry 2.",
+    "rulesTexts": [
+      "Return target nonland permanent you don't control to its owner's hand. If its mana value was 2 or less, scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -8469,7 +8932,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target land. Its controller loses 2 life.",
+    "rulesTexts": [
+      "Destroy target land. Its controller loses 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8502,7 +8967,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {2} less to cast if it targets a Dinosaur you control.\nPut a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "rulesTexts": [
+      "This spell costs {2} less to cast if it targets a Dinosaur you control.\nPut a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+    ],
     "keywords": [
       "fight"
     ],
@@ -8540,7 +9007,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8572,7 +9041,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}.",
+    "rulesTexts": [
+      "This land enters tapped unless you control a Plains or an Island.\n{T}: Add {W} or {U}."
+    ],
     "keywords": [],
     "produces": [
       "U",
@@ -8610,7 +9081,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -8645,7 +9118,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target spell.",
+    "rulesTexts": [
+      "Counter target spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8680,7 +9155,9 @@
     "toughness": 7,
     "loyalty": null,
     "tags": [],
-    "oracleText": "",
+    "rulesTexts": [
+      ""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8713,7 +9190,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control get +1/+1 until end of turn. Untap them.",
+    "rulesTexts": [
+      "Creatures you control get +1/+1 until end of turn. Untap them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8748,7 +9227,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Destroy target creature. Create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Destroy target creature. Create two Treasure tokens. (They're artifacts with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -8792,7 +9273,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Raid — When this creature enters, if you attacked this turn, target opponent discards a card.",
+    "rulesTexts": [
+      "Raid — When this creature enters, if you attacked this turn, target opponent discards a card."
+    ],
     "keywords": [
       "raid"
     ],
@@ -8829,7 +9312,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or land.",
+    "rulesTexts": [
+      "Destroy target artifact or land."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8861,7 +9346,10 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell, put a charge counter on this artifact. Then if there are four or more charge counters on it, you may remove those counters and transform it.",
+    "rulesTexts": [
+      "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell, put a charge counter on this artifact. Then if there are four or more charge counters on it, you may remove those counters and transform it.",
+      "(Transforms from Primal Amulet.)\n{T}: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8897,7 +9385,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample, haste",
+    "rulesTexts": [
+      "Trample, haste"
+    ],
     "keywords": [
       "haste",
       "trample"
@@ -8939,7 +9429,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Other Dinosaurs you control have haste.\nWhen this creature enters, create a 3/3 green Dinosaur creature token with trample.",
+    "rulesTexts": [
+      "Other Dinosaurs you control have haste.\nWhen this creature enters, create a 3/3 green Dinosaur creature token with trample."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8968,7 +9460,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -9006,7 +9500,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+    "rulesTexts": [
+      "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+    ],
     "keywords": [
       "lifelink"
     ],
@@ -9043,7 +9539,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -9080,7 +9578,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -9115,7 +9615,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "rulesTexts": [
+      "Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9150,7 +9652,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -9190,7 +9694,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Menace\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "Menace\nWhen this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore",
       "menace"
@@ -9226,7 +9732,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9264,7 +9772,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore"
     ],
@@ -9299,7 +9809,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target enchantment.",
+    "rulesTexts": [
+      "Destroy target enchantment."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9332,7 +9844,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature with power 3 or less.",
+    "rulesTexts": [
+      "Destroy target creature with power 3 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9368,7 +9882,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{7}{G}, {T}, Sacrifice this creature: Target creature gets +5/+5 and gains trample until end of turn.",
+    "rulesTexts": [
+      "{7}{G}, {T}, Sacrifice this creature: Target creature gets +5/+5 and gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9404,7 +9920,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, destroy target creature an opponent controls that was dealt damage this turn.",
+    "rulesTexts": [
+      "When this creature enters, destroy target creature an opponent controls that was dealt damage this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9445,7 +9963,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "When this creature enters, exile another target creature or artifact until this creature leaves the battlefield. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+    "rulesTexts": [
+      "When this creature enters, exile another target creature or artifact until this creature leaves the battlefield. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9481,7 +10001,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9514,7 +10036,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Raid — At the beginning of your end step, if you attacked this turn, target opponent mills four cards.",
+    "rulesTexts": [
+      "Raid — At the beginning of your end step, if you attacked this turn, target opponent mills four cards."
+    ],
     "keywords": [
       "raid",
       "mill"
@@ -9553,7 +10077,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: This creature deals 1 damage to each opponent.\nWhenever you cast a Pirate spell, untap this creature.",
+    "rulesTexts": [
+      "{T}: This creature deals 1 damage to each opponent.\nWhenever you cast a Pirate spell, untap this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9589,7 +10115,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "First strike\nRaid — This creature enters with a +1/+1 counter on it if you attacked this turn.",
+    "rulesTexts": [
+      "First strike\nRaid — This creature enters with a +1/+1 counter on it if you attacked this turn."
+    ],
     "keywords": [
       "first strike",
       "raid"
@@ -9627,7 +10155,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -9662,7 +10192,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Create two 1/1 white Vampire creature tokens with lifelink.",
+    "rulesTexts": [
+      "Create two 1/1 white Vampire creature tokens with lifelink."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9698,7 +10230,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",
+    "rulesTexts": [
+      "If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9733,7 +10267,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Lightning Strike deals 3 damage to any target.",
+    "rulesTexts": [
+      "Lightning Strike deals 3 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9768,7 +10304,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -9808,7 +10346,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Whenever this creature deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",
+    "rulesTexts": [
+      "Whenever this creature deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+    ],
     "keywords": [
       "explore"
     ],
@@ -9846,7 +10386,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle.",
+    "rulesTexts": [
+      "When this creature enters, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9879,7 +10421,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {1} less to cast if you control a Pirate.\nCounter target spell unless its controller pays {4}.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast if you control a Pirate.\nCounter target spell unless its controller pays {4}."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9915,7 +10459,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until this creature leaves the battlefield.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until this creature leaves the battlefield."
+    ],
     "keywords": [
       "flying"
     ],
@@ -9950,7 +10496,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target player draws seven cards.",
+    "rulesTexts": [
+      "Target player draws seven cards."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9985,7 +10533,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Create three 1/1 white Vampire creature tokens with lifelink.",
+    "rulesTexts": [
+      "Create three 1/1 white Vampire creature tokens with lifelink."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10025,7 +10575,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink.",
+    "rulesTexts": [
+      "Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10063,7 +10615,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Raid — When this creature enters, if you attacked this turn, draw a card.",
+    "rulesTexts": [
+      "Raid — When this creature enters, if you attacked this turn, draw a card."
+    ],
     "keywords": [
       "raid"
     ],
@@ -10096,7 +10650,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "As this artifact enters, choose a creature type.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",
+    "rulesTexts": [
+      "As this artifact enters, choose a creature type.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -10135,7 +10691,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library.",
+    "rulesTexts": [
+      "You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10171,7 +10729,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.\nAt the beginning of your end step, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.\nAt the beginning of your end step, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -10214,7 +10774,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -10249,7 +10811,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever an opponent discards a card, that player loses 2 life.\nRaid — At the beginning of your end step, if you attacked this turn, target opponent discards a card.",
+    "rulesTexts": [
+      "Whenever an opponent discards a card, that player loses 2 life.\nRaid — At the beginning of your end step, if you attacked this turn, target opponent discards a card."
+    ],
     "keywords": [
       "raid"
     ],
@@ -10284,7 +10848,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return all nonland permanents target player controls to their owner's hand.",
+    "rulesTexts": [
+      "Return all nonland permanents target player controls to their owner's hand."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10313,7 +10879,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",
+    "rulesTexts": [
+      "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type."
+    ],
     "keywords": [],
     "produces": [
       "B",

@@ -23,7 +23,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Up to two target creatures each get +2/+1 until end of turn. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Up to two target creatures each get +2/+1 until end of turn. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -60,7 +62,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Hobbit's Sting deals X damage to target creature, where X is the number of creatures you control plus the number of Foods you control.",
+    "rulesTexts": [
+      "Hobbit's Sting deals X damage to target creature, where X is the number of creatures you control plus the number of Foods you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -105,7 +109,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "Ward—Sacrifice a legendary artifact or legendary creature.\nWhenever an opponent casts a spell, amass Orcs 1.\nWhenever an Army you control deals combat damage to a player, the Ring tempts you.\nWhenever the Ring tempts you, you may discard your hand. If you do, draw four cards.",
+    "rulesTexts": [
+      "Ward—Sacrifice a legendary artifact or legendary creature.\nWhenever an opponent casts a spell, amass Orcs 1.\nWhenever an Army you control deals combat damage to a player, the Ring tempts you.\nWhenever the Ring tempts you, you may discard your hand. If you do, draw four cards."
+    ],
     "keywords": [
       "amass",
       "ward"
@@ -150,7 +156,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Old Man Willow's power and toughness are each equal to the number of lands you control.\nWhenever Old Man Willow attacks, you may sacrifice another creature or a token. When you do, target creature an opponent controls gets -2/-2 until end of turn.",
+    "rulesTexts": [
+      "Old Man Willow's power and toughness are each equal to the number of lands you control.\nWhenever Old Man Willow attacks, you may sacrifice another creature or a token. When you do, target creature an opponent controls gets -2/-2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -188,7 +196,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Untap another target permanent.\n{T}: Untap two other target legendary creatures.",
+    "rulesTexts": [
+      "{T}: Untap another target permanent.\n{T}: Untap two other target legendary creatures."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -226,7 +236,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one. If you control a Wizard as you cast this spell, you may choose two instead.\n• Target player draws two cards.\n• Destroy target artifact.\n• Flame of Anor deals 5 damage to target creature.",
+    "rulesTexts": [
+      "Choose one. If you control a Wizard as you cast this spell, you may choose two instead.\n• Target player draws two cards.\n• Destroy target artifact.\n• Flame of Anor deals 5 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -264,7 +276,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\nII — Amass Orcs 2.\nIII — Creatures you control get +1/+0 and gain menace until end of turn.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\nII — Amass Orcs 2.\nIII — Creatures you control get +1/+0 and gain menace until end of turn."
+    ],
     "keywords": [
       "amass"
     ],
@@ -301,7 +315,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Ranger's Firebrand deals 2 damage to any target. The Ring tempts you.",
+    "rulesTexts": [
+      "Ranger's Firebrand deals 2 damage to any target. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -336,7 +352,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -380,7 +398,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever Shagrat attacks, attach up to one target Equipment to it. Then amass Orcs X, where X is the number of Equipment attached to Shagrat. (Control of the Equipment doesn't change. To amass Orcs X, put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Whenever Shagrat attacks, attach up to one target Equipment to it. Then amass Orcs X, where X is the number of Equipment attached to Shagrat. (Control of the Equipment doesn't change. To amass Orcs X, put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -422,7 +442,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, ward {1}\n{T}: Another target creature you control gains protection from the card type of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that type.)",
+    "rulesTexts": [
+      "Vigilance, ward {1}\n{T}: Another target creature you control gains protection from the card type of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that type.)"
+    ],
     "keywords": [
       "vigilance",
       "ward"
@@ -458,7 +480,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may sacrifice a Food. If you do, target creature gets +4/+4 until end of turn. Otherwise, that creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "You may sacrifice a Food. If you do, target creature gets +4/+4 until end of turn. Otherwise, that creature gets +2/+2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -494,7 +518,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nAmass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nAmass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass",
       "treasure"
@@ -539,7 +565,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you scry, put a +1/+1 counter on this creature. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Whenever you scry, put a +1/+1 counter on this creature. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -574,7 +602,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, scry 2.",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, scry 2."
+    ],
     "keywords": [
       "scry",
       "flying"
@@ -615,7 +645,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever one or more other attacking legendary creatures you control die, untap all creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Haste\nWhenever one or more other attacking legendary creatures you control die, untap all creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -652,7 +684,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Mines of Moria enters tapped unless you control a legendary creature.\n{T}: Add {R}.\n{3}{R}, {T}, Exile three cards from your graveyard: Create two Treasure tokens.",
+    "rulesTexts": [
+      "Mines of Moria enters tapped unless you control a legendary creature.\n{T}: Add {R}.\n{3}{R}, {T}, Exile three cards from your graveyard: Create two Treasure tokens."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -694,7 +728,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you draw your second card each turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you draw your second card each turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -729,7 +765,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw three cards.\nIslandcycling {1} ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "Draw three cards.\nIslandcycling {1} ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "islandcycling",
       "landcycling",
@@ -771,7 +809,9 @@
     "toughness": 10,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Treefolk you control have vigilance.\nWhenever one or more Treefolk you control attack, add twice that much {G}.\nYou don't lose unspent green mana as steps and phases end.",
+    "rulesTexts": [
+      "Treefolk you control have vigilance.\nWhenever one or more Treefolk you control attack, add twice that much {G}.\nYou don't lose unspent green mana as steps and phases end."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -804,7 +844,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}",
+    "rulesTexts": [
+      "Flash\nIndestructible\nWhen Mithril Coat enters, attach it to target legendary creature you control.\nEquipped creature has indestructible.\nEquip {3}"
+    ],
     "keywords": [
       "indestructible",
       "equip",
@@ -841,7 +883,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature that blocked or was blocked by a legendary creature this turn.",
+    "rulesTexts": [
+      "Destroy target creature that blocked or was blocked by a legendary creature this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -880,7 +924,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Vigilance\nWhen this creature enters, you may sacrifice a token. When you do, exile target creature an opponent controls until this creature leaves the battlefield.",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, you may sacrifice a token. When you do, exile target creature an opponent controls until this creature leaves the battlefield."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -915,7 +961,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Destroy target creature. The Ring tempts you.",
+    "rulesTexts": [
+      "Destroy target creature. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -948,7 +996,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature an opponent controls deals damage equal to its power to another target creature that player controls. The Ring tempts you.",
+    "rulesTexts": [
+      "Target creature an opponent controls deals damage equal to its power to another target creature that player controls. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -990,7 +1040,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "At the beginning of your end step, if a creature died under your control this turn, the Ring tempts you.\nWhenever the Ring tempts you, target opponent reveals cards from the top of their library until they reveal a land card. Put that card onto the battlefield tapped under your control and the rest into their graveyard.",
+    "rulesTexts": [
+      "At the beginning of your end step, if a creature died under your control this turn, the Ring tempts you.\nWhenever the Ring tempts you, target opponent reveals cards from the top of their library until they reveal a land card. Put that card onto the battlefield tapped under your control and the rest into their graveyard."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1023,7 +1075,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this enchantment enters, the Ring tempts you.\nAt the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on target creature you control.",
+    "rulesTexts": [
+      "When this enchantment enters, the Ring tempts you.\nAt the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on target creature you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1052,7 +1106,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{X}, {T}: Put a +1/+1 counter on target creature with power X. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{X}, {T}: Put a +1/+1 counter on target creature with power X. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1089,7 +1145,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life.",
+    "rulesTexts": [
+      "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -1132,7 +1190,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "At the beginning of your end step, if a creature died under your control this turn, draw a card.\nWhenever the Ring tempts you, if you chose a creature other than Faramir as your Ring-bearer, create a 1/1 white Human Soldier creature token.",
+    "rulesTexts": [
+      "At the beginning of your end step, if a creature died under your control this turn, draw a card.\nWhenever the Ring tempts you, if you chose a creature other than Faramir as your Ring-bearer, create a 1/1 white Human Soldier creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1170,7 +1230,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Gain control of up to one target artifact for as long as you control this Saga. The Ring tempts you.\nII — Tap up to two target creatures. Put a stun counter on each of them.\nIII — Draw a card for each tapped creature target opponent controls.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Gain control of up to one target artifact for as long as you control this Saga. The Ring tempts you.\nII — Tap up to two target creatures. Put a stun counter on each of them.\nIII — Draw a card for each tapped creature target opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1205,7 +1267,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Ward {3}\nWhenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+    "rulesTexts": [
+      "Ward {3}\nWhenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
+    ],
     "keywords": [
       "ward"
     ],
@@ -1249,7 +1313,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you scry, put a +1/+1 counter on each of up to X target creatures, where X is the number of cards looked at while scrying this way.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability an opponent controls, you may draw a card.",
+    "rulesTexts": [
+      "Whenever you scry, put a +1/+1 counter on each of up to X target creatures, where X is the number of cards looked at while scrying this way.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability an opponent controls, you may draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1289,7 +1355,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {2} less to cast as long as you've drawn two or more cards this turn.\nFlying, vigilance\nOther Birds you control have vigilance.",
+    "rulesTexts": [
+      "This spell costs {2} less to cast as long as you've drawn two or more cards this turn.\nFlying, vigilance\nOther Birds you control have vigilance."
+    ],
     "keywords": [
       "flying",
       "vigilance"
@@ -1328,7 +1396,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Target creature gets -2/-2 until end of turn.\n{3}{B}, Exile this card from your graveyard: The Ring tempts you. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Target creature gets -2/-2 until end of turn.\n{3}{B}, Exile this card from your graveyard: The Ring tempts you. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1363,7 +1433,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Return target spell to its owner's hand.\nDraw a card.",
+    "rulesTexts": [
+      "Return target spell to its owner's hand.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1403,7 +1475,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Ward {2}\nWhenever you cast your second spell each turn, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Ward {2}\nWhenever you cast your second spell each turn, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass",
       "ward"
@@ -1445,7 +1519,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters or leaves the battlefield, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "When this creature enters or leaves the battlefield, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -1482,7 +1558,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Amass Orcs 3, then target player mills X cards, where X is the amassed Army's power. (To amass Orcs 3, put three +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Amass Orcs 3, then target player mills X cards, where X is the amassed Army's power. (To amass Orcs 3, put three +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass",
       "mill"
@@ -1518,7 +1596,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "This artifact enters tapped.\n{X}, {T}, Sacrifice this artifact: Add X mana in any combination of colors.\nWhen this artifact is put into a graveyard from the battlefield, draw a card.",
+    "rulesTexts": [
+      "This artifact enters tapped.\n{X}, {T}, Sacrifice this artifact: Add X mana in any combination of colors.\nWhen this artifact is put into a graveyard from the battlefield, draw a card."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1564,7 +1644,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "The Watcher in the Water enters tapped with nine stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you draw a card during an opponent's turn, create a 1/1 blue Tentacle creature token.\nWhenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent.",
+    "rulesTexts": [
+      "The Watcher in the Water enters tapped with nine stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nWhenever you draw a card during an opponent's turn, create a 1/1 blue Tentacle creature token.\nWhenever a Tentacle you control dies, untap up to one target Kraken and put a stun counter on up to one target nonland permanent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1600,7 +1682,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, the Ring tempts you.",
+    "rulesTexts": [
+      "When this creature dies, the Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1633,7 +1717,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures your opponents control get -1/-1 until end of turn. The Ring tempts you.",
+    "rulesTexts": [
+      "Creatures your opponents control get -1/-1 until end of turn. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1674,7 +1760,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever Bill Ferny becomes blocked, choose one —\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n• Target opponent gains control of target Horse you control. If they do, remove Bill Ferny from combat and create three Treasure tokens.",
+    "rulesTexts": [
+      "Whenever Bill Ferny becomes blocked, choose one —\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\n• Target opponent gains control of target Horse you control. If they do, remove Bill Ferny from combat and create three Treasure tokens."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -1722,7 +1810,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Flash\nWhen Samwise enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. Then the Ring tempts you.",
+    "rulesTexts": [
+      "Flash\nWhen Samwise enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. Then the Ring tempts you."
+    ],
     "keywords": [
       "flash"
     ],
@@ -1753,7 +1843,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -1796,7 +1888,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, the Ring tempts you.",
+    "rulesTexts": [
+      "When this creature enters, the Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1831,7 +1925,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Legendary creatures you control get +2/+1 and have ward {1}.\nNonlegendary creatures you control get +1/+1.",
+    "rulesTexts": [
+      "Legendary creatures you control get +2/+1 and have ward {1}.\nNonlegendary creatures you control get +1/+1."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1866,7 +1962,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control and up to one other target legendary creature you control each deal damage equal to their power to target creature you don't control.",
+    "rulesTexts": [
+      "Target creature you control and up to one other target legendary creature you control each deal damage equal to their power to target creature you don't control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -1895,7 +1993,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [
       "C"
@@ -1939,7 +2039,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Haste\nMerry has first strike as long as it's equipped.\nWhenever you attack with Merry and another legendary creature, draw a card.",
+    "rulesTexts": [
+      "Haste\nMerry has first strike as long as it's equipped.\nWhenever you attack with Merry and another legendary creature, draw a card."
+    ],
     "keywords": [
       "haste"
     ],
@@ -1977,7 +2079,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Target creature gets +1/+2 and gains deathtouch until end of turn. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Target creature gets +1/+2 and gains deathtouch until end of turn. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -2018,7 +2122,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When this creature enters, create a Food token. When you do, target creature you control gets +1/+1 until end of turn for each Food you control. (A Food token is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "When this creature enters, create a Food token. When you do, target creature you control gets +1/+1 until end of turn for each Food you control. (A Food token is an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -2057,7 +2163,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)\nI, II, III, IV, V, VI — Note a creature type that hasn't been noted for this Saga. When you next cast a creature spell of that type this turn, that creature enters with an additional +1/+1 counter on it.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)\nI, II, III, IV, V, VI — Note a creature type that hasn't been noted for this Saga. When you next cast a creature spell of that type this turn, that creature enters with an additional +1/+1 counter on it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2095,7 +2203,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever a creature an opponent controls dies, Gimli deals 1 damage to that creature's controller.",
+    "rulesTexts": [
+      "Trample\nWhenever a creature an opponent controls dies, Gimli deals 1 damage to that creature's controller."
+    ],
     "keywords": [
       "trample"
     ],
@@ -2130,7 +2240,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell can't be copied.\nCopy any number of target instant and/or sorcery spells. You may choose new targets for the copies.",
+    "rulesTexts": [
+      "This spell can't be copied.\nCopy any number of target instant and/or sorcery spells. You may choose new targets for the copies."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2165,7 +2277,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -2213,7 +2327,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As long as there are four or more lore counters among Sagas you control, Tom Bombadil has hexproof and indestructible.\nWhenever the final chapter ability of a Saga you control resolves, reveal cards from the top of your library until you reveal a Saga card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "As long as there are four or more lore counters among Sagas you control, Tom Bombadil has hexproof and indestructible.\nWhenever the final chapter ability of a Saga you control resolves, reveal cards from the top of your library until you reveal a Saga card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2251,7 +2367,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, the Ring tempts you.\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "When this creature enters, the Ring tempts you.\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2289,7 +2407,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you attack with one or more Elves, scry 1.\nWhenever you scry, Celeborn gets +1/+1 until end of turn for each card looked at while scrying this way.",
+    "rulesTexts": [
+      "Whenever you attack with one or more Elves, scry 1.\nWhenever you scry, Celeborn gets +1/+1 until end of turn for each card looked at while scrying this way."
+    ],
     "keywords": [
       "scry"
     ],
@@ -2326,7 +2446,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Exile target creature you own, then return it to the battlefield under your control. The Ring tempts you.",
+    "rulesTexts": [
+      "Exile target creature you own, then return it to the battlefield under your control. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2362,7 +2484,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one —\n• Cast into the Fire deals 1 damage to each of up to two target creatures.\n• Exile target artifact.",
+    "rulesTexts": [
+      "Choose one —\n• Cast into the Fire deals 1 damage to each of up to two target creatures.\n• Exile target artifact."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2398,7 +2522,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature dies, the Ring tempts you.",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature dies, the Ring tempts you."
+    ],
     "keywords": [
       "menace"
     ],
@@ -2435,7 +2561,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -2472,7 +2600,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This spell costs {1} less to cast if you control two or more legendary creatures.\nScry 2, then draw two cards.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast if you control two or more legendary creatures.\nScry 2, then draw two cards."
+    ],
     "keywords": [
       "scry"
     ],
@@ -2510,7 +2640,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever a creature an opponent controls is dealt excess noncombat damage, amass Orcs X, where X is that excess damage. (Put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\n{7}{R}: This enchantment deals 7 damage to target creature.",
+    "rulesTexts": [
+      "Whenever a creature an opponent controls is dealt excess noncombat damage, amass Orcs X, where X is that excess damage. (Put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\n{7}{R}: This enchantment deals 7 damage to target creature."
+    ],
     "keywords": [
       "amass"
     ],
@@ -2548,7 +2680,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Exile all creature cards from target player's graveyard. You may cast spells from among those cards for as long as they remain exiled, and mana of any type can be spent to cast them.",
+    "rulesTexts": [
+      "Exile all creature cards from target player's graveyard. You may cast spells from among those cards for as long as they remain exiled, and mana of any type can be spent to cast them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2590,7 +2724,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Haste\nWhen Éowyn enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn.",
+    "rulesTexts": [
+      "Haste\nWhen Éowyn enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -2627,7 +2763,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "The Ring tempts you. Search your library for a card that shares a color with a legendary creature you control, reveal it, put it into your hand, then shuffle.",
+    "rulesTexts": [
+      "The Ring tempts you. Search your library for a card that shares a color with a legendary creature you control, reveal it, put it into your hand, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2662,7 +2800,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards. If the sacrificed creature was legendary, draw three cards instead.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards. If the sacrificed creature was legendary, draw three cards instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2704,7 +2844,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Menace\nWhenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer.",
+    "rulesTexts": [
+      "Menace\nWhenever Sauron attacks, exile target creature card from your graveyard. Create a tapped and attacking token that's a copy of that card, except it's a 3/3 black Wraith with menace. At the beginning of the next end step, exile that token unless Sauron is your Ring-bearer."
+    ],
     "keywords": [
       "menace"
     ],
@@ -2741,7 +2883,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Damage can't be prevented this turn. Fear, Fire, Foes! deals X damage to target creature and 1 damage to each other creature with the same controller.",
+    "rulesTexts": [
+      "Damage can't be prevented this turn. Fear, Fire, Foes! deals X damage to target creature and 1 damage to each other creature with the same controller."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2779,7 +2923,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Erkenbrand or another Human you control enters, creatures you control get +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Whenever Erkenbrand or another Human you control enters, creatures you control get +1/+0 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2819,7 +2965,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gimli has indestructible as long as two or more creatures died under your control this turn.\nWhenever another creature you control dies, put a +1/+1 counter on Gimli. When this ability resolves for the third time this turn, Gimli fights up to one target creature you don't control.",
+    "rulesTexts": [
+      "Gimli has indestructible as long as two or more creatures died under your control this turn.\nWhenever another creature you control dies, put a +1/+1 counter on Gimli. When this ability resolves for the third time this turn, Gimli fights up to one target creature you don't control."
+    ],
     "keywords": [
       "fight"
     ],
@@ -2856,7 +3004,9 @@
       "artifact",
       "draw"
     ],
-    "oracleText": "When this artifact enters, scry 1, then draw a card.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\nWhen this artifact is put into a graveyard from the battlefield, its owner shuffles it into their library.",
+    "rulesTexts": [
+      "When this artifact enters, scry 1, then draw a card.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.\nWhen this artifact is put into a graveyard from the battlefield, its owner shuffles it into their library."
+    ],
     "keywords": [
       "scry"
     ],
@@ -2893,7 +3043,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn.",
+    "rulesTexts": [
+      "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn."
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -2928,7 +3080,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "The Ring tempts you. Then reveal cards from the top of your library until you reveal X land cards, where X is the number of legendary creatures you control. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "The Ring tempts you. Then reveal cards from the top of your library until you reveal X land cards, where X is the number of legendary creatures you control. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2961,7 +3115,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target creature spell with power or toughness 2 or less.",
+    "rulesTexts": [
+      "Counter target creature spell with power or toughness 2 or less."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -2996,7 +3152,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +2/+1.\nEquip Human {1}\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +2/+1.\nEquip Human {1}\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -3038,7 +3196,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance, ward {1}\n{T}: Another target creature you control gains protection from the card type of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that type.)",
+    "rulesTexts": [
+      "Vigilance, ward {1}\n{T}: Another target creature you control gains protection from the card type of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that type.)"
+    ],
     "keywords": [
       "vigilance",
       "ward"
@@ -3076,7 +3236,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -3114,7 +3276,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -3153,7 +3317,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Each player sacrifices a creature of their choice. If you sacrificed a creature this way, you may return another permanent card from your graveyard to the battlefield.",
+    "rulesTexts": [
+      "Each player sacrifices a creature of their choice. If you sacrificed a creature this way, you may return another permanent card from your graveyard to the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3189,7 +3355,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -3228,7 +3396,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Quickbeam or another Treefolk you control enters, up to two target creatures each get +2/+2 and gain trample until end of turn.",
+    "rulesTexts": [
+      "Whenever Quickbeam or another Treefolk you control enters, up to two target creatures each get +2/+2 and gain trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3270,7 +3440,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls."
+    ],
     "keywords": [
       "haste"
     ],
@@ -3307,7 +3479,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Draw a card. The Ring tempts you.",
+    "rulesTexts": [
+      "Draw a card. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3346,7 +3520,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Vigilance\nWhen this creature enters, you may sacrifice a token. When you do, exile target creature an opponent controls until this creature leaves the battlefield.",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, you may sacrifice a token. When you do, exile target creature an opponent controls until this creature leaves the battlefield."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -3385,7 +3561,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Return target permanent card from your graveyard to your hand. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Return target permanent card from your graveyard to your hand. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -3424,7 +3602,9 @@
     "toughness": 10,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Treefolk you control have vigilance.\nWhenever one or more Treefolk you control attack, add twice that much {G}.\nYou don't lose unspent green mana as steps and phases end.",
+    "rulesTexts": [
+      "Treefolk you control have vigilance.\nWhenever one or more Treefolk you control attack, add twice that much {G}.\nYou don't lose unspent green mana as steps and phases end."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3464,7 +3644,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Gothmog enters, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\nCreature tokens you control have deathtouch.",
+    "rulesTexts": [
+      "When Gothmog enters, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\nCreature tokens you control have deathtouch."
+    ],
     "keywords": [
       "amass"
     ],
@@ -3505,7 +3687,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Trample\nAs long as it's your turn and you control an Army, Grond is an artifact creature.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "rulesTexts": [
+      "Trample\nAs long as it's your turn and you control an Army, Grond is an artifact creature.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
+    ],
     "keywords": [
       "crew",
       "trample"
@@ -3543,7 +3727,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "(You may cast a legendary instant only if you control a legendary creature or planeswalker.)\nDestroy target creature. If its controller has more than four cards in hand, they exile cards from their hand equal to the difference.",
+    "rulesTexts": [
+      "(You may cast a legendary instant only if you control a legendary creature or planeswalker.)\nDestroy target creature. If its controller has more than four cards in hand, they exile cards from their hand equal to the difference."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3582,7 +3768,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Horses you control have haste. (They can attack and {T} as soon as they come under your control.)\nWhenever Shadowfax attacks, you may put a creature card with lesser power from your hand onto the battlefield tapped and attacking.",
+    "rulesTexts": [
+      "Horses you control have haste. (They can attack and {T} as soon as they come under your control.)\nWhenever Shadowfax attacks, you may put a creature card with lesser power from your hand onto the battlefield tapped and attacking."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3618,7 +3806,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this creature enters, scry 1.",
+    "rulesTexts": [
+      "Flash\nWhen this creature enters, scry 1."
+    ],
     "keywords": [
       "flash",
       "scry"
@@ -3661,7 +3851,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When Gollum leaves the battlefield, the Ring tempts you.\n{B}, Sacrifice a creature: Return this card from your graveyard to your hand. Activate only as a sorcery.",
+    "rulesTexts": [
+      "When Gollum leaves the battlefield, the Ring tempts you.\n{B}, Sacrifice a creature: Return this card from your graveyard to your hand. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3697,7 +3889,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, scry 1.",
+    "rulesTexts": [
+      "Whenever this creature attacks, scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -3732,7 +3926,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Barad-dûr enters tapped unless you control a legendary creature.\n{T}: Add {B}.\n{X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn.",
+    "rulesTexts": [
+      "Barad-dûr enters tapped unless you control a legendary creature.\n{T}: Add {B}.\n{X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn."
+    ],
     "keywords": [
       "amass"
     ],
@@ -3771,7 +3967,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -3815,7 +4013,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Bilbo enters or leaves the battlefield, the Ring tempts you.\nWhenever Bilbo deals combat damage to a player, create a Treasure token.",
+    "rulesTexts": [
+      "When Bilbo enters or leaves the battlefield, the Ring tempts you.\nWhenever Bilbo deals combat damage to a player, create a Treasure token."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -3852,7 +4052,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Ward {3}\nWhenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+    "rulesTexts": [
+      "Ward {3}\nWhenever you cast your second spell each turn, copy it, except the copy isn't legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)"
+    ],
     "keywords": [
       "ward"
     ],
@@ -3894,7 +4096,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, target creature gets +1/+1 until end of turn. Then if that creature has power 4 or greater, it gains first strike until end of turn.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, target creature gets +1/+1 until end of turn. Then if that creature has power 4 or greater, it gains first strike until end of turn."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -3936,7 +4140,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Arwen enters with an indestructible counter on it.\n{1}, Remove an indestructible counter from Arwen: Another target creature gains indestructible until end of turn. Put a +1/+1 counter and a lifelink counter on that creature and a +1/+1 counter and a lifelink counter on Arwen.",
+    "rulesTexts": [
+      "Arwen enters with an indestructible counter on it.\n{1}, Remove an indestructible counter from Arwen: Another target creature gains indestructible until end of turn. Put a +1/+1 counter and a lifelink counter on that creature and a +1/+1 counter and a lifelink counter on Arwen."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -3969,7 +4175,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put target creature into its owner's library second from the top.",
+    "rulesTexts": [
+      "Put target creature into its owner's library second from the top."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4005,7 +4213,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent.",
+    "rulesTexts": [
+      "Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4040,7 +4250,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this enchantment enters, return target Equipment card from your graveyard to the battlefield.\nDuring your turn, you may activate equip abilities any time you could cast an instant.\nYou may pay {0} rather than pay the equip cost of the first equip ability you activate during each of your turns.",
+    "rulesTexts": [
+      "When this enchantment enters, return target Equipment card from your graveyard to the battlefield.\nDuring your turn, you may activate equip abilities any time you could cast an instant.\nYou may pay {0} rather than pay the equip cost of the first equip ability you activate during each of your turns."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4078,7 +4290,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever two or more creatures you control attack a player, target attacking creature without flying gains flying until end of turn.",
+    "rulesTexts": [
+      "Flying\nWhenever two or more creatures you control attack a player, target attacking creature without flying gains flying until end of turn."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4122,7 +4336,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever a Goblin or Orc you control deals combat damage to a player, you may sacrifice it. When you do, choose one —\n• Draw a card.\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Whenever a Goblin or Orc you control deals combat damage to a player, you may sacrifice it. When you do, choose one —\n• Draw a card.\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -4171,7 +4387,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When Rosie Cotton enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you create a token, put a +1/+1 counter on target creature you control other than Rosie Cotton.",
+    "rulesTexts": [
+      "When Rosie Cotton enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you create a token, put a +1/+1 counter on target creature you control other than Rosie Cotton."
+    ],
     "keywords": [
       "food"
     ],
@@ -4209,7 +4427,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create a 1/1 white Human Soldier creature token.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, discard a card.\nDraw two cards and create a 1/1 white Human Soldier creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4246,7 +4466,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Enchant creature\nEnchanted creature gets -3/-0 and has \"At the beginning of your upkeep, exile this creature unless you pay 2 life.\"",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature gets -3/-0 and has \"At the beginning of your upkeep, exile this creature unless you pay 2 life.\""
+    ],
     "keywords": [
       "enchant"
     ],
@@ -4283,7 +4505,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -4321,7 +4545,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -4360,7 +4586,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever this creature or another creature you control with power 4 or greater dies, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Whenever this creature or another creature you control with power 4 or greater dies, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -4398,7 +4626,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Amass Orcs 2. When you do, Foray of Orcs deals X damage to target creature an opponent controls, where X is the amassed Army's power. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Amass Orcs 2. When you do, Foray of Orcs deals X damage to target creature an opponent controls, where X is the amassed Army's power. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -4436,7 +4666,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nAt the beginning of combat on your turn, another target creature you control gets +1/+0 until end of turn.",
+    "rulesTexts": [
+      "Reach\nAt the beginning of combat on your turn, another target creature you control gets +1/+0 until end of turn."
+    ],
     "keywords": [
       "reach"
     ],
@@ -4475,7 +4707,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.\nIII — Creatures you control gain double strike until end of turn. The Ring tempts you.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.\nIII — Creatures you control gain double strike until end of turn. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4508,7 +4742,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may look at the top card of your library any time.\nYou may cast creature spells from the top of your library.\nCreatures you control have \"{T}: Add one mana of any color.\"",
+    "rulesTexts": [
+      "You may look at the top card of your library any time.\nYou may cast creature spells from the top of your library.\nCreatures you control have \"{T}: Add one mana of any color.\""
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4554,7 +4790,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flash\nYou may cast legendary spells and artifact spells as though they had flash.\nIf a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+    "rulesTexts": [
+      "Flash\nYou may cast legendary spells and artifact spells as though they had flash.\nIf a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+    ],
     "keywords": [
       "flash"
     ],
@@ -4594,7 +4832,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever Meneldor deals combat damage to a player, exile up to one target creature you own, then return it to the battlefield under your control.",
+    "rulesTexts": [
+      "Flying\nWhenever Meneldor deals combat damage to a player, exile up to one target creature you own, then return it to the battlefield under your control."
+    ],
     "keywords": [
       "flying"
     ],
@@ -4632,7 +4872,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Landfall — Whenever a land you control enters, if you don't control a Ring-bearer, the Ring tempts you.",
+    "rulesTexts": [
+      "Landfall — Whenever a land you control enters, if you don't control a Ring-bearer, the Ring tempts you."
+    ],
     "keywords": [
       "landfall"
     ],
@@ -4672,7 +4914,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When Grishnákh enters, amass Orcs 2. When you do, until end of turn, gain control of target nonlegendary creature an opponent controls with power less than or equal to the amassed Army's power. Untap that creature. It gains haste until end of turn.",
+    "rulesTexts": [
+      "When Grishnákh enters, amass Orcs 2. When you do, until end of turn, gain control of target nonlegendary creature an opponent controls with power less than or equal to the amassed Army's power. Untap that creature. It gains haste until end of turn."
+    ],
     "keywords": [
       "amass"
     ],
@@ -4707,7 +4951,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature you control gets +1/+1 and gains hexproof until end of turn. The Ring tempts you. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
+    "rulesTexts": [
+      "Target creature you control gets +1/+1 and gains hexproof until end of turn. The Ring tempts you. (A creature with hexproof can't be the target of spells or abilities your opponents control.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4746,7 +4992,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Defender\nWhenever you attack with one or more Goblins and/or Orcs, create a 2/1 colorless Construct artifact creature token with flying named Ballistic Boulder that's tapped and attacking. Sacrifice that token at end of combat.",
+    "rulesTexts": [
+      "Defender\nWhenever you attack with one or more Goblins and/or Orcs, create a 2/1 colorless Construct artifact creature token with flying named Ballistic Boulder that's tapped and attacking. Sacrifice that token at end of combat."
+    ],
     "keywords": [
       "defender"
     ],
@@ -4784,7 +5032,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "Draw a card.\nWhenever you scry, if you control an Island, you may exile this card from your graveyard. If you do, draw a card.",
+    "rulesTexts": [
+      "Draw a card.\nWhenever you scry, if you control an Island, you may exile this card from your graveyard. If you do, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4820,7 +5070,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add one mana of any color.\n{6}{G}, {T}: Another target creature gets +3/+3 and gains trample until end of turn.",
+    "rulesTexts": [
+      "{T}: Add one mana of any color.\n{6}{G}, {T}: Another target creature gets +3/+3 and gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -4866,7 +5118,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace\nIf one or more +1/+1 counters would be put on an Army, Goblin, or Orc you control, that many plus one +1/+1 counters are put on it instead.",
+    "rulesTexts": [
+      "Menace\nIf one or more +1/+1 counters would be put on an Army, Goblin, or Orc you control, that many plus one +1/+1 counters are put on it instead."
+    ],
     "keywords": [
       "menace"
     ],
@@ -4906,7 +5160,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you draw your second card each turn, put a +1/+1 counter on this creature.",
+    "rulesTexts": [
+      "Whenever you draw your second card each turn, put a +1/+1 counter on this creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4941,7 +5197,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This spell can't be countered.\nDraw cards equal to the greatest toughness among creatures you control, then put any number of creature cards from your hand onto the battlefield.",
+    "rulesTexts": [
+      "This spell can't be countered.\nDraw cards equal to the greatest toughness among creatures you control, then put any number of creature cards from your hand onto the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -4976,7 +5234,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Target creature gains your choice of lifelink or indestructible until end of turn.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Target creature gains your choice of lifelink or indestructible until end of turn.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -5013,7 +5273,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -5053,7 +5315,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When this creature enters, scry 1.\n{2}{B}: Return this card from your graveyard to the battlefield tapped. Activate only if you control a legendary creature.",
+    "rulesTexts": [
+      "When this creature enters, scry 1.\n{2}{B}: Return this card from your graveyard to the battlefield tapped. Activate only if you control a legendary creature."
+    ],
     "keywords": [
       "scry"
     ],
@@ -5092,7 +5356,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flying\nWhen this creature dies, draw a card.",
+    "rulesTexts": [
+      "Flying\nWhen this creature dies, draw a card."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5132,7 +5398,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "flying",
       "amass"
@@ -5170,7 +5438,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever this creature attacks, another target creature you control gets +2/+0 and gains trample until end of turn.\nMountaincycling {1} ({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "Trample\nWhenever this creature attacks, another target creature you control gets +2/+0 and gains trample until end of turn.\nMountaincycling {1} ({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "mountaincycling",
       "landcycling",
@@ -5212,7 +5482,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -5252,7 +5524,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — You and target opponent each create a Food token.\nII — Each opponent loses 3 life. Create a Treasure token.\nIII — Create three tapped 1/1 white Spirit creature tokens with flying.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — You and target opponent each create a Food token.\nII — Each opponent loses 3 life. Create a Treasure token.\nIII — Create three tapped 1/1 white Spirit creature tokens with flying."
+    ],
     "keywords": [
       "treasure",
       "food"
@@ -5292,7 +5566,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Choose an opponent. They look at the top four cards of your library and separate them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. The Ring tempts you.",
+    "rulesTexts": [
+      "Choose an opponent. They look at the top four cards of your library and separate them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5332,7 +5608,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever the Ring tempts you, if you chose a creature other than Aragorn as your Ring-bearer, put your choice of a counter from among first strike, vigilance, deathtouch, and lifelink on Aragorn.\nWhenever you put one or more counters on Aragorn, put one of each of those kinds of counters on up to one other target creature.",
+    "rulesTexts": [
+      "Whenever the Ring tempts you, if you chose a creature other than Aragorn as your Ring-bearer, put your choice of a counter from among first strike, vigilance, deathtouch, and lifelink on Aragorn.\nWhenever you put one or more counters on Aragorn, put one of each of those kinds of counters on up to one other target creature."
+    ],
     "keywords": [
       "vigilance",
       "deathtouch"
@@ -5368,7 +5646,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Counter target creature spell. If it was a legendary spell, the Ring tempts you.",
+    "rulesTexts": [
+      "Counter target creature spell. If it was a legendary spell, the Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5401,7 +5681,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards.",
+    "rulesTexts": [
+      "At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards."
+    ],
     "keywords": [
       "mill",
       "scry"
@@ -5440,7 +5722,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.",
+    "rulesTexts": [
+      "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -5485,7 +5769,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5521,7 +5807,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "Put up to one target instant or sorcery card from your graveyard on top of your library.\nAmass Orcs 2. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Put up to one target instant or sorcery card from your graveyard on top of your library.\nAmass Orcs 2. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -5563,7 +5851,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever the Ring tempts you, if you chose a creature other than Aragorn as your Ring-bearer, put your choice of a counter from among first strike, vigilance, deathtouch, and lifelink on Aragorn.\nWhenever you put one or more counters on Aragorn, put one of each of those kinds of counters on up to one other target creature.",
+    "rulesTexts": [
+      "Whenever the Ring tempts you, if you chose a creature other than Aragorn as your Ring-bearer, put your choice of a counter from among first strike, vigilance, deathtouch, and lifelink on Aragorn.\nWhenever you put one or more counters on Aragorn, put one of each of those kinds of counters on up to one other target creature."
+    ],
     "keywords": [
       "vigilance",
       "deathtouch"
@@ -5601,7 +5891,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Scry 3, then you may reveal the top card of your library. If it's a creature card, draw a card.",
+    "rulesTexts": [
+      "Scry 3, then you may reveal the top card of your library. If it's a creature card, draw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -5644,7 +5936,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "When Rosie Cotton enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you create a token, put a +1/+1 counter on target creature you control other than Rosie Cotton.",
+    "rulesTexts": [
+      "When Rosie Cotton enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you create a token, put a +1/+1 counter on target creature you control other than Rosie Cotton."
+    ],
     "keywords": [
       "food"
     ],
@@ -5689,7 +5983,9 @@
       "graveyard",
       "token"
     ],
-    "oracleText": "When The Mouth of Sauron enters, target player mills three cards. Then amass Orcs X, where X is the number of instant and sorcery cards in that player's graveyard. (Put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "When The Mouth of Sauron enters, target player mills three cards. Then amass Orcs X, where X is the number of instant and sorcery cards in that player's graveyard. (Put X +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass",
       "mill"
@@ -5728,7 +6024,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -5768,7 +6066,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.\nDiscard a card: Witch-king of Angmar gains indestructible until end of turn. Tap it.",
+    "rulesTexts": [
+      "Flying\nWhenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.\nDiscard a card: Witch-king of Angmar gains indestructible until end of turn. Tap it."
+    ],
     "keywords": [
       "flying"
     ],
@@ -5803,7 +6103,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control have haste.\nLegendary creatures you control get +1/+0.",
+    "rulesTexts": [
+      "Creatures you control have haste.\nLegendary creatures you control get +1/+0."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5838,7 +6140,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you scry, put a verse counter on this enchantment.\n{4}{U}{U}, Exile this enchantment: Draw a card for each verse counter on this enchantment. If it had seven or more verse counters on it, take an extra turn after this one. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Whenever you scry, put a verse counter on this enchantment.\n{4}{U}{U}, Exile this enchantment: Draw a card for each verse counter on this enchantment. If it had seven or more verse counters on it, take an extra turn after this one. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -5877,7 +6181,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1.",
+    "rulesTexts": [
+      "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1."
+    ],
     "keywords": [
       "amass",
       "flash"
@@ -5920,7 +6226,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "{1}, {T}, Sacrifice another creature: Draw a card, then create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "{1}, {T}, Sacrifice another creature: Draw a card, then create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -5965,7 +6273,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token.",
+    "rulesTexts": [
+      "Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6004,7 +6314,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{W/B}{W/B}: If Frodo is a Citizen, it becomes a Halfling Scout with base power and toughness 2/3 and lifelink.\n{B}{B}{B}: If Frodo is a Scout, it becomes a Halfling Rogue with \"Whenever this creature deals combat damage to a player, that player loses the game if the Ring has tempted you four or more times this game. Otherwise, the Ring tempts you.\"",
+    "rulesTexts": [
+      "{W/B}{W/B}: If Frodo is a Citizen, it becomes a Halfling Scout with base power and toughness 2/3 and lifelink.\n{B}{B}{B}: If Frodo is a Scout, it becomes a Halfling Rogue with \"Whenever this creature deals combat damage to a player, that player loses the game if the Ring has tempted you four or more times this game. Otherwise, the Ring tempts you.\""
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6037,7 +6349,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +3/+1.\nWhenever equipped creature attacks, create two tapped 1/1 white Spirit creature tokens with flying. If that creature is legendary, instead create two of those tokens that are tapped and attacking.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +3/+1.\nWhenever equipped creature attacks, create two tapped 1/1 white Spirit creature tokens with flying. If that creature is legendary, instead create two of those tokens that are tapped and attacking.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6074,7 +6388,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This spell can't be countered.\nDraw cards equal to the greatest toughness among creatures you control, then put any number of creature cards from your hand onto the battlefield.",
+    "rulesTexts": [
+      "This spell can't be countered.\nDraw cards equal to the greatest toughness among creatures you control, then put any number of creature cards from your hand onto the battlefield."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6107,7 +6423,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature or pay {4}.\nDestroy target creature.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature or pay {4}.\nDestroy target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6142,7 +6460,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Sacrifice any number of lands. Reveal the top X cards of your library, where X is the number of lands sacrificed this way. Choose any number of artifact and/or land cards revealed this way. Put all nonland cards chosen this way onto the battlefield, then put all land cards chosen this way onto the battlefield tapped, then put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Sacrifice any number of lands. Reveal the top X cards of your library, where X is the number of lands sacrificed this way. Choose any number of artifact and/or land cards revealed this way. Put all nonland cards chosen this way onto the battlefield, then put all land cards chosen this way onto the battlefield tapped, then put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6178,7 +6498,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhen this creature enters, gain control of up to one target creature with lesser power for as long as you control this creature. Then the Ring tempts you.",
+    "rulesTexts": [
+      "Vigilance\nWhen this creature enters, gain control of up to one target creature with lesser power for as long as you control this creature. Then the Ring tempts you."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -6215,7 +6537,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Equipped creature has first strike and gets +1/+0 for each instant and sorcery card in your graveyard.\nWhenever equipped creature deals combat damage to a player, you may cast an instant or sorcery spell from your hand with mana value less than or equal to that damage without paying its mana cost.\nEquip {3}",
+    "rulesTexts": [
+      "Equipped creature has first strike and gets +1/+0 for each instant and sorcery card in your graveyard.\nWhenever equipped creature deals combat damage to a player, you may cast an instant or sorcery spell from your hand with mana value less than or equal to that damage without paying its mana cost.\nEquip {3}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -6253,7 +6577,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature dies, the Ring tempts you.",
+    "rulesTexts": [
+      "When this creature dies, the Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6289,7 +6615,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -6326,7 +6654,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -6366,7 +6696,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature enters, create a 1/1 white Human Soldier creature token.",
+    "rulesTexts": [
+      "When this creature enters, create a 1/1 white Human Soldier creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6404,7 +6736,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Reach\nWhen this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nForestcycling {1} ({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "Reach\nWhen this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nForestcycling {1} ({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "reach",
       "landcycling",
@@ -6451,7 +6785,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Whenever you cast a historic spell, create a Treasure token. This ability triggers only once each turn. (Artifacts, legendaries, and Sagas are historic.)\n{T}, Sacrifice a Treasure: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)",
+    "rulesTexts": [
+      "Whenever you cast a historic spell, create a Treasure token. This ability triggers only once each turn. (Artifacts, legendaries, and Sagas are historic.)\n{T}, Sacrifice a Treasure: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)"
+    ],
     "keywords": [
       "goad",
       "treasure"
@@ -6496,7 +6832,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of your end step, choose an opponent. At the beginning of that player's next end step, you draw a card if they didn't attack you that turn. Otherwise, create three 1/1 white Human Soldier creature tokens.",
+    "rulesTexts": [
+      "At the beginning of your end step, choose an opponent. At the beginning of that player's next end step, you draw a card if they didn't attack you that turn. Otherwise, create three 1/1 white Human Soldier creature tokens."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6537,7 +6875,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Flash\nMenace\nWhen Lobelia enters, exile target creature card from an opponent's graveyard that was put there from the battlefield this turn, then create X Treasure tokens, where X is the exiled card's power.",
+    "rulesTexts": [
+      "Flash\nMenace\nWhen Lobelia enters, exile target creature card from an opponent's graveyard that was put there from the battlefield this turn, then create X Treasure tokens, where X is the exiled card's power."
+    ],
     "keywords": [
       "treasure",
       "menace",
@@ -6578,7 +6918,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life.",
+    "rulesTexts": [
+      "Flying\nWhenever you create or sacrifice a token, each opponent loses 1 life."
+    ],
     "keywords": [
       "flying"
     ],
@@ -6621,7 +6963,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever one or more Halflings you control attack a player, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Whenever one or more Halflings you control attack a player, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -6665,7 +7009,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls.",
+    "rulesTexts": [
+      "This spell costs {1} less to cast for each permanent sacrificed this turn.\nHaste\nThe Balrog can't be blocked except by legendary creatures.\nWhen The Balrog dies, destroy target artifact or creature an opponent controls."
+    ],
     "keywords": [
       "haste"
     ],
@@ -6702,7 +7048,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Smite the Deathless deals 3 damage to target creature. That creature loses indestructible until end of turn. If that creature would die this turn, exile it instead.",
+    "rulesTexts": [
+      "Smite the Deathless deals 3 damage to target creature. That creature loses indestructible until end of turn. If that creature would die this turn, exile it instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6735,7 +7083,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this enchantment enters, the Ring tempts you.\nWhenever you cast an instant or sorcery spell, this enchantment deals 2 damage to each opponent.",
+    "rulesTexts": [
+      "When this enchantment enters, the Ring tempts you.\nWhenever you cast an instant or sorcery spell, this enchantment deals 2 damage to each opponent."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -6770,7 +7120,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nEnchant creature\nWhen this Aura enters, scry 2.\nEnchanted creature gets +3/+3.",
+    "rulesTexts": [
+      "Flash\nEnchant creature\nWhen this Aura enters, scry 2.\nEnchanted creature gets +3/+3."
+    ],
     "keywords": [
       "enchant",
       "flash",
@@ -6819,7 +7171,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Ward—Discard an enchantment, instant, or sorcery card.\nWhenever you cast your second spell each turn, each opponent mills two cards. When one or more cards are milled this way, exile target enchantment, instant, or sorcery card with equal or lesser mana value than that spell from an opponent's graveyard. Copy the exiled card. You may cast the copy without paying its mana cost.",
+    "rulesTexts": [
+      "Ward—Discard an enchantment, instant, or sorcery card.\nWhenever you cast your second spell each turn, each opponent mills two cards. When one or more cards are milled this way, exile target enchantment, instant, or sorcery card with equal or lesser mana value than that spell from an opponent's graveyard. Copy the exiled card. You may cast the copy without paying its mana cost."
+    ],
     "keywords": [
       "ward",
       "mill"
@@ -6860,7 +7214,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Your opponents can't gain life.\n{T}, Sacrifice another creature: Target player loses 1 life. If the sacrificed creature was legendary, amass Orcs 2.",
+    "rulesTexts": [
+      "Your opponents can't gain life.\n{T}, Sacrifice another creature: Target player loses 1 life. If the sacrificed creature was legendary, amass Orcs 2."
+    ],
     "keywords": [
       "amass"
     ],
@@ -6897,7 +7253,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Counter target spell.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Counter target spell.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -6936,7 +7294,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you attack, scry 2, then you may reveal the top card of your library. If it's a creature card, put it onto the battlefield tapped and attacking. Until your next turn, it gains trample if you control a Dwarf and hexproof if you control an Elf.",
+    "rulesTexts": [
+      "Whenever you attack, scry 2, then you may reveal the top card of your library. If it's a creature card, put it onto the battlefield tapped and attacking. Until your next turn, it gains trample if you control a Dwarf and hexproof if you control an Elf."
+    ],
     "keywords": [
       "scry"
     ],
@@ -6976,7 +7336,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Gandalf's Sanction deals X damage to target creature, where X is the number of instant and sorcery cards in your graveyard. Excess damage is dealt to that creature's controller instead.",
+    "rulesTexts": [
+      "Gandalf's Sanction deals X damage to target creature, where X is the number of instant and sorcery cards in your graveyard. Excess damage is dealt to that creature's controller instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7011,7 +7373,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -7048,7 +7412,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact, enchantment, or creature with flying. Scry 1.",
+    "rulesTexts": [
+      "Destroy target artifact, enchantment, or creature with flying. Scry 1."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7086,7 +7452,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, the Ring tempts you.",
+    "rulesTexts": [
+      "When this creature enters, the Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7124,7 +7492,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Up to one target creature can't block for as long as you control this Saga. The Ring tempts you.\nII — Search your library for a Mountain card, put it onto the battlefield, then shuffle.\nIII — Create Smaug, a legendary 6/6 red Dragon creature token with flying, haste, and \"When Smaug dies, create fourteen Treasure tokens.\"",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Up to one target creature can't block for as long as you control this Saga. The Ring tempts you.\nII — Search your library for a Mountain card, put it onto the battlefield, then shuffle.\nIII — Create Smaug, a legendary 6/6 red Dragon creature token with flying, haste, and \"When Smaug dies, create fourteen Treasure tokens.\""
+    ],
     "keywords": [
       "treasure",
       "haste"
@@ -7160,7 +7530,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When The Grey Havens enters, scry 1.\n{T}: Add {C}.\n{T}: Add one mana of any color among legendary creature cards in your graveyard.",
+    "rulesTexts": [
+      "When The Grey Havens enters, scry 1.\n{T}: Add {C}.\n{T}: Add one mana of any color among legendary creature cards in your graveyard."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7207,7 +7579,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.\nSacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you.",
+    "rulesTexts": [
+      "Vigilance\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.\nSacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -7248,7 +7622,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Bill the Pony enters, create two Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice a Food: Until end of turn, target creature you control assigns combat damage equal to its toughness rather than its power.",
+    "rulesTexts": [
+      "When Bill the Pony enters, create two Food tokens. (They're artifacts with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice a Food: Until end of turn, target creature you control assigns combat damage equal to its toughness rather than its power."
+    ],
     "keywords": [
       "food"
     ],
@@ -7288,7 +7664,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Target creature you control gains indestructible for as long as you control this Saga.\nII — Return target creature card from your graveyard to the battlefield.\nIII — Up to two target creatures you control each gain lifelink until end of turn.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Target creature you control gains indestructible for as long as you control this Saga.\nII — Return target creature card from your graveyard to the battlefield.\nIII — Up to two target creatures you control each gain lifelink until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7323,7 +7701,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Destroy target artifact or land. Creatures without flying can't block this turn.",
+    "rulesTexts": [
+      "Destroy target artifact or land. Creatures without flying can't block this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7358,7 +7738,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -7396,7 +7778,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Destroy all creatures with power 3 or greater. Then create a Food token for each creature you control. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Destroy all creatures with power 3 or greater. Then create a Food token for each creature you control. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -7434,7 +7818,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhenever this creature deals damage to a Goblin or Orc, destroy that creature.",
+    "rulesTexts": [
+      "Vigilance\nWhenever this creature deals damage to a Goblin or Orc, destroy that creature."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -7471,7 +7857,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nWhen this Equipment enters, attach it to target creature you control. Untap that creature.\nEquipped creature gets +1/+2 and has reach.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Flash\nWhen this Equipment enters, attach it to target creature you control. Untap that creature.\nEquipped creature gets +1/+2 and has reach.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip",
       "flash"
@@ -7514,7 +7902,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever the Ring tempts you, if you chose a creature other than Galadriel as your Ring-bearer, scry 3.\nWhenever you scry, you may reveal the top card of your library. If a land card is revealed this way, put it onto the battlefield tapped.",
+    "rulesTexts": [
+      "Whenever the Ring tempts you, if you chose a creature other than Galadriel as your Ring-bearer, scry 3.\nWhenever you scry, you may reveal the top card of your library. If a land card is revealed this way, put it onto the battlefield tapped."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7559,7 +7949,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token.",
+    "rulesTexts": [
+      "Whenever you draw your second card each turn, create a 1/1 white Human Soldier creature token."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7602,7 +7994,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Deathtouch, ward {2}\nOther Spiders you control have deathtouch and ward {2}.\nWhenever another creature dealt damage this turn by a Spider you controlled dies, create a token that's a copy of that creature, except it's a Food artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life,\" and it loses all other card types.",
+    "rulesTexts": [
+      "Deathtouch, ward {2}\nOther Spiders you control have deathtouch and ward {2}.\nWhenever another creature dealt damage this turn by a Spider you controlled dies, create a token that's a copy of that creature, except it's a Food artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life,\" and it loses all other card types."
+    ],
     "keywords": [
       "food",
       "ward",
@@ -7641,7 +8035,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nAs long as you control a Goblin or Orc, this creature gets +1/+0.",
+    "rulesTexts": [
+      "Menace (This creature can't be blocked except by two or more creatures.)\nAs long as you control a Goblin or Orc, this creature gets +1/+0."
+    ],
     "keywords": [
       "menace"
     ],
@@ -7687,7 +8083,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever another nontoken creature you control enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return target historic card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)",
+    "rulesTexts": [
+      "Whenever another nontoken creature you control enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Return target historic card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)"
+    ],
     "keywords": [
       "food"
     ],
@@ -7729,7 +8127,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Gothmog enters, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\nCreature tokens you control have deathtouch.",
+    "rulesTexts": [
+      "When Gothmog enters, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)\nCreature tokens you control have deathtouch."
+    ],
     "keywords": [
       "amass"
     ],
@@ -7764,7 +8164,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature or pay {4}.\nDestroy target creature.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature or pay {4}.\nDestroy target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7799,7 +8201,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "This spell costs {2} less to cast if it targets a tapped creature.\nExile target creature.",
+    "rulesTexts": [
+      "This spell costs {2} less to cast if it targets a tapped creature.\nExile target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -7837,7 +8241,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.\nDiscard a card: Witch-king of Angmar gains indestructible until end of turn. Tap it.",
+    "rulesTexts": [
+      "Flying\nWhenever one or more creatures deal combat damage to you, each opponent sacrifices a creature of their choice that dealt combat damage to you this turn. The Ring tempts you.\nDiscard a card: Witch-king of Angmar gains indestructible until end of turn. Tap it."
+    ],
     "keywords": [
       "flying"
     ],
@@ -7877,7 +8283,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Elrond or another creature you control enters, scry 1. If this is the second time this ability has resolved this turn, the Ring tempts you.",
+    "rulesTexts": [
+      "Whenever Elrond or another creature you control enters, scry 1. If this is the second time this ability has resolved this turn, the Ring tempts you."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7914,7 +8322,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This creature can't be blocked except by three or more creatures.\nSwampcycling {1} ({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "This creature can't be blocked except by three or more creatures.\nSwampcycling {1} ({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "landcycling",
       "typecycling",
@@ -7959,7 +8369,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever the Ring tempts you, if you chose a creature other than Galadriel as your Ring-bearer, scry 3.\nWhenever you scry, you may reveal the top card of your library. If a land card is revealed this way, put it onto the battlefield tapped.",
+    "rulesTexts": [
+      "Whenever the Ring tempts you, if you chose a creature other than Galadriel as your Ring-bearer, scry 3.\nWhenever you scry, you may reveal the top card of your library. If a land card is revealed this way, put it onto the battlefield tapped."
+    ],
     "keywords": [
       "scry"
     ],
@@ -7996,7 +8408,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "At the beginning of your upkeep, the Ring tempts you.\nWhenever you choose a creature as your Ring-bearer, you may pay 2 life. If you do, draw a card.",
+    "rulesTexts": [
+      "At the beginning of your upkeep, the Ring tempts you.\nWhenever you choose a creature as your Ring-bearer, you may pay 2 life. If you do, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8032,7 +8446,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -8069,7 +8485,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "You may cast spells this turn as though they had flash.\nDraw a card.",
+    "rulesTexts": [
+      "You may cast spells this turn as though they had flash.\nDraw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8107,7 +8525,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas.\nWhenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature.",
+    "rulesTexts": [
+      "Reach\nWhenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas.\nWhenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature."
+    ],
     "keywords": [
       "reach"
     ],
@@ -8144,7 +8564,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhen this creature enters, the Ring tempts you.",
+    "rulesTexts": [
+      "Trample\nWhen this creature enters, the Ring tempts you."
+    ],
     "keywords": [
       "trample"
     ],
@@ -8184,7 +8606,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "{T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.\n{5}{U}, {T}: Target player mills three cards. (They put the top three cards of their library into their graveyard.)",
+    "rulesTexts": [
+      "{T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.\n{5}{U}, {T}: Target player mills three cards. (They put the top three cards of their library into their graveyard.)"
+    ],
     "keywords": [
       "mill"
     ],
@@ -8228,7 +8652,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "You draw a card and you lose 1 life.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "You draw a card and you lose 1 life.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -8263,7 +8689,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "If you would draw a card while you have no cards in hand, draw two cards instead.\nIf you would gain life while you have 5 or less life, you gain twice that much life instead.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "If you would draw a card while you have no cards in hand, draw two cards instead.\nIf you would gain life while you have 5 or less life, you gain twice that much life instead.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8304,7 +8732,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhenever this creature attacks, target legendary creature you control gains deathtouch until end of turn.",
+    "rulesTexts": [
+      "Deathtouch\nWhenever this creature attacks, target legendary creature you control gains deathtouch until end of turn."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -8341,7 +8771,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -8385,7 +8817,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Haste\nWhen Éowyn enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn.",
+    "rulesTexts": [
+      "Haste\nWhen Éowyn enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -8422,7 +8856,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -8457,7 +8893,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -8492,7 +8930,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When Horn of Gondor enters, create a 1/1 white Human Soldier creature token.\n{3}, {T}: Create X 1/1 white Human Soldier creature tokens, where X is the number of Humans you control.",
+    "rulesTexts": [
+      "When Horn of Gondor enters, create a 1/1 white Human Soldier creature token.\n{3}, {T}: Create X 1/1 white Human Soldier creature tokens, where X is the number of Humans you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8527,7 +8967,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -8565,7 +9007,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Target creature gets -3/-0 until end of turn.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Target creature gets -3/-0 until end of turn.\nAmass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -8602,7 +9046,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn.",
+    "rulesTexts": [
+      "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn."
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -8642,7 +9088,9 @@
     "toughness": 5,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Radagast or another nontoken creature you control enters, look at the top X cards of your library, where X is that creature's mana value. You may reveal a creature card that doesn't share a creature type with a creature you control from among those cards and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Whenever Radagast or another nontoken creature you control enters, look at the top X cards of your library, where X is that creature's mana value. You may reveal a creature card that doesn't share a creature type with a creature you control from among those cards and put it into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8673,7 +9121,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "When this artifact enters, the Ring tempts you.\n{T}: Add one mana of any color.",
+    "rulesTexts": [
+      "When this artifact enters, the Ring tempts you.\n{T}: Add one mana of any color."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8715,7 +9165,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "{T}, Pay 1 life: Add {B} or {R}.\n{1}{B}{R}, {T}: Mount Doom deals 1 damage to each opponent.\n{5}{B}{R}, {T}, Sacrifice Mount Doom and a legendary artifact: Choose up to two creatures, then destroy the rest. Activate only as a sorcery.",
+    "rulesTexts": [
+      "{T}, Pay 1 life: Add {B} or {R}.\n{1}{B}{R}, {T}: Mount Doom deals 1 damage to each opponent.\n{5}{B}{R}, {T}, Sacrifice Mount Doom and a legendary artifact: Choose up to two creatures, then destroy the rest. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [
       "B",
@@ -8750,7 +9202,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Defender\n{1}: Add one mana of any color. Activate only once each turn.",
+    "rulesTexts": [
+      "Defender\n{1}: Add one mana of any color. Activate only once each turn."
+    ],
     "keywords": [
       "defender"
     ],
@@ -8793,7 +9247,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature has \"If this creature would untap during your untap step, remove a +1/+1 counter from it instead. If you do, untap it.\" (Otherwise, it doesn't untap.)",
+    "rulesTexts": [
+      "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature has \"If this creature would untap during your untap step, remove a +1/+1 counter from it instead. If you do, untap it.\" (Otherwise, it doesn't untap.)"
+    ],
     "keywords": [
       "enchant"
     ],
@@ -8828,7 +9284,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature has base power and toughness 5/5 until end of turn. The Ring tempts you.",
+    "rulesTexts": [
+      "Target creature has base power and toughness 5/5 until end of turn. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8863,7 +9321,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, it gets +X/+X until end of turn, where X is the number of legendary creatures you control.",
+    "rulesTexts": [
+      "Whenever this creature attacks, it gets +X/+X until end of turn, where X is the number of legendary creatures you control."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -8899,7 +9359,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flash\nFlying\nWhen this creature enters, target creature gets +2/+0 until end of turn.",
+    "rulesTexts": [
+      "Flash\nFlying\nWhen this creature enters, target creature gets +2/+0 until end of turn."
+    ],
     "keywords": [
       "flying",
       "flash"
@@ -8944,7 +9406,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Haste\nMerry has first strike as long as it's equipped.\nWhenever you attack with Merry and another legendary creature, draw a card.",
+    "rulesTexts": [
+      "Haste\nMerry has first strike as long as it's equipped.\nWhenever you attack with Merry and another legendary creature, draw a card."
+    ],
     "keywords": [
       "haste"
     ],
@@ -8982,7 +9446,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nImprovised Club deals 4 damage to any target.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice an artifact or creature.\nImprovised Club deals 4 damage to any target."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9019,7 +9485,9 @@
     "toughness": 6,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Quickbeam or another Treefolk you control enters, up to two target creatures each get +2/+2 and gain trample until end of turn.",
+    "rulesTexts": [
+      "Whenever Quickbeam or another Treefolk you control enters, up to two target creatures each get +2/+2 and gain trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9055,7 +9523,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it.",
+    "rulesTexts": [
+      "Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9090,7 +9560,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nAmass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nAmass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -9125,7 +9597,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Rivendell enters tapped unless you control a legendary creature.\n{T}: Add {U}.\n{1}{U}, {T}: Scry 2. Activate only if you control a legendary creature.",
+    "rulesTexts": [
+      "Rivendell enters tapped unless you control a legendary creature.\n{T}: Add {U}.\n{1}{U}, {T}: Scry 2. Activate only if you control a legendary creature."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9167,7 +9641,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you scry, choose one and Glorfindel gets +1/+1 until end of turn.\n• Glorfindel must be blocked this turn if able.\n• Glorfindel can't be blocked by more than one creature each combat this turn.",
+    "rulesTexts": [
+      "Whenever you scry, choose one and Glorfindel gets +1/+1 until end of turn.\n• Glorfindel must be blocked this turn if able.\n• Glorfindel can't be blocked by more than one creature each combat this turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9202,7 +9678,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Enchant creature\nEnchanted creature is a Spirit and can't attack or block. (It loses all other creature types.)",
+    "rulesTexts": [
+      "Enchant creature\nEnchanted creature is a Spirit and can't attack or block. (It loses all other creature types.)"
+    ],
     "keywords": [
       "enchant"
     ],
@@ -9242,7 +9720,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — The Ring tempts you, then each player mills cards equal to your Ring-bearer's power.\nII — Destroy all nonlegendary creatures.\nIII — Each opponent loses 1 life for each creature card in that player's graveyard.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — The Ring tempts you, then each player mills cards equal to your Ring-bearer's power.\nII — Destroy all nonlegendary creatures.\nIII — Each opponent loses 1 life for each creature card in that player's graveyard."
+    ],
     "keywords": [
       "mill"
     ],
@@ -9279,7 +9759,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Tap target creature. Scry 1.\nDraw a card.",
+    "rulesTexts": [
+      "Tap target creature. Scry 1.\nDraw a card."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9316,7 +9798,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -9353,7 +9837,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "If a creature an opponent controls would die, exile it instead.\n{2}, {T}, Sacrifice Stone of Erech: Exile target player's graveyard. Draw a card.",
+    "rulesTexts": [
+      "If a creature an opponent controls would die, exile it instead.\n{2}, {T}, Sacrifice Stone of Erech: Exile target player's graveyard. Draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9386,7 +9872,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "You may sacrifice a Food. If you do, target creature gets +4/+4 until end of turn. Otherwise, that creature gets +2/+2 until end of turn.",
+    "rulesTexts": [
+      "You may sacrifice a Food. If you do, target creature gets +4/+4 until end of turn. Otherwise, that creature gets +2/+2 until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9419,7 +9907,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{5}, {T}: Scry 1, then draw a card. This ability costs {1} less to activate for each legendary creature you control.",
+    "rulesTexts": [
+      "{5}, {T}: Scry 1, then draw a card. This ability costs {1} less to activate for each legendary creature you control."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9457,7 +9947,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Target creature you control deals damage equal to its power to target creature you don't control. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Target creature you control deals damage equal to its power to target creature you don't control. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -9494,7 +9986,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "Return target creature card from your graveyard to your hand. The Ring tempts you.",
+    "rulesTexts": [
+      "Return target creature card from your graveyard to your hand. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9527,7 +10021,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target nontoken creature to its owner's hand. The Ring tempts you.",
+    "rulesTexts": [
+      "Return target nontoken creature to its owner's hand. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9566,7 +10062,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{T}: Move a counter of each kind not on Goldberry from another target permanent you control onto Goldberry.\n{U}, {T}: Move one or more counters from Goldberry onto another target permanent you control. If you do, draw a card.",
+    "rulesTexts": [
+      "{T}: Move a counter of each kind not on Goldberry from another target permanent you control onto Goldberry.\n{U}, {T}: Move one or more counters from Goldberry onto another target permanent you control. If you do, draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9602,7 +10100,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -9640,7 +10140,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Flying\nWhen this creature enters, creatures you control get +1/+0 and gain first strike until end of turn.\nPlainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, creatures you control get +1/+0 and gain first strike until end of turn.\nPlainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "flying",
       "plainscycling",
@@ -9684,7 +10186,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "{1}, {T}: Draw a card, then discard a card.",
+    "rulesTexts": [
+      "{1}, {T}: Draw a card, then discard a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9720,7 +10224,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you scry, this creature gets +1/+0 until end of turn and can't be blocked this turn. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Whenever you scry, this creature gets +1/+0 until end of turn and can't be blocked this turn. This ability triggers only once each turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9753,7 +10259,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on each creature you control. They gain vigilance until end of turn. The Ring tempts you.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on each creature you control. They gain vigilance until end of turn. The Ring tempts you."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9789,7 +10297,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nThis creature can't block unless you control a Goblin or Orc.",
+    "rulesTexts": [
+      "Trample\nThis creature can't block unless you control a Goblin or Orc."
+    ],
     "keywords": [
       "trample"
     ],
@@ -9826,7 +10336,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards. If the sacrificed creature was legendary, draw three cards instead.",
+    "rulesTexts": [
+      "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards. If the sacrificed creature was legendary, draw three cards instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9862,7 +10374,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever this creature attacks, you may sacrifice a Food or pay {2}{W}. When you do, tap target creature an opponent controls.",
+    "rulesTexts": [
+      "Whenever this creature attacks, you may sacrifice a Food or pay {2}{W}. When you do, tap target creature an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9895,7 +10409,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put target nonland historic permanent into its owner's library fourth from the top. (Artifacts, legendaries, and Sagas are historic.)",
+    "rulesTexts": [
+      "Put target nonland historic permanent into its owner's library fourth from the top. (Artifacts, legendaries, and Sagas are historic.)"
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -9935,7 +10451,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you scry, put a +1/+1 counter on target creature.\n{4}{G}{U}: Scry 2.",
+    "rulesTexts": [
+      "Whenever you scry, put a +1/+1 counter on target creature.\n{4}{G}{U}: Scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -9970,7 +10488,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}"
+    ],
     "keywords": [
       "equip"
     ],
@@ -10005,7 +10525,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Put a +1/+1 counter on target creature you control if its power is 4 or greater. Then that creature gets +1/+1 until end of turn and fights target creature you don't control.",
+    "rulesTexts": [
+      "Put a +1/+1 counter on target creature you control if its power is 4 or greater. Then that creature gets +1/+1 until end of turn and fights target creature you don't control."
+    ],
     "keywords": [
       "fight"
     ],
@@ -10047,7 +10569,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever you scry, if Legolas is tapped, you may untap it. Do this only once each turn.\nWhenever a creature an opponent controls dies, put a +1/+1 counter on Legolas.",
+    "rulesTexts": [
+      "Reach\nWhenever you scry, if Legolas is tapped, you may untap it. Do this only once each turn.\nWhenever a creature an opponent controls dies, put a +1/+1 counter on Legolas."
+    ],
     "keywords": [
       "reach"
     ],
@@ -10087,7 +10611,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Reach\nWhenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas.\nWhenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature.",
+    "rulesTexts": [
+      "Reach\nWhenever you cast a spell that targets Legolas, put a +1/+1 counter on Legolas.\nWhenever you cast a spell that targets a creature you don't control, Legolas deals damage equal to its power to up to one target creature."
+    ],
     "keywords": [
       "reach"
     ],
@@ -10125,7 +10651,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{4}{W}, {T}: Creatures you control get +1/+1 until end of turn. This ability costs {2} less to activate if you control a legendary creature.",
+    "rulesTexts": [
+      "{4}{W}, {T}: Creatures you control get +1/+1 until end of turn. This ability costs {2} less to activate if you control a legendary creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10160,7 +10688,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "This enchantment enters with a hope counter on it for each creature you control.\nAt the beginning of your end step, remove a hope counter from this enchantment. If you do, draw a card. Then if this enchantment has no hope counters on it, sacrifice it and you gain 4 life.",
+    "rulesTexts": [
+      "This enchantment enters with a hope counter on it for each creature you control.\nAt the beginning of your end step, remove a hope counter from this enchantment. If you do, draw a card. Then if this enchantment has no hope counters on it, sacrifice it and you gain 4 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10195,7 +10725,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {G}.)",
+    "rulesTexts": [
+      "({T}: Add {G}.)"
+    ],
     "keywords": [],
     "produces": [
       "G"
@@ -10239,7 +10771,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhenever King of the Oathbreakers or another Spirit you control becomes the target of a spell, it phases out. (Treat it and anything attached to it as though they don't exist until your next turn.)\nWhenever King of the Oathbreakers or another Spirit you control phases in, create a tapped 1/1 white Spirit creature token with flying.",
+    "rulesTexts": [
+      "Flying\nWhenever King of the Oathbreakers or another Spirit you control becomes the target of a spell, it phases out. (Treat it and anything attached to it as though they don't exist until your next turn.)\nWhenever King of the Oathbreakers or another Spirit you control phases in, create a tapped 1/1 white Spirit creature token with flying."
+    ],
     "keywords": [
       "flying"
     ],
@@ -10281,7 +10815,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Flash\nYou may cast sorcery spells as though they had flash.\nWhenever the Ring tempts you, if you chose a creature other than Gandalf as your Ring-bearer, draw a card.",
+    "rulesTexts": [
+      "Flash\nYou may cast sorcery spells as though they had flash.\nWhenever the Ring tempts you, if you chose a creature other than Gandalf as your Ring-bearer, draw a card."
+    ],
     "keywords": [
       "flash"
     ],
@@ -10316,7 +10852,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "rulesTexts": [
+      "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10359,7 +10897,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "rulesTexts": [
+      "Whenever a player casts their second spell each turn, you lose 1 life and create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")"
+    ],
     "keywords": [
       "treasure"
     ],
@@ -10403,7 +10943,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -10440,7 +10982,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Sacrifice a Food: Put a +1/+1 counter on this creature. It gains vigilance until end of turn. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Sacrifice a Food: Put a +1/+1 counter on this creature. It gains vigilance until end of turn. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10476,7 +11020,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -10520,7 +11066,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you scry, put a +1/+1 counter on each of up to X target creatures, where X is the number of cards looked at while scrying this way.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability an opponent controls, you may draw a card.",
+    "rulesTexts": [
+      "Whenever you scry, put a +1/+1 counter on each of up to X target creatures, where X is the number of cards looked at while scrying this way.\nWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability an opponent controls, you may draw a card."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10558,7 +11106,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "When this creature enters, draw a card. Then if you don't control a legendary creature, put a card from your hand on the bottom of your library.",
+    "rulesTexts": [
+      "When this creature enters, draw a card. Then if you don't control a legendary creature, put a card from your hand on the bottom of your library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10593,7 +11143,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10628,7 +11180,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Creatures you control have haste.\nLegendary creatures you control get +1/+0.",
+    "rulesTexts": [
+      "Creatures you control have haste.\nLegendary creatures you control get +1/+0."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -10663,7 +11217,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "The Shire enters tapped unless you control a legendary creature.\n{T}: Add {G}.\n{1}{G}, {T}, Tap an untapped creature you control: Create a Food token.",
+    "rulesTexts": [
+      "The Shire enters tapped unless you control a legendary creature.\n{T}: Add {G}.\n{1}{G}, {T}, Tap an untapped creature you control: Create a Food token."
+    ],
     "keywords": [
       "food"
     ],
@@ -10700,7 +11256,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
+    "rulesTexts": [
+      "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring."
+    ],
     "keywords": [
       "indestructible"
     ],
@@ -10741,7 +11299,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, each opponent sacrifices a creature of their choice. Create a Food token for each creature sacrificed this way. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, each opponent sacrifices a creature of their choice. Create a Food token for each creature sacrificed this way. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "flying",
       "food"
@@ -10779,7 +11339,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {B}.)",
+    "rulesTexts": [
+      "({T}: Add {B}.)"
+    ],
     "keywords": [],
     "produces": [
       "B"
@@ -10816,7 +11378,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Equipped creature gets +3/+0.\nAs long as equipped creature is legendary, it has menace. (It can't be blocked except by two or more creatures.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +3/+0.\nAs long as equipped creature is legendary, it has menace. (It can't be blocked except by two or more creatures.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -10858,7 +11422,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Haste\nWhenever Éomer attacks, if you control a creature with the greatest power among creatures on the battlefield, create a 1/1 white Human Soldier creature token.",
+    "rulesTexts": [
+      "Haste\nWhenever Éomer attacks, if you control a creature with the greatest power among creatures on the battlefield, create a 1/1 white Human Soldier creature token."
+    ],
     "keywords": [
       "haste"
     ],
@@ -10899,7 +11465,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, each opponent sacrifices a creature of their choice. Create a Food token for each creature sacrificed this way. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, each opponent sacrifices a creature of their choice. Create a Food token for each creature sacrificed this way. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "flying",
       "food"
@@ -10935,7 +11503,9 @@
     "tags": [
       "graveyard"
     ],
-    "oracleText": "When The Grey Havens enters, scry 1.\n{T}: Add {C}.\n{T}: Add one mana of any color among legendary creature cards in your graveyard.",
+    "rulesTexts": [
+      "When The Grey Havens enters, scry 1.\n{T}: Add {C}.\n{T}: Add one mana of any color among legendary creature cards in your graveyard."
+    ],
     "keywords": [
       "scry"
     ],
@@ -10975,7 +11545,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever two or more creatures you control attack a player, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "rulesTexts": [
+      "Whenever two or more creatures you control attack a player, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11015,7 +11587,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Frodo Baggins or another legendary creature you control enters, the Ring tempts you.\nAs long as Frodo Baggins is your Ring-bearer, it must be blocked if able.",
+    "rulesTexts": [
+      "Whenever Frodo Baggins or another legendary creature you control enters, the Ring tempts you.\nAs long as Frodo Baggins is your Ring-bearer, it must be blocked if able."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11054,7 +11628,9 @@
       "draw",
       "removal"
     ],
-    "oracleText": "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1.",
+    "rulesTexts": [
+      "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1."
+    ],
     "keywords": [
       "amass",
       "flash"
@@ -11097,7 +11673,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Gimli has indestructible as long as two or more creatures died under your control this turn.\nWhenever another creature you control dies, put a +1/+1 counter on Gimli. When this ability resolves for the third time this turn, Gimli fights up to one target creature you don't control.",
+    "rulesTexts": [
+      "Gimli has indestructible as long as two or more creatures died under your control this turn.\nWhenever another creature you control dies, put a +1/+1 counter on Gimli. When this ability resolves for the third time this turn, Gimli fights up to one target creature you don't control."
+    ],
     "keywords": [
       "fight"
     ],
@@ -11132,7 +11710,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return target spell or nonland permanent an opponent controls to its owner's hand. You may cast an instant or sorcery spell with equal or lesser mana value from your hand without paying its mana cost.",
+    "rulesTexts": [
+      "Return target spell or nonland permanent an opponent controls to its owner's hand. You may cast an instant or sorcery spell with equal or lesser mana value from your hand without paying its mana cost."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11168,7 +11748,9 @@
     "toughness": 2,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl.",
+    "rulesTexts": [
+      "Deathtouch\nWhen this creature enters, the Ring tempts you.\nWhenever the Ring tempts you, put a +1/+1 counter on each Wraith you control.\nA deck can have up to nine cards named Nazgûl."
+    ],
     "keywords": [
       "deathtouch"
     ],
@@ -11210,7 +11792,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Activated abilities of lands your opponents control can't be activated unless they're mana abilities.\nSharkey has all activated abilities of lands your opponents control except mana abilities.\nMana of any type can be spent to activate Sharkey's abilities.",
+    "rulesTexts": [
+      "Activated abilities of lands your opponents control can't be activated unless they're mana abilities.\nSharkey has all activated abilities of lands your opponents control except mana abilities.\nMana of any type can be spent to activate Sharkey's abilities."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11250,7 +11834,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever you cast an instant or sorcery spell, choose one that hasn't been chosen —\n• You may tap or untap target permanent.\n• Gandalf deals 3 damage to each opponent.\n• Copy target instant or sorcery spell you control. You may choose new targets for the copy.\n• Put Gandalf on top of its owner's library.",
+    "rulesTexts": [
+      "Whenever you cast an instant or sorcery spell, choose one that hasn't been chosen —\n• You may tap or untap target permanent.\n• Gandalf deals 3 damage to each opponent.\n• Copy target instant or sorcery spell you control. You may choose new targets for the copy.\n• Put Gandalf on top of its owner's library."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11285,7 +11871,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {R}.)",
+    "rulesTexts": [
+      "({T}: Add {R}.)"
+    ],
     "keywords": [],
     "produces": [
       "R"
@@ -11327,7 +11915,9 @@
     "tags": [
       "artifact"
     ],
-    "oracleText": "Flash\nYou may cast legendary spells and artifact spells as though they had flash.\nIf a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+    "rulesTexts": [
+      "Flash\nYou may cast legendary spells and artifact spells as though they had flash.\nIf a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+    ],
     "keywords": [
       "flash"
     ],
@@ -11365,7 +11955,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Exile all creature cards from target player's graveyard. You may cast spells from among those cards for as long as they remain exiled, and mana of any type can be spent to cast them.",
+    "rulesTexts": [
+      "Exile all creature cards from target player's graveyard. You may cast spells from among those cards for as long as they remain exiled, and mana of any type can be spent to cast them."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11398,7 +11990,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "This spell costs {3} less to cast if it targets a creature that was dealt damage this turn.\nDestroy target creature. Its controller loses 2 life.",
+    "rulesTexts": [
+      "This spell costs {3} less to cast if it targets a creature that was dealt damage this turn.\nDestroy target creature. Its controller loses 2 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11433,7 +12027,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this enchantment enters and whenever an Army you control attacks, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "When this enchantment enters and whenever an Army you control attacks, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -11473,7 +12069,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "At the beginning of combat on your turn, target creature gains your choice of first strike or vigilance until end of turn. If that creature is equipped, it gains first strike and vigilance until end of turn instead.\nEquip abilities you activate cost {1} less to activate.",
+    "rulesTexts": [
+      "At the beginning of combat on your turn, target creature gains your choice of first strike or vigilance until end of turn. If that creature is equipped, it gains first strike and vigilance until end of turn instead.\nEquip abilities you activate cost {1} less to activate."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11511,7 +12109,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Haste\nWhenever one or more other attacking legendary creatures you control die, untap all creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "Haste\nWhenever one or more other attacking legendary creatures you control die, untap all creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn."
+    ],
     "keywords": [
       "haste"
     ],
@@ -11548,7 +12148,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this enchantment enters, it deals X damage to each creature.\nWhenever one or more creatures your opponents control die, you create a Treasure token. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "When this enchantment enters, it deals X damage to each creature.\nWhenever one or more creatures your opponents control die, you create a Treasure token. This ability triggers only once each turn."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -11588,7 +12190,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this creature dies, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "When this creature dies, amass Orcs 1. (Put a +1/+1 counter on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -11628,7 +12232,9 @@
       "artifact",
       "removal"
     ],
-    "oracleText": "Choose one. If you control a Wizard as you cast this spell, you may choose two instead.\n• Target player draws two cards.\n• Destroy target artifact.\n• Flame of Anor deals 5 damage to target creature.",
+    "rulesTexts": [
+      "Choose one. If you control a Wizard as you cast this spell, you may choose two instead.\n• Target player draws two cards.\n• Destroy target artifact.\n• Flame of Anor deals 5 damage to target creature."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11668,7 +12274,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever another creature you control dies, put a +1/+1 counter on Uglúk. If that creature was a Goblin or Orc, put two +1/+1 counters on Uglúk instead.",
+    "rulesTexts": [
+      "Whenever another creature you control dies, put a +1/+1 counter on Uglúk. If that creature was a Goblin or Orc, put two +1/+1 counters on Uglúk instead."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11715,7 +12323,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever you cast a white spell, create a 1/1 white Human Soldier creature token.\nWhenever you cast a blue spell, scry 2.\nWhenever you cast a red spell, Aragorn deals 3 damage to target opponent.\nWhenever you cast a green spell, target creature gets +4/+4 until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a white spell, create a 1/1 white Human Soldier creature token.\nWhenever you cast a blue spell, scry 2.\nWhenever you cast a red spell, Aragorn deals 3 damage to target opponent.\nWhenever you cast a green spell, target creature gets +4/+4 until end of turn."
+    ],
     "keywords": [
       "scry"
     ],
@@ -11750,7 +12360,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Barad-dûr enters tapped unless you control a legendary creature.\n{T}: Add {B}.\n{X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn.",
+    "rulesTexts": [
+      "Barad-dûr enters tapped unless you control a legendary creature.\n{T}: Add {B}.\n{X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn."
+    ],
     "keywords": [
       "amass"
     ],
@@ -11799,7 +12411,9 @@
       "graveyard",
       "removal"
     ],
-    "oracleText": "Ward—Discard an enchantment, instant, or sorcery card.\nWhenever you cast your second spell each turn, each opponent mills two cards. When one or more cards are milled this way, exile target enchantment, instant, or sorcery card with equal or lesser mana value than that spell from an opponent's graveyard. Copy the exiled card. You may cast the copy without paying its mana cost.",
+    "rulesTexts": [
+      "Ward—Discard an enchantment, instant, or sorcery card.\nWhenever you cast your second spell each turn, each opponent mills two cards. When one or more cards are milled this way, exile target enchantment, instant, or sorcery card with equal or lesser mana value than that spell from an opponent's graveyard. Copy the exiled card. You may cast the copy without paying its mana cost."
+    ],
     "keywords": [
       "ward",
       "mill"
@@ -11837,7 +12451,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {U}.)",
+    "rulesTexts": [
+      "({T}: Add {U}.)"
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -11874,7 +12490,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Create two tapped 1/1 white Spirit creature tokens with flying.",
+    "rulesTexts": [
+      "Create two tapped 1/1 white Spirit creature tokens with flying."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11910,7 +12528,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "{1}{R}: This creature gets +1/+0 until end of turn.\nWhen this creature dies, it deals damage equal to its power to target creature an opponent controls.",
+    "rulesTexts": [
+      "{1}{R}: This creature gets +1/+0 until end of turn.\nWhen this creature dies, it deals damage equal to its power to target creature an opponent controls."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11943,7 +12563,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Create two 1/1 white Human Soldier creature tokens. Humans you control gain haste until end of turn.",
+    "rulesTexts": [
+      "Create two 1/1 white Human Soldier creature tokens. Humans you control gain haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -11979,7 +12601,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Amass Orcs 2. When you do, Foray of Orcs deals X damage to target creature an opponent controls, where X is the amassed Army's power. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Amass Orcs 2. When you do, Foray of Orcs deals X damage to target creature an opponent controls, where X is the amassed Army's power. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "amass"
     ],
@@ -12014,7 +12638,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +3/+2 until end of turn. If it's legendary, it also gains trample until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +3/+2 until end of turn. If it's legendary, it also gains trample until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -12047,7 +12673,9 @@
     "tags": [
       "removal"
     ],
-    "oracleText": "Equipped creature gets +1/+1.\nWhenever equipped creature blocks or becomes blocked by a creature, that creature loses all abilities until end of turn.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "rulesTexts": [
+      "Equipped creature gets +1/+1.\nWhenever equipped creature blocks or becomes blocked by a creature, that creature loses all abilities until end of turn.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+    ],
     "keywords": [
       "equip"
     ],
@@ -12087,7 +12715,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "Flying\nWhen this creature enters, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)",
+    "rulesTexts": [
+      "Flying\nWhen this creature enters, amass Orcs 2. (Put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+    ],
     "keywords": [
       "flying",
       "amass"
@@ -12126,7 +12756,9 @@
     "toughness": 1,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Double strike\nWhenever a Goblin or Orc you control deals combat damage to a player, exile the top card of your library. You may play that card this turn.",
+    "rulesTexts": [
+      "Double strike\nWhenever a Goblin or Orc you control deals combat damage to a player, exile the top card of your library. You may play that card this turn."
+    ],
     "keywords": [
       "double strike"
     ],
@@ -12171,7 +12803,9 @@
       "artifact",
       "token"
     ],
-    "oracleText": "At the beginning of your end step, if you don't control a Food, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "rulesTexts": [
+      "At the beginning of your end step, if you don't control a Food, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")"
+    ],
     "keywords": [
       "food"
     ],
@@ -12209,7 +12843,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "When this creature enters, scry 2.",
+    "rulesTexts": [
+      "When this creature enters, scry 2."
+    ],
     "keywords": [
       "scry"
     ],
@@ -12244,7 +12880,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +1/+3 and gains flying until end of turn. Untap it.",
+    "rulesTexts": [
+      "Target creature gets +1/+3 and gains flying until end of turn. Untap it."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -12291,7 +12929,9 @@
       "token",
       "removal"
     ],
-    "oracleText": "Whenever you cast a white spell, create a 1/1 white Human Soldier creature token.\nWhenever you cast a blue spell, scry 2.\nWhenever you cast a red spell, Aragorn deals 3 damage to target opponent.\nWhenever you cast a green spell, target creature gets +4/+4 until end of turn.",
+    "rulesTexts": [
+      "Whenever you cast a white spell, create a 1/1 white Human Soldier creature token.\nWhenever you cast a blue spell, scry 2.\nWhenever you cast a red spell, Aragorn deals 3 damage to target opponent.\nWhenever you cast a green spell, target creature gets +4/+4 until end of turn."
+    ],
     "keywords": [
       "scry"
     ],
@@ -12326,7 +12966,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Target creature gets +1/+0 and gains first strike until end of turn. If it's a Goblin or Orc, it also gains haste until end of turn.",
+    "rulesTexts": [
+      "Target creature gets +1/+0 and gains first strike until end of turn. If it's a Goblin or Orc, it also gains haste until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -12361,7 +13003,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "When this enchantment enters, it deals X damage to each creature.\nWhenever one or more creatures your opponents control die, you create a Treasure token. This ability triggers only once each turn.",
+    "rulesTexts": [
+      "When this enchantment enters, it deals X damage to each creature.\nWhenever one or more creatures your opponents control die, you create a Treasure token. This ability triggers only once each turn."
+    ],
     "keywords": [
       "treasure"
     ],
@@ -12405,7 +13049,9 @@
       "token",
       "draw"
     ],
-    "oracleText": "If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Draw a card.",
+    "rulesTexts": [
+      "If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSacrifice three Foods: Draw a card."
+    ],
     "keywords": [
       "food"
     ],
@@ -12445,7 +13091,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Vigilance\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.\nSacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you.",
+    "rulesTexts": [
+      "Vigilance\nWhenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.\nSacrifice Boromir: Creatures you control gain indestructible until end of turn. The Ring tempts you."
+    ],
     "keywords": [
       "vigilance"
     ],
@@ -12487,7 +13135,9 @@
     "toughness": 3,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Whenever Théoden or another Human you control enters, target creature gains double strike until end of turn.",
+    "rulesTexts": [
+      "Whenever Théoden or another Human you control enters, target creature gains double strike until end of turn."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -12522,7 +13172,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "({T}: Add {W}.)",
+    "rulesTexts": [
+      "({T}: Add {W}.)"
+    ],
     "keywords": [],
     "produces": [
       "W"
@@ -12557,7 +13209,9 @@
     "toughness": null,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Return up to two target creatures to their owners' hands. Scry 1. The Ring tempts you.",
+    "rulesTexts": [
+      "Return up to two target creatures to their owners' hands. Scry 1. The Ring tempts you."
+    ],
     "keywords": [
       "scry"
     ],
@@ -12594,7 +13248,9 @@
     "toughness": 4,
     "loyalty": null,
     "tags": [],
-    "oracleText": "Trample\nWhenever this creature attacks, another target creature you control gets +2/+0 and gains trample until end of turn.\nMountaincycling {1} ({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
+    "rulesTexts": [
+      "Trample\nWhenever this creature attacks, another target creature you control gets +2/+0 and gains trample until end of turn.\nMountaincycling {1} ({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)"
+    ],
     "keywords": [
       "mountaincycling",
       "landcycling",
@@ -12642,7 +13298,9 @@
     "tags": [
       "token"
     ],
-    "oracleText": "At the beginning of your end step, if a creature died under your control this turn, create a 1/1 white Human Soldier creature token.\n{2}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life.",
+    "rulesTexts": [
+      "At the beginning of your end step, if a creature died under your control this turn, create a 1/1 white Human Soldier creature token.\n{2}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -12677,7 +13335,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "Whenever you scry, put a verse counter on this enchantment.\n{4}{U}{U}, Exile this enchantment: Draw a card for each verse counter on this enchantment. If it had seven or more verse counters on it, take an extra turn after this one. Activate only as a sorcery.",
+    "rulesTexts": [
+      "Whenever you scry, put a verse counter on this enchantment.\n{4}{U}{U}, Exile this enchantment: Draw a card for each verse counter on this enchantment. If it had seven or more verse counters on it, take an extra turn after this one. Activate only as a sorcery."
+    ],
     "keywords": [],
     "produces": [],
     "illustrators": [
@@ -12715,7 +13375,9 @@
       "graveyard",
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Draw two cards, then discard a card.\nIII — Shuffle any number of target cards from your graveyard into your library. Add {U}{U}.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Draw two cards, then discard a card.\nIII — Shuffle any number of target cards from your graveyard into your library. Add {U}{U}."
+    ],
     "keywords": [],
     "produces": [
       "U"
@@ -12754,7 +13416,9 @@
     "tags": [
       "draw"
     ],
-    "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Scry 2.\nII — Put two +1/+1 counters on target creature you control.\nIII — Until end of turn, target creature you control gains \"When this creature dies, draw two cards.\" Then that creature fights up to one other target creature.",
+    "rulesTexts": [
+      "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Scry 2.\nII — Put two +1/+1 counters on target creature you control.\nIII — Until end of turn, target creature you control gains \"When this creature dies, draw two cards.\" Then that creature fights up to one other target creature."
+    ],
     "keywords": [
       "fight",
       "scry"

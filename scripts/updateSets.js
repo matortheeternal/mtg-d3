@@ -88,7 +88,7 @@ availableSets.forEach(set => {
             }).filter(Boolean),
 
             // Rules
-            oracleText: card.rulesTexts[0],
+            rulesTexts: card.rulesTexts,
             keywords: card.keywords,
             produces: card.produces,
 
