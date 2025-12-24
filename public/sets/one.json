@@ -19,10 +19,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each opponent sacrifices a creature or planeswalker of their choice and gets a poison counter.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dibujante Nocturno"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0173b7b4-2832-4943-ba45-8ba498d7a056",
@@ -49,13 +52,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {W}.\n{1}{W}, {T}, Sacrifice this land: Draw a card.",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Marc Simonetti"
     ],
     "source": {
       "type": "scryfall",
@@ -83,10 +89,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Hazardous Blast deals 1 damage to each creature your opponents control. Creatures your opponents control can't block this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Zoltan Boros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0380a4c9-a5d3-465f-8584-e546b54f91e0",
@@ -116,10 +125,13 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If that creature has toxic, instead it gets +2/+2 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Krharts"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0409bacf-b728-473d-bf9b-41fdf364e783",
@@ -150,7 +162,7 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
@@ -159,6 +171,9 @@
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "David Astruga"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "04baad61-1b51-4602-9e33-0de4a9f34793",
@@ -188,13 +203,16 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
     "keywords": [
       "toxic",
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Joe Slucher"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0955b64f-6721-4fa6-b161-cae404cb5b9f",
@@ -221,12 +239,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "You draw two cards and you lose 2 life. Each opponent gets a poison counter.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eli Minaya"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0a10f284-b043-4307-bdc7-6dad47cc9221",
@@ -256,7 +277,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Corrupted — {2}{B}: Return this card from your graveyard to the battlefield tapped. You lose 1 life. Activate only if an opponent has three or more poison counters.",
@@ -264,6 +285,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Konstantin Porubov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb",
@@ -293,10 +317,13 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with an oil counter on it.\n{1}, Remove an oil counter from this creature: This creature gains indestructible until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Nino Vecia"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0bd8d2b8-4caf-4349-9538-0dfbebf0ce1b",
@@ -323,7 +350,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token"
@@ -331,6 +358,9 @@
     "oracleText": "At the beginning of your upkeep, put an oil counter on another target nontoken artifact or creature you control.\n{2}, {T}: Create a 1/1 red Phyrexian Goblin creature token. Activate only if an oil counter was removed from a permanent you controlled this turn or a permanent with an oil counter on it was put into a graveyard this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Piotr Dura"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0c117239-8e40-4e7e-ab1b-82f2ddf55cf4",
@@ -363,7 +393,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 3,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -371,6 +401,9 @@
     "oracleText": "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand. If you do, you may activate loyalty abilities of Kaito twice this turn rather than only once.\n+1: Up to one target creature can't attack or block until your next turn.\n0: Draw a card.\n−2: Create a 2/2 colorless Drone artifact creature token with deathtouch and \"When this token leaves the battlefield, each opponent loses 2 life and you gain 2 life.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daarken"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0d97f59a-07b8-47ef-aa88-d94f8c3feae4",
@@ -399,7 +432,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Enchant basic land you control\nWhen this Aura enters, exile target creature or planeswalker an opponent controls until this Aura leaves the battlefield.",
@@ -407,6 +440,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Nino Vecia"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0da03224-c1af-438f-96c2-b0e41e1070b7",
@@ -433,12 +469,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Hexgold Slash deals 2 damage to target creature. If that creature has toxic, Hexgold Slash deals 4 damage to that creature instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eli Minaya"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0ec44465-68d4-4dca-a313-7f2ab0ce2e63",
@@ -465,13 +504,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{5}{U}, {T}: Draw a card. This ability costs {1} less to activate for each other artifact you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Piotr Dura"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0edb2d01-9a94-410c-8ab7-ca1b404ab5f0",
@@ -501,7 +543,7 @@
     "power": 8,
     "toughness": 8,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This spell can't be countered.\nTrample, ward {4}, haste\nToxic 4 (Players dealt combat damage by this creature also get four poison counters.)",
     "keywords": [
       "toxic",
@@ -510,6 +552,9 @@
       "ward"
     ],
     "produces": [],
+    "illustrators": [
+      "Tuan Duong Chu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0fb52b44-da5f-4f7a-a6c2-7924b855e051",
@@ -534,13 +579,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{G}, Sacrifice this artifact: Target creature you control gets +3/+3 and gains trample until end of turn. Draw a card. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Forsyth"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1073aee2-aea6-473d-97c6-248778d79d80",
@@ -567,12 +615,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)",
     "keywords": [
       "fight"
     ],
     "produces": [],
+    "illustrators": [
+      "Pavel Kolomeyets"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "123f0c76-1fde-439e-a76d-eccf96f8d941",
@@ -602,10 +653,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with an oil counter on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever another creature you control enters, if that creature has greater power or toughness than this creature, put an oil counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Di Giovanni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "13366c60-1200-4ad2-bbf4-77596121fcd2",
@@ -635,13 +689,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, another target creature you control with toxic gets +1/+1 and gains flying until end of turn.",
     "keywords": [
       "flying",
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Abz J Harding"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "134aecf0-dc48-4fb3-8c8b-4e5272077856",
@@ -668,10 +725,13 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever a player casts their first multicolored spell each turn, each other player draws a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1431fe83-7dc7-4c40-8d66-6525560e4323",
@@ -697,12 +757,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R}.",
     "keywords": [],
     "produces": [
       "B",
       "R"
+    ],
+    "illustrators": [
+      "Yeong-Hao Han"
     ],
     "source": {
       "type": "scryfall",
@@ -733,13 +796,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste\nToxic 3 (Players dealt combat damage by this creature also get three poison counters.)",
     "keywords": [
       "toxic",
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Xavier Ribeiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "157cf43c-f7f2-4362-bfc8-11682e94b747",
@@ -772,13 +838,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Other blue creatures you control have \"Whenever this creature becomes tapped, draw a card, then discard a card.\"\nOther artifact creatures you control get +1/+1.\n{U/P}: Until end of turn, target creature you control becomes a blue artifact in addition to its other colors and types. Activate only as a sorcery. ({U/P} can be paid with either {U} or 2 life.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrew Mar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "164b07e6-48ba-4789-bd8f-7cada1fec8a9",
@@ -805,10 +874,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reveal the top X plus one cards of your library. Choose a creature card and/or a land card from among them. Put those cards into your hand and the rest on the bottom of your library in a random order. If X is 5 or more, instead put the chosen cards onto the battlefield or into your hand and the rest on the bottom of your library in a random order.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "184c985d-cb70-41a7-9f66-3506708b7e26",
@@ -837,11 +909,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Mark Riddick"
     ],
     "source": {
       "type": "scryfall",
@@ -873,12 +948,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, look at the top four cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Maxime Minard"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "18af2c85-e58f-4043-99d3-e90121348aca",
@@ -905,13 +983,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {B}.\n{1}{B}, {T}, Sacrifice this land: Draw a card.",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Martin de Diego Sádaba"
     ],
     "source": {
       "type": "scryfall",
@@ -939,13 +1020,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {U}.\n{1}{U}, {T}, Sacrifice this land: Draw a card.",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Sarah Finnigan"
     ],
     "source": {
       "type": "scryfall",
@@ -981,7 +1065,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -992,6 +1076,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Igor Kieryluk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1b5b94b8-0420-40f2-b989-39cb43cff916",
@@ -1022,7 +1109,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 7,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -1031,6 +1118,9 @@
       "compleated"
     ],
     "produces": [],
+    "illustrators": [
+      "Chase Stone"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3",
@@ -1055,7 +1145,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -1065,6 +1155,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "José Parodi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1ec8f984-5ed4-4b34-8b2a-a113cbba001d",
@@ -1091,12 +1184,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "PINDURSKI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1efd4ae5-0076-46a0-a113-58cfff53144f",
@@ -1123,12 +1219,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this artifact or another artifact you control enters, target creature you control gets +1/+1 and gains vigilance until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Wayne Wu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1f9d8d87-e32f-4ad9-8d72-d1b88cd14510",
@@ -1155,13 +1254,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "Whenever another artifact or creature you control is put into a graveyard from the battlefield, put an oil counter on this artifact.\n{2}{B}, {T}, Remove four oil counters from this artifact: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Peter Polach"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "20a961ea-0639-4f5d-8cf4-f909c59a4ae1",
@@ -1191,7 +1293,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "This spell costs {3} less to cast if you have nine or more cards in your graveyard.\nFlying\nWhen this creature enters, exile three cards at random from your graveyard. Choose a noncreature, nonland card from among them and copy it. You may cast the copy without paying its mana cost.",
@@ -1199,6 +1301,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Durion"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "23afca1a-62a8-497f-994f-ceb479d020ba",
@@ -1225,7 +1330,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This artifact enters with two oil counters on it.\n{3}, {T}: Target player mills X cards, where X is the number of oil counters on this artifact.",
@@ -1233,6 +1338,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Aaron J. Riley"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "272c9888-ef13-4d47-a4bc-f5239b357a1b",
@@ -1261,7 +1369,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nWhenever this Equipment becomes attached to a creature, for as long as this Equipment remains attached to it, you may have that creature become a copy of another target creature you control.\nEquip {2}",
@@ -1270,6 +1378,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Volkan Baǵa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "277aeb73-4c7c-4132-b9f9-55181d57e75d",
@@ -1299,12 +1410,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters or dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Mike Franchina"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "28f48394-c6aa-4453-954a-68195d9bd6ea",
@@ -1329,7 +1443,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast Phyrexian creature spells.\nCorrupted — {T}: Target 1/1 creature gets +2/+1 until end of turn. Activate only if an opponent has three or more poison counters.",
     "keywords": [
       "corrupted"
@@ -1341,6 +1455,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Kasia 'Kafis' Zielińska"
     ],
     "source": {
       "type": "scryfall",
@@ -1368,12 +1485,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Kev Walker"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "29d2c689-af37-433a-a012-e8d384702811",
@@ -1406,13 +1526,16 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}, Sacrifice an artifact: Add an amount of {R} equal to the sacrificed artifact's mana value. Spend this mana only to cast artifact spells or activate abilities of artifacts.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Chris Seaman"
     ],
     "source": {
       "type": "scryfall",
@@ -1440,12 +1563,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Target creature you control gets +2/+2 until end of turn. If that creature has toxic, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Filipe Pagliuso"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2bb29a69-3e42-4268-8026-f01072d7b56c",
@@ -1472,12 +1598,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Planeswalkers you control have \"[0]: Proliferate\" and \"[−12]: Take an extra turn after this one.\"\nWhenever you cast a noncreature spell, choose a counter on target permanent. Put an additional counter of that kind on that permanent.",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Tiffany Turrill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2c093ce0-2561-4847-ab58-f6f1650d743e",
@@ -1504,10 +1633,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +2/+2 until end of turn. Put two oil counters on it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Isis"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2c83600d-ea4d-4219-8dbb-34c4215a2005",
@@ -1537,12 +1669,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace\nEquipment spells you cast cost {1} less to cast.\nActivated abilities of Equipment you control that target this creature cost {1} less to activate.",
     "keywords": [
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Valera Lutfullina"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2d6cf933-73fe-4e79-8d0b-29dc0f18b25d",
@@ -1567,12 +1702,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +2/+2 and has protection from red and from green.\nWhenever equipped creature deals combat damage to a player, exile the top two cards of your library. You may play those cards this turn. You may play an additional land this turn.\nEquip {2}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Scott Murphy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2daa3621-8a2c-4b4b-87ac-f981192a0567",
@@ -1602,7 +1740,7 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Haste\nWhen this creature enters, put two oil counters on target artifact or creature you control.\nAt the beginning of your end step, return this creature to its owner's hand unless you remove two oil counters from it.",
@@ -1610,6 +1748,9 @@
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Samuel Araya"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2e6af42f-35ec-432f-9879-2a0fb938a9f6",
@@ -1638,7 +1779,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+1 and has vigilance.\nEquip {3}{W} ({3}{W}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -1647,6 +1788,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Julian Kok Joon Wen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3006ea5a-5391-41eb-b0c8-092741dca2eb",
@@ -1676,7 +1820,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, up to one target artifact you control becomes an artifact creature with base power and toughness 4/4 for as long as this creature remains on the battlefield.",
@@ -1684,6 +1828,9 @@
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Cristi Balanescu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "30225e40-4bde-4e2e-b0f0-48ed16aebafd",
@@ -1706,7 +1853,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -1718,6 +1865,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Leanna Crossan"
     ],
     "source": {
       "type": "scryfall",
@@ -1751,12 +1901,15 @@
     "power": null,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nCephalopod Sentry's power is equal to the number of artifacts you control.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Mathias Kollros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "30c22eb9-5056-4c0b-a5d8-41e09161eb40",
@@ -1788,7 +1941,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw",
       "removal"
     ],
@@ -1797,6 +1950,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Johan Grenier"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "31147651-9a5e-4329-923b-e464f67135e9",
@@ -1827,12 +1983,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nWhen this creature dies, it deals damage equal to its power to any target.",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3553dcef-7b99-49d5-b071-06b894696952",
@@ -1859,10 +2018,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "PINDURSKI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3557e601-9b71-4ce9-9047-1a8baa72e574",
@@ -1889,10 +2051,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +4/+4 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "WolfSkullJack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3583ea03-525f-4c70-9d7e-ccc6002ee9e1",
@@ -1919,10 +2084,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell with mana value 1 or less.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lorenzo Mastroianni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "360ca37b-5bbd-4923-a493-7674786a36af",
@@ -1957,13 +2125,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "When Malcator enters, create a 3/3 colorless Phyrexian Golem artifact creature token.\nAt the beginning of your end step, if three or more artifacts entered the battlefield under your control this turn, create a 3/3 colorless Phyrexian Golem artifact creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "36bda977-e5d1-4813-a5f5-265023965142",
@@ -1992,11 +2163,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Mark Riddick"
     ],
     "source": {
       "type": "scryfall",
@@ -2024,7 +2198,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Put target creature card from a graveyard onto the battlefield under your control. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -2032,6 +2206,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Andreas Zafiratos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a2aeaeb-7853-4588-8a5e-cfd997ba8515",
@@ -2060,7 +2237,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nEnchant creature\nEnchanted creature gets +1/+1.\nCorrupted — As long as an opponent has three or more poison counters, enchanted creature gets an additional +1/+0 and has first strike.",
     "keywords": [
       "enchant",
@@ -2068,6 +2245,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Filip Burburan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a419ba1-7bd3-48e3-8f88-d9f833b25d6d",
@@ -2094,12 +2274,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Gain control of target creature with mana value X or less. If X is 5 or more, create a token that's a copy of that creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Piotr Dura"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a836e6b-6854-4f6f-bc78-2da1fd4dd224",
@@ -2126,10 +2309,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If it's equipped, you may destroy all Equipment attached to that creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mathias Kollros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3b92f866-2522-4f2a-a5ca-7d01ad79b927",
@@ -2156,7 +2342,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "removal"
@@ -2164,6 +2350,9 @@
     "oracleText": "Choose one or both —\n• Exile target artifact or creature you control, then return it to the battlefield under its owner's control.\n• Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Rudy Siswanto"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3cd8dd4e-6892-49d7-8fae-97d04f9f6c84",
@@ -2193,13 +2382,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nWhen this creature enters, choose one —\n• Target creature gets +2/+2 and gains vigilance until end of turn.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "vigilance",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Dave Kendall"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3db6d202-9c6f-4485-9224-173b23de7054",
@@ -2229,7 +2421,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "toxic",
@@ -2237,6 +2429,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "411bda96-6c65-475d-9850-0a9b3eefa553",
@@ -2270,10 +2465,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of your end step, you may sacrifice another creature. If you do, reveal cards from the top of your library until you reveal a nonlegendary creature card with lesser mana value, put it onto the battlefield, then put the rest on the bottom of your library in a random order.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Zoltan Boros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4152a5a8-e5a1-46b0-8f75-b9ac341da474",
@@ -2304,10 +2502,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with two oil counters on it.\n{2}{G}, {T}, Remove an oil counter from this creature: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Aaron J. Riley"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "419fab07-f921-4eff-91e2-1974ae121077",
@@ -2334,13 +2535,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "Choose one —\n• Charge of the Mites deals damage equal to the number of creatures you control to target creature or planeswalker.\n• Create two 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" (Players dealt combat damage by them also get a poison counter.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Vladimir Krisetskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "42060b9d-de58-485e-817a-1e64839943aa",
@@ -2371,12 +2575,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "When this creature enters, you may pay 2 life. When you do, target creature gets -1/-1 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ariel Perez"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "43c9005c-0574-4b75-8dbf-0a6641c3ae33",
@@ -2408,12 +2615,15 @@
     "power": 4,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering don't cause abilities of permanents your opponents control to trigger.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Martina Fačková"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "44dcab01-1d13-4dfc-ae2f-fbaa3dd35087",
@@ -2445,7 +2655,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token"
@@ -2453,6 +2663,9 @@
     "oracleText": "When this creature enters, create a 1/1 red Phyrexian Goblin creature token.\nWhenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.\nRemove three oil counters from this creature: Exile the top card of your library. You may play that card this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "45db6b46-c4b4-4684-8a49-53a64ffc82f2",
@@ -2479,7 +2692,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCreatures you control get +2/+1 until end of turn.",
@@ -2487,6 +2700,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "David Auden Nash"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "472a635a-a581-4c00-89d6-464f30887944",
@@ -2524,7 +2740,7 @@
     "power": 7,
     "toughness": 7,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying, vigilance, deathtouch, lifelink\nWhen Atraxa enters, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)",
@@ -2535,6 +2751,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Marta Nael"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4a1f905f-1d55-4d02-9d24-e58070793d3f",
@@ -2566,12 +2785,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever another creature you control with toxic attacks, it gets +1/+1 until end of turn.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Adam Burn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4a37aa46-bcf3-48a5-9f74-05e4878ad96f",
@@ -2603,10 +2825,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever one or more other creatures you control die, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Helge C. Balzer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4c4a3119-c70a-46ff-8ede-6356f2b7bc13",
@@ -2633,7 +2858,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Return target permanent card from your graveyard to your hand. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -2641,6 +2866,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Jeremy Wilson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4d4e6a91-59cc-4f7f-af25-16acabdafb1a",
@@ -2670,12 +2898,15 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThis creature enters with three oil counters on it.\nRemove an oil counter from this creature: This creature gets +1/-1 until end of turn.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Maxime Minard"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4f5e95f8-c04d-405f-bba4-e83a8f6bf463",
@@ -2704,11 +2935,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -2738,11 +2972,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -2774,7 +3011,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Lifelink\nWhenever another artifact you control enters, this creature gets +1/+1 until end of turn.",
@@ -2782,6 +3019,9 @@
       "lifelink"
     ],
     "produces": [],
+    "illustrators": [
+      "Mike Franchina"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "544a707d-4090-4a74-91aa-60fbd8a4ae96",
@@ -2810,7 +3050,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+2 and has flying and haste.\nEquip {3}{R}{R}",
@@ -2819,6 +3059,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Andreas Zafiratos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5456b036-231e-4a64-b060-0709f5254664",
@@ -2843,7 +3086,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -2856,6 +3099,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Adam Burn"
     ],
     "source": {
       "type": "scryfall",
@@ -2883,12 +3129,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Martina Fačková"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "54f69d43-de01-46a8-b102-b47e23e0e947",
@@ -2917,11 +3166,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Mark Riddick"
     ],
     "source": {
       "type": "scryfall",
@@ -2953,7 +3205,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquip abilities you activate of other Equipment cost {1} less to activate.\nEquipped creature has double strike.\nEquip {3}{R}{W}",
@@ -2962,6 +3214,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Tony Foti"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "563e9ba5-e0ec-4fb3-8301-689aa145cc19",
@@ -2991,12 +3246,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nDuring your turn, this creature has first strike.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Marcela Bolívar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "56444440-a9e6-4583-a289-9f0571a98093",
@@ -3027,7 +3285,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Haste\nWhen this creature enters, create a 1/1 red Phyrexian Goblin creature token.",
@@ -3035,6 +3293,9 @@
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Alexander Mokhov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5668699d-8df8-426b-a04a-99cfe55e570b",
@@ -3060,12 +3321,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, scry 2. Then each opponent may scry 1. (To scry X, a player looks at the top X cards of their library, then puts any number of them on the bottom and the rest on top in any order.)",
     "keywords": [
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Mark Behm"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "56bfdd21-4d46-4ec2-ba25-f16b6993f1a8",
@@ -3092,12 +3356,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Look at the top six cards of your library. Put up to two land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order. If you put fewer than two lands onto the battlefield this way, proliferate a number of times equal to the difference. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Sergey Glushakov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "572e174e-99f7-4b5e-8506-1833adddbf07",
@@ -3124,10 +3391,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Until end of turn, target creature gets +1/+3 and gains flying and toxic 1. (Players dealt combat damage by that creature also get a poison counter.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eli Minaya"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "57551332-e2a4-4e6a-9bd8-e3a9baafcd17",
@@ -3160,7 +3430,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 5,
-    "references": [
+    "tags": [
       "graveyard",
       "token",
       "draw",
@@ -3171,6 +3441,9 @@
       "compleated"
     ],
     "produces": [],
+    "illustrators": [
+      "Chase Stone"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "578e35b9-7252-4767-a1f3-aecd71256515",
@@ -3197,7 +3470,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Target creature gets -1/-1 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -3205,6 +3478,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Eli Minaya"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "58d287e8-5297-415a-97d5-02002470c52b",
@@ -3229,7 +3505,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{X}, {T}: This land becomes a copy of target nontoken artifact you control with mana value X.",
@@ -3241,6 +3517,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Andrew Mar"
     ],
     "source": {
       "type": "scryfall",
@@ -3264,10 +3543,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Adam Burn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5adceb34-78c7-40dd-af31-6fb282d577ca",
@@ -3296,11 +3578,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -3331,12 +3616,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 2\n{2}{G}: Each other creature you control with toxic gains toxic 1 until end of turn. Activate only once each turn. (A player dealt combat damage by a creature with toxic also gets poison counters equal to that creature's total toxic value.)",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Marcela Bolívar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5e7eef9e-68ae-4743-ad89-64f6fafbe365",
@@ -3362,10 +3650,13 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, you may search your library for a Myr card, reveal it, put it into your hand, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Cristi Balanescu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6046e50a-f4c9-4029-a589-62a19371b734",
@@ -3398,12 +3689,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nSkrelv can't block.\n{W/P}, {T}: Choose a color. Another target creature you control gains toxic 1 and hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. ({W/P} can be paid with either {W} or 2 life.)",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Brian Valeza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "60b565da-a49b-479c-b0c4-8ff3dd20cc0b",
@@ -3434,10 +3728,13 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature attacks, target creature an opponent controls gets -X/-0 until end of turn, where X is the number of artifacts you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Billy Christian"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "611497d2-83df-4c69-bbeb-6a807c686bc4",
@@ -3467,7 +3764,7 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "removal"
     ],
@@ -3479,6 +3776,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Martin de Diego Sádaba"
     ],
     "source": {
       "type": "scryfall",
@@ -3509,13 +3809,16 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nReach (This creature can block creatures with flying.)",
     "keywords": [
       "reach",
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Jarel Threat"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6249aabe-8f21-4257-9e04-ceffd44d42a5",
@@ -3547,13 +3850,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nCorrupted — When this creature enters, if an opponent has three or more poison counters, destroy target creature or planeswalker an opponent controls.",
     "keywords": [
       "vigilance",
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Igor Kieryluk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "626c46a3-72b8-4e04-adf2-c9c7aaf94f04",
@@ -3580,12 +3886,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "You may play lands from your graveyard.\n{T}: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jokubas Uogintas"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "635146da-d415-4107-a7f9-2c46189e5c52",
@@ -3615,12 +3924,15 @@
     "power": 2,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, you may tap it. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Sam Wolfe Connelly"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "63517062-77da-4b60-aa24-f91553a81bed",
@@ -3647,13 +3959,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {G}.\n{1}{G}, {T}, Sacrifice this land: Draw a card.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -3685,7 +4000,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 5,
-    "references": [
+    "tags": [
       "graveyard",
       "draw",
       "removal"
@@ -3696,6 +4011,9 @@
       "compleated"
     ],
     "produces": [],
+    "illustrators": [
+      "Chase Stone"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "64e6a8d1-ae75-45bd-af62-9a622620cb5c",
@@ -3726,12 +4044,15 @@
     "power": null,
     "toughness": null,
     "loyalty": 4,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "+2: Search your library for a basic Mountain card, reveal it, put it into your hand, then shuffle.\n−3: Koth deals damage to target creature equal to the number of Mountains you control.\n−7: You get an emblem with \"Whenever a Mountain you control enters, this emblem deals 4 damage to any target.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eric Wilkerson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6528e012-4091-4722-b706-c51772676167",
@@ -3758,10 +4079,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Nonland permanents you control are artifacts in addition to their other types. The same is true for permanent spells you control and nonland permanent cards you own that aren't on the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Martin de Diego Sádaba"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "65a2fcc9-2317-48a1-a5eb-234fb3300364",
@@ -3787,12 +4111,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W}.",
     "keywords": [],
     "produces": [
       "G",
       "W"
+    ],
+    "illustrators": [
+      "Randy Gallegos"
     ],
     "source": {
       "type": "scryfall",
@@ -3823,12 +4150,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace\nAt the beginning of each player's upkeep, this creature deals 2 damage to that player unless they control two or more basic lands.",
     "keywords": [
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Lauren K. Cannon"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "65e5fc08-7a04-4bba-81ba-990889cae96a",
@@ -3853,7 +4183,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "draw"
@@ -3861,6 +4191,9 @@
     "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{B}, Sacrifice this artifact: Return target creature card from your graveyard to your hand. Draw a card. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Gaboleps"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "66270dd2-9139-4329-9621-852962836688",
@@ -3893,7 +4226,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 3,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "You may activate abilities of creatures you control as though those creatures had haste.\n+1: Untap up to one target creature.\n−2: Mill three cards, then you may return a creature card with mana value 2 or less from your graveyard to the battlefield.",
@@ -3901,6 +4234,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Victor Adame Minguez"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "66605fe1-9a20-4c95-b53e-1249cedb978b",
@@ -3930,12 +4266,15 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhenever a source deals damage to this creature, that source's controller sacrifices that many permanents of their choice.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Maxim Kostin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "67a9c38b-6b3a-4056-a87c-fc48446f854f",
@@ -3966,13 +4305,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "flying",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "José Parodi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "67f0a63e-0866-423e-b917-fc7c71063021",
@@ -4005,7 +4347,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 6,
-    "references": [
+    "tags": [
       "token",
       "draw",
       "removal"
@@ -4016,6 +4358,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Marta Nael"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6865b8c7-b260-48e8-a905-64cbf06b7e57",
@@ -4042,13 +4387,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "At the beginning of combat on your turn, put an oil counter on this artifact, then create an X/1 red Phyrexian Horror creature token with trample and haste, where X is the number of oil counters on this artifact. Sacrifice that token at the beginning of the next end step.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "68f9f9d8-9ea0-4608-a79c-a09a87918186",
@@ -4077,12 +4425,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature you control\nEnchanted creature has toxic 2. (Players dealt combat damage by it also get two poison counters.)\nWhen enchanted creature dies, return that card to the battlefield under your control.",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Ernanda Souza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6ac8cd7c-992f-4953-b5bf-42e5a9ff09ad",
@@ -4113,10 +4464,13 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Put an oil counter on this creature.\n{T}, Remove an oil counter from this creature: Untap target land.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lauren K. Cannon"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6b71fd8f-e688-4210-bc5b-a3f19b5b3497",
@@ -4148,12 +4502,15 @@
     "power": 8,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\n{B/P}{B/P}, Exile three creature cards from your graveyard: Put an indestructible counter on Drivnod. ({B/P} can be paid with either {B} or 2 life.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Bogdan Rezunenko"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6bc26bca-c4d8-4e8b-a96a-9529fc2daed7",
@@ -4180,12 +4537,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Whenever you put one or more counters on a permanent or player, this enchantment deals that much damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chris Rahn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6d75e1f4-bd63-428e-8e6e-131594b3ba44",
@@ -4214,11 +4574,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -4251,12 +4614,15 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This spell can't be countered.\nTrample\nThrun can't be the target of nongreen spells your opponents control or abilities from nongreen sources your opponents control.\nDuring your turn, Thrun has indestructible.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Simon Dominic"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6d9f51dd-0393-4b3c-bea5-8f74634ab0e5",
@@ -4289,7 +4655,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 5,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Compleated ({R/G/P} can be paid with {R}, {G}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)\n+1: Add {R}{G}. Spend this mana only to cast creature spells or activate abilities of creatures.\n−1: Create a 3/3 green Phyrexian Beast creature token with toxic 1.\n−4: Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you control as you activate this ability.",
@@ -4299,6 +4665,9 @@
     "produces": [
       "G",
       "R"
+    ],
+    "illustrators": [
+      "Chase Stone"
     ],
     "source": {
       "type": "scryfall",
@@ -4324,12 +4693,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "{T}: Put an oil counter on The Filigree Sylex.\n{T}, Sacrifice The Filigree Sylex: Destroy each nonland permanent with mana value equal to the number of oil counters on The Filigree Sylex.\n{T}, Remove ten oil counters from among permanents you control and sacrifice The Filigree Sylex: It deals 10 damage to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Leanna Crossan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6e0958a1-1bac-48be-888d-f7573f409a9b",
@@ -4359,13 +4731,16 @@
     "power": 7,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nTrample",
     "keywords": [
       "affinity",
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Vladimir Krisetskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7177431e-5cc4-4ecd-8848-f51903289072",
@@ -4394,7 +4769,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +4/+4 and has trample.\nEquip {5}{G}{G}",
@@ -4403,6 +4778,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Alexander Mokhov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "71c1a1d0-5616-42f8-a59c-42c1ccd48d26",
@@ -4432,7 +4810,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
@@ -4441,6 +4819,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Abz J Harding"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "72af72d2-5995-4cad-82f1-e2d0c465d6f1",
@@ -4469,11 +4850,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -4501,7 +4885,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Volt Charge deals 3 damage to any target. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -4509,6 +4893,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Deruchenko Alexander"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "73d74045-cc9b-4b01-bc5f-0f2eb4b01580",
@@ -4538,12 +4925,15 @@
     "power": 6,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 6 (Players dealt combat damage by this creature also get six poison counters.)\nThis creature can't be blocked by creatures with power 2 or less.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Lorenzo Mastroianni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "758dbe61-6dc7-4b08-bdd6-7262257955fc",
@@ -4568,12 +4958,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +0/+2 and has toxic 1. (Players dealt combat damage by equipped creature also get a poison counter.)\nEquip {1}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Zezhou Chen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "75a1beec-bafe-4243-b91e-040a88fb0e95",
@@ -4600,12 +4993,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "WolfSkullJack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "75a4a340-453b-471a-82ba-48ebf20b271a",
@@ -4636,12 +5032,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When this creature enters, you gain 3 life. Then if you control a permanent with an oil counter on it, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Kendall"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "78493579-1fad-4664-96d7-195bf59ceef2",
@@ -4667,12 +5066,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G}.",
     "keywords": [],
     "produces": [
       "G",
       "R"
+    ],
+    "illustrators": [
+      "Yeong-Hao Han"
     ],
     "source": {
       "type": "scryfall",
@@ -4700,7 +5102,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact, enchantment, or creature with flying. If that permanent's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -4708,6 +5110,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "John Di Giovanni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7b43ba43-f7ae-4e00-b797-2360c3ccd839",
@@ -4734,13 +5139,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "Destroy up to X target artifacts. If X is 5 or more, for each artifact destroyed this way, create a token that's a copy of it. Those tokens gain haste. Exile them at the beginning of the next end step.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Julian Kok Joon Wen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7cac1827-69af-469d-b88c-fb9f2f33866a",
@@ -4767,7 +5175,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this artifact enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\nWhenever another artifact you control enters, this artifact becomes a 4/4 Phyrexian Eye artifact creature until end of turn.",
@@ -4775,6 +5183,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Jonas De Ro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7cc4246b-ff59-44b2-acff-c0bb6e4cd6ac",
@@ -4804,12 +5215,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste\nWhenever you cast a noncreature spell, put an oil counter on this creature.\n{T}, Remove an oil counter from this creature: It deals 1 damage to each opponent.",
     "keywords": [
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Helge C. Balzer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f04c2e5-9100-439a-9aa4-28d388518e4a",
@@ -4836,7 +5250,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flash\nAt the beginning of your upkeep, put an oil counter on this artifact.\nInstant and sorcery spells you cast cost {1} less to cast for each oil counter on this artifact.",
@@ -4844,6 +5258,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Ovidio Cartagena"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f4ad1cb-4bbb-4485-b322-0b003f06d034",
@@ -4873,10 +5290,13 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast a noncreature spell, put an oil counter on this creature.\nAs long as this creature has four or more oil counters on it, it gets +2/+0 and can't be blocked.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sam Wolfe Connelly"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f516ee6-8f7b-40b2-82e5-9c4ea3e0a355",
@@ -4906,7 +5326,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -4915,6 +5335,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Allen Williams"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "81ef3cfa-63e6-4450-af65-da7f05d13cf3",
@@ -4946,10 +5369,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If one or more tokens would be created under your control, twice that many of those tokens are created instead.\n{1}{W/P}{W/P}, Sacrifice two other artifacts and/or creatures: Put an indestructible counter on Mondrak. ({W/P} can be paid with either {W} or 2 life.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jason A. Engle"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8296a455-21d5-498e-9029-2bdf0da855a8",
@@ -4976,10 +5402,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control deals damage equal to its power to target creature you don't control. Each opponent gets a poison counter.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "83dfb2a5-cd5c-46c6-9bb8-7c5d00f3e003",
@@ -5006,7 +5435,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "token"
     ],
@@ -5015,6 +5444,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Denis Zhbankov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "85ad30a1-3ecc-42ca-afe8-85df5bad9196",
@@ -5044,12 +5476,15 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThis creature enters with four oil counters on it.\nAt the beginning of your upkeep, remove an oil counter from this creature. Then if it has no oil counters on it, you lose the game.\nWhenever a creature an opponent controls dies, its controller loses 2 life.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "86b0edaf-8cfd-4508-9554-6f0fddc2dfc4",
@@ -5082,12 +5517,15 @@
     "power": 1,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever a creature you control with toxic deals combat damage to a player, that player gets an additional poison counter.\n{1}{B}{G}: Target creature you control with toxic gains deathtouch until end of turn.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Igor Krstic"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "87519b36-1d95-4020-a61d-6afb75555e3e",
@@ -5117,7 +5555,7 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{1}, Sacrifice this creature: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -5125,6 +5563,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "89b39293-6f57-4294-85fc-c718bdbb4d40",
@@ -5156,7 +5597,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen you proliferate, return this card from your graveyard to your hand.",
@@ -5166,6 +5607,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Abz J Harding"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8a48705f-bd8a-43f1-b1fe-14a5c9a83ccd",
@@ -5195,13 +5639,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has double strike.",
     "keywords": [
       "flying",
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Marcela Bolívar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8a973487-5def-4771-bb77-5748cbd2f469",
@@ -5231,13 +5678,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace\nToxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
     "keywords": [
       "toxic",
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8c6b818f-6912-4ea1-a35a-c8cd7ee9aead",
@@ -5267,12 +5717,15 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nThis creature gets +2/+0 as long as you control two or more artifacts.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Xavier Ribeiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8c938a0f-531c-4293-a89c-c7440d5acc5d",
@@ -5302,12 +5755,15 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you proliferate, each opponent loses 2 life and you gain 2 life.",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Lauren K. Cannon"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8de80f71-82b5-499c-afc0-6bbae6b896ad",
@@ -5332,13 +5788,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{W}, Sacrifice this artifact: Target creature you control gets +2/+2 and gains flying until end of turn. Draw a card. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Gaboleps"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8e2f0ae2-db68-4338-93f9-9d9268cec41e",
@@ -5367,7 +5826,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Enchant artifact, creature, or planeswalker\nEnchanted permanent can't attack or block, and its activated abilities can't be activated.",
@@ -5375,6 +5834,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8ee69a1f-aeed-4eb4-8987-fa720fc99715",
@@ -5401,12 +5863,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "This spell costs {3} more to cast if it targets a creature.\nExile target nonland permanent.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Magali Villeneuve"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8f0b3308-9c0b-4461-9094-38deec20e1bc",
@@ -5435,13 +5900,16 @@
     "power": null,
     "toughness": null,
     "loyalty": 5,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "No more than one creature can attack The Eternal Wanderer each combat.\n+1: Exile up to one target artifact or creature. Return that card to the battlefield under its owner's control at the beginning of that player's next end step.\n0: Create a 2/2 white Samurai creature token with double strike.\n−4: For each player, choose a creature that player controls. Each player sacrifices all creatures they control not chosen this way.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alix Branwyn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "905f0dd4-0197-45f8-8e7f-396d6dcef600",
@@ -5471,13 +5939,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "toxic",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9255cd01-a611-4fec-b9ec-b271687740ba",
@@ -5509,12 +5980,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Whenever Kemba or another Cat you control enters, attach up to one target Equipment you control to that creature.\nEquipped creatures you control get +1/+1.\n{3}{W}{W}: Create a 2/2 white Cat creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Zoltan Boros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "945d283d-4592-485f-808a-6e5a721f3cf7",
@@ -5544,13 +6018,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
     "keywords": [
       "flying",
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Brian Valeza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "947a1e44-3485-4e24-a34d-6c318584743c",
@@ -5581,7 +6058,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying, vigilance\nWhen this creature dies, draw a card.",
@@ -5590,6 +6067,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Jason A. Engle"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "95a7e5ff-ba81-4b45-933e-0ac747525ab8",
@@ -5616,10 +6096,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Creatures you control get +2/+2 until end of turn. Whenever a creature blocks this turn, its controller gets a poison counter.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Billy Christian"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9649de6c-a9f7-4f0a-8bf7-cacaea60ed54",
@@ -5649,12 +6132,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nAs long as this creature is equipped, it gets +1/+1.",
     "keywords": [
       "ward"
     ],
     "produces": [],
+    "illustrators": [
+      "Ernanda Souza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "96ae13df-670e-49a0-99b0-baf908ac9eb4",
@@ -5681,13 +6167,16 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "First strike, protection from multicolored\nAt the beginning of your upkeep, sacrifice this creature unless you discard a card. When you discard a card this way, destroy target nonland permanent an opponent controls with mana value less than or equal to the mana value of the discarded card.",
     "keywords": [
       "first strike",
       "protection"
     ],
     "produces": [],
+    "illustrators": [
+      "Zack Stella"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9746e3ab-c0a6-46c1-a418-275b419962e4",
@@ -5710,7 +6199,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -5718,6 +6207,9 @@
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Martin de Diego Sádaba"
     ],
     "source": {
       "type": "scryfall",
@@ -5745,12 +6237,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature with mana value X.\nNahiri's Sacrifice deals X damage divided as you choose among any number of target creatures.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "98395039-1353-4fa8-b51d-c4e1cadf9263",
@@ -5775,13 +6270,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{2}{U}, Sacrifice this artifact: Return target creature to its owner's hand. Draw a card. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Gaboleps"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "98c2b2af-739f-413c-8c36-da6f78df0acb",
@@ -5808,7 +6306,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\n{T}, Pay 2 life: Add one mana of any color.",
     "keywords": [
       "toxic"
@@ -5819,6 +6317,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "José Parodi"
     ],
     "source": {
       "type": "scryfall",
@@ -5845,12 +6346,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}.",
     "keywords": [],
     "produces": [
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Mauricio Calle"
     ],
     "source": {
       "type": "scryfall",
@@ -5878,7 +6382,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "You draw three cards and you lose 3 life.\nCorrupted — Each opponent who has three or more poison counters loses 3 life.",
@@ -5886,6 +6390,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Jason A. Engle"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9f013a1a-d4b9-4380-9802-c299ee6c4492",
@@ -5914,7 +6421,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -5923,6 +6430,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "José Parodi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9f03d6bf-cbba-4ad7-8cec-065a47f03dbe",
@@ -5949,12 +6459,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact. If you controlled that artifact, create three 1/1 red Phyrexian Goblin creature tokens.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tuan Duong Chu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a3e4efa6-5783-4a51-99c6-116d1a8f01cf",
@@ -5984,12 +6497,15 @@
     "power": 4,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When this creature dies, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Raluca Marinescu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a5424859-628a-4c19-acd0-0c63c21c8338",
@@ -6020,12 +6536,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this creature enters, you may sacrifice a creature. When you do, destroy target artifact an opponent controls.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Joseph Meehan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a6147bdc-4e02-48be-9ab9-c212f70d9194",
@@ -6052,13 +6571,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "This artifact enters with three oil counters on it.\n{4}, {T}, Remove an oil counter from this artifact: Create a 3/3 colorless Phyrexian Golem artifact creature token. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tony Foti"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a6b36e23-a414-400c-a3a5-e23883e866d3",
@@ -6089,7 +6611,7 @@
     "power": null,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
@@ -6098,6 +6620,9 @@
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Billy Christian"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a6e8d7b9-ff5e-48ae-9e38-d2b6a45b119b",
@@ -6127,7 +6652,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying\nThis creature enters with an oil counter on it.\nWhen this creature dies, draw cards equal to the number of oil counters on it.",
@@ -6135,6 +6660,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Chris Cold"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a895f63f-3c59-4249-9346-55ef489944fc",
@@ -6161,12 +6689,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Choose one —\n• Each opponent sacrifices a nontoken creature of their choice.\n• Each opponent sacrifices a creature token of their choice.\n• Each opponent sacrifices a planeswalker of their choice.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Helge C. Balzer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9225cc3-90f0-448f-a8d9-7c6c2796d077",
@@ -6197,12 +6728,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nWhen this creature enters, tap target creature an opponent controls.",
     "keywords": [
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Maxime Minard"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a94378a2-cbde-4adf-b889-43e90fc6ba28",
@@ -6232,7 +6766,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen this creature enters, return target creature card with mana value 3 or less from your graveyard to your hand.",
@@ -6240,6 +6774,9 @@
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "José Parodi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a99fe9a8-d9e7-4286-81a1-adfb753e4741",
@@ -6269,10 +6806,13 @@
     "power": 4,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with two oil counters on it.\nRemove an oil counter from this creature: Target creature you control gains haste until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Denis Zhbankov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aa625ab0-1e79-4497-a5da-98fe1abfd024",
@@ -6302,7 +6842,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -6311,6 +6851,9 @@
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Michael Walsh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aace4c44-7250-414b-aac4-df042a1e2e1d",
@@ -6333,13 +6876,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "{3}, {T}: Search your library for a basic, Sphere, or Locus land card, reveal it, put it into your hand, then shuffle.\n{3}: This artifact becomes a 9/9 Phyrexian Construct artifact creature, loses all abilities, and gains indestructible and toxic 9. Activate only if there are nine or more lands with different names among the basic, Sphere, and Locus lands you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Igor Kieryluk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ab892e7b-6797-4ede-ab5d-d9d0fa488c80",
@@ -6366,12 +6912,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Each opponent gets a poison counter.\nDraw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Simon Dominic"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ac625f30-ed91-4b21-ada8-aaa5b2ad79b8",
@@ -6400,11 +6949,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Mark Riddick"
     ],
     "source": {
       "type": "scryfall",
@@ -6435,13 +6987,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Double strike\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
     "keywords": [
       "toxic",
       "double strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Nino Vecia"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b00ea7bb-705b-4669-bb2a-560bed04b14a",
@@ -6468,10 +7023,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "A. M. Sartor"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b0aac10a-6d47-4a6c-8a10-2b7c06f3ff32",
@@ -6505,13 +7063,16 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWard—{3}, Pay 3 life.\nWhenever you cast a noncreature spell, create X 1/1 red Phyrexian Goblin creature tokens, where X is the mana value of that spell. They gain haste until end of turn.",
     "keywords": [
       "flying",
       "ward"
     ],
     "produces": [],
+    "illustrators": [
+      "Antonio José Manzanedo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b298cf34-7aa5-4f97-a86c-7f28d2113b87",
@@ -6546,7 +7107,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "First strike, deathtouch\nWhenever Glissa Sunslayer deals combat damage to a player, choose one —\n• You draw a card and lose 1 life.\n• Destroy target enchantment.\n• Remove up to three counters from target permanent.",
@@ -6555,6 +7116,9 @@
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Krharts"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b2bf633e-0470-4b87-99ed-5ad1683b0954",
@@ -6585,12 +7149,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Sacrifice another artifact or creature: This creature gets +2/+2 until end of turn. Activate only once each turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ariel Perez"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b3890961-d636-4ccc-9c42-2088a8531c9b",
@@ -6621,13 +7188,16 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nCorrupted — Whenever this creature attacks, if an opponent has three or more poison counters, creatures you control get +1/+1 until end of turn.",
     "keywords": [
       "flying",
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Joe Slucher"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b3cf4c4f-bda6-454c-991d-429c0dca0e85",
@@ -6658,12 +7228,15 @@
     "power": 4,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "When this creature enters, it deals X damage to any target, where X is the number of permanents you control with oil counters on them.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Aaron J. Riley"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b3ef034f-37e5-4baa-a7a9-5fd0de792535",
@@ -6686,7 +7259,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add one mana of any color.\nCorrupted — Whenever this artifact becomes tapped, each opponent who has three or more poison counters loses 1 life.",
@@ -6699,6 +7272,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Illustranesia"
     ],
     "source": {
       "type": "scryfall",
@@ -6730,13 +7306,16 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, vigilance",
     "keywords": [
       "flying",
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Mike Franchina"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b62c740d-260d-4dfa-b6b3-9a1527538f89",
@@ -6765,11 +7344,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Mark Riddick"
     ],
     "source": {
       "type": "scryfall",
@@ -6800,13 +7382,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has deathtouch and lifelink.",
     "keywords": [
       "flying",
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Dave Kendall"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b83f4e41-a5f5-4929-9816-06dc1c228474",
@@ -6838,7 +7423,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever another creature you control enters, you may pay {2}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "flying",
@@ -6846,6 +7431,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b9cba67a-b714-49b0-9797-24aca283f162",
@@ -6872,12 +7460,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell unless its controller pays {2}.\nCorrupted — Counter that spell instead if its controller has three or more poison counters.",
     "keywords": [
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "LA Draws"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ba9d9d26-0c76-4a09-aa25-b32854e70c0b",
@@ -6907,7 +7498,7 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying\nWhen this creature enters, draw a card, then discard a card.",
@@ -6915,6 +7506,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Filip Burburan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bad0e96a-b4cc-4439-aab9-731a1036145d",
@@ -6941,10 +7535,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +2/+2 until end of turn.\nEquipped creatures you control gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Aurore Folny"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bbc4b5ca-557e-4465-9725-9e7a15590258",
@@ -6973,13 +7570,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nEnchant creature\nWhen this Aura enters, if enchanted creature has toxic, that creature gains hexproof until end of turn.\nEnchanted creature gets +2/+2.",
     "keywords": [
       "enchant",
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "LA Draws"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bc79106b-9aa2-4add-b9ca-e3c7aafd9821",
@@ -7005,12 +7605,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B}.",
     "keywords": [],
     "produces": [
       "B",
       "U"
+    ],
+    "illustrators": [
+      "Aaron Miller"
     ],
     "source": {
       "type": "scryfall",
@@ -7038,12 +7641,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature or planeswalker.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Konstantin Porubov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "be5d0b95-ec12-4e8e-99a0-7aca457f9107",
@@ -7070,7 +7676,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Target creature gets -4/-4 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -7078,6 +7684,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Tiffany Turrill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bf148ef4-0ed7-4fbe-8ab6-01dd3981c8d3",
@@ -7104,10 +7713,13 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Permanent cards in graveyards can't enter the battlefield.\nPlayers can't cast noncreature spells from graveyards or exile.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Donato Giancola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634",
@@ -7141,12 +7753,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Migloz enters with five oil counters on it.\n{1}, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn.\n{2}, Remove two oil counters from Migloz: It gets +2/+2 until end of turn.\n{3}, Remove three oil counters from Migloz: Destroy target artifact or enchantment.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Zezhou Chen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c1171899-07d8-4e60-a79b-f162f59dc3ce",
@@ -7173,13 +7788,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {R}.\n{1}{R}, {T}, Sacrifice this land: Draw a card.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Muhammad Firdaus"
     ],
     "source": {
       "type": "scryfall",
@@ -7210,12 +7828,15 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with three oil counters on it.\n{T}, Remove an oil counter from this creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
     "keywords": [
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Alix Branwyn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c22aaaec-bad5-43e9-8e92-9c4bde95fcfd",
@@ -7247,12 +7868,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Other creatures you control get -1/-1.\n{1}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains \"If this creature would leave the battlefield, exile it instead of putting it anywhere else.\" Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Martin de Diego Sádaba"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c26e18be-81a1-4645-866a-fae5c2fdf7c9",
@@ -7284,10 +7908,13 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals double that damage to that player or permanent instead.\n{1}{R/P}{R/P}, Discard two cards: Put an indestructible counter on Solphim. ({R/P} can be paid with either {R} or 2 life.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chris Cold"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c3a0c7f3-7fb9-43de-a9af-96532c31e5ed",
@@ -7316,7 +7943,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature has flying.\nCreatures you control that are equipped get +1/+0.\nEquip {2}{W}",
@@ -7325,6 +7952,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Kai Carpenter"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c498dbf9-c68c-400c-9349-c3c3fc8efcae",
@@ -7354,13 +7984,16 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "Whenever another creature or artifact you control is put into a graveyard from the battlefield, put an oil counter on this creature.\nWhenever this creature attacks, you may remove two oil counters from it. When you do, target creature can't block this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Vladimir Krisetskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c4c2c914-e9a7-450b-88d9-8885fe0f6643",
@@ -7389,7 +8022,7 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Vigilance\nThis Vehicle enters with an oil counter on it.\nRemove an oil counter from this Vehicle: It becomes an artifact creature until end of turn.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
@@ -7398,6 +8031,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Julian Kok Joon Wen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c5efd9b5-05e5-440f-b28c-658e461cf644",
@@ -7427,10 +8063,13 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast a noncreature spell, put an oil counter on this creature.\nRemove an oil counter from this creature: Target creature gains flying until end of turn. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c66988ca-29d5-45ea-8d68-c8e0e4c3ffb1",
@@ -7457,10 +8096,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (A creature with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kieran Yanner"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c7b362a5-382a-4016-b4f2-aa7b683354c4",
@@ -7487,12 +8129,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell. If that spell's mana value was 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "David Astruga"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c7ce5296-f28f-4105-9c79-b9c63ea720e7",
@@ -7522,12 +8167,15 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This creature enters with two oil counters on it.\n{T}, Remove an oil counter from this creature, Discard a card: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pavel Kolomeyets"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c9b3b785-396e-4240-bfa3-58ab53497686",
@@ -7552,13 +8200,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{1}, Sacrifice this artifact: Draw a card.\n{1}{R}, Sacrifice this artifact: Put two oil counters on target artifact or creature you control. Draw a card. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Forsyth"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cb530f9d-cf35-48a7-8711-f74b3d9a35a7",
@@ -7585,7 +8236,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Draw three cards. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
@@ -7593,6 +8244,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Adam Burn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cd244359-781e-4e1d-946d-243664f40c7c",
@@ -7619,7 +8273,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)\nRebel Salvo deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.",
@@ -7627,6 +8281,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Khurrum"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cd37d1b1-70ce-466e-890d-36be82433035",
@@ -7656,7 +8313,7 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -7665,6 +8322,9 @@
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cdbbcbe1-5317-455e-8d71-a4e2ad0addfc",
@@ -7691,10 +8351,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with three oil counters on it.\nAt the beginning of combat on your turn, you may remove an oil counter from this creature. When you do, target creature you control gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Billy Christian"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cdedebad-f71e-4434-871e-5bbbd3c07a12",
@@ -7724,12 +8387,15 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Corrupted — When this creature enters, sacrifice a creature unless an opponent has three or more poison counters.",
     "keywords": [
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ce7e1e9b-ad7f-4f4c-bdb5-2ccb6f147037",
@@ -7759,10 +8425,13 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature can't be blocked.\nWhenever you cast a noncreature spell, put an oil counter on this creature.\nWhenever this creature deals combat damage to a player, you may remove two oil counters from it. If you do, when you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Marcela Bolívar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cf28c75d-1fb3-44cc-b651-5b2830e22add",
@@ -7792,7 +8461,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -7801,6 +8470,9 @@
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Sam Wolfe Connelly"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d051bfc7-b402-444d-896e-c3a9562cdb0d",
@@ -7830,12 +8502,15 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhenever a creature you control becomes the target of a spell, target opponent gets a poison counter.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Brian Valeza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d",
@@ -7858,7 +8533,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -7872,6 +8547,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Igor Krstic"
     ],
     "source": {
       "type": "scryfall",
@@ -7899,12 +8577,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Choose one or both —\n• Molten Rebuke deals 5 damage to target creature or planeswalker.\n• Destroy target Equipment.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eli Minaya"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d2e3291b-de5c-4a10-9915-2cd2d84a815c",
@@ -7931,12 +8612,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Return target nonland permanent to its owner's hand. If that permanent had mana value 3 or less, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Lauren K. Cannon"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d326bff1-5370-4817-8370-6da87a061058",
@@ -7971,7 +8655,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When Ezuri enters, you may pay {3}. If you do, proliferate twice.\nWhenever you proliferate, draw a card.",
@@ -7979,6 +8663,9 @@
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Fariba Khamseh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d38961ce-0257-412f-acec-c5c9886061f8",
@@ -8003,13 +8690,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This land enters with two oil counters on it.\n{T}: Add {C}.\n{T}, Remove an oil counter from this land: Put an oil counter on target artifact or creature you control. Activate only as a sorcery.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Bruce Brenneise"
     ],
     "source": {
       "type": "scryfall",
@@ -8037,10 +8727,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +3/+1 until end of turn.\nExile the top card of your library. Until the end of your next turn, you may play that card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tiffany Turrill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d6bfc16a-2871-40a4-b279-636b80491a06",
@@ -8063,12 +8756,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "As long as this artifact is on the battlefield, it has all activated abilities of all land cards in all graveyards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Piotr Dura"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d76fe2f2-ce2c-49e4-9f00-89c82f2fae8d",
@@ -8098,13 +8794,16 @@
     "power": 6,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach, trample\nThis creature can't be blocked by creatures with flying.",
     "keywords": [
       "reach",
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Helge C. Balzer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d7898399-3c52-402c-9cd7-baad2cb7f00e",
@@ -8131,12 +8830,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This artifact enters with four oil counters on it.\n{T}, Remove an oil counter from this artifact: Tap target artifact or creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daren Bader"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "daa20112-2955-439d-8802-3a228ba0832e",
@@ -8165,13 +8867,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)\nEnchanted creature doesn't untap during its controller's untap step.",
     "keywords": [
       "enchant",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Konstantin Porubov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dac28e27-78aa-48b1-96fa-edca1fbcfb77",
@@ -8201,10 +8906,13 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with four oil counters on it.\nThis creature has trample as long as it has two or fewer oil counters on it. Otherwise, it has hexproof.\nAt the beginning of your upkeep, remove an oil counter from this creature. Then if it has no oil counters on it, sacrifice it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dd4bcb42-f5cf-410d-8f20-1006b0f92abe",
@@ -8234,13 +8942,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 3 (Players dealt combat damage by this creature also get three poison counters.)\nWhen this creature enters, you may pay {1}{G}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "toxic",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Mike Jordana"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dd9df44a-a0ab-435f-914c-aa11cd88f4ec",
@@ -8269,7 +8980,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +1/-1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -8278,6 +8989,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Randy Gallegos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "de1d02d1-91dc-47d6-bdbe-87602428abfb",
@@ -8307,13 +9021,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
     "keywords": [
       "toxic",
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dfb81cb1-ac56-4803-a962-359854a447df",
@@ -8343,7 +9060,7 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -8352,6 +9069,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Nils Hamm"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e0328d43-ae9b-462a-a1e5-8ed408eea1a7",
@@ -8379,10 +9099,13 @@
     "power": 7,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Juggernauts you control attack each combat if able.\nJuggernauts you control can't be blocked by Walls.\nOther creatures you control have base power and toughness 5/3 and are Juggernauts in addition to their other creature types.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Néstor Ossandón Leal"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e0e73b63-17cc-4dca-abd6-728b74bc37a8",
@@ -8416,13 +9139,16 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "If you would get one or more poison counters, instead you get one poison counter and you can't get additional poison counters this turn.\nExile Melira: Choose another target creature or artifact. When it's put into a graveyard this turn, return that card to the battlefield under its owner's control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Miranda Meeks"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e1329ad9-5989-4920-b17b-943b9b4a0cd9",
@@ -8452,12 +9178,15 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nIf damage would be dealt to this creature, prevent that damage. When damage is prevented this way, this creature deals that much damage to any other target.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Denys Tsiperko"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e18780ce-add4-4346-8028-4bc3b4099d71",
@@ -8487,12 +9216,15 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Deathtouch\nWhen this creature enters, each opponent discards a card. For each opponent who can't, you gain 4 life.",
     "keywords": [
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Allen Williams"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e3f571b5-ce50-4856-a151-fe6610d27bca",
@@ -8519,12 +9251,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Donato Giancola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e508ae5d-ffb5-4480-be90-a4394954b559",
@@ -8555,12 +9290,15 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Krharts"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e5290a4c-1f98-4e97-a407-f951e386b8b0",
@@ -8587,10 +9325,13 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever a creature you control enters, if it has one or more oil counters on it, put an oil counter on it.\nCreatures you control with oil counters on them get +1/+1.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sam Wolfe Connelly"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e555abb1-ffd4-4143-9be8-ec8a758f5c2a",
@@ -8617,12 +9358,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Up to one target creature gets -X/-X until end of turn. If X is 5 or more, return a creature card with mana value X or less from your graveyard to the battlefield tapped.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jonas De Ro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e5bb4def-c67c-44c2-b3b2-8c53a077432d",
@@ -8656,7 +9400,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Trample\nWhenever Jor Kadeen attacks, it gets +X/+X until end of turn, where X is the number of equipped creatures you control. Then if Jor Kadeen's power is 4 or greater, draw a card.",
@@ -8664,6 +9408,9 @@
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Jeremy Wilson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e7e4d8f7-874d-4b2a-ad23-afab479784ea",
@@ -8693,12 +9440,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{3}{W}, {T}: Tap target creature.\nCorrupted — {W}, {T}: Tap target creature. Activate only if an opponent has three or more poison counters.",
     "keywords": [
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ebad4fcc-4f78-48dc-b236-c78c22edc1e9",
@@ -8730,12 +9480,15 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This spell costs {1} less to cast for each permanent you control with oil counters on it.\nVigilance\nWhen this creature enters, it deals 1 damage to each creature your opponents control.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Wisnu Tan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eee24300-fff8-4405-9629-9f62b4a839ef",
@@ -8762,7 +9515,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -8771,6 +9524,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Jonas De Ro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eeebc0ab-89fb-47d5-a20f-8f1fe5e3c149",
@@ -8799,7 +9555,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +2/+0.\nEquip {2}{R} ({2}{R}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -8808,6 +9564,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Kai Carpenter"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f05078dd-b928-4b3f-9636-f299ebac180b",
@@ -8837,12 +9596,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When this creature enters, put up to one target instant or sorcery card from your graveyard on top of your library.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pavel Kolomeyets"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f0d392b2-1dac-432d-930c-66b238f7512b",
@@ -8874,12 +9636,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nOther Rats you control have toxic 1.\nWhen Karumonix enters, look at the top five cards of your library. You may reveal any number of Rat cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in a random order.",
     "keywords": [
       "toxic"
     ],
     "produces": [],
+    "illustrators": [
+      "Helge C. Balzer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f16e282d-8941-46c7-a974-c05b6f73c964",
@@ -8911,13 +9676,16 @@
     "power": 3,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nIf you would proliferate, proliferate twice instead.\n{1}{U/P}{U/P}, Remove three counters from among other artifacts, creatures, and planeswalkers you control: Put an indestructible counter on Tekuthal. ({U/P} can be paid with either {U} or 2 life.)",
     "keywords": [
       "flying",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Martin de Diego Sádaba"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f1d4b157-2c77-4355-8c65-78dec9d44c85",
@@ -8946,7 +9714,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nDuring your turn, equipped creature has first strike and trample.\nEquip {2}{R}",
@@ -8955,6 +9723,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Heonhwa Choe"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f22108ec-28f0-44d3-ba6b-3075f5f6bc65",
@@ -8983,7 +9754,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "For Mirrodin! (When this Equipment enters, create a 2/2 red Rebel creature token, then attach this to it.)\nEquipped creature gets +0/+1.\nEquip {1}{W} ({1}{W}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -8992,6 +9763,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Vincent Christiaens"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f4057210-ef07-4496-94c8-95c3b807c23c",
@@ -9021,12 +9795,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThis creature enters with an oil counter on it.\nThis creature gets +1/+1 for each oil counter on it.\nWhenever you cast a noncreature spell, put an oil counter on this creature.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Daniel Ljunggren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f442442d-2e5d-4913-82d8-bab2f31541f8",
@@ -9057,7 +9834,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 6,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -9072,6 +9849,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Chase Stone"
     ],
     "source": {
       "type": "scryfall",
@@ -9102,12 +9882,15 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever you cast a noncreature spell, put an oil counter on this creature.\n{6}{R}, Sacrifice this creature: Discard your hand, then draw four cards. This ability costs {1} less to activate for each oil counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Xavier Ribeiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f67e7a16-ff30-4fb9-9fcb-6561eec50caf",
@@ -9137,12 +9920,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhenever this creature attacks, it gets +X/+0 until end of turn, where X is the number of permanents you control with oil counters on them.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Maxime Minard"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f7155c42-a824-4bbe-9f7a-fa01e7625fd6",
@@ -9172,10 +9958,13 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with two oil counters on it.\nWhenever this creature attacks, you may remove an oil counter from it. If you do, untap it and it gets +1/+1 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Durion"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f7427def-c4b2-475a-8dc9-7e89409d9abb",
@@ -9209,7 +9998,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -9218,6 +10007,9 @@
       "battle cry"
     ],
     "produces": [],
+    "illustrators": [
+      "Andreas Zafiratos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f7531ed3-235f-4368-98a8-e4e1947c53fb",
@@ -9244,7 +10036,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Exile target creature if it has mana value 3 or less.\nCorrupted — Exile that creature instead if its controller has three or more poison counters.",
@@ -9252,6 +10044,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "David Astruga"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f7dc55a8-290f-4666-90ce-aa632e87c5e7",
@@ -9281,13 +10076,16 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach\n{1}{G}, Sacrifice this creature: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
     "keywords": [
       "reach",
       "proliferate"
     ],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd",
@@ -9318,7 +10116,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "draw"
@@ -9326,6 +10124,9 @@
     "oracleText": "Whenever this creature or another artifact you control enters, you may draw a card. If you do, discard a card.\n{2}: Put target card from your graveyard on the bottom of your library.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Xavier Ribeiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f912c4ec-08e9-4524-a2ba-98f6dfabdc18",
@@ -9352,7 +10153,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Corrupted — This spell costs {2} less to cast if an opponent has three or more poison counters.\nDraw two cards.",
@@ -9360,6 +10161,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f932ddd3-beb4-4dc8-8c15-e1c9c2276986",
@@ -9391,12 +10195,15 @@
     "power": 4,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach\nAt the beginning of each combat, double the power and toughness of each creature you control until end of turn.\n{G/P}{G/P}, Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ({G/P} can be paid with either {G} or 2 life.)",
     "keywords": [
       "reach"
     ],
     "produces": [],
+    "illustrators": [
+      "Antonio José Manzanedo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fb419d9d-e06f-48c8-a4f8-a57f9be39e50",
@@ -9423,7 +10230,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -9432,6 +10239,9 @@
       "corrupted"
     ],
     "produces": [],
+    "illustrators": [
+      "Heonhwa Choe"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ffbd77ec-fc81-41d5-934f-c3dd844cb053",
@@ -9458,13 +10268,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "You gain X life. Create X 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \"This token can't block.\" If X is 5 or more, destroy all other creatures. (Players dealt combat damage by a creature with toxic 1 also get a poison counter.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Julian Kok Joon Wen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fff13d77-8133-4328-b91e-efce229bc331",

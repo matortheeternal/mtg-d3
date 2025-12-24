@@ -18,12 +18,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.\nWhen this creature dies, you may draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "00f9955f-a522-47bf-b064-92dd21a76b18",
@@ -49,10 +52,13 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Sacrifice this creature: You gain 3 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ben Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "018dcb37-221a-4552-9e72-2b9492883eae",
@@ -81,12 +87,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0286b42a-295b-467c-a1d8-0b31774b7ac5",
@@ -112,12 +121,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThis creature enters with three +1/+1 counters on it.\nWhenever this creature attacks or blocks, remove a +1/+1 counter from it at end of combat.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "02a7e1a6-347e-47bc-8a14-e584a45941e1",
@@ -144,12 +156,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle.\n• Put up to two creature cards from your hand onto the battlefield.\nEntwine {2} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "02f0067c-2d38-46bd-b52e-070c2ce424f0",
@@ -175,12 +190,15 @@
     "power": 10,
     "toughness": 10,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "When this creature enters, exile all cards from your library.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "03ffa3c3-dd29-47eb-abf2-7951fadb5c37",
@@ -207,13 +225,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "As an additional cost to cast this spell, sacrifice an artifact.\nShrapnel Blast deals 5 damage to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "056affab-4e2a-4b68-b864-d879becd3c45",
@@ -242,7 +263,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nBroodstar's power and toughness are each equal to the number of artifacts you control.",
@@ -251,6 +272,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Glen Angus"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "07a194cb-53c9-4690-ba63-79beecaebe0e",
@@ -280,12 +304,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste\nWhen this creature enters, attach all Equipment on the battlefield to it. (Control of the Equipment doesn't change.)",
     "keywords": [
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Kev Walker"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "083f3b83-b7d3-472f-87b2-ed247c9c937e",
@@ -308,12 +335,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Edward P. Beard, Jr."
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0899f753-c229-4cdf-a60c-4978a6506def",
@@ -341,11 +371,14 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {R}.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Kev Walker"
     ],
     "source": {
       "type": "scryfall",
@@ -371,13 +404,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{B}, Sacrifice this artifact: Target player discards a card.\n{1}, Sacrifice this artifact: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0950bfe7-2600-4e01-8f54-f03a5c023520",
@@ -406,12 +442,15 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen this creature dies, target opponent puts a card from their hand on top of their library.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Christopher Moeller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0a426922-5e96-48f3-b696-f5dc99258943",
@@ -436,13 +475,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{G}, Sacrifice this artifact: Until end of turn, target land becomes a 3/3 creature that's still a land.\n{1}, Sacrifice this artifact: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0adde668-67af-4a08-a36a-2a49893ab20d",
@@ -468,10 +510,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature gets +1/+1 for each Equipment attached to it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ben Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0d6ddde9-4427-4a0f-b05c-9cfd886aad2d",
@@ -494,10 +539,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{8}, {T}: You gain 10 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Avon"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0eb67150-53e4-4164-bea5-dd3659469b8e",
@@ -527,13 +575,16 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "When this creature enters, you may return target artifact creature card from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Puddnhead"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0f27426b-3679-44e4-9249-f57b92baa3f3",
@@ -558,12 +609,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Alan Pollack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0fa5790b-5388-4bf9-9caa-44d8cbb64708",
@@ -590,13 +644,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Draw three cards. Then discard two cards unless you discard an artifact card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ben Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0ff1f608-203e-4413-8753-37fc49731c87",
@@ -619,13 +676,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "At the beginning of each player's first main phase, if this artifact is untapped, that player adds {C} for each artifact they control.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "David Martin"
     ],
     "source": {
       "type": "scryfall",
@@ -649,7 +709,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -658,6 +718,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "11b4983a-2a95-4322-a315-27b4bd430d39",
@@ -680,13 +743,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Whenever this artifact or another artifact enters, put a charge counter on this artifact.\n{3}, {T}, Remove a charge counter from this artifact: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Corey D. Macourek"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "126ec055-1a7d-426b-a87f-c85c60aa7fc3",
@@ -715,11 +781,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -743,7 +812,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\n{T}: Target creature gets +0/+1 until end of turn.",
@@ -752,6 +821,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Alan Pollack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "133b367c-b1a1-46f7-a539-a33ee655affb",
@@ -776,12 +848,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +3/+3.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Kevin Dobler"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "13e731de-32e9-4dae-804f-9b962b457cf3",
@@ -808,10 +883,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "All creatures have haste.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Adam Rex"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1431354a-fcfa-4f67-a822-6dcc4d13ac3f",
@@ -836,12 +914,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +2/+2.\nWhenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach this Equipment to that creature.\nEquip {4}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "143e7a81-fb3d-4bad-854a-b24138ca7415",
@@ -871,10 +952,13 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{R}, {T}: This creature deals damage equal to its power to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alan Pollack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "147c826a-b664-4afa-ae7f-284ddce80861",
@@ -899,12 +983,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Richard Sardinha"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "14a04bbd-1d07-4b11-aa54-01790b9dd3a0",
@@ -933,12 +1020,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "14bae45c-eaa8-4c6d-8042-df5cf26e294f",
@@ -967,12 +1057,15 @@
     "power": null,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Defender (This creature can't attack.)\nPay 1 life: This creature gets +1/+1 until end of turn.",
     "keywords": [
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Tony Szczudlo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "17320043-f81c-4e14-b9ba-c1309972c22b",
@@ -1001,11 +1094,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -1033,10 +1129,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of each player's upkeep, that player discards a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alex Horley-Orlandelli"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "18291514-9ffb-4032-9c77-cec0200bf1b6",
@@ -1059,12 +1158,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This artifact enters with X charge counters on it.\nWhenever a player casts a spell with mana value equal to the number of charge counters on this artifact, counter that spell.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mark Zug"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e",
@@ -1093,12 +1195,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1d8779ec-0ebd-45a1-96c9-4b1146871ab7",
@@ -1123,12 +1228,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever equipped creature blocks or becomes blocked by a creature, destroy both creatures.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Ray Lago"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1dc312c0-14da-4b23-8293-6fa41bdd3167",
@@ -1157,7 +1265,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
@@ -1165,6 +1273,9 @@
       "fear"
     ],
     "produces": [],
+    "illustrators": [
+      "Michael Sutfin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1fff470a-3574-42be-8f0b-ac5e7a70f61a",
@@ -1193,11 +1304,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -1224,10 +1338,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {2}. If you do, untap this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "229e8124-54ed-4c29-8c44-4962bd60f145",
@@ -1256,10 +1373,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.\n{1}{B}: Regenerate this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "22a04ccb-cb57-4548-81db-e1b77b09f5da",
@@ -1289,12 +1409,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
     "keywords": [
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Pete Venters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "23510414-974e-4510-9742-884ecd572ad8",
@@ -1321,12 +1444,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact with mana value X. It can't be regenerated. Detonate deals X damage to that artifact's controller.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "237eedf5-8a8f-4668-a911-e2bf66f8221e",
@@ -1353,10 +1479,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each player can't cast more than one spell each turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "246a68e9-fd19-4a1e-8c7b-fcd3f7306dfb",
@@ -1385,12 +1514,15 @@
     "power": 8,
     "toughness": 8,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
     "keywords": [
       "hexproof"
     ],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "24fc3c5e-025d-4b21-af86-9c861658d32e",
@@ -1413,13 +1545,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "{2}, {T}: Create a 0/1 colorless Pest artifact creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Stephen Tappin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "266df8c3-5872-4d83-90bc-8f6f854ac838",
@@ -1449,12 +1584,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Kev Walker"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "275a47e1-816c-44f9-bd05-b8b56410436f",
@@ -1480,12 +1618,15 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this creature or another artifact creature dies, you may untap target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "27c5381c-2e79-41fa-b1d7-2cf0c6dc1808",
@@ -1512,12 +1653,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "As an additional cost to cast this spell, sacrifice an artifact.\nPut X +1/+1 counters on target creature, where X is the sacrificed artifact's mana value.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tony Szczudlo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2873b6d5-af76-498c-bc2d-a26c36be3cbd",
@@ -1543,11 +1687,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {R}.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -1576,10 +1723,13 @@
     "power": 4,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{B}: Regenerate this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "28aa6682-bf11-4959-9d07-423a55f35199",
@@ -1608,10 +1758,13 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{U}: This creature gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)\nYou may spend blue mana as though it were mana of any color to pay the activation costs of this creature's abilities.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tony Szczudlo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2905f6ac-d054-454b-8e1a-9c32db13a581",
@@ -1634,12 +1787,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever a permanent becomes untapped, that permanent's controller mills a card.",
     "keywords": [
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "David Martin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "29d11b14-43a9-4d1c-ba2c-3025d51d841e",
@@ -1668,7 +1824,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\nWhen this creature enters, put target artifact on top of its owner's library.",
@@ -1676,6 +1832,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "29de2f4c-81a6-42c7-94d1-f9109c3331ff",
@@ -1702,10 +1861,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Put a +1/+1 counter on target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Matson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2b34e76b-86b3-464e-93e7-c3f2074028fb",
@@ -1734,12 +1896,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Darrell Riche"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2dbc8eef-f032-490a-b487-da1af71b7ff2",
@@ -1768,12 +1933,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Sacrifice an artifact: This creature gets +3/+3 and gains trample until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pete Venters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2e9734b1-c5fb-4b2b-bada-c45c3a725e01",
@@ -1798,11 +1966,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped.\n{T}: Add {C} for each Locus on the battlefield.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -1826,12 +1997,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{6}, {T}, Sacrifice this artifact: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alex Horley-Orlandelli"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "31b0f9ef-7404-4e05-b759-aaf1ebcfcb31",
@@ -1858,12 +2032,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Each artifact spell costs {1} more to cast for each artifact its controller controls.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Avon"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "328f3afb-1a56-42a5-bd1e-3e704291972f",
@@ -1889,13 +2066,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
     "oracleText": "This creature enters with five +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from this creature: Create a 1/1 colorless Pentavite artifact creature token with flying.\n{1}, Sacrifice a Pentavite: Put a +1/+1 counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "32a11f0a-7547-4fda-a8ed-caf76ce98f10",
@@ -1918,13 +2098,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, this artifact deals 1 damage to you.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ben Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "347c1442-036b-43e7-9f86-b81a54d6bc41",
@@ -1951,12 +2134,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Counter target spell unless its controller pays {1} for each artifact you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hugh Jamieson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "35964fa6-800d-41d6-9f82-fb9c87deee56",
@@ -1983,12 +2169,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Search your library for a nonland card and reveal it. Each opponent who cast a spell this turn with the same name as that card loses 6 life. Then shuffle.\n{B}{B}: Return this card from your graveyard to your hand. Activate only during your upkeep.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Wayne England"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "35baa726-8c2f-4a0b-93d1-d7ecfae69fe4",
@@ -2011,10 +2200,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}, {T}: You gain 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Val Mayerik"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "361a524c-17aa-43a0-8aea-1d26a9a1044c",
@@ -2041,12 +2233,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Target player discards two cards unless they discard an artifact card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pete Venters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "36ce975b-c3df-4472-a6c1-2546df11b74e",
@@ -2075,11 +2270,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -2107,12 +2305,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "If an artifact would deal damage to you, prevent 1 of that damage.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Thomas Gianni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "392944d5-bff1-4125-86db-68d05682a430",
@@ -2137,10 +2338,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{W}: Creatures you control get +1/+1 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "395f719d-1f55-4f1a-a9fb-a178cd589f70",
@@ -2170,13 +2374,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Protection from artifacts; reach (This creature can block creatures with flying.)",
     "keywords": [
       "reach",
       "protection"
     ],
     "produces": [],
+    "illustrators": [
+      "Marcelo Vignali"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a1fde33-e86a-4146-9c90-4616a5fc0868",
@@ -2203,12 +2410,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +5/+5.\nWhenever equipped creature deals damage to a creature, exile that creature. (Exile it only if it's still on the battlefield.)\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Donato Giancola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a665bff-b57a-450c-9310-932b0686a03e",
@@ -2231,12 +2441,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "You may have this artifact enter as a copy of any artifact on the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Heather Hudson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3aac5f6f-97c1-4546-94ed-016292e98c9d",
@@ -2263,12 +2476,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Choose a card name. Reveal cards from the top of your library until you reveal a card with that name, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Thomas M. Baxa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3b9d100d-d20b-4018-8518-609113ec36d7",
@@ -2293,12 +2509,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever equipped creature deals combat damage to a player, destroy all permanents other than this Equipment.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3cb1b869-3e2d-4447-a12d-e790883feeee",
@@ -2326,10 +2545,13 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{R}: This creature gets +2/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3cf8d47d-6ecb-424a-a908-a6501f308c8e",
@@ -2352,12 +2574,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{1}, {T}: Tap target artifact, creature, or land.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mark Zug"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3d1bdbe2-4163-469b-aa8c-00fd8208ec27",
@@ -2383,12 +2608,15 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Defender (This creature can't attack.)",
     "keywords": [
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "David Day"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3d641aaf-e2ff-4ccb-9e4e-27bbfc31ba8c",
@@ -2417,12 +2645,15 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this creature deals combat damage to a player, you may destroy target artifact that player controls.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brian Snõddy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3f8bd0c9-6b3a-489e-bf4d-b2062d530b55",
@@ -2452,12 +2683,15 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhenever this creature deals combat damage to a player, create that many 1/1 green Insect creature tokens.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Anthony S. Waters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "407dad3c-d721-412a-8b29-bc15be56d2fe",
@@ -2480,7 +2714,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Imprint — When this artifact enters, you may have target player reveal their hand. If you do, choose a nonland card from it and exile that card.\nWhenever a player casts a spell that shares a color or mana value with the exiled card, this artifact deals 2 damage to that player.",
@@ -2488,6 +2722,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Glen Angus"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "409087ef-8232-489c-8b98-b601bb0a47a4",
@@ -2510,7 +2747,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "draw",
@@ -2519,6 +2756,9 @@
     "oracleText": "{T}: Target player exiles a card from their graveyard.\n{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Thomas M. Baxa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "415027f8-ccef-4b38-ace2-db4e94f066fe",
@@ -2544,7 +2784,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{T}: Add {W} or {U}. This artifact deals 1 damage to you.",
@@ -2553,6 +2793,9 @@
       "C",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Mike Dringenberg"
     ],
     "source": {
       "type": "scryfall",
@@ -2580,10 +2823,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Unattach all Equipment from target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alex Horley-Orlandelli"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "427c6350-af52-45f1-8024-5f31aa62a0d0",
@@ -2606,12 +2852,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Sacrifice this artifact: Regenerate target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mark Brill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "42b7b73b-4800-4fc7-9a5c-93e00ea88498",
@@ -2634,12 +2883,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "{8}, {T}: Draw four cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "433bab44-b644-4e77-a187-bd924d21e91f",
@@ -2668,11 +2920,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -2703,10 +2958,13 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "44aadd54-6e83-4bcf-9760-16479d919a56",
@@ -2735,11 +2993,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -2763,13 +3024,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "{2}, {T}: Exile target permanent you control.\n{2}, Sacrifice this artifact: Return all cards exiled with this artifact to the battlefield under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dana Knutson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "45f2ab6e-019e-4e72-be06-9c8cd97d54d4",
@@ -2794,12 +3058,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +2/+0.\nEquip {1}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Darrell Riche"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "465a7990-c9f9-4716-a833-fd41458b9cee",
@@ -2829,12 +3096,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This creature can't be blocked as long as defending player controls an artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daren Bader"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "47b86a02-d40a-4615-8402-bd5700cb5101",
@@ -2864,7 +3134,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\nWhenever an artifact you control enters, you may tap target permanent.",
@@ -2872,6 +3142,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "48068b80-9a98-45d0-8224-ee298cbf708f",
@@ -2898,10 +3171,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create two 1/1 white Soldier creature tokens.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Matson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4be510c8-fc01-4374-ac04-7968d24480fe",
@@ -2931,10 +3207,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equip costs you pay cost {1} less.\nAs long as this creature is equipped, each creature you control that's a Soldier or a Knight gets +1/+1.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dany Orizio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4dd09c01-5a77-4992-96ae-c395a5966a92",
@@ -2961,13 +3240,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "Each player returns to the battlefield all artifact, creature, enchantment, and land cards in their graveyard that were put there from the battlefield this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4e50ee7c-f2a2-4d49-a1cc-8233fd8dd0c5",
@@ -2996,7 +3278,7 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Defender (This creature can't attack.)\nWhenever this creature blocks, you may draw a card.",
@@ -3004,6 +3286,9 @@
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Tony Szczudlo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4ffd5a69-05b6-4fc4-8186-503a2e204330",
@@ -3028,7 +3313,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -3036,6 +3321,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Alan Pollack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "512f8021-aaf3-4b1c-b08c-fe667ce2d8e1",
@@ -3065,10 +3353,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Target creature gets +X/+X until end of turn, where X is this creature's power.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "51605471-1198-4296-a9b5-3bee14ac2091",
@@ -3091,10 +3382,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Put target permanent you own on the bottom of your library.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Darrell Riche"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "522570eb-e654-4f8a-828c-3e456a0ad8e6",
@@ -3123,10 +3417,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, look at target opponent's hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Luca Zontini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "52ac6290-1401-41c5-90a1-99acb344719e",
@@ -3155,7 +3452,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
@@ -3164,6 +3461,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Edward P. Beard, Jr."
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "52fd15b0-4ada-41c7-81e0-4f8956798685",
@@ -3190,13 +3490,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact. Add {G}{G}{G}.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "D. Alexander Gregory"
     ],
     "source": {
       "type": "scryfall",
@@ -3226,11 +3529,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -3259,11 +3565,14 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {B}.",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Kev Walker"
     ],
     "source": {
       "type": "scryfall",
@@ -3289,10 +3598,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{2}{U}, {T}: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield and the rest on the bottom of their library in any order. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Trevor Hairsine"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "55e5c69c-43d0-4f5b-8720-40074eb122bb",
@@ -3315,10 +3627,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of each upkeep, each player exiles the top card of their library. The player who exiled the card with the greatest mana value takes an extra turn after this one. If two or more players' cards are tied for greatest, the tied players repeat this process until the tie is broken.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dany Orizio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "561cab0e-8874-4534-bf79-0c1488a9f0a5",
@@ -3345,12 +3660,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Until end of turn, you gain control of target creature and it gains haste.\n• Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to any target.\nEntwine {2}{R} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Michael Sutfin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "570fa211-e937-4ad7-bc72-60f8adc3203d",
@@ -3380,12 +3698,15 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "rk post"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5780f4e0-dcfb-4d1f-8ae1-762b98970abb",
@@ -3412,12 +3733,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Destroy all creatures with power 2 or less.\n• Destroy all creatures with power 3 or greater.\nEntwine—Sacrifice two lands. (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "57ce33b6-267f-4ee8-a3f7-f41c619d0cfa",
@@ -3443,12 +3767,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nYou can't lose the game and your opponents can't win the game.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Brom"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "59bb5aee-b334-4c24-875b-56751d4add02",
@@ -3477,11 +3804,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Mark Tedin"
     ],
     "source": {
       "type": "scryfall",
@@ -3511,12 +3841,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nWhenever enchanted creature becomes the target of a spell or ability, that spell or ability's controller gains control of that creature. (This effect lasts indefinitely.)",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5c7ce5d5-e51a-4dbc-82f2-b79c88769a7b",
@@ -3542,10 +3875,13 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, destroy target Equipment.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5d23449c-4439-4425-ad53-84168a94b1ce",
@@ -3571,11 +3907,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {U}.",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -3599,10 +3938,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{3}, {T}: Put a +1/+1 counter on target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ron Spencer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5fdfc372-c5f9-4f98-9a15-0ea4a33017b1",
@@ -3627,12 +3969,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Jeremy Jarvis"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "61a28870-cf78-4323-9d82-cee764067764",
@@ -3655,7 +4000,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
@@ -3669,6 +4014,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Lars Grant-West"
     ],
     "source": {
       "type": "scryfall",
@@ -3697,12 +4045,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{3}{R}, Sacrifice this creature: Destroy target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "63282976-e08d-4b8c-bbfc-f6739fdaeaf9",
@@ -3732,13 +4083,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "644359dc-3c4c-4291-876d-7390dc466877",
@@ -3768,10 +4122,13 @@
     "power": 5,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{G}: Regenerate target green creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Marcelo Vignali"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6535f2ad-6cda-4be9-8e4f-6f062b63be31",
@@ -3801,12 +4158,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{1}, {T}: Target player draws a card, then discards a card. If that player discards an artifact card this way, untap this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "rk post"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "65704c0f-cc97-490e-a0f7-fab9a18e1e88",
@@ -3829,12 +4189,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "{2}, {T}: Choose a card name. Target opponent guesses whether a card with that name is in your hand. You may reveal your hand. If you do and your opponent guessed wrong, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Christopher Moeller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "66372597-c182-4850-a630-231737b1482b",
@@ -3866,7 +4229,7 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "First strike\n{T}: Destroy target artifact if its mana value is equal to the amount of unspent mana you have.",
@@ -3874,6 +4237,9 @@
       "first strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Brom"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "670c3106-71fc-464e-8c94-81bf7fafc3e6",
@@ -3900,10 +4266,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target permanent you control gains protection from artifacts or from the color of your choice until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ron Spencer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6743fab2-75b4-4eb8-b416-b5f052473393",
@@ -3928,12 +4297,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters unattached and stays on the battlefield if the creature leaves.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "684a6e3f-909a-4ca0-a6aa-7354b9476df2",
@@ -3956,7 +4328,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Imprint — When this artifact enters, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors.",
@@ -3969,6 +4341,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Donato Giancola"
     ],
     "source": {
       "type": "scryfall",
@@ -3998,11 +4373,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Mark Tedin"
     ],
     "source": {
       "type": "scryfall",
@@ -4029,10 +4407,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of your upkeep, put a +1/+1 counter on this creature.\nThis creature can't attack or block unless you pay {1} for each +1/+1 counter on it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6d929b28-c184-4e77-a40b-ee43b8a37d79",
@@ -4061,7 +4442,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Enchant artifact\nEnchanted artifact doesn't untap during its controller's untap step.",
@@ -4069,6 +4450,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Hugh Jamieson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "72b2d227-68b3-40e8-bef7-45ea43e17318",
@@ -4094,11 +4478,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {B}.",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -4128,12 +4515,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
     "keywords": [
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "73ff7383-71da-46ae-849f-349c40815a29",
@@ -4160,10 +4550,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +3/+3 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tony Szczudlo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "75e5bcc2-9203-4526-a9a9-fac6fd02a854",
@@ -4192,12 +4585,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Whenever this creature becomes blocked, you may return target card named Groffskithur from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Matson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "75e84098-c15c-40f4-9d8a-3fa5da26a268",
@@ -4220,12 +4616,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{8}, {T}: Target player mills eight cards.",
     "keywords": [
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Glen Angus"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "76be1ca8-b68e-436d-86b6-2a2a07da1be9",
@@ -4254,11 +4653,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Mark Tedin"
     ],
     "source": {
       "type": "scryfall",
@@ -4282,7 +4684,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\n{2}, Sacrifice this artifact: It deals 2 damage to each attacking creature without flying.",
@@ -4290,6 +4692,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Randy Gallegos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "780199bc-dce4-4ed0-88fb-7d288f304e69",
@@ -4312,7 +4717,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "removal"
@@ -4322,6 +4727,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "783fe67f-59f7-46f0-bfa4-fa4a65c9c33c",
@@ -4346,10 +4754,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If you would flip a coin, instead flip two coins and ignore one.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ron Spencer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "78a5d49a-747e-4ec8-a20a-ca917c315774",
@@ -4378,12 +4789,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This creature gets +1/+0 for each artifact you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Adam Rex"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7b66c698-02bd-48ef-a866-5251bdc02c16",
@@ -4412,11 +4826,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -4443,10 +4860,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature becomes blocked, regenerate it.\n{3}: This creature gets +1/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7d18dd3b-980b-4833-93fd-79dc3a260da4",
@@ -4473,13 +4893,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "Target creature gets -1/-1 until end of turn for each artifact you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7e0460cf-ff87-4cf8-89b5-a8b9fb7322e0",
@@ -4506,12 +4929,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nThis creature enters with four +1/+1 counters on it.\nWhenever this creature attacks or blocks, remove a +1/+1 counter from it at end of combat.\n{T}: Put a +1/+1 counter on this creature.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7e876938-1b8e-44cf-ade2-a42f8acdf24c",
@@ -4536,12 +4962,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+1 for each Swamp you control.\nEquip—Pay 3 life. (Pay 3 life: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Puddnhead"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f8e3fa6-494c-412f-90cc-36d45cd2b175",
@@ -4568,12 +4997,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Tap target permanent.\n• Untap target permanent.\nEntwine {1} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7ffaa6a2-7c86-45b4-8892-b837e05f11a6",
@@ -4603,10 +5035,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature gets +1/+1 for each untapped permanent your opponents control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "81fff4cc-b2ab-4a41-bede-0d807552ba46",
@@ -4635,7 +5070,7 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying",
@@ -4644,6 +5079,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Adam Rex"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "83a46ac2-d96d-4d5a-94fc-a9fc83a9ea1d",
@@ -4670,12 +5108,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tim Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "84b3d7e6-df52-4cd1-92e7-5dfe8b0a9d9e",
@@ -4704,12 +5145,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever this creature becomes blocked, draw a card.\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "85866351-a721-4b3c-9b6f-4d291daab657",
@@ -4732,7 +5176,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Imprint — When this artifact enters, you may exile an instant card with mana value 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",
@@ -4740,6 +5184,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Mark Harrison"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "878b0159-6917-45d3-b9ea-562ac49f0b8f",
@@ -4764,11 +5211,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever a player casts a creature spell, that player adds {G}.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Dana Knutson"
     ],
     "source": {
       "type": "scryfall",
@@ -4799,10 +5249,13 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less, put that card onto the battlefield, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Todd Lockwood"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "89c24cb4-4d7d-41df-b5c2-bd967a6a5d7e",
@@ -4827,12 +5280,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8abf4bbe-5b1c-4f6f-be32-5f61c66e1830",
@@ -4862,13 +5318,16 @@
     "power": null,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Whenever you cast an artifact spell, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kev Walker"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8b38da97-5141-4de6-bd7f-3fcbf46cfd96",
@@ -4894,12 +5353,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "This creature enters with three +1/+1 counters on it.\nRemove a +1/+1 counter from this creature: It deals 1 damage to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Christopher Moeller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8b997abd-8eae-4e87-97fc-36dde95ef8c7",
@@ -4926,12 +5388,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Counter target artifact or enchantment spell.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brian Snõddy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8ba18ec8-e82f-41be-9ed8-b1a4ae9b7426",
@@ -4956,12 +5421,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Christopher Moeller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8da0fcc6-6209-4b8e-997d-ad3cc4ff0856",
@@ -4989,10 +5457,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{W}: This creature gains first strike until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8defd53c-3792-4ed3-aee9-cffda2b8a8b6",
@@ -5019,11 +5490,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Add {R}{R}{R}{R}{R}.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -5054,12 +5528,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this creature enters, destroy target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "932bf583-efd3-42e9-8a7b-7b3fe07fbcf0",
@@ -5082,7 +5559,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flash\n{3}, {T}: Untap target artifact.",
@@ -5090,6 +5567,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Tony Szczudlo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "934936d1-f470-47fa-ac28-344020c9fc76",
@@ -5115,12 +5595,15 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Luca Zontini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "936af0be-6e7b-49f0-ba84-d8bc1b60994d",
@@ -5149,11 +5632,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -5180,11 +5666,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {G}.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -5211,7 +5700,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\nAt the beginning of your upkeep, sacrifice another artifact. If you can't, tap this creature and you lose 4 life.",
@@ -5219,6 +5708,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "967a08cd-72b3-4b3f-9f23-15697704acb3",
@@ -5244,12 +5736,15 @@
     "power": null,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Dana Knutson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "969ebd20-de69-44ba-a0c2-9e2a89480370",
@@ -5279,12 +5774,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Sacrifice an artifact: This creature deals 1 damage to each creature without flying.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Thomas M. Baxa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "975f9ea8-af2c-456f-acd0-ffa9ea0d98c1",
@@ -5309,7 +5807,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw",
       "removal"
@@ -5317,6 +5815,9 @@
     "oracleText": "{R}, Sacrifice this artifact: It deals 2 damage to any target.\n{1}, Sacrifice this artifact: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "97b9bab9-12ee-4da5-9d53-d0b82d9279cd",
@@ -5339,13 +5840,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Whenever a source an opponent controls deals damage to you, if this artifact is untapped, you may draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ben Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "98312bc3-9d2a-480c-bcf0-db8d70d632b9",
@@ -5368,12 +5872,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "At the beginning of your end step, target opponent gains control of this artifact and puts a charge counter on it.\nAt the beginning of your upkeep, this artifact deals damage to you equal to the number of charge counters on it.\n{3}: Put a charge counter on this artifact or remove one from it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mike Dringenberg"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "987910b0-0419-45ff-bda6-c6683fd00e49",
@@ -5398,10 +5905,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for them.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Glen Angus"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "98fb1eaa-2871-491a-a4f5-3e358778ba40",
@@ -5427,7 +5937,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{T}: Add {U} or {B}. This artifact deals 1 damage to you.",
@@ -5436,6 +5946,9 @@
       "B",
       "C",
       "U"
+    ],
+    "illustrators": [
+      "Mike Dringenberg"
     ],
     "source": {
       "type": "scryfall",
@@ -5465,11 +5978,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Mark Tedin"
     ],
     "source": {
       "type": "scryfall",
@@ -5499,7 +6015,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying.",
@@ -5507,6 +6023,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Matthew D. Wilson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9b4f880d-6262-429f-91b7-def417aa13bd",
@@ -5535,12 +6054,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever an artifact enters, this creature gets +4/+4 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daren Bader"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9b68e084-0760-4817-a656-32dc4b094370",
@@ -5567,12 +6089,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Each noncreature artifact is an artifact creature with power and toughness each equal to its mana value. (Equipment that's a creature can't equip a creature.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ben Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9bdcc966-7837-463f-ae26-1096f34ac8c0",
@@ -5595,12 +6120,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever you're dealt damage, put that many charge counters on this artifact.\nAt the beginning of each upkeep, you may remove a charge counter from this artifact. If you do, you gain 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9bdd01de-2ac6-4393-ad53-d52df137bc08",
@@ -5630,7 +6158,7 @@
     "power": 6,
     "toughness": 7,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Trample\n{3}{R}, Sacrifice an artifact: Bosh deals damage equal to the sacrificed artifact's mana value to any target.",
@@ -5638,6 +6166,9 @@
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Brom"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9bfe325c-8d3d-4543-9fcd-214525d4ab2a",
@@ -5667,10 +6198,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of your upkeep, the player with the lowest life total gains control of this creature. If two or more players are tied for lowest life total, you choose one of them, and that player gains control of this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Michael Sutfin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9c9e7029-bea3-4a33-bd05-774e802616d4",
@@ -5699,7 +6233,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Enchant artifact\nEnchanted artifact has \"At the beginning of your upkeep, you lose 2 life.\"",
@@ -5707,6 +6241,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Eric Peterson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9cbafa51-693b-485c-807d-64020540f16a",
@@ -5735,10 +6272,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, sacrifice it unless an opponent was dealt damage this turn.\nWhenever an opponent is dealt damage, put that many +1/+1 counters on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Anthony S. Waters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9cc32bfc-7d87-46d9-a424-eac64eefd7ea",
@@ -5765,12 +6305,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever an artifact, creature, or enchantment enters, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ron Spencer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9d46aca2-4714-4d2c-9466-5f1c043b8726",
@@ -5799,11 +6342,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -5834,12 +6380,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{W}, {T}: Tap target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Stephen Tappin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9f5c3f22-f228-4503-9d35-ee1b36a46ef0",
@@ -5865,7 +6414,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{T}: Add {R} or {G}. This artifact deals 1 damage to you.",
@@ -5874,6 +6423,9 @@
       "C",
       "G",
       "R"
+    ],
+    "illustrators": [
+      "Mike Dringenberg"
     ],
     "source": {
       "type": "scryfall",
@@ -5903,13 +6455,16 @@
     "power": 4,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "This creature gets +1/+0 for each artifact you control.\n{B}{B}: Return this card from your graveyard to the battlefield, then sacrifice a creature. Activate only during your upkeep.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Adam Rex"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a037ef49-8849-41aa-aa6e-3ac6ee34cdad",
@@ -5938,12 +6493,15 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Sacrifice an artifact: This creature gets +2/+2 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Puddnhead"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a15397bc-c400-4f8d-b206-08a4d65e76ff",
@@ -5972,12 +6530,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature (Target a creature as you cast this. This card enters attached to that creature.)\nWhenever enchanted creature attacks or blocks, its controller loses 3 life.",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas M. Baxa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a1a64356-3064-47a2-80be-5e2f56c85556",
@@ -6002,12 +6563,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Jeremy Jarvis"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a1a6e375-5c47-4447-9453-adf0038693e3",
@@ -6030,7 +6594,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add three mana of any one color.",
     "keywords": [],
     "produces": [
@@ -6039,6 +6603,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -6066,12 +6633,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.\n• You may play up to two additional lands this turn.\nEntwine {2}{G} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "John Matson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a3f4356f-8cfb-43ed-bdf9-6191bb563388",
@@ -6094,7 +6664,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
@@ -6103,6 +6673,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Luca Zontini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a48d44b4-1c3b-4109-aaad-8351bf8a7624",
@@ -6130,11 +6703,14 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {G}.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Kev Walker"
     ],
     "source": {
       "type": "scryfall",
@@ -6164,12 +6740,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Tim Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a5ca260d-4ed8-4a99-b00a-0be15ba0df9f",
@@ -6196,10 +6775,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a5cd231b-7891-42b5-b5de-5112d1230c37",
@@ -6226,12 +6808,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Search your library for an artifact card, reveal it, put it into your hand, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Glen Angus"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a742e23c-1991-4dce-b670-dea92a1cf4ec",
@@ -6254,12 +6839,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever a nontoken creature you control dies, put a charge counter on this artifact.\nAt the beginning of your upkeep, if this artifact has five or more charge counters on it, remove all of them from it and create that many 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brian Snõddy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a800f326-3416-4917-a1cf-0f90255777d3",
@@ -6286,12 +6874,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Regenerate each creature you control.\n• Wail of the Nim deals 1 damage to each creature and each player.\nEntwine {B} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "John Matson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a8c32faa-c6d1-418a-aed6-ccc5849daa1f",
@@ -6318,13 +6909,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw",
       "removal"
     ],
     "oracleText": "Flip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a91376ed-5868-4887-8389-5ef5b9471786",
@@ -6349,12 +6943,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+0 for each Equipment attached to it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Alan Pollack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9519f2a-e98d-4f84-885c-24a9849a996d",
@@ -6381,7 +6978,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Choose one —\n• Destroy target creature.\n• Return target creature card from your graveyard to the battlefield.\nEntwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)",
@@ -6389,6 +6986,9 @@
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Wayne England"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9e2e107-0277-4e5c-81a7-258bb2998f3e",
@@ -6413,10 +7013,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{3}, {T} or {W}, {T}: Prevent the next 2 damage that would be dealt to any target this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "abde295d-af41-4b9c-af48-3067befe9383",
@@ -6443,12 +7046,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "If a player would draw a card, that player exiles the top card of one of their opponents' libraries face down instead.\nEach player may look at cards they exiled with this enchantment, and they may play lands and cast spells from among those cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ad0d5b02-ef38-4dab-8ac6-78814ef27b55",
@@ -6477,11 +7083,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Mark Tedin"
     ],
     "source": {
       "type": "scryfall",
@@ -6511,12 +7120,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Protection from white\nAt the beginning of your end step, you lose 4 life.\nWhenever a creature dies, you gain 2 life.",
     "keywords": [
       "protection"
     ],
     "produces": [],
+    "illustrators": [
+      "Michael Sutfin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b088832c-6119-4460-98b7-ae25cf70b2c5",
@@ -6539,12 +7151,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}, Remove a counter from a permanent you control: Choose one —\n• Put a charge counter on target artifact.\n• Put a +1/+1 counter on target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Todd Lockwood"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b0f5c84f-1924-4a4a-84c1-00dcb756e9c9",
@@ -6569,10 +7184,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b13328a9-fc03-4c1b-b1b7-61cd41766300",
@@ -6597,12 +7215,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature has trample and can't be blocked by more than one creature.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "David Martin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b1b19949-90c9-46f1-85d4-d6eda0b7977e",
@@ -6627,10 +7248,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{3}, {T} or {U}, {T}: Return target creature to its owner's hand unless its controller pays {1}.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b1c1d05b-92be-40d7-859f-75293a531a84",
@@ -6653,10 +7277,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of each player's upkeep, that player puts a flood counter on target non-Island land they control of their choice. That land is an Island for as long as it has a flood counter on it.\nAt the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Trevor Hairsine"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b4f2bf63-e3cf-4a58-86b7-f3bab3b90712",
@@ -6683,10 +7310,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Search your library for a land card, reveal it, put it into your hand, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Scott M. Fischer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b4ff07b6-be9f-498f-9f36-cbd64f1b10cc",
@@ -6716,11 +7346,14 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add an amount of {G} equal to this creature's power.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Daren Bader"
     ],
     "source": {
       "type": "scryfall",
@@ -6744,12 +7377,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{3}, {T}: Reveal cards from the top of your library until you reveal a land card. This artifact deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, this artifact deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Stephen Tappin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b6c37fc1-4842-4bc5-93ed-83fff9e420f2",
@@ -6776,12 +7412,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Tap two target creatures.\n• Creatures don't untap during target player's next untap step.\nEntwine {1} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b73f6e4c-9da7-45ec-b786-1b2f59d6b73b",
@@ -6806,12 +7445,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+1 for each charge counter on this Equipment.\nWhenever equipped creature deals combat damage, put a charge counter on this Equipment.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Bradley Williams"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b77baad4-2bd6-492a-86ca-8e0088b751d2",
@@ -6839,11 +7481,14 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {U}.",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Kev Walker"
     ],
     "source": {
       "type": "scryfall",
@@ -6872,10 +7517,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{G}, Sacrifice this creature: Destroy target enchantment.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b92cce55-22ee-40a7-bb94-4889093f142c",
@@ -6904,11 +7552,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -6935,10 +7586,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature enters with two +1/+1 counters on it.\nWhenever this creature attacks or blocks, remove a +1/+1 counter from it at end of combat.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bc3c8db7-cf58-4571-b4ad-2b68d73495b2",
@@ -6963,7 +7617,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Equipped creature has \"{T}: This creature deals 1 damage to any target.\"\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
@@ -6971,6 +7625,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Jeremy Jarvis"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "be892d73-d1f4-4c36-b674-01ae21ff1484",
@@ -6997,10 +7654,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each player sacrifices two creatures of their choice.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "beccbb2c-ca1d-4b72-9eca-a64a313fd830",
@@ -7029,7 +7689,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Enchant artifact creature\nYou control enchanted artifact creature.",
@@ -7037,6 +7697,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Jon Foster"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c0010b89-afc4-4dee-bda3-2f34e552cba5",
@@ -7065,11 +7728,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -7100,13 +7766,16 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)",
     "keywords": [
       "flying",
       "first strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c162594c-31f4-4d07-87ee-2d6ee7704980",
@@ -7136,12 +7805,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{W}, {T}: Regenerate target artifact.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Heather Hudson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c17ac7c1-6d53-40b4-921f-4e23e4026041",
@@ -7164,12 +7836,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "At the beginning of each player's upkeep, that player reveals the top card of their library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pete Venters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c28fd840-e633-46d3-991a-b9fea95a2f28",
@@ -7196,7 +7871,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Choose one —\n• Create a 5/5 green Beast creature token.\n• Create five 1/1 green Insect creature tokens.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.)",
@@ -7204,6 +7879,9 @@
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Darrell Riche"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c3216148-f64e-434b-80b8-772f6eb831ca",
@@ -7232,7 +7910,7 @@
     "power": null,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\nThis creature gets +1/+0 for each artifact you control.",
@@ -7240,6 +7918,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Adam Rex"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c3a2c39b-b302-4cc3-b507-e4fe00614036",
@@ -7266,13 +7947,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Randy Gallegos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c455c8d4-6f20-4dcb-8e82-c2bb70d6bc3e",
@@ -7298,10 +7982,13 @@
     "power": 4,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "You can't cast creature spells.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c4ab6c59-cd0f-4c29-8e26-6882dca61fb7",
@@ -7330,11 +8017,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -7365,10 +8055,13 @@
     "power": 2,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Darrell Riche"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c5474bcc-4ffd-4b6d-98d0-891b766d5961",
@@ -7397,7 +8090,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
@@ -7406,6 +8099,9 @@
       "fear"
     ],
     "produces": [],
+    "illustrators": [
+      "Matt Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c5a6e960-169d-431a-9ebd-c4413aa67377",
@@ -7428,13 +8124,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{6}: This land becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "David Day"
     ],
     "source": {
       "type": "scryfall",
@@ -7465,10 +8164,13 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As long as this creature is equipped, it gets +1/+1 and has vigilance.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Todd Lockwood"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c9f30b7a-75bb-44e6-b1a2-726df1b5b1f3",
@@ -7494,12 +8196,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThis creature enters with six +1/+1 counters on it.\nWhenever this creature attacks or blocks, remove a +1/+1 counter from it at end of combat.\n{3}: Put a +1/+1 counter on this creature.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Arnie Swekel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ca6448da-b513-4bea-95f4-47bdfa0df078",
@@ -7525,11 +8230,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {W}.",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Rob Alexander"
     ],
     "source": {
       "type": "scryfall",
@@ -7560,10 +8268,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As long as this creature is equipped, it gets +1/+1 and has flying.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pete Venters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cd46bfba-0685-4dcb-9b63-f90da8fb0ce7",
@@ -7592,12 +8303,15 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen this creature enters, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Brom"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d109abda-982f-4907-8b64-ec63e138bc42",
@@ -7625,10 +8339,13 @@
     "power": 5,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{G}: This creature gains trample until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d1193164-5ee5-40ff-b244-f80d426bbf89",
@@ -7656,12 +8373,15 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "{2}{B}, Sacrifice this creature: Target creature gets -1/-1 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d11a56e7-30a4-44da-a58b-336f4c0c4882",
@@ -7686,13 +8406,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{W}, Sacrifice this artifact: You gain 5 life.\n{1}, Sacrifice this artifact: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d23ffdb7-9f8e-4376-9431-cf1c1814f2c4",
@@ -7718,12 +8441,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThis creature doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this creature.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Michael Sutfin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d2ed2990-e5bf-4567-9a41-1846108a8aeb",
@@ -7752,12 +8478,15 @@
     "power": 4,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "{R}, Exile the top ten cards of your library: This creature deals 2 damage to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jeff Easley"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d3dd67e0-72b4-4c55-b49b-c69950feccb1",
@@ -7783,7 +8512,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Imprint — When this creature enters, you may exile target nontoken creature.\nAs long as a card exiled with this creature is a creature card, this creature has the power, toughness, and creature types of the last creature card exiled with it. It's still a Shapeshifter.",
@@ -7791,6 +8520,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas M. Baxa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d48a96f2-738f-433f-bfae-fbf378832a3b",
@@ -7816,13 +8548,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nProtection from artifacts",
     "keywords": [
       "protection",
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d54fbd8a-1e2a-450e-98f2-26bbc9e9ac79",
@@ -7849,10 +8584,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Destroy all enchantments.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Wayne England"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d5cd05d7-eb2d-489d-ad1c-5527d3336a6d",
@@ -7879,12 +8617,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact, enchantment, or land.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dany Orizio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d6b50bda-f19f-4991-977b-de794f11103d",
@@ -7910,7 +8651,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{T}: Add {G} or {W}. This artifact deals 1 damage to you.",
@@ -7919,6 +8660,9 @@
       "C",
       "G",
       "W"
+    ],
+    "illustrators": [
+      "Mike Dringenberg"
     ],
     "source": {
       "type": "scryfall",
@@ -7945,7 +8689,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "removal"
@@ -7955,6 +8699,9 @@
       "imprint"
     ],
     "produces": [],
+    "illustrators": [
+      "Franz Vohwinkel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d9467839-b2a2-4cfe-a60e-12766e2ba983",
@@ -7981,7 +8728,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
@@ -7990,6 +8737,9 @@
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Kev Walker"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d96c3947-0eec-48a1-ba69-59734b4ac9da",
@@ -8016,7 +8766,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Choose one —\n• Each player shuffles their hand and graveyard into their library.\n• Each player draws seven cards.\nEntwine {2} (Choose both if you pay the entwine cost.)",
@@ -8024,6 +8774,9 @@
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Puddnhead"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "daf180c6-7ab6-4922-9f5e-73b4f2c9488a",
@@ -8046,7 +8799,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\n{T}: Target creature gets +1/+0 until end of turn.",
@@ -8055,6 +8808,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Alan Pollack"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "db5a91db-1b86-4471-badc-884142c355ca",
@@ -8077,10 +8833,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of your upkeep, destroy target nonland permanent with the lowest mana value. (If two or more permanents are tied for lowest, target any one of them.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daren Bader"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "db9a57d6-bba6-463d-ad12-6f93c035d16b",
@@ -8107,12 +8866,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Creatures you control get +1/+1 until end of turn.\n• Untap all creatures you control.\nEntwine {1}{W} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dc697a4c-f219-46fd-90f2-63c638cd5ef7",
@@ -8139,10 +8901,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "All creatures able to block target creature this turn do so.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Cavotta"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dca1eb7b-e964-4c36-8fc5-e1d2a98e841f",
@@ -8169,13 +8934,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "Exile target artifact or enchantment.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daren Bader"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dd037f62-7cef-4737-b575-942c5959f1ea",
@@ -8201,10 +8969,13 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dany Orizio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ddaa5c60-054f-4397-a110-21df58264caf",
@@ -8227,12 +8998,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice this artifact: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sam Wood"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ddba1566-2778-4636-b4d3-9095fb2d83c8",
@@ -8261,11 +9035,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "John Avon"
     ],
     "source": {
       "type": "scryfall",
@@ -8296,10 +9073,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature gets +2/+2 for each Equipment attached to it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Terese Nielsen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "df2b90b8-8306-4543-b9f4-3cfd033f5ca5",
@@ -8325,7 +9105,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you.",
@@ -8334,6 +9114,9 @@
       "B",
       "C",
       "R"
+    ],
+    "illustrators": [
+      "Mike Dringenberg"
     ],
     "source": {
       "type": "scryfall",
@@ -8359,12 +9142,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+1 for each card in your hand.\nEquip {2}",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e1735bbb-402e-4657-8ad0-df2c56d5ee01",
@@ -8389,13 +9175,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "{3}, {T} or {R}, {T}: This artifact deals 1 damage to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e197af6a-24ac-4f3b-ab3c-736f4057748b",
@@ -8418,10 +9207,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mike Dringenberg"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e2214e75-e469-41ae-8412-df725c097d08",
@@ -8447,11 +9239,14 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature dies, add {C}{C}{C}.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Eric Peterson"
     ],
     "source": {
       "type": "scryfall",
@@ -8475,7 +9270,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of the end step, if you control no artifacts, sacrifice this land.\n{T}: Add one mana of any color.",
     "keywords": [],
     "produces": [
@@ -8484,6 +9279,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Lars Grant-West"
     ],
     "source": {
       "type": "scryfall",
@@ -8512,12 +9310,15 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "{1}{W}, Sacrifice this creature: It deals 3 damage to target attacking or blocking creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e31761a8-1146-4003-9653-881233787ac4",
@@ -8547,10 +9348,13 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{G}: Regenerate this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e3529277-8409-45fe-9f29-64354597e918",
@@ -8579,12 +9383,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this creature becomes blocked by an artifact creature, destroy that creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Heather Hudson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e3c77744-3a86-46cf-9e0f-5a217a1c08b9",
@@ -8607,13 +9414,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add {C}.\n{2}, {T}: Tap target noncreature artifact.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "David Martin"
     ],
     "source": {
       "type": "scryfall",
@@ -8643,12 +9453,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This creature gets +1/+0 for each artifact you control.\nSacrifice a creature: Regenerate this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Adam Rex"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e59c09a0-a374-46c1-978f-ec7478dc7ab7",
@@ -8676,12 +9489,15 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\n{U}, Sacrifice this creature: Counter target spell unless its controller pays {2}.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Carl Critchlow"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e5ab68b3-864e-4fe3-a5c5-faa33b45da0f",
@@ -8704,12 +9520,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever a spell or ability causes a player to shuffle their library, this artifact deals 2 damage to that player.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jeremy Jarvis"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e83d1ed5-3a49-4cfa-bad2-e342ef28649e",
@@ -8736,10 +9555,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Return target permanent to its owner's hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Randy Gallegos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e869775f-72fa-463f-a46a-7c3e955f8590",
@@ -8769,12 +9591,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever an artifact enters, you may gain 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Todd Lockwood"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e9b766e7-fe4a-47fb-949b-e046b5a38d91",
@@ -8803,11 +9628,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Martina Pilcerova"
     ],
     "source": {
       "type": "scryfall",
@@ -8835,10 +9663,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +4/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pete Venters"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eb94bc02-b348-43c2-9e78-e2e3fd541d6a",
@@ -8863,13 +9694,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "At the beginning of your first main phase, add {B} for each charge counter on this artifact.\n{7}, {T}: Destroy target creature. Then put a charge counter on this artifact.",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Sam Wood"
     ],
     "source": {
       "type": "scryfall",
@@ -8897,13 +9731,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "As an additional cost to cast this spell, sacrifice an artifact.\nReturn target artifact card from your graveyard to the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lars Grant-West"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ec59ed99-ce40-489a-b776-8874bec60393",
@@ -8931,10 +9768,13 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{U}: This creature gains flying until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Paolo Parente"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ec5e72f6-f573-4e37-9daa-abe6561ab086",
@@ -8961,12 +9801,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Creatures target player controls attack this turn if able.\n• Creatures you control gain first strike until end of turn.\nEntwine {2} (Choose both if you pay the entwine cost.)",
     "keywords": [
       "entwine"
     ],
     "produces": [],
+    "illustrators": [
+      "Alex Horley-Orlandelli"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ee30527c-0eb1-4b66-9028-1607a960019a",
@@ -8996,12 +9839,15 @@
     "power": 4,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "At the beginning of each player's upkeep, that player sacrifices an artifact of their choice.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Heather Hudson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ee355d1b-5d64-4328-94d6-7a58889b99bc",
@@ -9027,13 +9873,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "When this creature dies, return another target artifact card from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Trevor Hairsine"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ee766f7b-4e9c-442d-bf53-31c204646449",
@@ -9059,7 +9908,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)",
@@ -9067,6 +9916,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eeeef899-a8b5-4416-a208-3bd5a0c7177b",
@@ -9096,12 +9948,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Protection from artifacts",
     "keywords": [
       "protection"
     ],
     "produces": [],
+    "illustrators": [
+      "Matthew D. Wilson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eefea84f-d657-491d-b60d-63e6a61e9eb2",
@@ -9126,13 +9981,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Doug Chaffee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eeffcd61-ea1f-4ccd-b3d3-79efa9d4a0cf",
@@ -9159,7 +10017,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -9168,6 +10026,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "efb965a7-877a-4302-b507-25b0a9e32d9b",
@@ -9197,12 +10058,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate this creature.",
     "keywords": [
       "hexproof"
     ],
     "produces": [],
+    "illustrators": [
+      "Puddnhead"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f01233c2-6df0-4f0e-8668-3855868731ea",
@@ -9232,10 +10096,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, distribute three +1/+1 counters among one, two, or three target creatures.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Justin Sweet"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f14f303e-371b-47dd-bbb8-7f3e44ef9af0",
@@ -9258,7 +10125,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -9270,6 +10137,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Brian Snõddy"
     ],
     "source": {
       "type": "scryfall",
@@ -9297,12 +10167,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Thompson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f375a49c-806a-4d8b-9513-6b4afc19497b",
@@ -9327,13 +10200,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "{U}, Sacrifice this artifact: Return target creature to its owner's hand.\n{1}, Sacrifice this artifact: Draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jim Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f",
@@ -9359,10 +10235,13 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dany Orizio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f3f792d7-75be-429e-8f62-0b563b103642",
@@ -9389,10 +10268,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Puddnhead"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f41651db-619a-4ab4-86cf-a0d32297dbdf",
@@ -9415,10 +10297,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{8}, {T}: Target creature gets +6/+6 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f5280aef-dfd2-4d52-bc87-4a6d1f2bd173",
@@ -9448,13 +10333,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "First strike, haste",
     "keywords": [
       "first strike",
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Kevin Dobler"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f7654d8a-7013-4311-b29e-b55aaa1bf502",
@@ -9481,12 +10369,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Exile target attacking creature and all Equipment attached to it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Keith Garletts"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f862682d-cbf3-4c35-83d0-76883b0ac105",
@@ -9513,10 +10404,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hugh Jamieson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f888b4d4-31f9-4322-8225-4d7e7a9f4dd5",
@@ -9542,10 +10436,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{2}, {T}: Shuffle your library.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dave Dorman"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f98ce711-8f68-4487-b67b-be35796ffcff",
@@ -9573,11 +10470,14 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {W}.",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Kev Walker"
     ],
     "source": {
       "type": "scryfall",
@@ -9604,7 +10504,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Trample\nTap an untapped artifact you control: This creature gets +1/+1 until end of turn.",
@@ -9612,6 +10512,9 @@
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Staples"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "faab1d25-dee5-4315-ba63-f8e14087a9c0",
@@ -9638,7 +10541,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
@@ -9647,6 +10550,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Greg Hildebrandt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fc339ed7-e1d4-4fe9-a4c4-b030d3e74c00",
@@ -9673,11 +10579,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Destroy target Equipment. Add {G}.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Wayne England"
     ],
     "source": {
       "type": "scryfall",
@@ -9707,10 +10616,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature deals combat damage to a creature, that creature's controller loses that much life.\n{2}{B}: Regenerate this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Trevor Hairsine"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fd2381b3-ebf8-4c65-8e89-e089c2e57145",
@@ -9736,7 +10648,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)",
@@ -9744,6 +10656,9 @@
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Terese Nielsen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ff504dcb-2eb8-4b3c-a8b9-29697739b649",
@@ -9773,12 +10688,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Sacrifice an artifact: This creature gets +1/+0 and gains first strike until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Thomas M. Baxa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ffd9e422-206e-4c25-9964-ed6592c16e12",

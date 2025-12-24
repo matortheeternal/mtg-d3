@@ -8,7 +8,7 @@ import {
     Power,
     Toughness,
     Keywords,
-    CMC
+    CMC, Permanent, CreatureRace, CreatureClass, WordCount, Tags, Illustrator, PipCount
 } from './cardProperties.js';
 import { createCirclePacking } from './visualizations/circlePacking.js';
 import { createZoomableSunburst } from './visualizations/zoomableSunburst.js';
@@ -49,14 +49,21 @@ const chartTypes = {
 
 const availableProperties = [
     SimpleColorIdentity,
-    Type,
-    SuperType,
     CMC,
-    CombinedSubType,
     Rarity,
+    Type,
+    CombinedSubType,
+    Permanent,
+    Keywords,
+    Tags,
+    CreatureRace,
+    CreatureClass,
+    SuperType,
+    PipCount,
     Power,
     Toughness,
-    Keywords
+    WordCount,
+    Illustrator,
 ];
 
 const chartPresets = [{

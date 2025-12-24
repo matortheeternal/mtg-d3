@@ -24,10 +24,13 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{S}{S}: This creature gets +2/+0 and gains indestructible until end of turn. Tap it. (Damage and effects that say \"destroy\" don't destroy it. {S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "02f3aaed-a01f-4c6a-b9bb-cd70b0f6ceb1",
@@ -57,12 +60,15 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhenever another Angel or Cleric you control enters, you gain life equal to that creature's toughness.\nAs long as you have at least 7 life more than your starting life total, creatures you control get +2/+2.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Chris Rahn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "02fb5f9f-8750-4eb5-a03a-6dacc60e0b90",
@@ -89,10 +95,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +1/+1.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "03595195-3be2-4d18-b5c0-43b2dcc1c0f5",
@@ -123,13 +132,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 4/4 white Angel Warrior creature token with flying and vigilance.\nII — Until end of turn, Angels you control gain \"{T}: Destroy target creature with power less than this creature's power.\"\nIII — Angels you control gain double strike until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Anna Steinbauer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "03dff23e-d7e3-4d75-a9dc-fdf4a42f31e0",
@@ -158,12 +170,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant permanent\nEnchanted permanent can't attack, block, or crew Vehicles, and its activated abilities can't be activated unless they're mana abilities.",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Victor Adame Minguez"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "074d526a-1eef-4045-bd38-f6d68c4bc4b9",
@@ -195,7 +210,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -204,6 +219,9 @@
       "treasure"
     ],
     "produces": [],
+    "illustrators": [
+      "Slawomir Maniak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "079e6263-e54c-4899-a336-5315909b9322",
@@ -232,12 +250,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature. It deals damage to you equal to its power.\nEnchanted creature doesn't untap during its controller's untap step.",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Tran Nguyen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "080be8d1-e453-4250-b917-f0eb26644895",
@@ -263,13 +284,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped.\n{T}: Add {R}.\n{2}{U}{U}{R}, {T}, Sacrifice this land: Scry 2. This land deals 2 damage to each creature. Activate only as a sorcery.",
     "keywords": [
       "scry"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Piotr Dura"
     ],
     "source": {
       "type": "scryfall",
@@ -301,13 +325,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Choose a creature you control. Until your next turn, all damage that would be dealt to creatures you control is dealt to that creature instead.\nIII — Return target creature card from your graveyard to the battlefield with a flying counter on it. That creature is an Angel Warrior in addition to its other types.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "James Arnold"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0bf01666-0fbf-4b15-a33d-964165bbfafb",
@@ -339,10 +366,13 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}, Sacrifice this creature: Target creature gets -X/-X until end of turn, where X is the number of snow lands you control. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Aaron Miller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0cde0f4d-5acc-4a25-a3d6-c6b9b734360c",
@@ -369,10 +399,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {B}.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ravenna Tran",
+      "Ravenna Tran"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0ce39a19-f51d-4a35-ae80-5b82eb15fcff",
@@ -404,7 +438,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying\nWhenever this creature becomes tapped, exile up to one target card from a graveyard and put a +1/+1 counter on this creature.\nSacrifice another creature: This creature gains indestructible until end of turn. Tap it.",
@@ -412,6 +446,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0d83d2d9-b9d0-47f5-989b-f2c726401ade",
@@ -441,11 +478,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Adam Paquette"
     ],
     "source": {
       "type": "scryfall",
@@ -476,7 +516,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Enchant permanent\nWhen this Aura enters, draw a card.\nAs long as enchanted permanent is a creature, it has lifelink.\nAs long as enchanted permanent is an Equipment, it has \"Equipped creature has lifelink.\"",
@@ -484,6 +524,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0e31b716-f325-445a-9098-9ca75d7b35a4",
@@ -510,12 +553,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +4/+4 until end of turn.\nForetell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Ilse Gort"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0e55041f-69a5-4bcf-899f-a4b44c208b4d",
@@ -544,13 +590,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "First strike\nBoast — {2}{R}: This creature gets +2/+0 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "first strike",
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Jehan Choo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0eba2250-0e9b-46fd-a4b5-23f30329e063",
@@ -577,12 +626,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Igor Kieryluk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0fab9ee8-776a-48e5-b309-bcd381e67bf7",
@@ -605,10 +657,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Nonland permanent cards in graveyards and libraries can't enter the battlefield.\nPlayers can't cast spells from graveyards or libraries.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dan Murayama Scott"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0fc2478f-e624-46fb-85af-1254564cd4d2",
@@ -634,13 +689,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {B}.\n{1}{B}{R}{R}, {T}, Sacrifice this land: It deals 3 damage to target player. That player discards a card. Activate only as a sorcery.",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Cliff Childs"
     ],
     "source": {
       "type": "scryfall",
@@ -668,12 +726,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Destroy all creatures.\nForetell {1}{W}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Piotr Dura"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "130ee895-1e5e-4f82-bb66-e1275bac75dd",
@@ -703,12 +764,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nWhen this creature enters, if it was the second spell you cast this turn, put a +1/+1 counter on target creature.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Manuel Castañón"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1316a74e-da55-4668-87f2-98389a90a2a4",
@@ -741,12 +805,16 @@
     "power": 4,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Menace\nWhenever an opponent sacrifices a nontoken permanent or discards a permanent card, you may put that card from a graveyard onto the battlefield under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yongjae Choi",
+      "Yongjae Choi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "14dc88ee-bba9-4625-af0d-89f3762a0ead",
@@ -779,7 +847,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 5,
-    "references": [
+    "tags": [
       "graveyard",
       "token",
       "removal"
@@ -787,6 +855,9 @@
     "oracleText": "+1: Put a ghostform counter on up to one target nontoken creature. It gains \"When this creature dies or is put into exile, return it to its owner's hand and create a 1/1 white Spirit creature token with flying.\"\n−3: Exile target nonland permanent.\n−7: You get an emblem with \"At the beginning of your upkeep, you may cast a legendary spell from your hand, from your graveyard, or from among cards you own in exile without paying its mana cost.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tyler Jacobson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "166c0bd1-b59d-4644-832f-888a4ca3a0aa",
@@ -817,7 +888,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -826,6 +897,9 @@
     "produces": [
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Bastien L. Deharme"
     ],
     "source": {
       "type": "scryfall",
@@ -853,12 +927,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Choose one —\n• Return target creature card from your graveyard to your hand.\n• Return two target creature cards that share a creature type from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Randy Vargas"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1a67c196-632c-4c7b-a132-de07d894e634",
@@ -888,7 +965,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach\n{T}, Tap an untapped creature you control: Add one mana of any color.",
     "keywords": [
       "reach"
@@ -899,6 +976,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Raoul Vitale"
     ],
     "source": {
       "type": "scryfall",
@@ -924,7 +1004,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When this Equipment enters, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to this Equipment. If you search your library this way, shuffle.\nEquipped creature gets +1/+1.\nEquip {2}",
@@ -932,6 +1012,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Randy Gallegos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1ef89770-2dbb-4a57-99f7-191591bb8e38",
@@ -961,12 +1044,15 @@
     "power": 3,
     "toughness": 7,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "{1}{B}, {T}, Exile a creature card from your graveyard: Target opponent loses 3 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Irina Nordsol"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "205eb029-68a0-4895-b142-2eb09987b5cb",
@@ -996,7 +1082,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Boast — {2}{R}: Create a 2/1 red Dwarf Berserker creature token. (Activate only if this creature attacked this turn and only once each turn.)",
@@ -1004,6 +1090,9 @@
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Zezhou Chen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "212462b7-e23e-4c87-93aa-9cadefbf1ac8",
@@ -1035,10 +1124,13 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, search your library for a snow land card, reveal it, put it into your hand, then shuffle.\nThis creature gets +1/+0 for each other snow permanent you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lars Grant-West"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "220df551-3820-4910-a206-14501ba02e69",
@@ -1072,12 +1164,16 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Trample\nWhenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, Toralf deals damage equal to the excess to any target other than that permanent.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tyler Jacobson",
+      "Tyler Jacobson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "22a6a5f1-1405-4efb-af3e-e1f58d664e99",
@@ -1107,10 +1203,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you activate a boast ability, put a +1/+1 counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lius Lasahido"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "22c59e0b-5b78-4cf5-9c2a-92ccf833778f",
@@ -1144,10 +1243,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever another nontoken creature you control dies, if it was enchanted or equipped, return it to its owner's hand.\nCreature tokens you control that are enchanted or equipped get +1/+1.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Bram Sels"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "22f68b53-0cf7-434d-9da5-1d18c0828a46",
@@ -1181,12 +1283,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Changeling (This card is every creature type.)\nYou may have Moritte enter as a copy of a permanent you control, except it's legendary and snow in addition to its other types and, if it's a creature, it enters with two additional +1/+1 counters on it and has changeling.",
     "keywords": [
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Eric Deschamps"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "22fdbe71-abca-4e48-99b2-1cb6b35d930b",
@@ -1215,12 +1320,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+1.\nWhenever equipped creature becomes blocked, it deals 1 damage to defending player.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Zoltan Boros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2318d4f8-309e-4645-b6d1-46572edd6996",
@@ -1251,7 +1359,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw",
       "removal"
@@ -1259,6 +1367,9 @@
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — You may sacrifice a creature. When you do, this Saga deals 3 damage to any target.\nII — Each player discards a card.\nIII — Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it. It gains haste until your next turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Joseph Meehan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "233e4774-e701-42d9-aa25-e7e06c14e43d",
@@ -1288,10 +1399,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Evyn Fong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2411c341-a470-4484-9248-7c1d3ca12978",
@@ -1317,11 +1431,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped.\n{T}: Add {G}.\n{G}{W}{W}, {T}, Sacrifice this land: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Jung Park"
     ],
     "source": {
       "type": "scryfall",
@@ -1352,7 +1469,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Boast — {1}{W}: Create a 1/1 white Human Warrior creature token. (Activate only if this creature attacked this turn and only once each turn.)",
@@ -1360,6 +1477,9 @@
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Anastasia Ovchinnikova"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "24e58478-c6a8-4f86-854a-a489c99bd777",
@@ -1385,13 +1505,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {W}.\n{2}{W}{U}{U}, {T}, Sacrifice this land: You gain 2 life and draw two cards.",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Anastasia Ovchinnikova"
     ],
     "source": {
       "type": "scryfall",
@@ -1419,12 +1542,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Provoke the Trolls deals 3 damage to any target. If a creature is dealt damage this way, it gets +5/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Deruchenko Alexander"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2727b05a-0c86-4c59-b7b4-425bdd8e775d",
@@ -1454,12 +1580,15 @@
     "power": 2,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "This spell costs {1} less to cast if you control a Giant or a Wizard.\nWhen this creature enters, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sam Rowan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "276f8abd-4d39-4b50-876f-9c6713bc4ab5",
@@ -1486,7 +1615,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Scry 2, then draw two cards.\nForetell {1}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -1495,6 +1624,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Magali Villeneuve"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "27855a38-a682-4f97-ad22-ac625e86faec",
@@ -1528,7 +1660,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying\nWhenever you cast a spell from anywhere other than your hand, draw a card.",
@@ -1536,6 +1668,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Paul Scott Canavan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "28fced7f-3078-4a54-8f76-0ef14c732e97",
@@ -1562,12 +1697,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Donato Giancola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "29306305-cb71-4fef-bf86-f5deb4e7e561",
@@ -1594,7 +1732,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Choose a creature type. Return up to two creature cards of that type from your graveyard to the battlefield. If this spell was foretold, return all creature cards of that type from your graveyard to the battlefield instead.\nForetell {5}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -1602,6 +1740,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Ryan Yee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2ac5bca0-35fe-47be-a78c-d5eac68a3bfa",
@@ -1631,10 +1772,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature can't block alone.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2be804ab-1024-4eee-b339-48ed8b84d363",
@@ -1661,7 +1805,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "removal"
@@ -1671,6 +1815,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Anna Steinbauer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2c2cfcd7-b43a-4dad-a033-e661f55ceecd",
@@ -1697,12 +1844,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Return target nonland permanent to its owner's hand.\nForetell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Denman Rooke"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2ce0403d-76ed-4eb0-abdd-74ed28f96137",
@@ -1735,12 +1885,15 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "This spell can't be countered.\nAt the beginning of each upkeep, create a 3/3 blue Serpent creature token named Koma's Coil.\nSacrifice another Serpent: Choose one —\n• Tap target permanent. Its activated abilities can't be activated this turn.\n• Koma gains indestructible until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jesper Ejsing"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2de25ea4-284a-4c16-b823-048ff00c6a03",
@@ -1767,7 +1920,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Iron Verdict deals 5 damage to target tapped creature.\nForetell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -1775,6 +1928,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Bryan Sola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2fb38f5b-a2c2-4b06-8c9c-9615475a43e7",
@@ -1797,11 +1953,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {C}.\n{2}, {T}: Target legendary creature becomes a God in addition to its other types. Put a +1/+1 counter on it.\n{4}, {T}, Sacrifice this land: Put an indestructible counter on target God.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Volkan Baǵa"
     ],
     "source": {
       "type": "scryfall",
@@ -1832,12 +1991,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When this creature enters, look at the top card of target player's library. You may put that card into their graveyard.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dan Murayama Scott"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "31da60a2-d4d3-4954-be59-c7ff61fa2905",
@@ -1866,7 +2028,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this Equipment enters, you may pay {2}. If you do, create a 1/1 green Elf Warrior creature token, then attach this Equipment to it.\nEquipped creature gets +1/+2 and has reach.\nEquip {3}",
@@ -1874,6 +2036,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Dallas Williams"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "34c599c7-bcc1-4005-b830-1fa4811af66e",
@@ -1904,12 +2069,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B} or {R}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "B",
       "R"
+    ],
+    "illustrators": [
+      "Titus Lunter"
     ],
     "source": {
       "type": "scryfall",
@@ -1941,13 +2109,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target land.\nII — Put target land card from a graveyard onto the battlefield under your control.\nIII — Choose target opponent. If they control fewer lands than you, create a number of 4/4 green Troll Warrior creature tokens with trample equal to the difference.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daniel Ljunggren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "36016324-384c-4c68-8f73-8f39a244c879",
@@ -1980,10 +2151,14 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, vigilance\nSnow lands your opponents control enter tapped.\nNoncreature spells your opponents cast with mana value 4 or greater cost {2} more to cast.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jason Rainville",
+      "Jason Rainville"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3606519e-5677-4c21-a34e-be195b6669fa",
@@ -2012,13 +2187,16 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, first strike",
     "keywords": [
       "flying",
       "first strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Mike Bierek"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "389f0045-218d-41cd-bdca-8a9a0ab1b31b",
@@ -2045,12 +2223,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "You gain 3 life.\nDraw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mathias Kollros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a9fb75e-c8e5-417b-83d4-5105af9c66c1",
@@ -2080,11 +2261,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Piotr Dura"
     ],
     "source": {
       "type": "scryfall",
@@ -2116,7 +2300,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
@@ -2125,6 +2309,9 @@
       "treasure"
     ],
     "produces": [],
+    "illustrators": [
+      "Kieran Yanner"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3ce46100-461d-424e-afa4-7a0bb7d0a822",
@@ -2155,12 +2342,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile the top four cards of your library. Until the end of your next turn, you may play those cards.\nII, III — Whenever you cast a spell this turn, put a +1/+1 counter on target creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Steven Belledin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3d9d840e-1f13-44e3-a4de-903cfa58a346",
@@ -2187,10 +2377,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies, return it to the battlefield under its owner's control.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kekai Kotaki"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3f23c487-ac4a-475b-ad5e-ec6f8678e668",
@@ -2221,10 +2414,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{S}: This creature can't be blocked this turn. ({S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chris Rahn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3f406ce3-dce1-42d3-b76c-8e8c4b2770cb",
@@ -2251,12 +2447,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Creatures you control get +2/+1 until end of turn.\nForetell {2}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Bryan Sola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3fc98aff-edc0-4f78-ae4f-e08735c9e512",
@@ -2283,12 +2482,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create two 2/1 red Dwarf Berserker creature tokens.\nForetell {1}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "40bcc7cb-65dd-4bc6-8606-a162fa6c65f7",
@@ -2315,12 +2517,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each player sacrifices two creatures.\nForetell {2}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Yongjae Choi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "417f71d2-d7da-4279-8847-d27c67e9ea9d",
@@ -2355,12 +2560,15 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Other snow and Zombie creatures you control get +1/+1.\n{S}{S}{S}: Return this card from your graveyard to the battlefield tapped. ({S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daarken"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "421376e4-a4ad-427c-bc9c-d315308dcf68",
@@ -2389,12 +2597,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Distribute X +1/+1 counters among any number of creatures you control, where X is the amount of {S} spent to cast this spell. Then draw a card for each creature you control with power 4 or greater.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mila Pesic"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "42f01f4d-491e-4f25-a017-a0d9c437ac8c",
@@ -2424,12 +2635,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When this creature enters, you may search your library and/or graveyard for a Rune card, reveal it, and put it into your hand. If you search your library this way, shuffle.\nYou may pay {1} rather than pay the mana cost for Rune spells you cast.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4368b087-05a0-4a88-ab43-0cd16446239b",
@@ -2462,10 +2676,14 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast a spell, add {R}. Until end of turn, you don't lose this mana as steps and phases end.\nCreatures you control can boast twice during each of your turns rather than once.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eric Deschamps",
+      "Eric Deschamps"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "44657ab1-0a6a-4a5f-9688-86f239083821",
@@ -2492,10 +2710,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target attacking creature gets +3/+3 and gains trample until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "44c8136f-2826-476c-a103-7094670506a6",
@@ -2525,12 +2746,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Boast — {1}{W}: Tap target creature. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Slawomir Maniak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "44d4cd64-8560-48f5-b0bc-f75286c1c91c",
@@ -2562,10 +2786,13 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast a creature spell, if {S} of any of that spell's colors was spent to cast it, that creature enters with an additional +1/+1 counter on it. ({S} is mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alex Konstad"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "455ae615-20d7-4251-828d-72a3345d06f1",
@@ -2592,7 +2819,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Target opponent discards two cards. If fewer than two cards were discarded this way, you draw cards equal to the difference.\nForetell {1}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -2600,6 +2827,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Igor Kieryluk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4589c520-4db3-47bf-bfb2-5d7e02ede4bf",
@@ -2624,7 +2854,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Vigilance\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
@@ -2633,6 +2863,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Donato Giancola"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "45c48042-178f-432e-9eee-10bfa1e0795f",
@@ -2659,7 +2892,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Return target creature card from your graveyard to the battlefield. If it's an Elf, create two 1/1 green Elf Warrior creature tokens.\nForetell {3}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -2667,6 +2900,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Martina Fačková"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "470601b0-9598-487f-bb14-4bfec7ca6d61",
@@ -2689,12 +2925,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.\n{3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jason A. Engle"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "471d2aef-cfd4-4131-bbc7-62eeed9f3343",
@@ -2724,7 +2963,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Enchant permanent\nWhen this Aura enters, draw a card.\nAs long as enchanted permanent is a creature, it gets +1/+0 and has haste.\nAs long as enchanted permanent is an Equipment, it has \"Equipped creature gets +1/+0 and has haste.\"",
@@ -2732,6 +2971,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "47faee66-b274-466a-890e-bb396dda943d",
@@ -2762,7 +3004,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -2771,6 +3013,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Adam Paquette"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "48ce03b3-ec7c-46df-b89a-55405f3b5245",
@@ -2800,11 +3045,14 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {U}. Spend this mana only to foretell a card from your hand or cast an instant or sorcery spell.",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Josh Hass"
     ],
     "source": {
       "type": "scryfall",
@@ -2835,10 +3083,13 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Cristi Balanescu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4a1d4473-5317-4bdd-9cb9-93670acf52e9",
@@ -2869,12 +3120,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — You may exchange control of two target creatures.\nII — You may exchange control of two target nonbasic, noncreature permanents that share a card type.\nIII — Target player loses 3 life and you gain 3 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Randy Vargas"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4aa19a68-0d71-4123-a64d-8cb76f93cd74",
@@ -2901,12 +3155,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Counter target artifact or enchantment spell.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Caio Monteiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4b1d4a59-11a0-4a55-8ac0-07377a9e6dc8",
@@ -2936,12 +3193,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Boast — {1}{W}: Untap this creature. Put a +1/+1 counter on it. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4de5ff64-6fe7-4fc5-be27-cdbaa14545ab",
@@ -2968,7 +3228,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Add two mana of any one color and two mana of any other color. Spend this mana only to cast creature or enchantment spells.\n• Creatures you control get +1/+0 until end of turn.",
     "keywords": [],
     "produces": [
@@ -2977,6 +3237,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Eric Deschamps"
     ],
     "source": {
       "type": "scryfall",
@@ -3007,7 +3270,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nFlying\nForetelling cards from your hand costs {1} less and can be done on any player's turn.\nForetell {2}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "flying",
@@ -3015,6 +3278,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Nils Hamm"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4ec318c6-b718-436f-b9e8-e0c6154e5010",
@@ -3040,12 +3306,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Foretell {0} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Wayne Reynolds"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4fa13084-3e68-49f4-8cc9-6d02286fd150",
@@ -3077,10 +3346,13 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}{S}: This creature gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. {S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Grzegorz Rutkowski"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "54340c59-03a9-4d9d-bd27-9aed337ce75a",
@@ -3110,11 +3382,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Adam Paquette"
     ],
     "source": {
       "type": "scryfall",
@@ -3145,12 +3420,15 @@
     "power": 5,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nThis creature enters tapped.",
     "keywords": [
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Lorenzo Mastroianni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "550c745b-64e8-4d20-9cf0-024248ddbd57",
@@ -3179,12 +3457,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Changeling (This card is every creature type.)\nWhen this creature enters, put a +1/+1 counter on target creature.",
     "keywords": [
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Mila Pesic"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "587eed42-5111-4161-9af5-bf76556c542a",
@@ -3214,12 +3495,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Whenever one or more other Elves you control enter, create a 1/1 green Elf Warrior creature token. This ability triggers only once each turn.\n{5}{G}{G}: Elves you control get +2/+2 and gain deathtouch until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alexander Mokhov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "58da074a-a776-4e3f-be04-9e7f18320ae1",
@@ -3248,12 +3532,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nEnchanted creature has base power 0 and has \"At the beginning of your upkeep, you lose 1 life unless you sacrifice this creature.\"",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Miranda Meeks"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "597fe119-64a7-4499-8b69-738af5a71a20",
@@ -3283,12 +3570,15 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Boast — {1}: Target opponent loses 1 life and you gain 1 life. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Daarken"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5b5490b8-5652-40f5-8678-e1263ef69b5a",
@@ -3318,7 +3608,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Enchant permanent\nWhen this Aura enters, draw a card.\nAs long as enchanted permanent is a creature, it gets +1/+1 and has trample.\nAs long as enchanted permanent is an Equipment, it has \"Equipped creature gets +1/+1 and has trample.\"",
@@ -3326,6 +3616,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5c0d507b-fc08-46cb-b092-484fa4adeef6",
@@ -3354,7 +3647,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\nArtifact and enchantment spells you cast cost {1} less to cast.",
@@ -3362,6 +3655,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrew Mar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5c5373dd-4aec-4e93-97fb-a639aa096764",
@@ -3395,10 +3691,14 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.\nAt the beginning of your end step, choose a card type, then reveal the top two cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kieran Yanner",
+      "Kieran Yanner"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5d131784-c1a3-463e-a37b-b720af67ab62",
@@ -3428,7 +3728,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying\nWhen this creature enters or dies, you may exile another creature card from your graveyard. When you do, put a +1/+1 counter on each creature you control other than this creature that shares a creature type with the exiled card.",
@@ -3436,6 +3736,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Ryan Pancoast"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5e849bec-2ee6-4c83-83e6-bf9f5543e414",
@@ -3465,12 +3768,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this creature enters, create a 1/1 green Elf Warrior creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Zoltan Boros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5e8bded3-46c3-474f-9d09-978df8705ad1",
@@ -3497,7 +3803,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Demon Bolt deals 4 damage to target creature or planeswalker.\nForetell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -3505,6 +3811,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5f856b0e-b413-49b0-9aa7-d935ad40ae53",
@@ -3533,7 +3842,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When this creature enters, draw a card.\nForetell {1}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -3541,6 +3850,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Ilse Gort"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6061113e-7dd8-4739-b4dd-55bb7f9e39a2",
@@ -3571,13 +3883,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n{2}{W}{U}{B}{R}{G}, Sacrifice this enchantment: You gain 2 life and draw two cards. Target opponent loses 2 life. This enchantment deals 2 damage to up to one target creature. You create a 2/2 green Bear creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daniel Ljunggren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "606da75d-382a-47a8-9739-644438594700",
@@ -3602,12 +3917,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature gets +1/+0, has flying, and is a Bird in addition to its other types.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrew Mar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "60916ebe-6d84-4873-bd91-351bbe219c57",
@@ -3634,10 +3952,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of your end step, each opponent loses 1 life and you gain 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jason Rainville"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "60f6a159-b969-4767-802e-409f8bf286fe",
@@ -3664,12 +3985,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact, enchantment, or creature with flying.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lars Grant-West"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6201f78e-ff45-4c59-ac85-c8447c14a496",
@@ -3700,7 +4024,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — This Saga deals 4 damage to each non-Giant creature and each planeswalker.\nII — Scry 3.\nIII — Whenever you cast a spell with mana value 5 or greater this turn, draw two cards, then discard a card.",
@@ -3708,6 +4032,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Daniel Ljunggren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "620ed5b7-8874-40d0-9245-98876bdec153",
@@ -3739,7 +4066,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When Inga Rune-Eyes enters, scry 3.\nWhen Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn.",
@@ -3747,6 +4074,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Bram Sels"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "62a6f095-5beb-42a8-af8f-d40eef27150e",
@@ -3775,12 +4105,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose target creature you control and target creature you don't control. If you control three or more snow permanents, the creature you control gets +1/+0 and gains indestructible until end of turn. Then those creatures fight each other. (Each deals damage equal to its power to the other.)",
     "keywords": [
       "fight"
     ],
     "produces": [],
+    "illustrators": [
+      "Manuel Castañón"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6318918f-34e4-4bbf-9816-8e88f21ae324",
@@ -3811,12 +4144,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W} or {B}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "B",
       "W"
+    ],
+    "illustrators": [
+      "Marta Nael"
     ],
     "source": {
       "type": "scryfall",
@@ -3848,7 +4184,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
@@ -3856,6 +4192,9 @@
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Livia Prima"
     ],
     "source": {
       "type": "scryfall",
@@ -3890,12 +4229,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever a creature or planeswalker an opponent controls is dealt excess damage, if a Giant, Wizard, or spell you controlled dealt damage to it this turn, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chris Rahn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "68011f60-6202-48f4-8255-fb94764e2951",
@@ -3926,12 +4268,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R} or {G}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "G",
       "R"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -3959,13 +4304,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "Exile target artifact, creature, or enchantment an opponent controls. That player may put a permanent card from their hand onto the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Joe Slucher"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "696a8c12-4a1f-4b96-a921-538fa1a2de43",
@@ -3995,11 +4343,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Adam Paquette"
     ],
     "source": {
       "type": "scryfall",
@@ -4030,7 +4381,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Boast — {3}{B}: Return target creature card from your graveyard to your hand. (Activate only if this creature attacked this turn and only once each turn.)",
@@ -4038,6 +4389,9 @@
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Colin Boyer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2",
@@ -4067,13 +4421,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact"
     ],
     "oracleText": "When this creature enters, you may exile a creature card from your graveyard. If you do, return target artifact or enchantment card from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6b269e27-8e17-4bf2-b28a-a83ecc7d22c0",
@@ -4096,12 +4453,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Volkan Baǵa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6bf084fe-7762-49c5-974a-cdecc10666b3",
@@ -4127,13 +4487,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {U}.\n{2}{G}{G}{U}, {T}, Sacrifice this land: Create a token that's a copy of target creature you control, except it enters with an additional +1/+1 counter on it. Activate only as a sorcery.",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Jokubas Uogintas"
     ],
     "source": {
       "type": "scryfall",
@@ -4167,7 +4530,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 3,
-    "references": [
+    "tags": [
       "token",
       "draw",
       "removal"
@@ -4177,6 +4540,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Winona Nelson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6c4e9cfe-e72e-46a1-a8d8-9fda5f2bae73",
@@ -4205,7 +4571,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Flash\nEnchant creature or Vehicle\nEnchanted creature gets -3/-0.",
@@ -4214,6 +4580,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Bastien L. Deharme"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6cfd4944-790f-4835-a8a1-c23ef7047648",
@@ -4243,12 +4612,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast your second spell each turn, you gain 2 life.\nForetell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Taylor Ingvarsson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6dae01c8-15bb-44ad-a2c6-9bcf7a9e8c17",
@@ -4275,12 +4647,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When you next cast an instant or sorcery spell with mana value 4 or less this turn, copy that spell. You may choose new targets for the copy.\nForetell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Néstor Ossandón Leal"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6ef580f8-efec-4d31-8dc3-2018dd48b6f4",
@@ -4310,7 +4685,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Enchant permanent\nWhen this Aura enters, draw a card.\nAs long as enchanted permanent is a creature, it has deathtouch.\nAs long as enchanted permanent is an Equipment, it has \"Equipped creature has deathtouch.\"",
@@ -4318,6 +4693,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6f75a5e5-70df-49c3-abe1-8cc6975f5171",
@@ -4347,11 +4725,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Adam Paquette"
     ],
     "source": {
       "type": "scryfall",
@@ -4379,13 +4760,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "removal"
     ],
     "oracleText": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nTarget creature gets -3/-3 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Di Giovanni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6ffa795d-2211-49b0-a6df-812599758f7b",
@@ -4412,10 +4796,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Until end of turn, target creature gets +1/+1 for each creature you control and gains trample. It must be blocked this turn if able.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lorenzo Mastroianni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "71a659b6-c4a8-4c0a-8b2a-07b6c9e27dfc",
@@ -4442,12 +4829,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Destroy target artifact or enchantment. You gain 4 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7213d9e1-e9c6-45d8-bb7f-336c41e7b6f7",
@@ -4474,7 +4864,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -4483,6 +4873,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Sidharth Chaturvedi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "734afb5b-3163-47fa-856f-8a85b9da22d3",
@@ -4508,13 +4901,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {R}.\n{3}{R}{G}{G}, {T}, Sacrifice this land: Destroy target land. Create a 4/4 green Troll Warrior creature token with trample.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Simon Dominic"
     ],
     "source": {
       "type": "scryfall",
@@ -4545,7 +4941,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token"
@@ -4560,6 +4956,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Slawomir Maniak"
     ],
     "source": {
       "type": "scryfall",
@@ -4587,10 +4986,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell with mana value 4 or greater.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Campbell White"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7691ac89-f8ba-493e-aa11-5674a783dffb",
@@ -4622,10 +5024,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If a nontoken creature an opponent controls would die, exile that card with an ice counter on it instead.\nYou may cast spells from among cards in exile your opponents own with ice counters on them, and you may spend mana from snow sources as though it were mana of any color to cast those spells.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "David Rapoza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "76d8e0ff-e720-41ca-af69-35585a2d7ae2",
@@ -4656,7 +5061,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying\n{S}, {T}: Draw a card, then discard a card. ({S} can be paid with one mana from a snow source.)",
@@ -4664,6 +5069,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Dan Murayama Scott"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "76ee3829-8dec-4c0f-a6c2-ad47a1c94cfc",
@@ -4693,12 +5101,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When this creature enters, you may discard a card. If you do, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Grzegorz Rutkowski"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "77da4de2-4d34-40e5-8fc0-850aef05356b",
@@ -4730,12 +5141,15 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhenever a creature you control with deathtouch deals combat damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)",
     "keywords": [
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9",
@@ -4762,10 +5176,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose a creature type. Creatures that aren't of the chosen type get -3/-3 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Néstor Ossandón Leal"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7d9bd181-b99f-477e-bcfb-9b78cbf51224",
@@ -4792,10 +5209,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one or both —\n• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.\n• Return target nonland permanent to its owner's hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7eed5a2d-d7a4-4f64-a96b-04c5d4206c5a",
@@ -4822,10 +5242,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {W}.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han",
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7ef37cb3-d803-47d7-8a01-9c803aa2eadc",
@@ -4856,7 +5280,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Changeling\nWhenever you cast an instant or sorcery spell, if it targets one or more other permanents you control, create a token that's a copy of one of those permanents.\nWhen a spell or ability an opponent controls causes you to discard this card, create a token that's a copy of target permanent.",
@@ -4864,6 +5288,9 @@
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Chase Stone"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f36775e-9e48-49cc-a771-d58481712edc",
@@ -4893,10 +5320,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, each opponent discards a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Miranda Meeks"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f3a6148-d005-49c1-a7fc-867c4e8251cd",
@@ -4927,7 +5357,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw",
       "removal"
     ],
@@ -4936,6 +5366,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Jason Felix"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7f5075a0-c72a-474c-937c-95dc9205d14f",
@@ -4962,13 +5395,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Destroy target creature. If this spell was foretold, scry 2.\nForetell {1}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell",
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Colin Boyer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7fb94456-5266-47db-b514-a0e17e34b771",
@@ -4997,10 +5433,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast your second spell each turn, put a +1/+1 counter on this creature and it gains flying until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "YW Tang"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "80340582-655b-4bf1-88fb-14bcbe17aa04",
@@ -5026,13 +5465,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {G}.\n{2}{B}{B}{G}, {T}, Sacrifice this land: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Johannes Voss"
     ],
     "source": {
       "type": "scryfall",
@@ -5062,7 +5504,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Enchant creature\nEnchanted creature gets +1/+1.\nWhen enchanted creature leaves the battlefield, create a 1/1 white Spirit creature token with flying.",
@@ -5070,6 +5512,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Mathias Kollros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "83632e73-be3f-43fc-932f-45cb1af4f8fb",
@@ -5099,7 +5544,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, deathtouch, haste\nForetell {1}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell",
@@ -5108,6 +5553,9 @@
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Billy Christian"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "854c99fd-71ba-40b7-98cf-b783f01a77b4",
@@ -5136,12 +5584,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Whenever you cast your second spell each turn, create a 1/1 white Spirit creature token with flying.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Anastasia Ovchinnikova"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "86a4c348-1012-4339-960a-c7bc7fd84fbb",
@@ -5172,12 +5623,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R} or {W}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "R",
       "W"
+    ],
+    "illustrators": [
+      "Piotr Dura"
     ],
     "source": {
       "type": "scryfall",
@@ -5205,12 +5659,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Crush the Weak deals 2 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.\nForetell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Lucas Graciano"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "875a20c2-1d17-46ea-b4d2-3e70bc05aae3",
@@ -5237,12 +5694,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell.\nForetell {1}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Randy Vargas"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "877a1bb9-5eae-453a-bec0-a9de20ea6815",
@@ -5269,10 +5729,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {B}.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Johannes Voss",
+      "Johannes Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "87a4e5fe-161f-42da-9ca2-67c8e8970e94",
@@ -5302,7 +5766,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Flash\nWhen this creature enters, target creature an opponent controls gets -2/-0 until end of turn.",
@@ -5310,6 +5774,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Scott Murphy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "89960a74-9e17-4e30-874a-4286dd4c917d",
@@ -5341,10 +5808,13 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{2}: Target snow land you control becomes a 4/4 Elemental creature with hexproof and haste until end of turn. It's still a land. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mathias Kollros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "89cef049-6a47-4264-b2bc-b9d291a09c4c",
@@ -5374,7 +5844,7 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "You may pay {1}{W} and exile a creature card from your graveyard rather than pay this spell's mana cost.\nFlying",
@@ -5382,6 +5852,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Jason Rainville"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "89ecb530-e429-4b50-a24c-8437614cf224",
@@ -5412,12 +5885,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U} or {B}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "B",
       "U"
+    ],
+    "illustrators": [
+      "Johannes Voss"
     ],
     "source": {
       "type": "scryfall",
@@ -5450,7 +5926,7 @@
     "power": null,
     "toughness": null,
     "loyalty": 3,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
@@ -5458,6 +5934,9 @@
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Chris Rallis"
     ],
     "source": {
       "type": "scryfall",
@@ -5488,11 +5967,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Jung Park"
     ],
     "source": {
       "type": "scryfall",
@@ -5525,13 +6007,16 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample, haste\nIf you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead.\nIf an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.",
     "keywords": [
       "haste",
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Daarken"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "92613468-205e-488b-930d-11908477e9f8",
@@ -5560,13 +6045,16 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Changeling (This card is every creature type.)\nFlying\n{1}{U}: This creature gets +1/-1 until end of turn.",
     "keywords": [
       "changeling",
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Steve Prescott"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "92f64b49-327c-473b-a492-f020a322aed7",
@@ -5595,12 +6083,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Frost Bite deals 2 damage to target creature or planeswalker. If you control three or more snow permanents, it deals 3 damage instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Caio Monteiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9423318a-c5a8-48d2-92f5-280d15a050a6",
@@ -5634,10 +6125,13 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Kardur enters, until your next turn, creatures your opponents control attack each combat if able and attack a player other than you if able.\nWhenever an attacking creature dies, each opponent loses 1 life and you gain 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chris Rahn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9685e2a0-5573-41bc-a914-f40c3011459b",
@@ -5671,10 +6165,14 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Creatures you control that are enchanted or equipped have double strike.\nAt the beginning of each combat, you may attach target Aura or Equipment attached to a creature you control to target creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan",
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "97502411-5c93-434c-b77b-ceb2c32feae7",
@@ -5703,7 +6201,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this Equipment enters, you may pay {4}{W}. If you do, create a 4/4 white Angel Warrior creature token with flying and vigilance, then attach this Equipment to it.\nEquipped creature gets +2/+1.\nEquip {3}",
@@ -5711,6 +6209,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Aaron Miller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "97873c66-6bff-4d79-850c-1e2663098ef4",
@@ -5739,10 +6240,13 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature dies, search your library for a creature card with power or toughness 6 or greater, reveal it, put it into your hand, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "992aba3f-e1cb-4f5a-8b6f-328a069102a4",
@@ -5771,10 +6275,13 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, you gain 4 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Filip Burburan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9961e3fc-167e-4043-8510-cc5cf08d473e",
@@ -5801,12 +6308,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Exile target creature or planeswalker.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "99a1a75b-20cf-4db9-a244-cc54411446c4",
@@ -5831,7 +6341,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -5846,6 +6356,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Dan Murayama Scott"
     ],
     "source": {
       "type": "scryfall",
@@ -5873,12 +6386,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create X 2/2 black Zombie Berserker creature tokens, where X is the number of nontoken creatures that died this turn.\nForetell {B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Titus Lunter"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9d3a1ec1-f362-494d-a23b-6a963ce44fdd",
@@ -5907,7 +6423,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -5923,6 +6439,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Andrew Mar"
     ],
     "source": {
       "type": "scryfall",
@@ -5955,10 +6474,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Untap target snow land.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "PINDURSKI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9dab2ca2-0039-4eac-a7dc-68756362737d",
@@ -5989,12 +6511,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W} or {U}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Sarah Finnigan"
     ],
     "source": {
       "type": "scryfall",
@@ -6028,13 +6553,17 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "Deathtouch\nAt the beginning of your upkeep, exile two cards from your graveyard. If you can't, sacrifice Egon and draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jason A. Engle",
+      "Jason A. Engle"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9dfdb73d-b001-4a59-b79e-8c8c1baea116",
@@ -6068,12 +6597,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen Harald enters, look at the top five cards of your library. You may reveal an Elf, Warrior, or Tyvar card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
     "keywords": [
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Grzegorz Rutkowski"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9eac78a2-599f-4dba-aec7-982c5ae3f75a",
@@ -6103,10 +6635,13 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If a Giant source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Simon Dominic"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a15edad1-ff68-4f20-95f6-99fe549bea98",
@@ -6136,12 +6671,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Boast — {1}{G}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Matt Stewart"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a17f4b21-6478-407d-b567-2888349f3b66",
@@ -6167,13 +6705,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {B}.\n{W}{W}{B}, {T}, Sacrifice this land and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate only as a sorcery.",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Jonas De Ro"
     ],
     "source": {
       "type": "scryfall",
@@ -6206,10 +6747,13 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{S}, {T}: Look at the top card of your library. If it's a snow card, you may reveal it and put it into your hand. ({S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Cristi Balanescu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a2ae592f-caf6-445a-970b-f8101998e657",
@@ -6238,12 +6782,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{S}, {T}: Tap target artifact or creature. ({S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Wisnu Tan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691",
@@ -6273,12 +6820,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, creatures you control get +1/+0 and gain haste until end of turn.\nForetell {4}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Johann Bodin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a4e125e4-103f-4a68-b85f-1382646da71e",
@@ -6308,12 +6858,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Boast — {1}: Exile the top card of your library. You may play that card this turn. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Victor Adame Minguez"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a54d0170-a375-4e65-b98d-3e94a3aeef90",
@@ -6345,13 +6898,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, trample\n{S}{S}: This creature gets +2/+2 until end of turn. ({S} can be paid with one mana from a snow source.)",
     "keywords": [
       "flying",
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Bram Sels"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a5a272b3-aaab-4c98-86a8-85c67a5f3d4d",
@@ -6381,10 +6937,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast your second spell each turn, put two +1/+1 counters on this creature. It gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Gabor Szikszai"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a6308a53-de07-4ed9-80a1-3579843466c2",
@@ -6411,13 +6970,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Put a +1/+1 counter on target creature you control. Then that creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)\nForetell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "fight",
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Bram Sels"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a67747a9-3299-4b4a-a4e0-e8a269c4f927",
@@ -6452,7 +7014,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -6464,6 +7026,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Andrew Mar"
     ],
     "source": {
       "type": "scryfall",
@@ -6493,7 +7058,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped.\n{T}: Add {G}.\nAs long as you control six or more lands, lands you control have \"{T}: Add one mana of any color.\"\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice this land: Search your library for any number of God cards, put them onto the battlefield, then shuffle.",
     "keywords": [],
     "produces": [
@@ -6502,6 +7067,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Anastasia Ovchinnikova"
     ],
     "source": {
       "type": "scryfall",
@@ -6533,7 +7101,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When Esika's Chariot enters, create two 2/2 green Cat creature tokens.\nWhenever Esika's Chariot attacks, create a token that's a copy of target token you control.\nCrew 4",
@@ -6541,6 +7109,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Raoul Vitale"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a87606cc-fbf0-4e2c-9798-f1c935d0573d",
@@ -6569,7 +7140,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Changeling (This card is every creature type.)\n{2}{G}, {T}, Exile a creature card from your graveyard: Put two +1/+1 counters on target creature. Activate only as a sorcery.",
@@ -6577,6 +7148,9 @@
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Deruchenko Alexander"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a92dde51-310e-4f28-bd3b-d43b639785ec",
@@ -6605,13 +7179,16 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nForetell {1}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "flying",
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Jesper Ejsing"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9947cfd-91d6-479e-a7f6-2a2050f020f3",
@@ -6640,7 +7217,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this Equipment enters, you may pay {3}{U}. If you do, create a 4/4 blue Giant Wizard creature token, then attach this Equipment to it.\nEquipped creature gets +0/+1 and has \"This creature has hexproof as long as it's untapped.\"(It can't be the target of spells or abilities your opponents control.)\nEquip {2}",
@@ -6648,6 +7225,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Joseph Meehan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ab8b1ec2-9303-4722-8644-b3bc1a5c387f",
@@ -6674,12 +7254,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of your upkeep, you may cast a permanent spell from your hand with mana value equal to 1 plus the greatest mana value among other permanents you control without paying its mana cost. If you don't, scry 1.",
     "keywords": [
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Ilse Gort"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ac0e50fa-5114-4f96-89f4-000906da7c76",
@@ -6708,12 +7291,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nEnchanted creature gets +2/+2, has reach, and is every creature type.",
     "keywords": [
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Ilse Gort"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "acbe560b-f7b5-4614-91f1-b669a39abc16",
@@ -6736,10 +7322,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{2}, {T}, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has mana value equal to 1 plus that creature's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Piotr Dura"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ae9a8e44-f5de-497d-be48-adf1bcbaec97",
@@ -6771,7 +7360,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nFirst strike, protection from God creatures\nWhen Sigrid enters, exile up to one target attacking or blocking creature until Sigrid leaves the battlefield.",
     "keywords": [
       "first strike",
@@ -6779,6 +7368,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Johannes Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aeec3c1e-e612-4700-888e-300912932552",
@@ -6808,7 +7400,7 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen this creature dies, each player mills three cards. (They each put the top three cards of their library into their graveyard.)",
@@ -6817,6 +7409,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Caroline Gariba"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "af0f1a90-af64-4122-9c1a-954edf8fa240",
@@ -6845,12 +7440,15 @@
     "power": 4,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach",
     "keywords": [
       "reach"
     ],
     "produces": [],
+    "illustrators": [
+      "Nicholas Gregory"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "af46c8c8-5dfa-4ebb-b0b9-cd25d01dd432",
@@ -6880,11 +7478,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Sarah Finnigan"
     ],
     "source": {
       "type": "scryfall",
@@ -6910,7 +7511,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "{T}: Add one mana of any color.\nAt the beginning of your upkeep, put a night counter on this artifact. Then if it has eight or more night counters on it, remove all of them and create eight colorless snow artifact tokens named Replicated Ring with \"{T}: Add one mana of any color.\"",
@@ -6921,6 +7522,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Olena Richards"
     ],
     "source": {
       "type": "scryfall",
@@ -6952,12 +7556,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G} or {W}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "G",
       "W"
+    ],
+    "illustrators": [
+      "Alayna Danner"
     ],
     "source": {
       "type": "scryfall",
@@ -6987,13 +7594,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Tundra Fumarole deals 4 damage to target creature or planeswalker. Add {C} for each {S} spent to cast this spell. Until end of turn, you don't lose this mana as steps and phases end. ({S} is mana from a snow source.)",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Simon Dominic"
     ],
     "source": {
       "type": "scryfall",
@@ -7024,10 +7634,13 @@
     "power": 7,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, if you cast it from your hand, return all permanents to their owners' hands except for Giants, Wizards, and lands.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b2d40071-cadf-48de-a8ed-d55adbfab632",
@@ -7058,12 +7671,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B} or {G}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "B",
       "G"
+    ],
+    "illustrators": [
+      "Titus Lunter"
     ],
     "source": {
       "type": "scryfall",
@@ -7094,12 +7710,15 @@
     "power": 4,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "When this creature enters, it deals X damage to any target, where X is the greatest number of creatures you control that have a creature type in common.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrey Kuzinskiy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b32aea04-04f7-48a8-a8ab-8b38fa53da3b",
@@ -7126,7 +7745,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -7141,6 +7760,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Jesper Ejsing"
     ],
     "source": {
       "type": "scryfall",
@@ -7170,10 +7792,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Search your library for a snow permanent card, a legendary card, or a Saga card, reveal it, put it into your hand, then shuffle. You gain 1 life for each {S} spent to cast this spell. ({S} is mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kieran Yanner"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b65c215d-562d-4c7c-bc9f-b1d741050158",
@@ -7200,10 +7825,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {G}.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Daniel Ljunggren",
+      "Daniel Ljunggren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b6de14ae-0132-4261-af00-630bf15918cd",
@@ -7233,7 +7862,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Trample\nWhen Old-Growth Troll dies, if it was a creature, return it to the battlefield. It's an Aura enchantment with enchant Forest you control and \"Enchanted Forest has '{T}: Add {G}{G}' and '{1}, {T}, Sacrifice this land: Create a tapped 4/4 green Troll Warrior creature token with trample.'\"",
@@ -7242,6 +7871,9 @@
     ],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Jesper Ejsing"
     ],
     "source": {
       "type": "scryfall",
@@ -7275,10 +7907,14 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As long as you control three or more legendary creatures, Kolvori gets +4/+2 and has vigilance.\n{1}{G}, {T}: Look at the top six cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Grzegorz Rutkowski",
+      "Grzegorz Rutkowski"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b76bed98-30b1-4572-b36c-684ada06826c",
@@ -7304,7 +7940,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {U}.\n{3}{U}{B}{B}, {T}, Sacrifice this land: Mill four cards, then return a creature card from your graveyard to the battlefield tapped. (To mill a card, put the top card of your library into your graveyard.)",
@@ -7313,6 +7949,9 @@
     ],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Mauricio Calle"
     ],
     "source": {
       "type": "scryfall",
@@ -7346,13 +7985,16 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "removal"
     ],
     "oracleText": "Whenever a permanent an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on Sarulf.\nAt the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with mana value less than or equal to the number of counters removed this way.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chris Rahn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bcecf9ba-36da-490a-9460-99ff87d99fbd",
@@ -7379,10 +8021,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create X 2/1 red Dwarf Berserker creature tokens, where X is the number of Vehicles you control plus the number of Equipment you control. For each of those tokens, you may attach an Equipment you control to it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Izzy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bdd68d9d-b0b9-4915-8a12-658eb0e3dd4a",
@@ -7413,13 +8058,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 2/2 blue Shapeshifter creature token with changeling.\nII — Any number of target Shapeshifter creatures you control have base power and toughness 4/4.\nIII — Choose up to one target creature or planeswalker. Each creature with power 4 or greater you control deals damage equal to its power to that permanent.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Randy Gallegos"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "be43a643-6cb7-4bb6-a28d-8ad30b7fbb6d",
@@ -7448,13 +8096,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Changeling (This card is every creature type.)\nWhen this creature enters, if you control three or more creatures that share a creature type, put a +1/+1 counter on this creature, then scry 1.",
     "keywords": [
       "scry",
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Tyler Walpole"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c119f836-0707-49e2-b6d4-25f849d054a4",
@@ -7484,10 +8135,13 @@
     "power": 2,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, choose one —\n• Each opponent loses X life, where X is the greatest number of creatures you control that have a creature type in common.\n• You gain X life, where X is the greatest number of creatures you control that have a creature type in common.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Stewart"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c204130f-0483-49ed-8512-03a74894702e",
@@ -7514,7 +8168,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -7528,6 +8182,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Slawomir Maniak"
     ],
     "source": {
       "type": "scryfall",
@@ -7559,7 +8216,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -7568,6 +8225,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Chase Stone"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c30ff1fa-6639-492a-b257-934e5818c98f",
@@ -7597,7 +8257,7 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Your opponents can't gain life.\nAt the beginning of your upkeep, Quakebringer deals 2 damage to each opponent. This ability triggers only if Quakebringer is on the battlefield or if Quakebringer is in your graveyard and you control a Giant.\nForetell {2}{R}{R}",
@@ -7605,6 +8265,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Lucas Graciano"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c5bbffb9-1f1c-40e5-97f4-29bf1fc68625",
@@ -7635,7 +8298,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant land\nEnchanted land is snow.\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
     "keywords": [
       "enchant"
@@ -7646,6 +8309,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Lucas Graciano"
     ],
     "source": {
       "type": "scryfall",
@@ -7685,12 +8351,16 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Whenever Jorn attacks, untap each snow permanent you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Magali Villeneuve",
+      "Magali Villeneuve"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c697548f-925b-405e-970a-4e78067d5c8e",
@@ -7719,12 +8389,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Changeling (This card is every creature type.)\nAs this creature enters, choose a creature type.\nYou may look at the top card of your library any time.\nYou may cast creature spells of the chosen type from the top of your library.",
     "keywords": [
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Zack Stella"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c8212667-7e18-42a5-9f36-4f8a6ad12f83",
@@ -7751,12 +8424,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create two 1/1 blue Bird creature tokens with flying. Take an extra turn after this one. Exile Alrund's Epiphany.\nForetell {4}{U}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Kieran Yanner"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c94fcb53-a7bd-4a80-a536-9fb0eb24261a",
@@ -7786,11 +8462,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Adam Paquette"
     ],
     "source": {
       "type": "scryfall",
@@ -7820,7 +8499,7 @@
     "power": 6,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Trample\nWhenever a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.\nForetell {2}{G}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -7829,6 +8508,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Jesper Ejsing"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cb3377d9-eec3-49b9-a3a7-e540d2038f51",
@@ -7862,7 +8544,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Other creatures you control get +1/+1.\nLandfall — Whenever a land you control enters, create a 1/1 white Human Warrior creature token.",
@@ -7870,6 +8552,9 @@
       "landfall"
     ],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cc3707f1-ed9d-412e-a7be-b6d8b554bd6c",
@@ -7900,7 +8585,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -7908,6 +8593,9 @@
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 1/1 white Human Warrior creature token.\nII — Create a 1/1 green Elf Warrior creature token.\nIII — Choose any number of artifact tokens and/or creature tokens you control with different names. For each of them, create a token that's a copy of it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Igor Kieryluk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cd31ec15-2fe0-40ab-b320-bc4333db4787",
@@ -7937,7 +8625,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying\nWhen this creature enters, return target permanent card with mana value 2 or less from your graveyard to the battlefield.\nForetell {3}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -7946,6 +8634,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Johannes Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ce33c84e-008c-48d8-a8e8-77cd19cc4f1f",
@@ -7974,7 +8665,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Enchant creature\nEnchanted creature gets +2/+2.\n{1}{W}, Exile this card from your graveyard: Return another target Aura or Equipment card from your graveyard to your hand.",
@@ -7982,6 +8673,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Johannes Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cf036489-ef9e-40ee-a1bb-24ee37c554f1",
@@ -8012,13 +8706,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create a 1/1 blue Bird creature token with flying. You gain 2 life.\nII — Whenever one or more creatures you control with flying deal combat damage to a player this turn, look at that player's hand and draw a card.\nIII — You may put a card you own from outside the game on top of your library.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d00bd457-e1cc-45e1-8b2e-58f886bd6df8",
@@ -8048,7 +8745,7 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, lifelink, hexproof from planeswalkers\nBoast — {1}{B}, Sacrifice a creature: Each opponent sacrifices a creature or planeswalker. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "flying",
@@ -8058,6 +8755,9 @@
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Tyler Jacobson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d00edda3-ddbc-44ee-a14b-47a701445bb0",
@@ -8088,7 +8788,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Target creature you control fights up to one target creature you don't control.\nII — Add {R}. Put two +1/+1 counters on up to one target creature you control.\nIII — You gain life equal to the greatest power among creatures you control.",
@@ -8097,6 +8797,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Simon Dominic"
     ],
     "source": {
       "type": "scryfall",
@@ -8127,7 +8830,7 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Boast — {1}{R}: This creature deals 1 damage to any target. (Activate only if this creature attacked this turn and only once each turn.)",
@@ -8135,6 +8838,9 @@
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Steve Prescott"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d3b18cdb-bc17-42ae-bfb7-4eafce01cd39",
@@ -8164,7 +8870,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Enchant permanent\nWhen this Aura enters, draw a card.\nAs long as enchanted permanent is a creature, it has flying.\nAs long as enchanted permanent is an Equipment, it has \"Equipped creature has flying.\"",
@@ -8172,6 +8878,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Yeong-Hao Han"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d5c1a271-2107-462a-9d4a-9c7fbcfa8d77",
@@ -8198,10 +8907,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +1/+3 and gains flying until end of turn. Untap it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ilse Gort"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d6b26c95-f90d-43fb-8c99-2a3aa13ac2c6",
@@ -8231,12 +8943,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste",
     "keywords": [
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Scott Murphy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d6eb23c9-6061-4ad1-a8f3-2c791c49f352",
@@ -8267,12 +8982,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Put a +1/+1 counter on up to one target creature.\nIII — Exile a creature with the greatest power among creatures target opponent controls.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eric Deschamps"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d7de696a-49c2-421d-a86c-bcffd68870c6",
@@ -8301,12 +9019,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Choose one —\n• Destroy all creatures.\n• Destroy all planeswalkers.\nThen return a creature or planeswalker card with mana value X or less from your graveyard to the battlefield, where X is the amount of {S} spent to cast this spell. ({S} is mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Martina Fačková"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d8606f40-0af4-443b-a413-a88dc3e8f32e",
@@ -8337,12 +9058,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy target nonland permanent an opponent controls.\nII — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.\nIII — Creatures you control gain deathtouch until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Victor Adame Minguez"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d93ee644-d7d7-48d8-a04b-fb479b74edb0",
@@ -8372,7 +9096,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nFlying\nWhen this creature enters, you may exile any number of non-Angel creatures you control until this creature leaves the battlefield.\nForetell {2}{W}",
     "keywords": [
       "flying",
@@ -8380,6 +9104,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "PINDURSKI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d9f08552-7f1a-4fdb-9a70-d99cdbf75910",
@@ -8410,12 +9137,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G} or {U}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "G",
       "U"
+    ],
+    "illustrators": [
+      "Piotr Dura"
     ],
     "source": {
       "type": "scryfall",
@@ -8443,10 +9173,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gains haste and \"Whenever this creature deals damage, destroy target Equipment attached to it.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dmitry Burmak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "db743c6e-1385-468e-921a-7a525b88a1b6",
@@ -8473,12 +9206,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.\nAs long as you control a Giant, you may cast this card from your graveyard by paying {U} rather than paying its mana cost. If you cast this card this way and it would be put into your graveyard, exile it instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lorenzo Mastroianni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dc96ebe8-f4b3-4788-a6f5-2a50b6c0d935",
@@ -8505,12 +9241,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell. Choose 1, 2, or 3 at random. Its controller mills that many cards, then exiles cards from the top of their library until they exile a nonland card with a different name than that spell. They may cast that card without paying its mana cost. Then they put the exiled cards on the bottom of their library in a random order.",
     "keywords": [
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Anna Podedworna"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dd921e27-3e08-438c-bec2-723226d35175",
@@ -8544,7 +9283,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying, lifelink\nWhenever you cast your second spell each turn, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
@@ -8553,6 +9292,9 @@
       "lifelink"
     ],
     "produces": [],
+    "illustrators": [
+      "Livia Prima"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "df87077c-85d8-499e-bce0-27697caada5a",
@@ -8582,12 +9324,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this creature dies, create a 1/1 white Human Warrior creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Manuel Castañón"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dfc1df84-9c47-444b-9d58-d9c7bed51c66",
@@ -8614,12 +9359,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "This spell costs {3} less to cast if you control a Giant.\nSquash deals 6 damage to target creature or planeswalker.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Caio Monteiro"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e0b99299-bf84-4654-a331-e4406768b33c",
@@ -8644,11 +9392,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {C}.\n{S}{S}{S}: This land becomes a 4/3 creature with vigilance and all creature types until end of turn. It's still a land. ({S} can be paid with one mana from a snow source.)",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Titus Lunter"
     ],
     "source": {
       "type": "scryfall",
@@ -8679,12 +9430,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Lifelink",
     "keywords": [
       "lifelink"
     ],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e3dae817-3db1-4edf-86ba-c2c2b238fcf5",
@@ -8713,7 +9467,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Scry X, where X is the amount of {S} spent to cast this spell, then draw three cards. ({S} is mana from a snow source.)",
@@ -8721,6 +9475,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Svetlin Velinov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e4386e5c-32b1-4096-a93f-fedd1a4801fc",
@@ -8750,12 +9507,15 @@
     "power": 7,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhen this creature dies, it deals 7 damage to a creature an opponent controls chosen at random.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Viktor Titov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e4802e6c-6921-4dac-bf44-7e09d6942b71",
@@ -8782,10 +9542,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matt Stewart"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e692c208-c171-4964-9207-43c2cbc62845",
@@ -8816,7 +9579,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw",
       "removal"
@@ -8826,6 +9589,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Ryan Pancoast"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e7c5f681-0145-45e9-b943-ca9784cfdea0",
@@ -8855,7 +9621,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "First strike\nBoast abilities you activate cost {1} less to activate for each Dragon you control.\nBoast — {4}{R}: Create a 5/5 red Dragon creature token with flying. (Activate only if this creature attacked this turn and only once each turn.)",
@@ -8864,6 +9630,9 @@
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e7f22fe4-2390-4c3d-8b5e-0cf398d97f6a",
@@ -8892,13 +9661,16 @@
     "power": 3,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nForetell {3}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "vigilance",
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Sidharth Chaturvedi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e8e645c8-90ac-4865-b441-e64251d6c9a8",
@@ -8929,12 +9701,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "{S}{S}: This creature becomes a Spirit Warrior with base power and toughness 2/3.\n{S}{S}{S}: If this creature is a Warrior, put a flying counter on it and it becomes a Spirit Warrior Angel with base power and toughness 4/4.\n{S}{S}{S}{S}: If this creature is an Angel, put two +1/+1 counters on it and it gains \"Whenever this creature deals combat damage to a player, draw a card.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Lie Setiawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ea56de43-c0fd-4627-846d-41a962b95f17",
@@ -8961,7 +9736,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Create a 4/4 white Angel Warrior creature token with flying and vigilance. If this spell was foretold, create X of those tokens instead.\nForetell {X}{X}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
@@ -8969,6 +9744,9 @@
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Johannes Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ea660d42-a441-48d8-98c1-00933cde94a4",
@@ -9004,13 +9782,17 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
     "oracleText": "When Valki enters, each opponent reveals their hand. For each opponent, exile a creature card they revealed this way until Valki leaves the battlefield.\n{X}: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yongjae Choi",
+      "Yongjae Choi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ea7e4c65-b4c4-4795-9475-3cba71c50ea5",
@@ -9037,12 +9819,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "As this enchantment enters, choose a creature type.\nWhenever you cast a spell of the chosen type, copy that spell. (A copy of a permanent spell becomes a token.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Aaron Miller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eadee447-ce9a-4dea-a074-bfd04197548e",
@@ -9068,12 +9853,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Changeling (This card is every creature type.)\nAs this creature enters, choose a creature type.\nWhenever another creature you control of the chosen type enters, put a +1/+1 counter on this creature.",
     "keywords": [
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Slawomir Maniak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eb8a16f6-55c1-40eb-998f-592bf31916b1",
@@ -9105,13 +9893,16 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Deathtouch\nBoast — {1}{B}: Target player searches their library for a card, then shuffles and puts that card on top. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast",
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Tyler Jacobson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "efa8dbf0-4e5a-452b-826f-5813e8cd9d85",
@@ -9136,7 +9927,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped.\nAs this land enters, choose a color.\n{T}: Add one mana of the chosen color.",
     "keywords": [],
     "produces": [
@@ -9145,6 +9936,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Titus Lunter"
     ],
     "source": {
       "type": "scryfall",
@@ -9174,7 +9968,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "removal"
@@ -9184,6 +9978,9 @@
       "changeling"
     ],
     "produces": [],
+    "illustrators": [
+      "Jason A. Engle"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f0a9c72a-e450-41e3-80e5-06f2f1171245",
@@ -9214,12 +10011,15 @@
     "power": 8,
     "toughness": 8,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Affinity for snow lands (This spell costs {1} less to cast for each snow land you control.)\nWhen this creature enters, artifacts and creatures target opponent controls don't untap during that player's next untap step.\nReturn three snow lands you control to their owner's hand: Return this creature to its owner's hand.",
     "keywords": [
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Chris Cold"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f1fdb9bb-09a2-4ff7-bcd4-35ea33c1b752",
@@ -9250,12 +10050,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U} or {R}.)\nThis land enters tapped.",
     "keywords": [],
     "produces": [
       "R",
       "U"
+    ],
+    "illustrators": [
+      "Randy Vargas"
     ],
     "source": {
       "type": "scryfall",
@@ -9283,12 +10086,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +1/+1 and gains double strike until end of turn.\nForetell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Daarken"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f28e151f-b61b-486f-b7f8-7abde207c442",
@@ -9320,12 +10126,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this creature enters, tap target artifact or creature an opponent controls. If {S} was spent to cast this spell, that permanent doesn't untap during its controller's next untap step. ({S} is mana from a snow source.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Filip Burburan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f3567bdc-450e-4481-9349-a80fe52fe431",
@@ -9355,7 +10164,7 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying\nWhen this creature enters, you may search your library for exactly two cards not named Burning-Rune Demon that have different names. If you do, reveal those cards. An opponent chooses one of them. Put the chosen card into your hand and the other into your graveyard, then shuffle.",
@@ -9363,6 +10172,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrew Mar"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f358a52b-8044-404e-8d04-2ec5903386cc",
@@ -9392,11 +10204,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Jung Park"
     ],
     "source": {
       "type": "scryfall",
@@ -9422,7 +10237,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this Vehicle attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
@@ -9430,6 +10245,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Aaron Miller"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f572cbb1-49ee-4c95-90a3-82704cf92454",
@@ -9459,13 +10277,16 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nWhen this creature enters, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.\nForetell {1}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "flash",
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "Chris Cold"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f5b12c6c-c3d6-4b8a-bed4-d61f67f565b9",
@@ -9495,10 +10316,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, up to two target creatures each get +1/+0 and gain indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy them.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Izzy"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f670c380-6faa-42ec-ab41-6be8137169b2",
@@ -9539,10 +10363,14 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\n{T}: Add one mana of any color.\nOther legendary creatures you control have vigilance and \"{T}: Add one mana of any color.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Johannes Voss",
+      "Johannes Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6",
@@ -9569,12 +10397,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose target nonlegendary creature. The next time one or more creatures or planeswalkers enter this turn, they enter as copies of the chosen creature.\nForetell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [],
+    "illustrators": [
+      "YW Tang"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f7b877e2-60eb-46cd-acd7-8555b9e7e993",
@@ -9600,11 +10431,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped.\n{T}: Add {W}.\n{1}{R}{R}{W}, {T}, Sacrifice this land: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle.",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Cliff Childs"
     ],
     "source": {
       "type": "scryfall",
@@ -9634,7 +10468,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this Equipment enters, you may pay {2}. If you do, create a 2/1 red Dwarf Berserker creature token, then attach this Equipment to it.\nEquipped creature gets +3/+0 and has trample.\nEquip {3}",
@@ -9642,6 +10476,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Raoul Vitale"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f9cc132f-d4c1-4bc4-9c9e-f63ab5e7d094",
@@ -9672,7 +10509,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This spell can't be countered.\nIndestructible\nToski attacks each combat if able.\nWhenever a creature you control deals combat damage to a player, draw a card.",
@@ -9680,6 +10517,9 @@
       "indestructible"
     ],
     "produces": [],
+    "illustrators": [
+      "Jason Rainville"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f9e79b59-94c8-4697-bf88-f0a0433170f5",
@@ -9709,12 +10549,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this creature dies, if its power was 3 or greater, create a 2/2 black Zombie Berserker creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Zoltan Boros"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f9f2029f-ffda-4374-9a78-79866ac23fca",
@@ -9748,12 +10591,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of your upkeep, you may exile Cosima. If you do, it gains \"Whenever a land you control enters, if Cosima is exiled, you may put a voyage counter on it. If you don't, return Cosima to the battlefield with X +1/+1 counters on it and draw X cards, where X is the number of voyage counters on it.\"",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Micah Epstein",
+      "Micah Epstein"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fab2fca4-a99f-4ffe-9c02-edb6e0be2358",
@@ -9783,12 +10630,15 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever another nontoken Elf or Berserker you control dies, you draw a card and you lose 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Randy Vargas"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fad2c6d4-03dd-4dab-861c-77c55bda0db7",
@@ -9818,12 +10668,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Boast — {1}{W}: Creatures you control get +1/+1 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast"
     ],
     "produces": [],
+    "illustrators": [
+      "Colin Boyer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fb79dc85-f85a-4846-9ac3-c75c64ea9c0a",
@@ -9850,7 +10703,7 @@
     "power": 6,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this Vehicle attacks, add {W}{W}{W} and you gain 3 life. Until end of turn, you don't lose this mana as steps and phases end.\nCrew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)",
@@ -9859,6 +10712,9 @@
     ],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Joe Slucher"
     ],
     "source": {
       "type": "scryfall",
@@ -9888,10 +10744,13 @@
     "power": null,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature crews Vehicles using its toughness rather than its power.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Joe Slucher"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fc71d8ca-c613-4534-bc9d-bc1e13202a2c",
@@ -9920,7 +10779,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this Equipment enters, you may pay {2}{B}. If you do, create a 2/2 black Zombie Berserker creature token, then attach this Equipment to it.\nEquipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)\nEquip {4}",
@@ -9928,6 +10787,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Joe Slucher"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327",
@@ -9957,11 +10819,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Omar Rayyan"
     ],
     "source": {
       "type": "scryfall",
@@ -9992,10 +10857,13 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each nonland card in your hand without foretell has foretell. Its foretell cost is equal to its mana cost reduced by {2}. (During your turn, you may pay {2} and exile it from your hand face down. Cast it on a later turn for its foretell cost.)\nWhenever you foretell a card, this creature gets +2/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "David Rapoza"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ff1d88a6-a74d-44b5-b7a8-866e866807f1",
@@ -10027,13 +10895,16 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste\nBoast — {1}: You may change Arni's base power to 1 plus the greatest power among other creatures you control until end of turn. (Activate only if this creature attacked this turn and only once each turn.)",
     "keywords": [
       "boast",
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Dmitry Burmak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ff334bba-0805-4d5d-86c4-99185fe9a77a",

@@ -21,7 +21,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Counter target spell.\nDraw a card, then mill three cards.\nUntap target land.",
@@ -29,6 +29,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Bun Toujo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "004be4bc-ac3c-4026-8d36-f4687ab18c70",
@@ -59,7 +62,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -67,6 +70,9 @@
     "oracleText": "When this creature enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hisashi Momose"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "023e7ad4-6af0-4f29-a716-27a313974227",
@@ -97,12 +103,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When Crescent Island Temple enters, for each Shrine you control, create a 1/1 red Monk creature token with prowess. (Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)\nWhenever another Shrine you control enters, create a 1/1 red Monk creature token with prowess.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Luc Courtois"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "04c85150-269e-4158-a1b9-bd11bc6b7d79",
@@ -129,12 +138,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this enchantment enters, create a 2/2 red Soldier creature token with firebending 1.\nWhenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dominik Mayer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "05309d0b-302d-4a9e-b147-1b504ecf365e",
@@ -163,11 +175,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Luc Courtois"
     ],
     "source": {
       "type": "scryfall",
@@ -199,10 +214,13 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, put a +1/+1 counter on target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Leonardo Borazio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "060966f9-5e56-4512-9ef3-2b216daf093c",
@@ -236,12 +254,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever Hei Bai enters or attacks, you may sacrifice another creature or artifact. If you do, put two +1/+1 counters on Hei Bai.\nWhen Hei Bai leaves the battlefield, put its counters on target creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tyler Smith"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "060d24e0-1567-41f1-ae8c-2d3b1834df3c",
@@ -272,13 +293,16 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)",
     "keywords": [
       "scry",
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "ikeda_cpt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0613afb5-4cee-4132-8adf-404767ed8d07",
@@ -303,13 +327,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "This land enters tapped unless you control a basic land.\n{T}: Add {B}.\n{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with \"This token can't block or be blocked by non-Spirit creatures.\"",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Andreas Rocha"
     ],
     "source": {
       "type": "scryfall",
@@ -340,10 +367,13 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature can't attack or block unless you control another creature with power 4 or greater.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Di Giovanni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "067bd117-04e6-410e-89c4-6d431d627751",
@@ -374,10 +404,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Northern Air Temple enters, each opponent loses X life and you gain X life, where X is the number of Shrines you control.\nWhenever another Shrine you control enters, each opponent loses 1 life and you gain 1 life.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Slawek Fedorczuk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "06b7675e-e665-49cb-a8d9-7092a654d464",
@@ -417,10 +450,14 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nFlying\nWhen Aang enters, airbend up to one other target creature or spell. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nWaterbend {8}: Transform Aang.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Shane Beresford",
+      "Shane Beresford"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "077a1ad2-6317-4271-b86c-cc999776251d",
@@ -452,10 +489,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Flopsie enters, put a +1/+1 counter on each creature you control.\nEach creature you control with power 4 or greater can't be blocked by more than one creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alexandr Leskinen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "082f4abc-c09f-42cf-977f-060875dfd411",
@@ -483,12 +523,15 @@
     "power": null,
     "toughness": 30,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Defender\nOther permanents you control have indestructible.",
     "keywords": [
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Ben Hill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "086b6003-6d90-426b-809e-ea837d868290",
@@ -518,10 +561,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brandon L. Hunt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "087a445c-5f63-45d6-83e8-20d22650db20",
@@ -552,10 +598,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{5}: Creatures you control get +1/+1 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yosuke Adachi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0a0cdf97-1927-47c6-8ef1-29969e3567ee",
@@ -585,7 +634,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -594,6 +643,9 @@
       "food"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas Chamberlain-Keen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0a838009-b115-4497-b35d-682e41ead7db",
@@ -619,7 +671,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {U} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -627,6 +679,9 @@
     "produces": [
       "R",
       "U"
+    ],
+    "illustrators": [
+      "Andreas Rocha"
     ],
     "source": {
       "type": "scryfall",
@@ -654,7 +709,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -663,6 +718,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Enishi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0c019e76-c88e-4d1b-a546-0f4e462ef44a",
@@ -687,12 +745,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{1}, {T}: Scry 2.\nWhenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn. (Look at the card after you scry or surveil.)",
     "keywords": [
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Robin Olausson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede",
@@ -723,7 +784,7 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flash\nWard—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)\nWhenever an opponent draws their second card each turn, you draw two cards.",
@@ -733,6 +794,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Miho Midorikawa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff",
@@ -764,7 +828,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nFirebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\n{3}: This creature deals 1 damage to each opponent.",
     "keywords": [
       "firebending",
@@ -772,6 +836,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Jo Cordisco"
     ],
     "source": {
       "type": "scryfall",
@@ -799,12 +866,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Choose one—\n• Create a token that's a copy of target creature you control, except it's not legendary and it's a 4/4 Hero in addition to its other types.\n• Create a token that's a copy of target creature an opponent controls, except it's not legendary and it's a 2/2 Coward in addition to its other types.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brian Yuen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0f79a7fc-36b1-4397-8e67-6638379d3a38",
@@ -831,7 +901,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -839,6 +909,9 @@
     "oracleText": "Target creature gets +3/+1 until end of turn.\nCreate a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Robin Har"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "0ff7c993-ba29-43b0-9639-7c4bc0292fa2",
@@ -867,7 +940,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -875,6 +948,9 @@
     "oracleText": "When this enchantment enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nCreatures you control with flying get +1/+1.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "AKAGI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "10874416-fa4c-4aa3-b885-4351d011d208",
@@ -901,12 +977,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Affinity for Allies (This spell costs {1} less to cast for each Ally you control.)\nUp to two target creatures you control each deal damage equal to their power to target creature an opponent controls.",
     "keywords": [
       "affinity"
     ],
     "produces": [],
+    "illustrators": [
+      "Evan Shipard"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "11a77897-2aba-4a9b-bbe6-1768ca9f12cb",
@@ -941,7 +1020,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Vigilance\nWhenever Sokka and at least one other creature attack, draw a card.",
@@ -949,6 +1028,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Axel Sauerwald"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1326c5db-4615-495f-8e30-376243d91352",
@@ -980,7 +1062,7 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -991,6 +1073,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Toraji"
     ],
     "source": {
       "type": "scryfall",
@@ -1018,12 +1103,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nThis enchantment enters with X fire counters on it.\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.",
     "keywords": [
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Brigitte Roka"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "13688c4d-d63f-4cef-8aae-16aec7b9effc",
@@ -1052,7 +1140,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nWhen this Vehicle enters, target creature you control gains indestructible until end of turn.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
@@ -1062,6 +1150,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Shishizaru"
     ],
     "source": {
       "type": "scryfall",
@@ -1093,13 +1184,16 @@
     "power": 2,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nWaterbend {3}: This creature has base power and toughness 5/2 until end of turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "vigilance",
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Rafater"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1447ebce-7e48-4b21-a39c-740920538bdd",
@@ -1131,7 +1225,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -1139,6 +1233,9 @@
     "oracleText": "June can't be blocked as long as you've drawn two or more cards this turn.\n{1}, Sacrifice another creature: Create a Clue token. Activate only during your turn. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Shiren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "148bbaab-bc7b-46ab-8e18-ade69d71d847",
@@ -1172,13 +1269,17 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Destroy all creatures.\nII — Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mitori",
+      "Mitori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "14eadf46-90c2-4376-8183-6a922a60174d",
@@ -1209,10 +1310,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Another target creature you control with power 2 or less can't be blocked this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "HAIKEI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "14f2ed5a-042b-4cce-82ad-cfb4bd511d98",
@@ -1235,7 +1339,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This artifact enters tapped.\n{T}: Add X mana of any one color, where X is the greatest number of creatures you control that have a creature type in common.",
@@ -1246,6 +1350,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Antonio José Manzanedo"
     ],
     "source": {
       "type": "scryfall",
@@ -1278,7 +1385,7 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -1288,6 +1395,9 @@
       "ward"
     ],
     "produces": [],
+    "illustrators": [
+      "John Di Giovanni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "16be5cc4-b15a-4c5e-8a6e-05c87b519127",
@@ -1316,12 +1426,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Return target nonland permanent to its owner's hand. If you controlled that permanent, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tubaki Halsame"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "17ab958a-abc6-472e-ad6a-97c731d89c74",
@@ -1352,10 +1465,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mizutametori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "17d71522-b133-4003-b787-0c742a2fd70e",
@@ -1384,12 +1500,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "17d97052-e153-42d8-beb6-6d85815c9b59",
@@ -1418,12 +1537,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Choose one —\n• Iroh's Demonstration deals 1 damage to each creature your opponents control.\n• Iroh's Demonstration deals 4 damage to target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Song Qijin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "18d15fed-1f8f-4407-a221-a47ce75001a8",
@@ -1452,7 +1574,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Enchant creature you control\nEnchanted creature gets +1/+1 for each creature card in your graveyard and is an Avatar in addition to its other types.\nWhen enchanted creature dies, mill cards equal to its power. Return this card to its owner's hand and up to one creature card milled this way to the battlefield under your control.",
@@ -1461,6 +1583,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Flavio Girón"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "19b71bf7-d354-4729-a160-b85402c084f3",
@@ -1490,13 +1615,16 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "This creature has firebending 2 as long as there's a Lesson card in your graveyard. (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\n{2}: This creature gets +1/+0 until end of turn.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Rafater"
     ],
     "source": {
       "type": "scryfall",
@@ -1524,7 +1652,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw",
@@ -1533,6 +1661,9 @@
     "oracleText": "Exile target creature. If it was dealt damage this turn, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Nijihayashi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "1affba6d-2cca-4cdf-8690-1e23ffbe8462",
@@ -1558,7 +1689,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {B} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -1566,6 +1697,9 @@
     "produces": [
       "B",
       "R"
+    ],
+    "illustrators": [
+      "Matteo Bassini"
     ],
     "source": {
       "type": "scryfall",
@@ -1589,7 +1723,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "This artifact enters tapped.\n{T}: Add X mana of any one color, where X is the greatest number of creatures you control that have a creature type in common.",
@@ -1600,6 +1734,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Dee Nguyen"
     ],
     "source": {
       "type": "scryfall",
@@ -1636,7 +1773,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
@@ -1645,6 +1782,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "JungShan"
     ],
     "source": {
       "type": "scryfall",
@@ -1676,12 +1816,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this creature enters, create a 1/1 white Ally creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Awanqi (Angela Wang)"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "211045e1-85c7-4088-b830-a2afa0fe520b",
@@ -1712,10 +1855,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Maojin Lee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "21f52564-9820-42dc-a08d-459d51afc397",
@@ -1750,10 +1896,13 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Guru Pathik enters, look at the top five cards of your library. You may reveal a Lesson, Saga, or Shrine card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you cast a Lesson, Saga, or Shrine spell, put a +1/+1 counter on another target creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dee Nguyen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "224a2241-0dce-4008-8d9c-86db40ec5f8b",
@@ -1783,7 +1932,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token",
@@ -1794,6 +1943,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Robin Olausson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2262f24b-db6b-4f86-96d0-47a20fc015ab",
@@ -1819,7 +1971,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {B} or {G}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -1827,6 +1979,9 @@
     "produces": [
       "B",
       "G"
+    ],
+    "illustrators": [
+      "Dom Lay"
     ],
     "source": {
       "type": "scryfall",
@@ -1856,12 +2011,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Ozai's Cruelty deals 2 damage to target player. That player discards two cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "ikeda_cpt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "22cad680-d46a-4589-a633-b6ee9a78d61e",
@@ -1890,10 +2048,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jocelin Carmes"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "233f4a05-057b-48f4-8f56-8d4a060a40e4",
@@ -1922,10 +2083,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nCreatures target player controls get +2/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Robin Olausson"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "23b3bf1e-ea85-47f5-8473-4d16615f68d7",
@@ -1957,12 +2121,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this creature dies, you gain 3 life.\n{2}, Sacrifice this creature: Destroy up to one target artifact or enchantment.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "John Di Giovanni"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2402d759-84b6-41d2-ad78-9333974e9222",
@@ -1995,13 +2162,16 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen Aang enters, airbend up to one other target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nWhenever you cast a Lesson spell, Aang gains lifelink until end of turn.",
     "keywords": [
       "flying",
       "airbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Yueko"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "245e008c-e073-443f-9592-6f628c0026ec",
@@ -2029,12 +2199,15 @@
     "power": null,
     "toughness": 30,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Defender\nOther permanents you control have indestructible.",
     "keywords": [
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Arthur Yuan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "24a14ac5-0b7e-4441-9963-782a7cda3f4a",
@@ -2057,7 +2230,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Lesson or Shrine spell.\n{1}, {T}: Add one mana of any color.",
     "keywords": [],
     "produces": [
@@ -2067,6 +2240,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Luc Courtois"
     ],
     "source": {
       "type": "scryfall",
@@ -2096,12 +2272,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Choose one —\n• Destroy target artifact or enchantment.\n• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pauline Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "25749f9a-260d-4bdc-bd28-429c12faa4a5",
@@ -2145,12 +2324,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dominik Mayer",
+      "Dominik Mayer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "257928ba-27ae-4a11-ae41-76dfcd626ed4",
@@ -2175,7 +2358,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.\nEquipped creature gets +1/+0.\nEquip {2} ({2}:Attach to target creature you control. Equip only as a sorcery.)",
@@ -2183,6 +2366,9 @@
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "VEN"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "257e6862-96fe-4312-aff2-509d0696843a",
@@ -2211,13 +2397,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWaterbend {5}: Enchanted creature's owner shuffles it into their library. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "enchant",
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Rose Benjamin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "26bcff57-428e-4f30-a153-a778fbfc437d",
@@ -2252,13 +2441,16 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "{T}, Discard a card: Draw a card.\n{1}, {T}, Sacrifice Professor Zei: Return target instant or sorcery card from your graveyard to your hand. Activate only during your turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pauline Voss"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "27baccc0-7e25-4f39-be0d-31cd98ca0dc5",
@@ -2285,12 +2477,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When this enchantment enters, creatures you control get +2/+2 until end of turn.\nWhenever one or more Allies you control deal combat damage to a player, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eduardo Francisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "27c6330d-49f6-4707-b4d4-d1411fa422eb",
@@ -2326,7 +2521,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
@@ -2335,6 +2530,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Dominik Mayer"
     ],
     "source": {
       "type": "scryfall",
@@ -2367,10 +2565,13 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Koh enters, exile up to one other target creature.\nWhenever another nontoken creature dies, you may exile it.\nPay 1 life: Choose a creature card exiled with Koh.\nKoh has all activated and triggered abilities of the last chosen card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eduardo Francisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "28f6fa32-5058-4c29-9ba8-9d8f2057eb6d",
@@ -2397,12 +2598,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this enchantment enters, create a 2/2 red Soldier creature token with firebending 1.\nWhenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tetsuko"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2929b702-03c6-4cf0-a3f7-61b27f4803be",
@@ -2432,7 +2636,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
@@ -2441,6 +2645,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Daniel Romanovsky"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2",
@@ -2469,10 +2676,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, pay 5 life or pay {2}.\nChange the target of target spell or ability with a single target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2b5b14a7-1fdd-4efc-b197-cadfa7f7c860",
@@ -2501,10 +2711,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, pay 5 life or pay {2}.\nChange the target of target spell or ability with a single target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Perci Chen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2c1c0fb2-cb74-46a1-9ce4-5274feab1146",
@@ -2529,11 +2742,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land can't be blocked.\n{T}: Add {C}.\n{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",
     "keywords": [],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "Alexander Forssberg"
     ],
     "source": {
       "type": "scryfall",
@@ -2566,12 +2782,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nWhen this creature enters, put a +1/+1 counter on each of up to two target creatures you control.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Rafater"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2d543d35-945a-4ffa-beb7-7c5d4f894f79",
@@ -2598,7 +2817,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -2606,6 +2825,9 @@
     "oracleText": "When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or greater, that creature gains lifelink until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sija Hong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "2ff0a75c-b679-436f-8150-faaec3ea1df6",
@@ -2638,13 +2860,16 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.",
     "keywords": [
       "prowess",
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Gemi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "308cc687-9cb2-4e3a-98db-c5ba2a7da115",
@@ -2674,7 +2899,7 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -2688,6 +2913,9 @@
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Kohei Hayama"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "30a30bfb-f0f3-425b-b37d-20079ee27046",
@@ -2714,12 +2942,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose target creature. When that creature dies this turn, you earthbend 4. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Maojin Lee"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3343933d-4425-4ede-8d92-876bd0c6df60",
@@ -2752,12 +2983,15 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Other creatures you control get +1/+0.\nWhenever another permanent you control leaves the battlefield during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tky"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "33b97433-e16c-422e-a0ca-f6b1e98d8681",
@@ -2787,13 +3021,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
     "keywords": [
       "earthbend"
     ],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Nathaniel Himawan"
     ],
     "source": {
       "type": "scryfall",
@@ -2827,12 +3064,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When The Earth King enters, create a 4/4 green Bear creature token.\nWhenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brigitte Roka & Clifton Stommel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3687f487-eec1-4979-8008-5c907adafe9d",
@@ -2861,7 +3101,7 @@
     "power": 5,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Waterbend {3}: This creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
     "keywords": [
       "islandcycling",
@@ -2871,6 +3111,9 @@
       "cycling"
     ],
     "produces": [],
+    "illustrators": [
+      "Nathaniel Himawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3938ec1f-979c-48e5-bb13-bebace006a8f",
@@ -2907,10 +3150,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If a triggered ability of an Ally you control triggers, that ability triggers an additional time.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "397ec95c-0af5-4ed3-93a3-39dbc7a74a7b",
@@ -2941,12 +3187,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "When The Spirit Oasis enters, draw a card for each Shrine you control.\nWhenever another Shrine you control enters, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Slawek Fedorczuk"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a1b1329-531c-47ed-9802-c505501f8fd9",
@@ -2973,7 +3222,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nExile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",
@@ -2981,6 +3230,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Hori Airi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3a46deaa-88f7-4eec-aa99-b85073847918",
@@ -3010,7 +3262,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nFirebending X, where X is this creature's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)",
     "keywords": [
       "prowess",
@@ -3018,6 +3270,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Kozato"
     ],
     "source": {
       "type": "scryfall",
@@ -3045,12 +3300,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Exile target creature with mana value 3 or greater.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hristo D. Chukov"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3b4a6804-04f5-4467-bb1c-9466a47bc55f",
@@ -3083,10 +3341,13 @@
     "power": 2,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature attacks, creatures you control get +1/+0 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Rose Benjamin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3da81dbd-dc80-47ff-a33b-270d23a24e0a",
@@ -3121,12 +3382,15 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Suki's power is equal to the number of creatures you control.\nWhenever Suki attacks, create a 1/1 white Ally creature token that's tapped and attacking.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yuhong Ding"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3e311480-04f8-4b8f-938e-1cc6d06b9902",
@@ -3159,12 +3423,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "First strike\nWhenever Master Piandao attacks, look at the top four cards of your library. You may reveal an Ally, Equipment, or Lesson card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
     "keywords": [
       "first strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Brian Yuen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3e4a042c-f2a6-45e7-9444-acd1ca838b87",
@@ -3193,7 +3460,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever you attack a player with one or more creatures with power 4 or greater, draw a card.\nExhaust — {4}: Earthbend 4. Activate only during your turn. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Activate each exhaust ability only once.)",
@@ -3202,6 +3469,9 @@
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Bun Toujo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3e8de6a9-9859-4ed2-8ece-ef80a7209be9",
@@ -3228,7 +3498,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.\nWaterbend {4}: Target creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -3236,6 +3506,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Takeuchi Moto"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3f57e0f9-e232-489c-b991-d0d23f75d8dd",
@@ -3258,7 +3531,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nWhen this land enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
     "keywords": [
       "vigilance",
@@ -3271,6 +3544,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Le Vuong"
     ],
     "source": {
       "type": "scryfall",
@@ -3302,10 +3578,13 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As long as you've drawn two or more cards this turn, this creature has lifelink and menace. (It can't be blocked except by two or more creatures.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Bun Toujo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "3f6e5869-ca25-4b98-a844-8a498cb40aab",
@@ -3339,13 +3618,16 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you sacrifice another permanent, creatures you control get +1/+0 until end of turn.",
     "keywords": [
       "firebending"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Yuumei"
     ],
     "source": {
       "type": "scryfall",
@@ -3375,11 +3657,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Slawek Fedorczuk"
     ],
     "source": {
       "type": "scryfall",
@@ -3409,12 +3694,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Choose one or both —\n• Target creature gets -1/-1 until end of turn.\n• Put a +1/+1 counter on target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Robin Har"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "416b9207-a2af-44d1-9b87-4943f6e46d42",
@@ -3439,7 +3727,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -3450,6 +3738,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Hisashi Momose"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "41ecc1de-353e-4131-b735-d2ce18c9c2d5",
@@ -3479,7 +3770,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
@@ -3488,6 +3779,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas Chamberlain-Keen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "42d83229-0555-4361-8964-4b525c825843",
@@ -3516,10 +3810,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control gets +2/+2 until end of turn. If that creature is an Ally, it also gains flying until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Cinkai"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "43f4b10e-165b-4100-82f3-728e1b0c78ed",
@@ -3552,12 +3849,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhen this creature enters, put a +1/+1 counter on each other Ally creature you control.\nWhenever another Ally you control enters, put a +1/+1 counter on this creature.",
     "keywords": [
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Nathaniel Himawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4533d155-5c56-41a5-9d76-2d1414ac47c9",
@@ -3584,12 +3884,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yuhong Ding"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4661daf6-d960-4278-8946-70948efaf99d",
@@ -3619,10 +3922,13 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, target opponent discards a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Norikatsu Miyoshi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4692610e-d64c-438e-b5ad-0cf67fd57f1f",
@@ -3651,10 +3957,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Counter target spell unless its controller pays {2}.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Nathaniel Himawan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "47c25e41-f43c-4447-81b5-b9631448bd29",
@@ -3684,12 +3993,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever you draw your second card each turn, this creature gets +1/+2 until end of turn and can't be blocked this turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eilene Cherie"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "480b6279-bb34-4b3f-a639-868b52af92b9",
@@ -3716,12 +4028,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose up to one target creature, then airbend all other creatures. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)\nUntil your next turn, your opponents can't cast spells from anywhere other than their hands.\nExile Avatar's Wrath.",
     "keywords": [
       "airbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Ainezu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4811072d-fac0-40dd-a5cf-9694d51b12cf",
@@ -3754,12 +4069,16 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Draw cards equal to the greatest power among creatures you control.\nII — Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Thanh Tuấn",
+      "Thanh Tuấn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4887ce64-7c98-4bd7-95db-0c43ab71cc6e",
@@ -3788,11 +4107,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Maojin Lee"
     ],
     "source": {
       "type": "scryfall",
@@ -3828,13 +4150,16 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "When Sokka enters, discard up to two cards, then draw that many cards.\nWhenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4a1f1472-55b4-450d-8e4d-7297130a0cf3",
@@ -3867,13 +4192,17 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nII — Add one mana of any color.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak",
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4a8bdef0-c50c-4a30-81bc-507a8289a81b",
@@ -3904,12 +4233,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever this creature or another Ally you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tition"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4b5ad895-be8d-476b-91ca-22fad7a3cc58",
@@ -3942,12 +4274,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nOther Allies you control get +1/+1.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Kotakan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316",
@@ -3978,7 +4313,7 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying\nWaterbend {4}: Draw a card, then discard a card. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -3987,6 +4322,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Norikatsu Miyoshi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4d25428d-e5a5-43c4-8544-43120ed1c4d5",
@@ -4015,7 +4353,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Enchant creature you control\nEnchanted creature gets +1/+1 for each creature card in your graveyard and is an Avatar in addition to its other types.\nWhen enchanted creature dies, mill cards equal to its power. Return this card to its owner's hand and up to one creature card milled this way to the battlefield under your control.",
@@ -4024,6 +4362,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Iwamoto05"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4d74da72-8443-4fce-9d64-d2041f6a3292",
@@ -4055,7 +4396,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Flash\nFlying\nWhen Appa enters, airbend any number of other target nonland permanents you control. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)\nWhenever you cast a spell from exile, create a 1/1 white Ally creature token.",
@@ -4065,6 +4406,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Ilse Gort"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4d822fa1-70f9-4a63-841d-31c94e1e3dd4",
@@ -4095,12 +4439,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Waterbend {5}: Look at the top four cards of your library. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Boell Oyino"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4e744b6c-1c2f-451a-818a-5ee7785b5213",
@@ -4130,12 +4477,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "At the beginning of combat on your turn, target creature you control with a +1/+1 counter on it gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nExhaust — {5}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)",
     "keywords": [
       "exhaust"
     ],
     "produces": [],
+    "illustrators": [
+      "Miho Midorikawa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4f442970-5355-4abf-8684-17daaa8e469b",
@@ -4164,7 +4514,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Draw three cards. Then discard a card unless you waterbend {2}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -4172,6 +4522,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Sylvain Sarrailh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4f81e3b5-a0a9-4764-8c2d-b499ce1740b4",
@@ -4203,12 +4556,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever a nonland creature you control dies, earthbend X, where X is that creature's power. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Alexandr Leskinen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "4f88ec3a-44a7-4ae5-a68c-24294dabaeed",
@@ -4231,7 +4587,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "removal"
     ],
@@ -4243,6 +4599,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Salvatorre Zee Yazzie"
     ],
     "source": {
       "type": "scryfall",
@@ -4272,7 +4631,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create two 1/1 white Ally creature tokens.\nII — Search your library for a Mountain or Cave card, reveal it, put it into your hand, then shuffle.\nIII — Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
@@ -4280,6 +4639,9 @@
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Ittoku"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "50bf5c8b-f218-46b7-843c-8d8083f02fd2",
@@ -4306,12 +4668,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "{6}, {T}: Draw a card. This ability costs {1} less to activate for each Island you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Dee Nguyen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "50d0be73-a2c8-44a0-9178-9949f342f6f9",
@@ -4348,10 +4713,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If a triggered ability of an Ally you control triggers, that ability triggers an additional time.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "50f388bf-868c-466b-9a47-2f437336bba4",
@@ -4378,12 +4746,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nThis enchantment enters with X fire counters on it.\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.",
     "keywords": [
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Toshiaki Takayama"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "51352127-1f86-42e9-b4ca-2fd58b14e86b",
@@ -4410,13 +4781,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.\nUntil end of turn, you don't lose unspent red mana as steps and phases end.",
     "keywords": [
       "fight"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Dominik Mayer"
     ],
     "source": {
       "type": "scryfall",
@@ -4447,7 +4821,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Defender\n{T}: Mill a card. You may put a land card milled this way into your hand. You gain 2 life if a Lesson card is milled this way. (Το mill a card, put the top card of your library into your graveyard.)",
@@ -4456,6 +4830,9 @@
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Gemi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "520f5a03-ff5a-43ed-8f15-cf24596d60cd",
@@ -4484,7 +4861,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Earthbend X, where X is the number of Forests you control. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nFlashback {5}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -4493,6 +4870,9 @@
       "flashback"
     ],
     "produces": [],
+    "illustrators": [
+      "Yuu Fujiki"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "52b213d3-6f68-43e6-91e9-435d8fe1f34c",
@@ -4526,13 +4906,16 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —\n• Draw a card.\n• Put a +1/+1 counter on Zuko.\n• Add {R}.\n• Exile Zuko, then return him to the battlefield under an opponent's control.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Toni Infante"
     ],
     "source": {
       "type": "scryfall",
@@ -4560,10 +4943,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control deals damage equal to its power to target creature an opponent controls.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hokyoung Kim"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "52fd910f-6d42-41f5-a4be-f375aa254ea2",
@@ -4592,12 +4978,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, you may waterbend {4}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nAll creatures get -2/-2 until end of turn. If this spell's additional cost was paid, whenever a creature dies this turn, you gain 1 life.",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Yuu Fujiki"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "53161747-c82b-41e8-90ea-7791ea262a85",
@@ -4628,13 +5017,16 @@
     "power": 6,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhen The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.\n{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.\nCrew 2",
     "keywords": [
       "crew",
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Brandon L. Hunt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "54d762f6-e131-480f-b294-10f5a63d9c98",
@@ -4667,12 +5059,15 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature dies, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Dom Lay"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "56d4e0b7-232f-4953-84a3-e6f17781aa45",
@@ -4699,12 +5094,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Lightning Strike deals 3 damage to any target.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jo Cordisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5787b0e0-9469-4a6d-8b81-c992628e28c0",
@@ -4733,7 +5131,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Enchant creature an opponent controls\nWhen this Aura enters, tap enchanted creature and remove all counters from it.\nEnchanted creature loses all abilities and is a Citizen with base power and toughness 1/1 and \"{T}: Add {C}\" named Humble Merchant. (It loses all other creature types and names.)",
@@ -4742,6 +5140,9 @@
     ],
     "produces": [
       "C"
+    ],
+    "illustrators": [
+      "ikeda_cpt"
     ],
     "source": {
       "type": "scryfall",
@@ -4769,13 +5170,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
     "keywords": [
       "earthbend",
       "landfall"
     ],
     "produces": [],
+    "illustrators": [
+      "Logan Feliciano"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "590a58ab-5e98-4031-8aa6-ce396dc1429f",
@@ -4810,7 +5214,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhen Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.\nDuring your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.",
@@ -4819,6 +5223,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Toni Infante"
     ],
     "source": {
       "type": "scryfall",
@@ -4850,10 +5257,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Southern Air Temple enters, put X +1/+1 counters on each creature you control, where X is the number of Shrines you control.\nWhenever another Shrine you control enters, put a +1/+1 counter on each creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Salvatorre Zee Yazzie"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5c172f9b-2184-4736-9f90-74ce08596292",
@@ -4887,7 +5297,7 @@
     "power": 7,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample, firebending 4, haste\nIf you would lose unspent mana, that mana becomes red instead.\nOzai has flying and indestructible as long as you have six or more unspent mana.",
     "keywords": [
       "haste",
@@ -4895,6 +5305,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Dominik Mayer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5c5e8aa5-91d7-49d2-863a-b9db836436fd",
@@ -4923,11 +5336,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Robin Olausson"
     ],
     "source": {
       "type": "scryfall",
@@ -4963,13 +5379,16 @@
     "power": 4,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nLesson spells you cast cost {1} less to cast.",
     "keywords": [
       "firebending"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Kieran Yanner"
     ],
     "source": {
       "type": "scryfall",
@@ -5000,12 +5419,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Deathtouch\nWhenever you sacrifice another permanent, put a +1/+1 counter on this creature.",
     "keywords": [
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Eduardo Francisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5c998994-6c3b-4f34-9b31-babba2b17266",
@@ -5035,7 +5457,7 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on this creature. (To mill three cards, put the top three cards of your library into your graveyard.)",
@@ -5043,6 +5465,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Pablo Rivera"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5ca3fd45-9301-44ef-afc0-4d7999d66d36",
@@ -5075,7 +5500,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add one mana of any color.\n{T}: Add two mana in any combination of colors. Spend this mana only to cast Lesson spells.",
     "keywords": [],
     "produces": [
@@ -5084,6 +5509,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Kozato"
     ],
     "source": {
       "type": "scryfall",
@@ -5114,12 +5542,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Raid — At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on another target creature or Vehicle you control.",
     "keywords": [
       "raid"
     ],
     "produces": [],
+    "illustrators": [
+      "Norikatsu Miyoshi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5daba108-277d-46c8-ac35-7610f4786813",
@@ -5144,12 +5575,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nSearch your library for a basic land card. If this spell was kicked, instead search your library for a basic land card and a Shrine card. Reveal those cards, put them into your hand, then shuffle.\nYou gain 2 life.",
     "keywords": [
       "kicker"
     ],
     "produces": [],
+    "illustrators": [
+      "Kotakan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5e51f727-5a9b-4bc7-83a9-dbcf1c933e15",
@@ -5182,13 +5616,17 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — Scry 2, then draw a card.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Toshiaki Takayama",
+      "Toshiaki Takayama"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5e9a53d3-7f2f-4a9c-9516-0713da740478",
@@ -5219,10 +5657,13 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Andrea Piparo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "5f7e8f5d-c9d6-4f25-af92-f1a6b815f0c1",
@@ -5249,13 +5690,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.\nUntil end of turn, you don't lose unspent red mana as steps and phases end.",
     "keywords": [
       "fight"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Pablo Rivera"
     ],
     "source": {
       "type": "scryfall",
@@ -5283,13 +5727,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Earthbend 2. When you do, up to one target creature you control fights target creature an opponent controls. (To earthbend 2, target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Creatures that fight each deal damage equal to their power to the other.)",
     "keywords": [
       "fight",
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Olena Richards"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "62730505-56f1-4043-a8b9-4fb7bc508b47",
@@ -5319,7 +5766,7 @@
     "power": 3,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Landfall — Whenever a land you control enters, this creature gains flying until end of turn and you gain 1 life.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",
     "keywords": [
       "plainscycling",
@@ -5329,6 +5776,9 @@
       "landfall"
     ],
     "produces": [],
+    "illustrators": [
+      "Mizutametori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "62a983b4-ac73-4949-9317-05a75a8ce164",
@@ -5357,7 +5807,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "This spell costs {1} less to cast if it targets a creature with flying.\nEnchant creature\nEnchanted creature gets -5/-3.",
@@ -5365,6 +5815,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Yoshioka"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6348b6bf-08a7-45f0-8b2d-2827ab89f21c",
@@ -5391,12 +5844,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nThis enchantment enters with X fire counters on it.\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.",
     "keywords": [
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Claudiu-Antoniu Magherusan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "63968c25-23fc-4257-863a-ad42537130d1",
@@ -5427,7 +5883,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "token"
     ],
@@ -5437,6 +5893,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Miho Midorikawa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6436e2d0-989f-47e3-90bc-9cde82a2ddb4",
@@ -5463,13 +5922,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each creature you control gains firebending 5 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}{R}. This mana lasts until end of combat.)\nForetell {2}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Salvatorre Zee Yazzie"
     ],
     "source": {
       "type": "scryfall",
@@ -5501,7 +5963,7 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flash\nWard—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)\nWhenever an opponent draws their second card each turn, you draw two cards.",
@@ -5511,6 +5973,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Antonio José Manzanedo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "66387ea1-af31-4332-bacc-c32fe3260f4b",
@@ -5543,7 +6008,7 @@
     "power": 1,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying\nWhenever one or more creatures you control with flying attack, draw a card, then discard a card. When you discard a nonland card this way, put a +1/+1 counter on target creature you control.",
@@ -5551,6 +6016,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Robin Har"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "66906ed4-baac-4be0-9359-34f453d1a04a",
@@ -5577,13 +6045,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each creature you control gains firebending 5 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}{R}. This mana lasts until end of combat.)\nForetell {2}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Dominik Mayer"
     ],
     "source": {
       "type": "scryfall",
@@ -5613,7 +6084,7 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\n{1}: Put a fire counter on this Vehicle.\nAs long as this Vehicle has three or more fire counters on it, it's an artifact creature.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
@@ -5622,6 +6093,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Matteo Bassini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6829b20d-c2fa-41a6-89ca-f21c522d8866",
@@ -5650,12 +6124,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, you may waterbend {10}.\nYou control target opponent during their next combat phase. If this spell's additional cost was paid, you control that player during their next turn instead. (You see all cards that player could see and make all decisions for them.)\nExile Secret of Bloodbending.",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "682fabaf-bfb0-4ee8-b297-f7436c7a68f2",
@@ -5680,12 +6157,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this Equipment enters, destroy target permanent.\nEquipped creature gets +3/+3.\nEquip {3} ({3}:Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Matteo Bassini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "68b1c746-a4b8-4a45-9f0e-3962f0ae40e3",
@@ -5717,7 +6197,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -5727,6 +6207,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Daniel Romanovsky"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6a2946c0-0a40-4cdb-92c8-af2bafecca09",
@@ -5758,13 +6241,16 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending 3 (Whenever this creature attacks, add {R}{R}{R}. This mana lasts until end of combat.)\n{3}: Exile the top card of your library. You may play that card this turn.",
     "keywords": [
       "firebending"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Nijihayashi"
     ],
     "source": {
       "type": "scryfall",
@@ -5794,12 +6280,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Destroy target attacking creature.\n• Airbend target creature you control. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",
     "keywords": [
       "airbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Kotakan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6b7078e4-2892-4b5f-83ab-90369e0d6dba",
@@ -5824,13 +6313,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped unless you control a basic land.\n{T}: Add {U}.\n{2}{U}, {T}: Draw a card, then discard a card.",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Dom Lay"
     ],
     "source": {
       "type": "scryfall",
@@ -5856,12 +6348,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Lands you control gain all basic land types until end of turn.\nDraw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hisashi Momose"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6c085441-e023-4032-89a0-d24ce5060ac3",
@@ -5888,7 +6383,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nWhen this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.\nWaterbend {3}: Sacrifice this enchantment. If you do, scry 2. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "flash",
@@ -5896,6 +6391,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Brigitte Roka & Clifton Stommel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6cd25a10-1e4e-4f47-8a67-221df4907b26",
@@ -5918,7 +6416,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Untap this artifact during each other player's untap step.\n{T}: Add one mana of any color.",
@@ -5929,6 +6427,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Dee Nguyen"
     ],
     "source": {
       "type": "scryfall",
@@ -5963,7 +6464,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When Hama enters, target opponent mills three cards. Exile up to one noncreature, nonland card from that player's graveyard. For as long as you control Hama, you may cast the exiled card during your turn by waterbending {X} rather than paying its mana cost, where X is its mana value. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -5972,6 +6473,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Le Vuong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "6fa1197d-7b19-4d86-81e2-5c87de87757b",
@@ -6008,12 +6512,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)\nAt the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Eilene Cherie"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "70b6670f-a9fa-4d75-b0a7-c01b5071a514",
@@ -6048,13 +6555,16 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhen Bumi enters, earthbend 4.\nWhenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.",
     "keywords": [
       "trample",
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Brigitte Roka"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7143a5ba-c597-4f8b-9f39-15849e298a6f",
@@ -6084,13 +6594,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\n{1}{R}{R}: Put a +1/+1 counter on this creature.",
     "keywords": [
       "firebending"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Yuu Fujiki"
     ],
     "source": {
       "type": "scryfall",
@@ -6118,7 +6631,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nWhen this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.\nWaterbend {3}: Sacrifice this enchantment. If you do, scry 2. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "flash",
@@ -6126,6 +6639,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Matteo Bassini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "720fbd87-b1c1-4b3b-97a1-46b943b115e3",
@@ -6156,10 +6672,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever another Ally you control enters, put a +1/+1 counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Leanna Crossan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7292e5f2-d5a1-4e39-8f75-eba471819f04",
@@ -6191,13 +6710,16 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nExhaust — {3}: Put a double strike counter on Mai. (Activate each exhaust ability only once.)",
     "keywords": [
       "prowess",
       "exhaust"
     ],
     "produces": [],
+    "illustrators": [
+      "Toraji"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "732e6bc9-0798-4c00-aea0-5ef4298b45f5",
@@ -6228,7 +6750,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "removal"
     ],
@@ -6238,6 +6760,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Airi Yoshihisa"
     ],
     "source": {
       "type": "scryfall",
@@ -6269,12 +6794,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "You may discard a card. If you do, draw two cards.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Shahab Alizadeh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "74ca45a4-97ab-4255-9129-884e8b42b984",
@@ -6307,12 +6835,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "First strike\nWhenever a player casts a noncreature spell, they lose 2 life.",
     "keywords": [
       "first strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Hori Airi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "74dd4c0e-27b8-4c47-b7a6-a281413cd6b4",
@@ -6345,12 +6876,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach\nThis creature gets +1/+0 and has trample as long as you control a land creature or a land entered the battlefield under your control this turn.",
     "keywords": [
       "reach"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas Chamberlain-Keen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "74fca0b8-12e1-405f-b999-160d65fe0ade",
@@ -6379,13 +6913,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this Equipment enters, airbend up to one target creature. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nEquipped creature gets +1/+1 and has flying.\nEquip {2}",
     "keywords": [
       "airbend",
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Eduardo Francisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7517f2eb-a24d-49f6-82bf-08de55d3789a",
@@ -6416,12 +6953,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "{2}{B}: Return this card from your graveyard to your hand.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Boell Oyino"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "752ffa24-93b6-4b33-bf10-7222357ac472",
@@ -6455,13 +6995,17 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Destroy all creatures.\nII — Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak",
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "75fcadb9-2573-4c10-8e61-ecdf72120c53",
@@ -6492,12 +7036,15 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature can't be blocked by creatures with power 2 or less.\nWaterbend {5}: Put a +1/+1 counter on this creature. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Maël Ollivier-Henry"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "78a75317-94f7-47a4-b4da-5a027fa73248",
@@ -6528,7 +7075,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each land and Ally you control has \"{T}: Add one mana of any color.\"",
     "keywords": [],
     "produces": [
@@ -6537,6 +7084,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Shane Beresford"
     ],
     "source": {
       "type": "scryfall",
@@ -6567,7 +7117,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token"
@@ -6577,6 +7127,9 @@
       "surveil"
     ],
     "produces": [],
+    "illustrators": [
+      "Olena Richards"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7ae1439f-a0c4-42c2-a4f3-8851defa981e",
@@ -6606,7 +7159,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Vigilance\nAt the beginning of your upkeep, tap this creature.\nWhenever you draw your second card each turn, untap this creature.",
@@ -6614,6 +7167,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Jinho Bae"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7aef2891-1269-4a1a-acea-0aa37ef544c4",
@@ -6642,11 +7198,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Slawek Fedorczuk"
     ],
     "source": {
       "type": "scryfall",
@@ -6673,7 +7232,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {W} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -6681,6 +7240,9 @@
     "produces": [
       "B",
       "W"
+    ],
+    "illustrators": [
+      "Andreas Rocha"
     ],
     "source": {
       "type": "scryfall",
@@ -6711,7 +7273,7 @@
     "power": 5,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, it deals 1 damage to any target.\nMountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
@@ -6723,6 +7285,9 @@
       "cycling"
     ],
     "produces": [],
+    "illustrators": [
+      "Joseph Weston"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c",
@@ -6754,7 +7319,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Defender\nWhen this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)\nAs long as there is a Lesson card in your graveyard, this creature can attack as though it didn't have defender.",
@@ -6763,6 +7328,9 @@
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Maël Ollivier-Henry"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7ebf742a-3995-4b22-9dc7-b05f57889683",
@@ -6793,7 +7361,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
     "keywords": [
       "flying",
@@ -6801,6 +7369,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Tyler Smith"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7faa3e3d-c08a-4908-85ef-1370d3f90815",
@@ -6829,7 +7400,7 @@
     "power": 4,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, waterbend {5}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nFlying, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this creature enters, scry 2.",
     "keywords": [
       "scry",
@@ -6838,6 +7409,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Mizutametori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "7ffb79cd-d170-4047-89c8-6e85188f30da",
@@ -6864,13 +7438,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
     "keywords": [
       "earthbend",
       "landfall"
     ],
     "produces": [],
+    "illustrators": [
+      "Dominik Mayer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "826b4f26-419a-4d74-8c70-275555092095",
@@ -6902,12 +7479,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, earthbend 1, then earthbend 1. (To earthbend 1, target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever this creature attacks, each opponent loses X life and you gain X life, where X is the number of creatures you control with +1/+1 counters on them.",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "82822ac1-9288-4bac-8afd-83563e693731",
@@ -6947,10 +7527,14 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nFlying\nWhen Aang enters, airbend up to one other target creature or spell. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nWaterbend {8}: Transform Aang.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Tetsuko",
+      "Tetsuko"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4",
@@ -6982,7 +7566,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Flash\nFlying\nWhen Appa enters, airbend any number of other target nonland permanents you control. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)\nWhenever you cast a spell from exile, create a 1/1 white Ally creature token.",
@@ -6992,6 +7576,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Maël Ollivier-Henry"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "829d91e9-4878-4e55-a262-ac0d55b65d4e",
@@ -7024,12 +7611,16 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Draw cards equal to the greatest power among creatures you control.\nII — Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sija Hong",
+      "Sija Hong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "83731884-cd1a-4c12-8b1c-9a1c7b34ef12",
@@ -7064,7 +7655,7 @@
     "power": 3,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Vigilance, reach\nWhen The Lion-Turtle enters, you gain 3 life.\nThe Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.\n{T}: Add one mana of any color.",
@@ -7078,6 +7669,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Yuumei"
     ],
     "source": {
       "type": "scryfall",
@@ -7108,7 +7702,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -7118,6 +7712,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Shiren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8554e862-f78a-42f5-b876-076aac6c9504",
@@ -7154,7 +7751,7 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Firebending 2\nDuring your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)\nDuring your turn, each Lesson card in your graveyard has flashback {1}.",
@@ -7162,6 +7759,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Dalton Pencarinha"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "85af39f5-8207-4fc5-a956-1ee2799ac374",
@@ -7192,12 +7792,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you put one or more +1/+1 counters on a creature, you may gain that much life. Do this only once each turn.",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Alexandr Leskinen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8688fce5-74b1-41e1-a59a-05a3878a75cb",
@@ -7229,10 +7832,13 @@
     "power": 4,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever Combustion Man attacks, destroy target permanent unless its controller has Combustion Man deal damage to them equal to his power.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Pisukev"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "86f7399d-6876-4e85-ba34-ff1f97dc144a",
@@ -7261,11 +7867,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "John Di Giovanni"
     ],
     "source": {
       "type": "scryfall",
@@ -7295,12 +7904,15 @@
     "power": 6,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.\nThis spell costs {1} less to cast for each noncreature, nonland card in your graveyard.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eiji Kaneda"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "87595843-15bc-48bb-8a81-3e6ad924ed44",
@@ -7337,7 +7949,7 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Firebending 2\nDuring your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)\nDuring your turn, each Lesson card in your graveyard has flashback {1}.",
@@ -7345,6 +7957,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Fahmi Fauzi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "879b73d3-4552-4fdc-baee-c4d097ae9a4f",
@@ -7375,12 +7990,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever this creature becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put it on the bottom.)",
     "keywords": [
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Kuno"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "88d5f8fd-d4de-4e64-9b74-e53719ffbcdc",
@@ -7409,11 +8027,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Salvatorre Zee Yazzie"
     ],
     "source": {
       "type": "scryfall",
@@ -7443,7 +8064,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token",
@@ -7452,6 +8073,9 @@
     "oracleText": "Return up to one target permanent card from your graveyard to your hand.\nCreate a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Chibi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8c55b333-dc8b-4332-895b-eec5eb45543f",
@@ -7481,12 +8105,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Whenever this creature attacks, choose target creature an opponent controls. Tap it, then you may sacrifice an artifact or creature. If you do, put a stun counter on the chosen creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ittoku"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "8cabb6ed-5c80-4dab-b96c-9d4d9fe72db7",
@@ -7512,7 +8139,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {G} or {W}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -7520,6 +8147,9 @@
     "produces": [
       "G",
       "W"
+    ],
+    "illustrators": [
+      "Luc Courtois"
     ],
     "source": {
       "type": "scryfall",
@@ -7555,7 +8185,7 @@
     "power": 3,
     "toughness": 6,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Vigilance, reach\nWhen The Lion-Turtle enters, you gain 3 life.\nThe Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.\n{T}: Add one mana of any color.",
@@ -7569,6 +8199,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Filip Burburan"
     ],
     "source": {
       "type": "scryfall",
@@ -7594,7 +8227,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw",
@@ -7603,6 +8236,9 @@
     "oracleText": "Exile target artifact, creature, or enchantment. Its controller creates a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eiji Kaneda"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9090b055-3406-4fed-a8c6-3f6353a9600e",
@@ -7635,7 +8271,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Master Pakku becomes tapped, target player mills X cards, where X is the number of Lesson cards in your graveyard. (They put the top X cards of their library into their graveyard.)",
@@ -7644,6 +8280,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Olena Richards"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "91e30df5-63f7-4281-8d64-8d522d663652",
@@ -7678,10 +8317,13 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Jet enters, he deals damage equal to the number of creatures you control to target creature an opponent controls.\nWhen Jet dies, put a +1/+1 counter on each of up to two target creatures.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Fahmi Fauzi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9202c044-15e4-4218-a94d-16287ba19d69",
@@ -7712,12 +8354,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this creature enters, exile up to one target artifact, creature, or enchantment an opponent controls with mana value 3 or greater until this creature leaves the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Danciao"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9207362c-3605-4794-803f-ad1d0175fcca",
@@ -7750,7 +8395,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -7762,6 +8407,9 @@
       "food"
     ],
     "produces": [],
+    "illustrators": [
+      "Awanqi (Angela Wang)"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9350bf4a-fa12-4867-b31f-1f1394d99571",
@@ -7794,12 +8442,16 @@
     "power": 4,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Starting with you, each player chooses up to one permanent with mana value 3 or greater from among permanents your opponents control. Exile those permanents.\nII — You may have target opponent draw three cards. If you do, draw three cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sija Hong",
+      "Sija Hong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "944ddbe5-45bf-44c3-aad5-b051ec79ae8b",
@@ -7834,7 +8486,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Vigilance\nWhen Katara enters, create a 1/1 white Ally creature token.\nWaterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -7843,6 +8495,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Chun Lo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "95547532-c056-44a5-9d80-4f6b729b6e0c",
@@ -7875,13 +8530,17 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nII — Add one mana of any color.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Song Qijin",
+      "Song Qijin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "95f2f5af-d405-4534-8683-5a9001f997b4",
@@ -7914,12 +8573,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever another Ally you control enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Mitori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9657a0c0-2c26-4331-8e62-f032265a01af",
@@ -7946,7 +8608,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Create a 1/1 white Ally creature token for each Plains you control. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
@@ -7954,6 +8616,9 @@
       "scry"
     ],
     "produces": [],
+    "illustrators": [
+      "Kozato"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "96e2b3d0-f060-4f3c-9d12-a0444b202008",
@@ -7983,7 +8648,7 @@
     "power": 3,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Reach\nWhen this creature enters, you may discard a card. If you do, draw a card.",
@@ -7991,6 +8656,9 @@
       "reach"
     ],
     "produces": [],
+    "illustrators": [
+      "Domco."
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "99244462-a996-4a5b-91fb-947045647d6d",
@@ -8017,12 +8685,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this enchantment enters, airbend up to one target creature.\nWhenever a creature you control enters, put a quest counter on this enchantment.\nAt the beginning of your end step, if this enchantment has four or more quest counters on it, exile up to one target creature you control, then return it to the battlefield under its owner's control.",
     "keywords": [
       "airbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Shiren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "99a90d13-891c-45cc-b1d5-6080ebae5862",
@@ -8055,12 +8726,15 @@
     "power": 3,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nYou may look at the top card of your library any time.\nYou may cast Ally spells from the top of your library.\nSacrifice Hakoda: Creatures you control get +0/+5 and gain indestructible until end of turn.",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Rafater"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9aef3ddb-9bb7-42c8-975b-b1917955a416",
@@ -8089,12 +8763,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, you may waterbend {10}.\nYou control target opponent during their next combat phase. If this spell's additional cost was paid, you control that player during their next turn instead. (You see all cards that player could see and make all decisions for them.)\nExile Secret of Bloodbending.",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Olena Richards"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9bb928ae-f636-4aee-9146-a7885e6a8976",
@@ -8126,12 +8803,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.\nWhen this creature dies, you may exile it. When you do, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alexander Forssberg"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9bfe0f7c-6dac-41d4-a013-109445158a5e",
@@ -8156,11 +8836,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control a basic land.\n{T}: Add {W}.\n{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Dom Lay"
     ],
     "source": {
       "type": "scryfall",
@@ -8192,10 +8875,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Kyoshi Island Plaza enters, search your library for up to X basic land cards, where X is the number of Shrines you control. Put those cards onto the battlefield tapped, then shuffle.\nWhenever another Shrine you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Eilene Cherie"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9c25ea98-9823-4487-bf6b-ee29ce5a4ed8",
@@ -8224,10 +8910,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Untap one or two target creatures. They each get +2/+2 until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mizutametori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9c59f8c5-4063-4e5a-b684-fde175c4a981",
@@ -8254,7 +8943,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Create two 2/2 red Soldier creature tokens with firebending 1. (Whenever a creature with firebending 1 attacks, add {R}. This mana lasts until end of combat.)\nFlashback {8}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -8263,6 +8952,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Claudiu-Antoniu Magherusan"
     ],
     "source": {
       "type": "scryfall",
@@ -8297,13 +8989,16 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —\n• Draw a card.\n• Put a +1/+1 counter on Zuko.\n• Add {R}.\n• Exile Zuko, then return him to the battlefield under an opponent's control.",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Halil Ural"
     ],
     "source": {
       "type": "scryfall",
@@ -8336,7 +9031,7 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.\nWhenever this creature attacks, create a 2/2 red Soldier creature token with firebending 1. (Whenever it attacks, add {R}. This mana lasts until end of combat.)",
@@ -8345,6 +9040,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Norikatsu Miyoshi"
     ],
     "source": {
       "type": "scryfall",
@@ -8377,12 +9075,15 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, earthbend 1, then earthbend 1. (To earthbend 1, target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever this creature attacks, each opponent loses X life and you gain X life, where X is the number of creatures you control with +1/+1 counters on them.",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Eduardo Francisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9ddb8715-341b-400a-b6eb-f3f90518157c",
@@ -8417,7 +9118,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Vigilance\nWhen Katara enters, create a 1/1 white Ally creature token.\nWaterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -8426,6 +9127,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Toraji"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9ec03308-59a2-417a-938f-bdda75080e43",
@@ -8454,13 +9158,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Destroy target artifact or land an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\nDraw a card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kotakan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9fbe94e9-a71d-4a31-9210-c599abe08e3f",
@@ -8487,12 +9194,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nTap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Mitori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "9fd02eb4-1ef5-4a14-89a8-b25e720e8016",
@@ -8525,7 +9235,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When Bumi enters, choose up to X, where X is the number of Lesson cards in your graveyard —\n• Put three +1/+1 counters on Bumi.\n• Target player scries 3.\n• Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
@@ -8533,6 +9243,9 @@
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas Chamberlain-Keen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a268697b-22b0-4e1b-a5b6-d9be95025e57",
@@ -8561,11 +9274,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Maojin Lee"
     ],
     "source": {
       "type": "scryfall",
@@ -8595,11 +9311,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {G}.)",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Maojin Lee"
     ],
     "source": {
       "type": "scryfall",
@@ -8634,12 +9353,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Whenever another creature you control or a land you control is put into a graveyard from the battlefield, put a +1/+1 counter on target creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Robin Har"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a3eb92fe-bc59-4472-9028-f368bd015609",
@@ -8666,12 +9388,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nTap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Claudiu-Antoniu Magherusan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a4cee0c6-8a29-4d08-9b24-c12c45c2309d",
@@ -8704,12 +9429,16 @@
     "power": 4,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Starting with you, each player chooses up to one permanent with mana value 3 or greater from among permanents your opponents control. Exile those permanents.\nII — You may have target opponent draw three cards. If you do, draw three cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Kuno",
+      "Kuno"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a60e8f23-90b2-4bc6-bd54-a95055556389",
@@ -8738,12 +9467,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. Put each of those cards into your hand instead if there are three or more Lesson cards in your graveyard.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Gemi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a6335319-6c92-40d4-ab2d-c06c79049c30",
@@ -8772,10 +9504,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jo Cordisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a7b93c2a-c478-4734-8aca-03f3e9c11b20",
@@ -8805,7 +9540,7 @@
     "power": 5,
     "toughness": 5,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nExhaust — {8}: Put two +1/+1 counters on this creature. It gains trample until end of turn. (Activate each exhaust ability only once.)",
     "keywords": [
       "exhaust",
@@ -8813,6 +9548,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Yuhong Ding"
     ],
     "source": {
       "type": "scryfall",
@@ -8846,12 +9584,15 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When The Earth King enters, create a 4/4 green Bear creature token.\nWhenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ryota Murayama"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a8d5dca6-381a-4361-b265-27de8d04335c",
@@ -8880,13 +9621,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Until end of turn, target creature you control becomes an Avatar in addition to its other types and gains flying, first strike, lifelink, and hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
     "keywords": [
       "lifelink",
       "first strike"
     ],
     "produces": [],
+    "illustrators": [
+      "Shiren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a8f3d2cb-d073-4df8-8769-49612628a377",
@@ -8917,7 +9661,7 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Haste\nWhen this creature enters, create a 1/1 white Ally creature token.",
@@ -8925,6 +9669,9 @@
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "AKAGI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9394200-7ffc-440f-8b5f-c08b7930133c",
@@ -8958,7 +9705,7 @@
     "power": 7,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample, firebending 4, haste\nIf you would lose unspent mana, that mana becomes red instead.\nOzai has flying and indestructible as long as you have six or more unspent mana.",
     "keywords": [
       "haste",
@@ -8966,6 +9713,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Kekai Kotaki"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a98b1550-4609-4a2f-9371-4afe1cdc613e",
@@ -8992,10 +9742,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.\n{2}{W}, Discard this card: It deals damage equal to the number of creatures you control to target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Bun Toujo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9a5f6f7-f04d-477f-b67f-fd01a5dcc0f5",
@@ -9027,13 +9780,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhenever Appa enters or attacks, choose one —\n• Target creature you control gains flying until end of turn.\n• Airbend another target nonland permanent you control. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",
     "keywords": [
       "flying",
       "airbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Tomoyo Asatani"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "a9b2a843-c6fe-4d19-801e-1538e4381ab0",
@@ -9066,7 +9822,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nExhaust — {3}: Put a +1/+1 counter on Jeong Jeong. When you next cast a Lesson spell this turn, copy it and you may choose new targets for the copy. (Activate each exhaust ability only once.)",
     "keywords": [
       "exhaust",
@@ -9074,6 +9830,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Danciao"
     ],
     "source": {
       "type": "scryfall",
@@ -9111,12 +9870,15 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)\nAt the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aaa3e063-472e-445a-8440-dc1910899d81",
@@ -9146,12 +9908,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nCreatures you control with +1/+1 counters on them have trample.",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Matteo Bassini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aabbd420-b7fc-496f-9168-bad823d51d9e",
@@ -9182,13 +9947,16 @@
     "power": 6,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhen The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.\n{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.\nCrew 2",
     "keywords": [
       "crew",
       "trample"
     ],
     "produces": [],
+    "illustrators": [
+      "Ben Hill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aaf7eb99-b60d-44d7-baf5-30508cc8d6b3",
@@ -9214,7 +9982,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {U} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -9222,6 +9990,9 @@
     "produces": [
       "B",
       "U"
+    ],
+    "illustrators": [
+      "Matteo Bassini"
     ],
     "source": {
       "type": "scryfall",
@@ -9249,7 +10020,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nReturn target creature card from your graveyard to your hand. If this spell was kicked, instead put that card onto the battlefield tapped.",
@@ -9257,6 +10028,9 @@
       "kicker"
     ],
     "produces": [],
+    "illustrators": [
+      "Kieran Yanner"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ad8933d6-cdc7-4d60-a78e-b43ffecfb136",
@@ -9289,12 +10063,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThe first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.\nWhenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Filip Burburan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ad9849d4-6608-43e4-8fac-1c16cfa38a9f",
@@ -9320,7 +10097,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {R} or {W}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -9328,6 +10105,9 @@
     "produces": [
       "R",
       "W"
+    ],
+    "illustrators": [
+      "Dom Lay"
     ],
     "source": {
       "type": "scryfall",
@@ -9358,10 +10138,13 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{3}: Until end of turn, this creature has base power 4 and gains trample.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sylvain Sarrailh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "aefcd734-3916-4c77-9d98-3ea2c2795658",
@@ -9390,7 +10173,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "When this Vehicle enters, return up to one other target nonland permanent to its owner's hand.\nExhaust — Waterbend {3}: This Vehicle becomes an artifact creature. Put three +1/+1 counters on it. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Activate each exhaust ability only once.)",
@@ -9399,6 +10182,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Sylvain Sarrailh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "af5299f5-1633-4c07-ade5-fd47e29ea4aa",
@@ -9425,12 +10211,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Razor Rings deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Norikatsu Miyoshi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a",
@@ -9467,10 +10256,13 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "If a triggered ability of an Ally you control triggers, that ability triggers an additional time.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Hisashi Momose"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b0a18f8b-7364-4375-b2e1-e2f15978517f",
@@ -9500,7 +10292,7 @@
     "power": 7,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Reach\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",
     "keywords": [
       "reach",
@@ -9510,6 +10302,9 @@
       "cycling"
     ],
     "produces": [],
+    "illustrators": [
+      "Shiren"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b15f302d-c451-4e79-a5af-75ee3ba4cadf",
@@ -9536,7 +10331,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -9546,6 +10341,9 @@
       "kicker"
     ],
     "produces": [],
+    "illustrators": [
+      "Enishi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b",
@@ -9574,7 +10372,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token",
@@ -9586,6 +10384,9 @@
       "mill"
     ],
     "produces": [],
+    "illustrators": [
+      "Ittoku"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b18995c2-efe3-46ca-8204-e2dc0e42f6e3",
@@ -9620,13 +10421,16 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample\nWhen Bumi enters, earthbend 4.\nWhenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.",
     "keywords": [
       "trample",
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b20a5185-7e31-4fc9-be11-9423bfc389bf",
@@ -9658,10 +10462,13 @@
     "power": 6,
     "toughness": 6,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Koh enters, exile up to one other target creature.\nWhenever another nontoken creature dies, you may exile it.\nPay 1 life: Choose a creature card exiled with Koh.\nKoh has all activated and triggered abilities of the last chosen card.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Antonio José Manzanedo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b3bf2ebe-336a-4b9a-9134-4e3efbcafdd2",
@@ -9688,12 +10495,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one—\n• Destroy target creature with power 4 or greater.\n• Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Robin Har"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b3bf4a25-4329-4318-870a-2b06aa620dc4",
@@ -9725,7 +10535,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, vigilance\nWaterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "flying",
@@ -9733,6 +10543,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b50e8e26-0f3c-4478-8827-dc3245f31d8a",
@@ -9761,7 +10574,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -9771,6 +10584,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Thanh Tuấn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b51d3259-c41c-4f64-9666-0a9e676c812f",
@@ -9797,10 +10613,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Destroy target creature with no counters on it.\n• Remove up to three counters from target creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Sylvain Sarrailh"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b57c57a8-d72b-4c6c-a2db-a7ef61190f42",
@@ -9831,7 +10650,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Flash\nWhen this creature enters, create a 1/1 white Ally creature token.",
@@ -9839,6 +10658,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Yuhong Ding"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b8845bba-d116-43cd-8ae0-e553f3324d66",
@@ -9871,7 +10693,7 @@
     "power": 1,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -9879,6 +10701,9 @@
     "oracleText": "Whenever you cast a noncreature spell, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Le Vuong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b910851e-9332-4c83-a790-d379667cabfc",
@@ -9909,7 +10734,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "token"
     ],
@@ -9919,6 +10744,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Antonio José Manzanedo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b9b12da4-7c5c-4dce-932d-0683bf04df7d",
@@ -9955,7 +10783,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Menace, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nOther Allies you control have menace and prowess.\nWhenever you cast a noncreature spell, create a 1/1 white Ally creature token.",
@@ -9964,6 +10792,9 @@
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Faustine Dumontier"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "b9dc53c3-351e-46da-bce6-ab8c651cb4ea",
@@ -9994,12 +10825,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Haste\nWhenever another Ally you control enters, put a +1/+1 counter on that creature and it gains haste until end of turn.",
     "keywords": [
       "haste"
     ],
     "produces": [],
+    "illustrators": [
+      "Yosuke Adachi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bac81940-d717-49ff-83b2-16a22bb2c988",
@@ -10035,7 +10869,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
@@ -10044,6 +10878,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Fahmi Fauzi"
     ],
     "source": {
       "type": "scryfall",
@@ -10074,7 +10911,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "artifact",
       "token",
@@ -10085,6 +10922,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Vincent Coviello"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bc9b17de-ddb7-4f4c-826d-2f8e0678b680",
@@ -10110,7 +10950,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {W} or {U}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -10118,6 +10958,9 @@
     "produces": [
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Andreas Rocha"
     ],
     "source": {
       "type": "scryfall",
@@ -10143,13 +10986,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control a basic land.\n{T}: Add {G}.\n{2}{G}, {T}: Earthbend 2. Activate only as a sorcery. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Andreas Rocha"
     ],
     "source": {
       "type": "scryfall",
@@ -10180,13 +11026,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
     "keywords": [
       "earthbend"
     ],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "Filip Burburan"
     ],
     "source": {
       "type": "scryfall",
@@ -10216,7 +11065,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -10226,6 +11075,9 @@
       "crew"
     ],
     "produces": [],
+    "illustrators": [
+      "Ben Hill"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "bf9085bd-0ee0-4d8a-8deb-686a87b28c7a",
@@ -10255,7 +11107,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nFirebending X, where X is this creature's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)",
     "keywords": [
       "prowess",
@@ -10263,6 +11115,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Ina Wong"
     ],
     "source": {
       "type": "scryfall",
@@ -10289,7 +11144,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {R} or {G}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -10297,6 +11152,9 @@
     "produces": [
       "G",
       "R"
+    ],
+    "illustrators": [
+      "Andreas Rocha"
     ],
     "source": {
       "type": "scryfall",
@@ -10328,12 +11186,15 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Untap another target permanent you control.\nWaterbend {3}, {T}: Tap target creature an opponent controls. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Rose Benjamin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c2c0c138-5b61-4949-8431-4a6d458ead6a",
@@ -10363,13 +11224,16 @@
     "power": 5,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "draw"
     ],
     "oracleText": "Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card and put a +1/+1 counter on this creature.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Norikatsu Miyoshi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c2eed79f-38c1-4aac-9525-d54cb114f17f",
@@ -10398,11 +11262,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Salvatorre Zee Yazzie"
     ],
     "source": {
       "type": "scryfall",
@@ -10436,12 +11303,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nThe first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.\nWhenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",
     "keywords": [
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Brandon L. Hunt"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "c472ef84-a632-4ad7-853c-60588a7a4b12",
@@ -10466,11 +11336,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This land enters tapped unless you control a basic land.\n{T}: Add {R}.\n{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Awanqi (Angela Wang)"
     ],
     "source": {
       "type": "scryfall",
@@ -10500,12 +11373,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Yoshioka"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cac8ac35-6860-4839-ab85-93d409206c08",
@@ -10537,10 +11413,13 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Lo and Li enter, search your library for a Lesson or Noble card, reveal it, put it into your hand, then shuffle.\nNoble creatures you control and Lesson spells you control have lifelink.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "AKAGI"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cba9260d-ef07-4429-99f9-6004cc1fea0f",
@@ -10566,7 +11445,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "This land enters tapped.\n{T}: Add {G} or {U}.\n{4}, {T}, Sacrifice this land: Draw a card.",
@@ -10574,6 +11453,9 @@
     "produces": [
       "G",
       "U"
+    ],
+    "illustrators": [
+      "Luc Courtois"
     ],
     "source": {
       "type": "scryfall",
@@ -10605,7 +11487,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each land and Ally you control has \"{T}: Add one mana of any color.\"",
     "keywords": [],
     "produces": [
@@ -10614,6 +11496,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Song Qijin"
     ],
     "source": {
       "type": "scryfall",
@@ -10644,11 +11529,14 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "{T}: Add {G}. If you control a creature with power 4 or greater, add {G}{G} instead.",
     "keywords": [],
     "produces": [
       "G"
+    ],
+    "illustrators": [
+      "ikeda_cpt"
     ],
     "source": {
       "type": "scryfall",
@@ -10682,7 +11570,7 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
@@ -10691,6 +11579,9 @@
       "lifelink"
     ],
     "produces": [],
+    "illustrators": [
+      "Airi Yoshihisa"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "cd624be9-e960-4485-a8a9-2d5f2dd51777",
@@ -10727,13 +11618,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending X, where X is Fire Lord Zuko's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)\nWhenever you cast a spell from exile and whenever a permanent you control enters from exile, put a +1/+1 counter on each creature you control.",
     "keywords": [
       "firebending"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Dominik Mayer"
     ],
     "source": {
       "type": "scryfall",
@@ -10763,10 +11657,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it. (It can't be the target of spells or abilities your opponents control.)",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Norikatsu Miyoshi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ce96a826-53a0-4029-bf34-46779d133b13",
@@ -10793,12 +11690,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Each creature with mana value X or less loses all abilities until end of turn. Destroy those creatures.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matteo Bassini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d0e24797-3e45-4c2b-b4b0-1ef44d42eaee",
@@ -10832,7 +11732,7 @@
     "power": 7,
     "toughness": 7,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Trample, firebending 4, haste\nIf you would lose unspent mana, that mana becomes red instead.\nOzai has flying and indestructible as long as you have six or more unspent mana.",
     "keywords": [
       "haste",
@@ -10840,6 +11740,9 @@
       "firebending"
     ],
     "produces": [],
+    "illustrators": [
+      "Sidharth Chaturvedi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d11a45f5-9552-46a5-9f75-008b352c8121",
@@ -10872,12 +11775,15 @@
     "power": 2,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When this creature dies, create a 1/1 white Ally creature token.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Salvatorre Zee Yazzie"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d1af91a5-8681-4a05-910d-96f7a819bfaa",
@@ -10912,7 +11818,7 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "When Iroh enters, create a Food token.\nAt the beginning of combat on your turn, you may have target opponent gain control of target permanent you control. When you do, create a 1/1 white Ally creature token. Put a +1/+1 counter on that token for each permanent you own that your opponents control.",
@@ -10920,6 +11826,9 @@
       "food"
     ],
     "produces": [],
+    "illustrators": [
+      "Brian Yuen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d1f5e10d-0a89-4129-9717-a921f20d3616",
@@ -10950,12 +11859,15 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Vigilance\nSacrifice this creature: Another target Ally you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
     "keywords": [
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Leonardo Borazio"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d263472e-1d75-4cb9-8f7b-986fa22bc841",
@@ -10982,10 +11894,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create X 1/1 white Ally creature tokens, then put a +1/+1 counter on each creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Mengxuan Li"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d347caf8-0c12-401f-9e33-9978cb347f89",
@@ -11012,10 +11927,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Joshua Raphael"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d4605cf7-03bc-4a7f-b50a-49b83b09b54d",
@@ -11045,7 +11963,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Vigilance\nAt the beginning of your upkeep, tap this creature.\nWhenever you draw your second card each turn, untap this creature.",
@@ -11053,6 +11971,9 @@
       "vigilance"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrea Piparo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d47fd63e-ddf0-4d98-8883-9ac883c20691",
@@ -11084,7 +12005,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card.",
@@ -11094,6 +12015,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Andrea Piparo"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d4bf05c4-a924-4006-835e-42f8468ba869",
@@ -11128,12 +12052,15 @@
     "power": null,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "This creature gets +1/+0 for each color among Allies you control.\n{2}{W}{U}{B}{R}{G}: Earthbend 5. (Target land you control becomes a 0/0 creature with haste that's still a land. Put five +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Boell Oyino"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d7a0f2d9-efa4-4a53-a24b-36694457bd1c",
@@ -11165,7 +12092,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact"
     ],
     "oracleText": "Flying\nWhenever this creature attacks, untap target artifact or creature.",
@@ -11173,6 +12100,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Thomas Chamberlain-Keen"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d7df3391-dbe5-4eb4-85c1-037c5f3ea971",
@@ -11213,10 +12143,14 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen Aang enters, look at the top five cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nWhen another creature you control leaves the battlefield, transform Aang at the beginning of the next upkeep.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Brigitte Roka",
+      "Clifton Stommel"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d7f35cd9-71ac-4191-8604-1a653b56c42d",
@@ -11245,11 +12179,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {W}.)",
     "keywords": [],
     "produces": [
       "W"
+    ],
+    "illustrators": [
+      "Maojin Lee"
     ],
     "source": {
       "type": "scryfall",
@@ -11279,7 +12216,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -11287,6 +12224,9 @@
     "oracleText": "When this enchantment enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a permanent during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jocelin Carmes"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "d822b9ad-a787-4355-88c2-07ae2bd3a78e",
@@ -11315,11 +12255,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Grady Frederick"
     ],
     "source": {
       "type": "scryfall",
@@ -11343,7 +12286,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell or activate an ability of an Ally source.\n{5}, {T}: Create a 1/1 white Ally creature token.",
@@ -11355,6 +12298,9 @@
       "R",
       "U",
       "W"
+    ],
+    "illustrators": [
+      "Leanna Crossan"
     ],
     "source": {
       "type": "scryfall",
@@ -11382,10 +12328,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Create X 1/1 white Ally creature tokens, then put a +1/+1 counter on each creature you control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "JungShan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dad8f56c-1bf2-4641-885d-04b885533a3c",
@@ -11420,7 +12369,7 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhen Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.\nDuring your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.",
@@ -11429,6 +12378,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Evyn Fong"
     ],
     "source": {
       "type": "scryfall",
@@ -11458,7 +12410,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -11466,6 +12418,9 @@
     "oracleText": "The owner of target creature or enchantment puts it into their library second from the top or on the bottom. You create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Matteo Bassini"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "db8e88e3-0931-403f-90e7-3c22c0b61dac",
@@ -11494,13 +12449,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.\nEquipped creature gets +1/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip",
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Jo Cordisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dc399ae0-36b5-4c92-9fe2-138caf8d7a86",
@@ -11532,12 +12490,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Ty Lee attacks, you may pay {1}. When you do, target creature can't block this turn.",
     "keywords": [
       "prowess"
     ],
     "produces": [],
+    "illustrators": [
+      "Rose Benjamin"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7",
@@ -11566,11 +12527,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {U}.)",
     "keywords": [],
     "produces": [
       "U"
+    ],
+    "illustrators": [
+      "Slawek Fedorczuk"
     ],
     "source": {
       "type": "scryfall",
@@ -11611,10 +12575,14 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flash\nFlying\nWhen Aang enters, airbend up to one other target creature or spell. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nWaterbend {8}: Transform Aang.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Claudiu-Antoniu Magherusan",
+      "Claudiu-Antoniu Magherusan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "de89fec4-f5c8-4513-8504-ac9bafb44054",
@@ -11639,12 +12607,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Equipped creature has \"{1}, {T}: Tap target creature. Return Trusty Boomerang to its owner's hand.\"\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
     "keywords": [
       "equip"
     ],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "df99a166-6d58-4d92-9037-2fdfbaf65629",
@@ -11676,7 +12647,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card.",
@@ -11686,6 +12657,9 @@
       "flash"
     ],
     "produces": [],
+    "illustrators": [
+      "Ryota Murayama"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e20da6b5-1057-4a28-9e85-07de714e262f",
@@ -11714,7 +12688,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Airbend target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nDraw a card.",
@@ -11722,6 +12696,9 @@
       "airbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Pisukev"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e2bcd0a6-e94d-4a21-a334-a57459c1b8cc",
@@ -11756,7 +12733,7 @@
     "power": 3,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "When Toph enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.\nWhenever you cast a spell, earthbend 1. If that spell is a Lesson, put an additional +1/+1 counter on that land. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)",
@@ -11764,6 +12741,9 @@
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Ruwen Liu"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e3ba3395-39db-4330-9801-53def924f253",
@@ -11790,13 +12770,16 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Each creature you control gains firebending 5 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}{R}. This mana lasts until end of combat.)\nForetell {2}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
     "keywords": [
       "foretell"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "JungShan"
     ],
     "source": {
       "type": "scryfall",
@@ -11830,7 +12813,7 @@
     "power": 3,
     "toughness": 5,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Firebending X, where X is the number of creatures you control. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)\n{5}: Create a 1/1 white Ally creature token.",
@@ -11839,6 +12822,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Boell Oyino"
     ],
     "source": {
       "type": "scryfall",
@@ -11870,7 +12856,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Reach, deathtouch\nWhen this creature dies, if there's a Lesson card in your graveyard, you gain 2 life.",
@@ -11879,6 +12865,9 @@
       "deathtouch"
     ],
     "produces": [],
+    "illustrators": [
+      "Boell Oyino"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e55f1c63-58f6-4e2b-aaeb-f2d5faca47a2",
@@ -11908,7 +12897,7 @@
     "power": null,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token"
     ],
@@ -11918,6 +12907,9 @@
       "defender"
     ],
     "produces": [],
+    "illustrators": [
+      "Mikio Masuda"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e58372cc-9a89-47a4-a0db-df5435e26cd3",
@@ -11944,7 +12936,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.\nWaterbend {4}: Target creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -11952,6 +12944,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Dominik Mayer"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e5f2648f-990d-44d7-a7bf-0db99bdc3015",
@@ -11988,13 +12983,16 @@
     "power": 2,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Firebending X, where X is Fire Lord Zuko's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)\nWhenever you cast a spell from exile and whenever a permanent you control enters from exile, put a +1/+1 counter on each creature you control.",
     "keywords": [
       "firebending"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Jo Cordisco"
     ],
     "source": {
       "type": "scryfall",
@@ -12026,13 +13024,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Exhaust — {6}: Put two +1/+1 counters on this creature, then earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Activate each exhaust ability only once.)",
     "keywords": [
       "exhaust",
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Ittoku"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e64a4a8b-323c-4c8b-92af-1a3295799e65",
@@ -12061,10 +13062,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Alfven Ato"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e7847ba5-e85e-417f-96c0-aef2e6f83994",
@@ -12097,7 +13101,7 @@
     "power": 2,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "At the beginning of your end step, if Katara is tapped, put a +1/+1 counter on her.\nWaterbend {6}: Draw a card. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
@@ -12105,6 +13109,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Mephisto"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e8372167-383f-4302-a8ea-b6bf495c870c",
@@ -12131,7 +13138,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -12139,6 +13146,9 @@
     "oracleText": "When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or greater, that creature gains lifelink until end of turn.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Ichiko Milk Tei"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e837e29c-d241-43c8-8f45-05056e082b60",
@@ -12165,10 +13175,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Bumi Bash deals damage equal to the number of lands you control to target creature.\n• Destroy target land creature or nonbasic land.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Maël Ollivier-Henry"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "e8895479-26cb-4ee8-98ca-6d46c43f0dbd",
@@ -12199,7 +13212,7 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Flying\nThis creature gets +1/+1 as long as there's a Lesson card in your graveyard.",
@@ -12207,6 +13220,9 @@
       "flying"
     ],
     "produces": [],
+    "illustrators": [
+      "Mizutametori"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ea22d29d-3a62-4ae2-91d5-21a678be9b48",
@@ -12247,10 +13263,14 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen Aang enters, look at the top five cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nWhen another creature you control leaves the battlefield, transform Aang at the beginning of the next upkeep.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Toni Infante",
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ea886239-c58f-4291-bd32-ed306ae1d6de",
@@ -12279,11 +13299,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {R}.)",
     "keywords": [],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Lorenzo Lanfranconi"
     ],
     "source": {
       "type": "scryfall",
@@ -12317,12 +13340,15 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Whenever The Boulder attacks, earthbend X, where X is the number of creatures you control with power 4 or greater. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Thanh Tuấn"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ec27a466-5457-44c6-a842-1de7d3788d66",
@@ -12352,12 +13378,15 @@
     "power": 3,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Lifelink\nWhen this creature enters, it deals damage equal to the number of Swamps you control to any target.",
     "keywords": [
       "lifelink"
     ],
     "produces": [],
+    "illustrators": [
+      "Joseph Weston"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ec83a825-79e6-42a4-919c-3bc498ff4433",
@@ -12386,12 +13415,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Choose one —\n• Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.\n• Earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Lius Lasahido"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eca652b8-44f1-4bd9-b4bf-036eeead13aa",
@@ -12420,12 +13452,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Earthbend 4. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "eccd63b3-3a3a-4661-9d6e-fb8152429bdb",
@@ -12457,7 +13492,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying, vigilance\nWaterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
     "keywords": [
       "flying",
@@ -12465,6 +13500,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Yuumei"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ecdac50f-c639-43fc-a03e-d488fac96ae2",
@@ -12491,7 +13529,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Create two 2/2 red Soldier creature tokens with firebending 1. (Whenever a creature with firebending 1 attacks, add {R}. This mana lasts until end of combat.)\nFlashback {8}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -12500,6 +13538,9 @@
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Claudiu-Antoniu Magherusan"
     ],
     "source": {
       "type": "scryfall",
@@ -12530,7 +13571,7 @@
     "power": 4,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -12540,6 +13581,9 @@
       "raid"
     ],
     "produces": [],
+    "illustrators": [
+      "Tubaki Halsame"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ede1bbdb-c726-46e3-aaf1-b8cf2be2c341",
@@ -12568,11 +13612,14 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "({T}: Add {B}.)",
     "keywords": [],
     "produces": [
       "B"
+    ],
+    "illustrators": [
+      "Matteo Bassini"
     ],
     "source": {
       "type": "scryfall",
@@ -12610,7 +13657,7 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Menace, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nOther Allies you control have menace and prowess.\nWhenever you cast a noncreature spell, create a 1/1 white Ally creature token.",
@@ -12619,6 +13666,9 @@
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Robin Har"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f0fa5897-1da7-488f-bb19-1632e969c050",
@@ -12650,13 +13700,16 @@
     "power": 2,
     "toughness": 2,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Menace\nNonbasic lands enter tapped.\n{7}: Put a conqueror counter on Zhao.\nAs long as Zhao has a conqueror counter on him, nonbasic lands are Mountains. (They lose all other land types and abilities and have \"{T}: Add {R}.\")",
     "keywords": [
       "menace"
     ],
     "produces": [
       "R"
+    ],
+    "illustrators": [
+      "Toraji"
     ],
     "source": {
       "type": "scryfall",
@@ -12684,10 +13737,13 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Target creature gets +2/+2 and gains reach until end of turn. Untap it.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Jo Cordisco"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f177e9cc-0c41-417d-9215-5ff23a1a0657",
@@ -12717,7 +13773,7 @@
     "power": 1,
     "toughness": 1,
     "loyalty": null,
-    "references": [
+    "tags": [
       "artifact",
       "token",
       "draw"
@@ -12727,6 +13783,9 @@
       "menace"
     ],
     "produces": [],
+    "illustrators": [
+      "Enishi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f22610e9-6b14-4914-bb67-bd6723bec9aa",
@@ -12755,7 +13814,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than the number of Mountains you control. If you don't cast that card this way, put it into your hand.\nFlashback {6}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
@@ -12763,6 +13822,9 @@
       "flashback"
     ],
     "produces": [],
+    "illustrators": [
+      "Kotakan"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f22ac19f-66fb-4d54-9f09-495a20a29577",
@@ -12795,13 +13857,17 @@
     "power": 4,
     "toughness": 3,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token",
       "draw"
     ],
     "oracleText": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — Scry 2, then draw a card.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Barbara Rosiak",
+      "Barbara Rosiak"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f487686d-2b8a-440f-b2f3-8a07dd95ad93",
@@ -12828,7 +13894,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nExile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",
@@ -12836,6 +13902,9 @@
       "waterbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Sija Hong"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f8f56648-85be-417a-814b-c356df390ba0",
@@ -12864,7 +13933,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "token"
     ],
     "oracleText": "Enchant creature\nEnchanted creature can't attack or block.\n{5}, Sacrifice this Aura: Exile enchanted creature. Create a 1/1 white Ally creature token. Activate only during your turn.",
@@ -12872,6 +13941,9 @@
       "enchant"
     ],
     "produces": [],
+    "illustrators": [
+      "Hokyoung Kim"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "f936d64a-0db4-49c1-8a57-6d99e012a555",
@@ -12904,13 +13976,16 @@
     "power": 1,
     "toughness": 2,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard",
       "draw"
     ],
     "oracleText": "Whenever Gran-Gran becomes tapped, draw a card, then discard a card.\nNoncreature spells you cast cost {1} less to cast as long as there are three or more Lesson cards in your graveyard.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Arou"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fa434b41-e5f7-4989-865a-95db67b05cb1",
@@ -12939,7 +14014,7 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "removal"
     ],
     "oracleText": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nFirebending Lesson deals 2 damage to target creature. If this spell was kicked, it deals 5 damage to that creature instead.",
@@ -12947,6 +14022,9 @@
       "kicker"
     ],
     "produces": [],
+    "illustrators": [
+      "Toni Infante"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fa940e68-010e-4b68-be8a-555d7068f7b4",
@@ -12975,12 +14053,15 @@
     "power": null,
     "toughness": null,
     "loyalty": null,
-    "references": [
+    "tags": [
       "graveyard"
     ],
     "oracleText": "Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Devin Elle Kurtz"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fdcca576-2ef2-44cc-9944-a92bd146444a",
@@ -13024,12 +14105,16 @@
     "power": 4,
     "toughness": 4,
     "loyalty": null,
-    "references": [
+    "tags": [
       "draw"
     ],
     "oracleText": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Fahmi Fauzi",
+      "Fahmi Fauzi"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8",
@@ -13070,10 +14155,14 @@
     "power": 3,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "Flying\nWhen Aang enters, look at the top five cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nWhen another creature you control leaves the battlefield, transform Aang at the beginning of the next upkeep.",
     "keywords": [],
     "produces": [],
+    "illustrators": [
+      "Evan Shipard",
+      "Evan Shipard"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "fea89ca0-8070-4f28-9851-994314f9d248",
@@ -13106,12 +14195,15 @@
     "power": null,
     "toughness": 3,
     "loyalty": null,
-    "references": [],
+    "tags": [],
     "oracleText": "When Toph enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nToph's power is equal to the number of +1/+1 counters on lands you control.",
     "keywords": [
       "earthbend"
     ],
     "produces": [],
+    "illustrators": [
+      "Yueko"
+    ],
     "source": {
       "type": "scryfall",
       "originalId": "ff68fa7b-8065-407b-a8b4-bfbb14f1c99c",
