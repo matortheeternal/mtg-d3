@@ -19,7 +19,7 @@ if (!SET_CODE) {
     process.exit(1);
 }
 
-const refTests = {
+const tagTests = {
     graveyard: /\bgraveyard\b/i,
     '+1/+1 counter': /\b\+1\/\+1 counters?\b/i,
     artifact: /\bartifact\b/i,
@@ -83,8 +83,8 @@ const dataToExport = cards.filter(card => {
         toughness: card.pts.map(pt => pt.toughness)[0] || null,
         loyalty: card.loyalty,
 
-        // references
-        references: Object.entries(refTests).map(([key, value]) => {
+        // tags
+        tags: Object.entries(tagTests).map(([key, value]) => {
             if (card.rulesTexts.some(rt => value.test(rt))) return key;
         }).filter(Boolean),
 
@@ -92,6 +92,9 @@ const dataToExport = cards.filter(card => {
         oracleText: card.rulesTexts[0],
         keywords: card.keywords,
         produces: card.produces,
+
+        // Misc
+        illustrators: card.artists,
 
         // Provenance
         source: {

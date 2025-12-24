@@ -1,5 +1,5 @@
 import { createNestedTreemap } from './visualizations/nestedTreemap.js';
-import { Rarity, SimpleColorIdentity, SubType, Type } from './cardProperties.js';
+import { Rarity, SimpleColorIdentity, CombinedSubType, Type } from './cardProperties.js';
 import { createCirclePacking } from './visualizations/circlePacking.js';
 import { createZoomableSunburst } from './visualizations/zoomableSunburst.js';
 
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const sunburst = createZoomableSunburst(data, [
                 SimpleColorIdentity,
                 Type,
-                SubType
+                CombinedSubType
             ]);
             chartsDiv.appendChild(sunburst);
             const sunburst2 = createZoomableSunburst(data, [
