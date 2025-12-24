@@ -1,17 +1,10 @@
 import { createNestedTreemap } from './visualizations/nestedTreemap.js';
-import {
-    Rarity,
-    SimpleColorIdentity,
-    CombinedSubType,
-    Type,
-    SuperType,
-    Power,
-    Toughness,
-    Keywords,
-    CMC, Permanent, CreatureRace, CreatureClass, WordCount, Tags, Illustrator, PipCount
-} from './cardProperties.js';
 import { createCirclePacking } from './visualizations/circlePacking.js';
 import { createZoomableSunburst } from './visualizations/zoomableSunburst.js';
+import properties from './properties/index.js';
+
+const availableProperties = Object.values(properties);
+const { SimpleColorIdentity, Rarity, Type, CombinedSubType } = properties;
 
 async function loadSets(setSelect) {
     try {
@@ -46,25 +39,6 @@ const chartTypes = {
         maxProperties: 3
     }
 };
-
-const availableProperties = [
-    SimpleColorIdentity,
-    CMC,
-    Rarity,
-    Type,
-    CombinedSubType,
-    Permanent,
-    Keywords,
-    Tags,
-    CreatureRace,
-    CreatureClass,
-    SuperType,
-    PipCount,
-    Power,
-    Toughness,
-    WordCount,
-    Illustrator,
-];
 
 const chartPresets = [{
     label: 'Custom',
@@ -116,50 +90,45 @@ function loadProperties(propertySelect) {
     });
 }
 
+function getSelectedProperties(selectedChartType) {
+    return ['property1Select', 'property2Select', 'property3Select']
+        .map((str, index) => {
+            const select = document.getElementById(str);
+            const useProperty = (select.value !== '')
+                && (index !== 2 || selectedChartType.maxProperties < 3);
+            return useProperty
+                ? availableProperties[select.value]
+                : null;
+        }).filter(Boolean);
+}
+
+function resolveSelectedChart(selectedPreset) {
+    if (!selectedPreset?.isCustom) return { ...selectedPreset };
+
+    const chartTypeSelect = document.getElementById('chartTypeSelect');
+    if (!chartTypeSelect.value) return [];
+
+    const selectedChartType = chartTypes[chartTypeSelect.value];
+    const properties = getSelectedProperties(selectedChartType);
+    if (!properties.length) return [];
+
+    return {
+        chartTypeFunc: selectedChartType.chartType,
+        properties
+    };
+}
+
 async function createChart() {
     const setSelect = document.getElementById('setSelect');
     const chartSelect = document.getElementById('chartSelect');
-    const selectedSet = setSelect.value;
-    const selectedChartIndex = chartSelect.value;
     const chartsDiv = document.getElementById('charts');
 
-    if (!selectedSet || selectedChartIndex === '') {
-        chartsDiv.innerHTML = '';
-        return;
-    }
-
-    const selectedPreset = chartPresets[selectedChartIndex];
-
-    let chartTypeFunc, properties;
-
-    if (selectedPreset.isCustom) {
-        const chartTypeSelect = document.getElementById('chartTypeSelect');
-        const property1Select = document.getElementById('property1Select');
-        const property2Select = document.getElementById('property2Select');
-        const property3Select = document.getElementById('property3Select');
-
-        if (!chartTypeSelect.value || !property1Select.value) {
-            chartsDiv.innerHTML = '';
-            return;
-        }
-
-        const selectedChartType = chartTypes[chartTypeSelect.value];
-        chartTypeFunc = selectedChartType.chartType;
-
-        properties = [availableProperties[property1Select.value]];
-        if (property2Select.value !== '') {
-            properties.push(availableProperties[property2Select.value]);
-        }
-        if (property3Select.value !== '' && selectedChartType.maxProperties >= 3) {
-            properties.push(availableProperties[property3Select.value]);
-        }
-    } else {
-        chartTypeFunc = selectedPreset.chartType;
-        properties = selectedPreset.properties;
-    }
+    const selectedPreset = chartPresets[chartSelect.value];
+    const { chartTypeFunc, properties } = resolveSelectedChart(selectedPreset);
+    if (!chartTypeFunc || !setSelect.value) return;
 
     try {
-        const response = await fetch(`/sets/${selectedSet}.json`);
+        const response = await fetch(`/sets/${setSelect.value}.json`);
         const data = await response.json();
 
         chartsDiv.innerHTML = '';

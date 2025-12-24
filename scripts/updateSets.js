@@ -31,7 +31,10 @@ const tagTests = {
     }
 };
 
-const knownSuperTypes = ['Basic', 'World', 'Legendary', 'Ongoing', 'Snow', 'Kindred', 'Tribal'];
+const knownSuperTypes = [
+    'Basic', 'World', 'Legendary', 'Ongoing',
+    'Snow', 'Kindred', 'Tribal'
+];
 
 function groupTypes(card) {
     const superTypes = [], types = [], subTypes = [];
