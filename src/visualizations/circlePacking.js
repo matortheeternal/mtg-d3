@@ -1,5 +1,6 @@
 import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
+import { addGradients } from '../addGradient.js';
 
 /**
  * Creates a circle packing visualization.
@@ -25,6 +26,8 @@ export function createCirclePacking(data, properties, width = 1200, height = 800
         .attr('viewBox', `0 0 ${width} ${height}`)
         .attr('width', '100%')
         .attr('height', '100%');
+
+    addGradients(svg, root);
 
     const nodes = svg.selectAll('g')
         .data(root.descendants())

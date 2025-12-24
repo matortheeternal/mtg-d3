@@ -1,5 +1,6 @@
 import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
+import { addGradients } from '../addGradient.js';
 
 export function createZoomableSunburst(data, levels, width = 1200, height = 1200) {
     const hierarchyData = createHierarchy(data, levels);
@@ -31,13 +32,15 @@ export function createZoomableSunburst(data, levels, width = 1200, height = 1200
         .attr("viewBox", [-width / 2, -height / 2, width, width])
         .style("font", "10px sans-serif");
 
+    addGradients(svg, root);
+
     // Append the arcs.
     const path = svg.append("g")
         .selectAll("path")
         .data(root.descendants().slice(1))
         .join("path")
         .attr("fill", d => {
-            while (d.depth > 1) d = d.parent;
+            while (d.depth > 1 && !d.data.style?.fill) d = d.parent;
             return d.data.style?.fill || color(d.data.name);
         })
         .attr("fill-opacity", d => {
@@ -73,7 +76,7 @@ export function createZoomableSunburst(data, levels, width = 1200, height = 1200
         .attr('font-size', '14px')
         .attr("dy", "0.35em")
         .attr("fill", d => {
-            while (d.depth > 1) d = d.parent;
+            while (d.depth > 1 && !d.data.style?.color) d = d.parent;
             return d.data.style?.color || '#000';
         })
         .attr("fill-opacity", d => {

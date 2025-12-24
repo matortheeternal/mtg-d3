@@ -1,5 +1,5 @@
 import { createNestedTreemap } from './visualizations/nestedTreemap.js';
-import { SimpleColorIdentity, SubType, Type } from './cardProperties.js';
+import { Rarity, SimpleColorIdentity, SubType, Type } from './cardProperties.js';
 import { createCirclePacking } from './visualizations/circlePacking.js';
 import { createZoomableSunburst } from './visualizations/zoomableSunburst.js';
 
@@ -30,16 +30,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 Type
             ]);
             chartsDiv.appendChild(circlePacking);
-            try {
-                const sunburst = createZoomableSunburst(data, [
-                    SimpleColorIdentity,
-                    Type,
-                    SubType
-                ]);
-                chartsDiv.appendChild(sunburst);
-            } catch (e) {
-                console.error(e);
-            }
+            const sunburst = createZoomableSunburst(data, [
+                SimpleColorIdentity,
+                Type,
+                SubType
+            ]);
+            chartsDiv.appendChild(sunburst);
+            const sunburst2 = createZoomableSunburst(data, [
+                Rarity,
+                Type,
+                SimpleColorIdentity
+            ]);
+            chartsDiv.appendChild(sunburst2);
         } catch (error) {
             console.error('Error loading set data:', error);
             chartsDiv.innerHTML = `<p>Error loading visualization:<br>${error}</p>`;

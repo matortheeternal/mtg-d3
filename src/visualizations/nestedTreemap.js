@@ -1,5 +1,6 @@
 import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
+import { addGradients } from '../addGradient.js';
 
 export function createNestedTreemap(data, levels, width = 1200, height = 800) {
     const hierarchy = createHierarchy(data, levels);
@@ -26,6 +27,8 @@ export function createNestedTreemap(data, levels, width = 1200, height = 800) {
         .attr('height', height)
         .attr('viewBox', [0, 0, width, height])
         .style('font', '10px sans-serif');
+
+    addGradients(svg, root);
 
     // 1. Draw Parent Groups FIRST (Background)
     const parents = svg.selectAll('g.parent')

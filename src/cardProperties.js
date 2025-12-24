@@ -16,6 +16,13 @@ const colorStyles = {
     Green: { fill: '#00733E', color: '#FFF' },
 };
 
+const rarityStyles = {
+    common: { g1: 'black', g2: 'black', g3: 'black', g4: 'black', color: '#FFF' },
+    uncommon: { g1: '#6c7d8f', g2: '#c0d6e5', g3: '#c0d6e5', g4: '#9ab4c8', color: '#000' },
+    rare: { g1: '#876c13', g2: '#f6e8a3', g3: '#f6e8a3', g4: '#d7bf55', color: '#000' },
+    mythic: { g1: '#b02929', g2: '#ffb347', g3: '#ffb347', g4: '#ff8a00', color: '#000' }
+};
+
 const typePriority = [
     'Planeswalker',
     'Creature',
@@ -41,10 +48,7 @@ export const SimpleColorIdentity = {
 export const Type = {
     key: 'Type',
     getValue(card) {
-        const res = typePriority.find(t => card.types.includes(t));
-        if (card.colorIdentity.length === 1 && card.colorIdentity.includes('U'))
-            console.log(card.name, card.colorIdentity, card.types, res);
-        return res;
+        return typePriority.find((t) => card.types.includes(t));
     }
 };
 
@@ -54,3 +58,23 @@ export const SubType = {
         return card.subTypes.join(' ');
     }
 };
+
+export const Rarity = {
+    key: 'Rarity',
+    getValue: card => card.rarity,
+    style(value) {
+        const s = rarityStyles[value] || rarityStyles.common;
+        return {
+            fill: `url(#grad-rarity-${value})`,
+            color: s.color,
+            isGradient: true,
+            stops: [
+                { offset: '0%', color: s.g1 },
+                { offset: '45%', color: s.g2 },
+                { offset: '55%', color: s.g3 },
+                { offset: '100%', color: s.g4 }
+            ]
+        };
+    }
+};
+
