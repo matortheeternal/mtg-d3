@@ -1,0 +1,8857 @@
+[
+  {
+    "id": "isd-60",
+    "name": "Invisible Stalker",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nThis creature can't be blocked.",
+    "keywords": [
+      "hexproof"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0013620d-8e17-4246-86bf-71eafd51b806",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-199",
+    "name": "Parallel Lives",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "01033dae-fec1-41f2-b7f2-cc6a43331790",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-33",
+    "name": "Smite the Monstrous",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target creature with power 4 or greater.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0103f3b1-88c2-4cbf-a67c-49420f92970f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-58",
+    "name": "Grasp of Phantoms",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Put target creature on top of its owner's library.\nFlashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "02655d3d-82d0-4be6-bb64-25e1478edfc3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-159",
+    "name": "Reckless Waif // Merciless Predator",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "028aeebc-4073-4595-94da-02f9f96ea148",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-180",
+    "name": "Full Moon's Rise",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Werewolf creatures you control get +1/+0 and have trample.\nSacrifice this enchantment: Regenerate all Werewolf creatures you control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "02a35eac-b962-466e-a4da-a4010c68ef16",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-161",
+    "name": "Rolling Temblor",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Rolling Temblor deals 2 damage to each creature without flying.\nFlashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "060ce982-94dd-4b9e-b240-15da297e29f9",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-4",
+    "name": "Avacynian Priest",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}, {T}: Tap target non-Human creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "08a47828-a79a-4189-9eef-2a5fc5125b61",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-117",
+    "name": "Skirsdag High Priest",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Morbid — {T}, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate only if a creature died this turn.",
+    "keywords": [
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "09aa6b66-f69b-4f89-b802-e30c247f90e3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-31",
+    "name": "Silverchase Fox",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Fox"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{1}{W}, Sacrifice this creature: Exile target enchantment.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0a81bfab-3397-4562-8b82-5f24cef167e3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-169",
+    "name": "Ambush Viper",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Snake"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flash\nDeathtouch",
+    "keywords": [
+      "flash",
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0c082aa8-bf7f-47f2-baf8-43ad253fd7d7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-98",
+    "name": "Disciple of Griselbrand",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0c4acaa1-7d99-41ce-81ce-f6aef3e4dc1d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-19",
+    "name": "Intangible Virtue",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creature tokens you control get +1/+1 and have vigilance.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0dd21f5e-d284-4072-87b9-7f0e6140fe60",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-231",
+    "name": "Runechanter's Pike",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.\nEquip {2}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0f54e38b-b4a0-4406-a635-7a5ab3722f25",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-136",
+    "name": "Curse of Stalked Prey",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura",
+      "Curse"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant player\nWhenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "11a18883-8990-40a0-bcb2-e01d0e82bfad",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-51",
+    "name": "Delver of Secrets // Insectile Aberration",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard",
+      "Human",
+      "Insect"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "11bf83bb-c95b-4b4f-9a56-ce7a1816307a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-187",
+    "name": "Hamlet Captain",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks or blocks, other Humans you control get +1/+1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1203ae4f-4d69-490f-8a7c-dadbefa6d697",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-45",
+    "name": "Battleground Geist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nOther Spirit creatures you control get +1/+0.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "129905ef-5b3b-4860-923c-109a7d7cad80",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-90",
+    "name": "Bloodline Keeper // Lord of Lineage",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Vampire"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Flying\n{T}: Create a 2/2 black Vampire creature token with flying.\n{B}: Transform this creature. Activate only if you control five or more Vampires.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "13896468-e3d0-4bcb-b09e-b5c187aecb03",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-104",
+    "name": "Heartless Summoning",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creature spells you cast cost {2} less to cast.\nCreatures you control get -1/-1.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "14f8f638-b7fc-4e38-8623-ce7d2ebc82e6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-16",
+    "name": "Gallows Warden",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nOther Spirit creatures you control get +0/+1.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "15947b20-8c8e-42ed-9599-8b180a382d21",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-37",
+    "name": "Thraben Purebloods",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dog"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "16db28f4-3d96-42f5-a264-592fdc2d4196",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-263",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "16f52885-1f01-4f06-90a8-1a0ecf291ab5",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-94",
+    "name": "Curse of Death's Hold",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura",
+      "Curse"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant player\nCreatures enchanted player controls get -1/-1.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1774d0a8-1cd3-4582-ace0-1caff92af0e7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-259",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "17de9f2c-e051-404c-8ec0-c35f500efd67",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-225",
+    "name": "Graveyard Shovel",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "{2}, {T}: Target player exiles a card from their graveyard. If it's a creature card, you gain 2 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1a4b8888-a10c-48b1-ba19-c041e5667b29",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-121",
+    "name": "Unbreathing Horde",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "This creature enters with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.\nIf this creature would be dealt damage, prevent that damage and remove a +1/+1 counter from it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1a91ea47-0c06-4333-a309-ac360c5cc9bd",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-144",
+    "name": "Geistflame",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "Geistflame deals 1 damage to any target.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1b856f31-ac80-4338-95a5-3f8acda74cfe",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-32",
+    "name": "Slayer of the Wicked",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you may destroy target Vampire, Werewolf, or Zombie.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1c2cd68e-ff4c-49c7-ba0d-f2299d9c21f4",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-240",
+    "name": "Ghost Quarter",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{T}, Sacrifice this land: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1c6456ed-0ffb-4d22-b252-5775076030ce",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-244",
+    "name": "Moorland Haunt",
+    "colors": [],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "{T}: Add {C}.\n{W}{U}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1d5569e3-278c-4cf3-860e-712010333fe6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-63",
+    "name": "Lost in the Mist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target spell. Return target permanent to its owner's hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1e5fc39d-590a-436b-ab90-a1741d2ae3da",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-235",
+    "name": "Trepanation Blade",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Whenever equipped creature attacks, defending player reveals cards from the top of their library until they reveal a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into their graveyard.\nEquip {2}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2182be77-9186-4d16-a070-9577d4392999",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-3",
+    "name": "Angelic Overseer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Angel"
+    ],
+    "rarity": "mythic",
+    "power": 5,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nAs long as you control a Human, this creature has hexproof and indestructible.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "221d999c-dde1-4a0f-87cf-9e9f44969f94",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-197",
+    "name": "Naturalize",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Destroy target artifact or enchantment.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "236f1a8c-13ab-4ab3-b11f-082054d297e5",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-155",
+    "name": "Past in Flames",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "23af6033-4930-48e4-821d-14cbbe1754b4",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-219",
+    "name": "Cobbled Wings",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature has flying.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "24abd762-e533-491a-97b6-aed40c214e9d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-176",
+    "name": "Daybreak Ranger // Nightfall Predator",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Archer",
+      "Ranger",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{T}: This creature deals 2 damage to target creature with flying.\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "25b54a1d-e201-453b-9173-b04e06ee6fb7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-87",
+    "name": "Army of the Damned",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 8,
+    "manaCost": "{5}{B}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Create thirteen tapped 2/2 black Zombie creature tokens.\nFlashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "260a4544-a1eb-4d07-943f-0401ae288e13",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-66",
+    "name": "Memory's Journey",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Target player shuffles up to three target cards from their graveyard into their library.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "265aaa73-1a1e-4282-a860-f7c422f21db3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-29",
+    "name": "Rebuke",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target attacking creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "267185ac-a176-423e-a7f8-ee966d1d9a1e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-122",
+    "name": "Unburial Rites",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Return target creature card from your graveyard to the battlefield.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2794c82b-e5ce-4369-894e-bf56c6402ae1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-107",
+    "name": "Markov Patrician",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+    "keywords": [
+      "lifelink"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "29c3d3f7-5e28-4fec-8422-87856fcd1e8e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-93",
+    "name": "Corpse Lunge",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nCorpse Lunge deals damage equal to the exiled card's power to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2a74b987-527a-4560-a018-19d6bdf7e8b7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-145",
+    "name": "Hanweir Watchkeep // Bane of Hanweir",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2b14ed17-1a35-4c49-ac46-3cad42d46c14",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-101",
+    "name": "Ghoulcaller's Chant",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Choose one —\n• Return target creature card from your graveyard to your hand.\n• Return two target Zombie cards from your graveyard to your hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2b8c1b10-2155-404a-8f20-eb8f643849d6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-139",
+    "name": "Desperate Ravings",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "draw"
+    ],
+    "oracleText": "Draw two cards, then discard a card at random.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2ba3ab3e-d16c-492f-a860-6d8efcadf679",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-20",
+    "name": "Mausoleum Guard",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Scout"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, create two 1/1 white Spirit creature tokens with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2c7b19de-96a6-4590-bfc3-31b0c7b2e25e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-255",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2e19f6dd-9eed-4656-b8c7-e64b61446d7f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-227",
+    "name": "Inquisitor's Flail",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "If equipped creature would deal combat damage, it deals double that damage instead.\nIf another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.\nEquip {2}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3014f59d-9012-473a-8bb1-8085c6e91632",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-210",
+    "name": "Woodland Sleuth",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Scout"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Morbid — When this creature enters, if a creature died this turn, return a creature card at random from your graveyard to your hand.",
+    "keywords": [
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3088a924-58c6-4ab7-baf0-842d6688fcec",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-179",
+    "name": "Festerhide Boar",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Boar"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Trample\nMorbid — This creature enters with two +1/+1 counters on it if a creature died this turn.",
+    "keywords": [
+      "trample",
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "31740fe9-27d2-416e-93de-509ac1a7b7cd",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-151",
+    "name": "Kessig Wolf",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wolf"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}{R}: This creature gains first strike until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3255480b-c1cf-43d9-a40e-43e38112bb18",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-177",
+    "name": "Elder of Laurels",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Advisor"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "32b82ef0-c974-4357-b21a-4c2a28ec7279",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-213",
+    "name": "Geist of Saint Traft",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{U}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit",
+      "Cleric"
+    ],
+    "rarity": "mythic",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+    "keywords": [
+      "hexproof"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "35b57113-b39a-460b-b4aa-02606b40bbd0",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-205",
+    "name": "Splinterfright",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Trample\nSplinterfright's power and toughness are each equal to the number of creature cards in your graveyard.\nAt the beginning of your upkeep, mill two cards. (Put the top two cards of your library into your graveyard.)",
+    "keywords": [
+      "trample",
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "37068a41-bc5c-44b9-a307-5d3919794233",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-57",
+    "name": "Frightful Delusion",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target spell unless its controller pays {1}. That player discards a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "38c9ba98-90b4-4c28-9eef-a4fe0913b921",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-260",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3a200286-67f3-4bff-8a53-3e76733414fa",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-212",
+    "name": "Evil Twin",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{U}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Shapeshifter"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "You may have this creature enter as a copy of any creature on the battlefield, except it has \"{U}{B}, {T}: Destroy target creature with the same name as this creature.\"",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3a53487a-c00b-42da-904c-f022a0c5b1ed",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-109",
+    "name": "Moan of the Unhallowed",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Create two 2/2 black Zombie creature tokens.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3e2c5a8f-c03a-40ab-8390-ff6b5b654717",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-135",
+    "name": "Crossway Vampire",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, target creature can't block this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3e7a137f-e19e-43a6-aab8-02b175c9d626",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-26",
+    "name": "Paraselene",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "406380ab-2695-4084-99a5-f5560304f8cb",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-91",
+    "name": "Brain Weevil",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Insect"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nSacrifice this creature: Target player discards two cards. Activate only as a sorcery.",
+    "keywords": [
+      "intimidate"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "40e1bd88-939a-4adc-8693-210a7ba9a5a1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-183",
+    "name": "Gnaw to the Bone",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "You gain 2 life for each creature card in your graveyard.\nFlashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "416148c8-13d3-46d3-ac93-6eb7cbab2881",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-202",
+    "name": "Somberwald Spider",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spider"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Reach (This creature can block creatures with flying.)\nMorbid — This creature enters with two +1/+1 counters on it if a creature died this turn.",
+    "keywords": [
+      "reach",
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "43003ad7-2f42-4c85-8b00-77cbf3f50a7b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-10",
+    "name": "Divine Reckoning",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Each player chooses a creature they control. Destroy the rest.\nFlashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "446ea3a4-206a-4097-87c1-c04bb7812972",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-120",
+    "name": "Typhoid Rats",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Rat"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "keywords": [
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4490ce65-c73a-4809-abd1-ccc3175bd2a4",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-77",
+    "name": "Skaab Ruinator",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Horror"
+    ],
+    "rarity": "mythic",
+    "power": 5,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "As an additional cost to cast this spell, exile three creature cards from your graveyard.\nFlying\nYou may cast this card from your graveyard.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "44c40cdc-a11a-47df-b902-d8fbe9014d03",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-74",
+    "name": "Sensory Deprivation",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature gets -3/-0.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "454739db-a3d6-45e8-849a-287438c36627",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-123",
+    "name": "Vampire Interloper",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Scout"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nThis creature can't block.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "48105c2e-ee36-4117-b56b-3440298da995",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-254",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "48b51501-d3b3-480f-9bcb-e66420c4db06",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-39",
+    "name": "Unruly Mob",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another creature you control dies, put a +1/+1 counter on this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "491c6e40-151a-4efd-980c-e6b6a1057c58",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-190",
+    "name": "Kindercatch",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6,
+    "manaCost": "{3}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "common",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4954e8a3-e72b-4f28-8762-2b1c658c31b6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-248",
+    "name": "Sulfur Falls",
+    "colors": [],
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R}.",
+    "keywords": [],
+    "produces": [
+      "R",
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4968b65d-50e5-4d7e-b78b-cdada1cbf7a7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-137",
+    "name": "Curse of the Nightly Hunt",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura",
+      "Curse"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant player\nCreatures enchanted player controls attack each combat if able.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "49cbfcf2-462e-4bbf-a529-a70816eb1436",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-243",
+    "name": "Kessig Wolf Run",
+    "colors": [],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4a8447fe-7368-470a-911a-1083ec6cc831",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-158",
+    "name": "Rakish Heir",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4afab3a6-95e3-4786-94f2-d9aa7365a4de",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-185",
+    "name": "Grizzled Outcasts // Krallenhorde Wantons",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4b43b0cb-a5a3-47b4-9b6b-9d2638222bb6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-232",
+    "name": "Sharpened Pitchfork",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature has first strike.\nAs long as equipped creature is a Human, it gets +1/+1.\nEquip {1}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4ce20f19-a159-40e6-bb67-6108872ac1e0",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-146",
+    "name": "Harvest Pyre",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "As an additional cost to cast this spell, exile X cards from your graveyard.\nHarvest Pyre deals X damage to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4d6220b4-a5b8-45c8-9422-fab9eb32322c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-86",
+    "name": "Altar's Reap",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nDraw two cards.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4dc2eec4-7e68-45d5-8736-6b32a47c671b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-264",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4dea3762-c6ae-4304-aee4-6c3f56685319",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-216",
+    "name": "Blazing Torch",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 1,
+    "manaCost": "{1}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Equipped creature can't be blocked by Vampires or Zombies.\nEquipped creature has \"{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to any target.\"\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4e14fc60-f300-40f0-b712-4e339dc27929",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-97",
+    "name": "Diregraf Ghoul",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature enters tapped.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4ed5790a-3354-49c2-89b6-3fc0de8dcc7c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-229",
+    "name": "Mask of Avacyn",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {3}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4ff1acce-bed4-452c-8416-06726004f2e8",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-111",
+    "name": "Night Terrors",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player reveals their hand. You choose a nonland card from it. Exile that card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5091658c-0314-42ee-87d8-95d3f457c4ab",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-130",
+    "name": "Blasphemous Act",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 9,
+    "manaCost": "{8}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This spell costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "509ce648-fb76-486d-8b39-183e368b7cb7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-28",
+    "name": "Rally the Peasants",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "R",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Creatures you control get +2/+0 until end of turn.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "514fe7de-16b2-42c0-adb1-f0af1c89cfd6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-40",
+    "name": "Urgent Exorcism",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target Spirit or enchantment.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "516a437c-a2ee-43c6-876c-1a63a455c97c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-196",
+    "name": "Mulch",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "52a1dabd-82df-4814-9d64-bf7bf9c1018d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-102",
+    "name": "Ghoulraiser",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "When this creature enters, return a Zombie card at random from your graveyard to your hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "52c537d1-2d57-4a87-9dac-594d40d95633",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-236",
+    "name": "Witchbane Orb",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "When this artifact enters, destroy all Curses attached to you.\nYou have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "53e0bf16-62f5-4b62-96e8-bc7e049bcf89",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-83",
+    "name": "Think Twice",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "draw"
+    ],
+    "oracleText": "Draw a card.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "53e44060-a9a2-4095-9f5b-f60297525315",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-72",
+    "name": "Runic Repetition",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Return target exiled card with flashback you own to your hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "53e47ba6-3a55-41b4-b8fe-580041669408",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-103",
+    "name": "Gruesome Deformity",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5696db03-206f-4e7e-9b65-ccef31bfd7d2",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-195",
+    "name": "Moonmist",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.)",
+    "keywords": [
+      "transform"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "57153c3f-9e55-418c-b67b-36901f29f9c1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-182",
+    "name": "Gatstaf Shepherd // Gatstaf Howler",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "At the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "57f0907f-74f4-4d86-93df-f2e50c9d0b2f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-38",
+    "name": "Thraben Sentry // Thraben Militia",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier",
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Vigilance\nWhenever another creature you control dies, you may transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "58ae9cbc-d88d-42df-ab76-63ab5d05c023",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-85",
+    "name": "Abattoir Ghoul",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "First strike\nWhenever a creature dealt damage by this creature this turn dies, you gain life equal to that creature's toughness.",
+    "keywords": [
+      "first strike"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "59cf0906-04fa-4b30-a7a6-3d117931154f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-30",
+    "name": "Selfless Cathar",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}{W}, Sacrifice this creature: Creatures you control get +1/+1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5a1dc067-1972-4d46-ad5d-56e6a563f638",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-59",
+    "name": "Hysterical Blindness",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creatures your opponents control get -4/-0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5aeaa757-e3b0-4606-a689-e8a20a686c3a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-92",
+    "name": "Bump in the Night",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Target opponent loses 3 life.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5c3ec389-a267-484f-994d-4a29ef494eb1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-115",
+    "name": "Sever the Bloodline",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "Exile target creature and all other creatures with the same name as that creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5c6da820-dfb9-4b61-aff8-56dfc9f4894e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-150",
+    "name": "Into the Maw of Hell",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Destroy target land. Into the Maw of Hell deals 13 damage to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5d188d9b-7a12-4eaf-855b-af4f0204dc5a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-230",
+    "name": "One-Eyed Scarecrow",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Scarecrow"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\nCreatures with flying your opponents control get -1/-0.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5d495d85-6458-44d5-b3b4-5e09569057e3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-17",
+    "name": "Geist-Honored Monk",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Monk"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Vigilance\nGeist-Honored Monk's power and toughness are each equal to the number of creatures you control.\nWhen this creature enters, create two 1/1 white Spirit creature tokens with flying.",
+    "keywords": [
+      "vigilance"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5d51355e-55fa-43bb-a5de-fc55ac7b6446",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-53",
+    "name": "Dissipate",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5d778082-bcdb-423a-b16f-57ac0d4dace7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-99",
+    "name": "Endless Ranks of the Dead",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your upkeep, create X 2/2 black Zombie creature tokens, where X is half the number of Zombies you control, rounded down.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5db15c5f-80b7-4f7f-985a-9bbec3199ad9",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-172",
+    "name": "Bramblecrush",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target noncreature permanent.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "60fa219e-5dba-4d49-9cae-40d254f140e4",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-165",
+    "name": "Tormented Pariah // Rampaging Werewolf",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6151cae7-92a4-4891-a952-21def412d3e4",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-11",
+    "name": "Doomed Traveler",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature dies, create a 1/1 white Spirit creature token with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "652c3bbb-cac8-47ad-81de-41e954e17a29",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-249",
+    "name": "Woodland Cemetery",
+    "colors": [],
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "67139101-ec5e-434b-be3a-21338cc33840",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-25",
+    "name": "Nevermore",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As this enchantment enters, choose a nonland card name.\nSpells with the chosen name can't be cast.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "67b610fe-36ee-4d58-8ed4-04e7a12587b2",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-131",
+    "name": "Bloodcrazed Neonate",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature attacks each combat if able.\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "68d2452e-309d-44ae-9360-9d6e22a15e2b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-132",
+    "name": "Brimstone Volley",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Brimstone Volley deals 3 damage to any target.\nMorbid — Brimstone Volley deals 5 damage instead if a creature died this turn.",
+    "keywords": [
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6960f2da-6b84-4680-8ab2-f0567a5d1b0a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-228",
+    "name": "Manor Gargoyle",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 5,
+    "manaCost": "{5}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Gargoyle"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\nThis creature has indestructible as long as it has defender.\n{1}: Until end of turn, this creature loses defender and gains flying.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6bb40965-9096-4a19-b71d-4da2a5b36baa",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-191",
+    "name": "Lumberknot",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Treefolk"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever a creature dies, put a +1/+1 counter on this creature.",
+    "keywords": [
+      "hexproof"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6c86c84e-9bab-4a2c-b594-7f7b4b6bba88",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-188",
+    "name": "Hollowhenge Scavenger",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Morbid — When this creature enters, if a creature died this turn, you gain 5 life.",
+    "keywords": [
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6c9ff632-0e27-4521-9e9d-5725e618f5dd",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-138",
+    "name": "Curse of the Pierced Heart",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura",
+      "Curse"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant player\nAt the beginning of enchanted player's upkeep, this Aura deals 1 damage to that player or a planeswalker that player controls.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "71010182-c004-4d18-adab-80319cd1e625",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-84",
+    "name": "Undead Alchemist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "If a Zombie you control would deal combat damage to a player, instead that player mills that many cards.\nWhenever a creature card is put into an opponent's graveyard from their library, exile that card and create a 2/2 black Zombie creature token.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "717f4592-6c81-43ac-8975-f6d5d6710310",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-241",
+    "name": "Hinterland Harbor",
+    "colors": [],
+    "colorIdentity": [
+      "G",
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you control a Forest or an Island.\n{T}: Add {G} or {U}.",
+    "keywords": [],
+    "produces": [
+      "G",
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "72f15306-56fe-4643-bb4c-4c7c12378d01",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-171",
+    "name": "Boneyard Wurm",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wurm"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "75f3d9eb-462c-41b5-ad1a-baab7dc5eac3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-211",
+    "name": "Wreath of Geists",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7604e22e-1f29-4a8f-b887-b18f43e3745e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-220",
+    "name": "Creepy Doll",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 5,
+    "manaCost": "{5}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Construct"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Indestructible\nWhenever this creature deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.",
+    "keywords": [
+      "indestructible"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "762a598b-8753-47ec-9dd6-2c3d8882fda6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-142",
+    "name": "Feral Ridgewolf",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wolf"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Trample\n{1}{R}: This creature gets +2/+0 until end of turn.",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "78c66cc0-cb0f-4daf-8141-0923ad46a834",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-7",
+    "name": "Chapel Geist",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "790cdf67-80d6-4ade-aecf-f77120b509b0",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-96",
+    "name": "Dead Weight",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature gets -2/-2.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7933987e-7b8c-4d5a-804a-708d6bb6d231",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-47",
+    "name": "Civilized Scholar // Homicidal Brute",
+    "colors": [
+      "U",
+      "R"
+    ],
+    "colorIdentity": [
+      "R",
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Advisor",
+      "Human",
+      "Mutant"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap this creature, then transform it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7bf864db-4754-433d-9d77-6695f78f6c09",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-76",
+    "name": "Skaab Goliath",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Giant"
+    ],
+    "rarity": "uncommon",
+    "power": 6,
+    "toughness": 9,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "As an additional cost to cast this spell, exile two creature cards from your graveyard.\nTrample",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7c1134a5-5434-4733-812b-3587b1817813",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-27",
+    "name": "Purify the Grave",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "Exile target card from a graveyard.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7cf39365-e468-46ac-bb5b-7f43faa19458",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-81",
+    "name": "Stitcher's Apprentice",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Homunculus"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "{1}{U}, {T}: Create a 2/2 blue Homunculus creature token, then sacrifice a creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7e0fcc53-cd0b-4b4c-b6de-5d301232106a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-237",
+    "name": "Wooden Stake",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +1/+0.\nWhenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7e2825f5-8112-4108-910a-4303b2d57356",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-170",
+    "name": "Avacyn's Pilgrim",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Monk"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {W}.",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-61",
+    "name": "Laboratory Maniac",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "If you would draw a card while your library has no cards in it, you win the game instead.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "809205f3-acf5-4244-b360-09ce4ba76795",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-166",
+    "name": "Traitorous Blood",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8220f18a-f23f-4fe6-bb58-58b6c5f36c79",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-208",
+    "name": "Ulvenwald Mystics // Ulvenwald Primordials",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8325c570-4d74-4e65-891c-3e153abf4bf9",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-14",
+    "name": "Feeling of Dread",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Tap up to two target creatures.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "846a2f9e-ad4f-4666-b152-fdeab7559d86",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-224",
+    "name": "Ghoulcaller's Bell",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 1,
+    "manaCost": "{1}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Each player mills a card.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "863e7c2a-698c-4dce-a10b-ca58e4affa57",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-56",
+    "name": "Fortress Crab",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Crab"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "87ca16d4-089f-42a7-a648-55301a77faea",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-114",
+    "name": "Screeching Bat // Stalking Vampire",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Bat",
+      "Vampire"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nAt the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "88db324f-11f1-43d3-a897-f4e3caf8d642",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-46",
+    "name": "Cackling Counterpart",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "Create a token that's a copy of target creature you control.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8a2a2b93-94dc-4285-a6fd-455a796426bc",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-184",
+    "name": "Grave Bramble",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Plant"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender, protection from Zombies",
+    "keywords": [
+      "protection",
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8be1d4d2-5215-44b2-9b67-627d088efdb5",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-257",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8d37e23b-7898-4b5d-b088-d4e54947f579",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-2",
+    "name": "Angel of Flight Alabaster",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Angel"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Flying\nAt the beginning of your upkeep, return target Spirit card from your graveyard to your hand.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8dfe629f-485c-4619-9713-32d2ae406e63",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-126",
+    "name": "Walking Corpse",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8e033384-3334-4082-9541-f2443d3bc424",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-128",
+    "name": "Ashmouth Hound",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental",
+      "Dog"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature blocks or becomes blocked by a creature, this creature deals 1 damage to that creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "900ff07e-e5d2-4fe6-ad1a-d0d7e1a272ea",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-108",
+    "name": "Maw of the Mire",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target land. You gain 4 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "90b34a03-3270-412c-90ca-03c1b3e61222",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-218",
+    "name": "Cellar Door",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "{3}, {T}: Target player puts the bottom card of their library into their graveyard. If it's a creature card, you create a 2/2 black Zombie creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "97bdfb00-7773-4af6-895c-c90088a96b07",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-173",
+    "name": "Caravan Vigil",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nMorbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.",
+    "keywords": [
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9a8dfb98-a975-41bf-8aac-c0001c9ddaa7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-164",
+    "name": "Stromkirk Noble",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Noble"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature can't be blocked by Humans.\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9c16cf74-f9e0-4d80-9a29-b91dec0b6b38",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-78",
+    "name": "Snapcaster Mage",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Flash\nWhen this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flash"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9e5b279e-4670-4a1e-87d0-3cab7e4f9e58",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-75",
+    "name": "Silent Departure",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Return target creature to its owner's hand.\nFlashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a18dea16-d535-4310-94ff-836645253d73",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-69",
+    "name": "Moon Heron",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit",
+      "Bird"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a24de601-1d7b-41c4-aba1-fdb6fd8d5251",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-246",
+    "name": "Shimmering Grotto",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "C",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a48e7a7a-574f-4850-9697-8cb276a5812c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-52",
+    "name": "Deranged Assistant",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a4c03171-5ff0-4f79-bb03-16decf7d34ce",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-125",
+    "name": "Village Cannibals",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another Human creature dies, put a +1/+1 counter on this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a5400460-da9d-437b-bb81-cf382beb371e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-256",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a5a14894-2936-4fc4-b6a5-f9c73c32b177",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-234",
+    "name": "Traveler's Amulet",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 1,
+    "manaCost": "{1}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "{1}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a5b0afa7-e9f9-4751-af36-d85343fabc26",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-214",
+    "name": "Grimgrin, Corpse-Born",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{B}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Warrior"
+    ],
+    "rarity": "mythic",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Grimgrin enters tapped and doesn't untap during your untap step.\nSacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.\nWhenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a8648734-ed6c-471f-91a1-6b710bbaf370",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-134",
+    "name": "Charmbreaker Devils",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Devil"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.\nWhenever you cast an instant or sorcery spell, this creature gets +4/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a9197a67-6609-496c-9aae-825ede4f755b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-186",
+    "name": "Gutter Grime",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Whenever a nontoken creature you control dies, put a slime counter on this enchantment, then create a green Ooze creature token with \"This token's power and toughness are each equal to the number of slime counters on Gutter Grime.\"",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a9d007a2-163d-4e09-a70b-280a6fa3203b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-221",
+    "name": "Demonmail Hauberk",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +4/+2.\nEquip—Sacrifice a creature.",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aa33caa8-2a07-4f6c-a6c2-d21cf2d61193",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-198",
+    "name": "Orchard Spirit",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature can't be blocked except by creatures with flying or reach.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aac43ced-35b0-4e70-a049-1a65db9b2b1e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-71",
+    "name": "Rooftop Storm",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ab01d871-ba50-400a-95e7-09af9e34405f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-67",
+    "name": "Mindshrieker",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit",
+      "Bird"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{2}: Target player mills a card. This creature gets +X/+X until end of turn, where X is the milled card's mana value.",
+    "keywords": [
+      "flying",
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ab1e52af-6746-4ec6-afbf-008594c874f8",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-105",
+    "name": "Liliana of the Veil",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Liliana"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 3,
+    "references": [],
+    "oracleText": "+1: Each player discards a card.\n−2: Target player sacrifices a creature.\n−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ac506c17-adc8-49c6-9d8d-43db7cb1ec9d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-80",
+    "name": "Stitched Drake",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Drake"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nFlying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ad81266a-488f-449a-9daf-637727564865",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-73",
+    "name": "Selhoff Occultist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature or another creature dies, target player mills a card.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aeac4885-bd04-42bd-8e10-06c3efbce108",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-129",
+    "name": "Balefire Dragon",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 7,
+    "manaCost": "{5}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "mythic",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever this creature deals combat damage to a player, it deals that much damage to each creature that player controls.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b0dce4ac-f472-4f3b-b01a-eff0902a578f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-68",
+    "name": "Mirror-Mad Phantasm",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "mythic",
+    "power": 5,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Flying\n{1}{U}: This creature's owner shuffles it into their library. If that player does, they reveal cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into their graveyard.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b20eea41-9daf-4ac1-8bad-bb4aa211bb53",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-49",
+    "name": "Curiosity",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Enchant creature\nWhenever enchanted creature deals damage to an opponent, you may draw a card.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b212c36a-6d1f-4217-b384-1c2b0e07b68a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-242",
+    "name": "Isolated Chapel",
+    "colors": [],
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b3c1a371-5ded-4a3a-bf96-503c4f1a665d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-148",
+    "name": "Infernal Plunge",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nAdd {R}{R}{R}.",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b3f50e17-c29c-4d2c-b3e7-45d1216b81ea",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-181",
+    "name": "Garruk Relentless // Garruk, the Veil-Cursed",
+    "colors": [
+      "G",
+      "B"
+    ],
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [
+      "Legendary",
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker",
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Garruk",
+      "Garruk"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 3,
+    "references": [
+      "graveyard",
+      "token",
+      "removal"
+    ],
+    "oracleText": "When Garruk has two or fewer loyalty counters on him, transform him.\n0: Garruk deals 3 damage to target creature. That creature deals damage equal to its power to him.\n0: Create a 2/2 green Wolf creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b4160322-ff40-41a4-887a-73cd6b85ae45",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-35",
+    "name": "Spectral Rider",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit",
+      "Knight"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+    "keywords": [
+      "intimidate"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b47e4e56-8bde-480d-b59c-17a017665b19",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-44",
+    "name": "Back from the Brink",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "Exile a creature card from your graveyard and pay its mana cost: Create a token that's a copy of that card. Activate only as a sorcery.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b4bba140-5c06-4542-9ae0-b2517104ab7c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-62",
+    "name": "Lantern Spirit",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{U}: Return this creature to its owner's hand.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b50a5772-f411-458a-97f9-9f3967bb79c5",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-154",
+    "name": "Nightbird's Clutches",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Up to two target creatures can't block this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b5c7410d-b69b-41a3-b469-e12c6ffc7578",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-239",
+    "name": "Gavony Township",
+    "colors": [],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b5f73443-2fe8-424f-8e71-fc7ce1f3a3eb",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-262",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b606f644-1728-4cb3-90ed-121838875de1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-252",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b75ca372-c110-4321-b497-8841547f3c2b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-200",
+    "name": "Prey Upon",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+    "keywords": [
+      "fight"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b7b3eaf0-4207-4bac-923d-29f348c95a35",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-48",
+    "name": "Claustrophobia",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b7e5f600-4d19-42a4-b57e-650c76041798",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-174",
+    "name": "Creeping Renaissance",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b965069d-8513-41ab-98f6-3fbd46c19e2d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-116",
+    "name": "Skeletal Grimace",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +1/+1 and has \"{B}: Regenerate this creature.\"",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b9b28f37-d6b8-4d35-95e9-9533aea0a071",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-141",
+    "name": "Falkenrath Marauders",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Warrior"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nWhenever this creature deals combat damage to a player, put two +1/+1 counters on it.",
+    "keywords": [
+      "flying",
+      "haste"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b9c09887-6d2b-48b4-a483-16b8a45babd0",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-24",
+    "name": "Moment of Heroism",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ba8d15bc-889d-4fd0-9688-00e22db30036",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-149",
+    "name": "Instigator Gang // Wildblood Pack",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Attacking creatures you control get +1/+0.\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bb90a6f1-c7f2-4c2e-ab1e-59c5c7937841",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-21",
+    "name": "Mentor of the Meek",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bd8f179a-f6ab-4d4c-8195-ed077a7770d3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-1",
+    "name": "Abbey Griffin",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Griffin"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying, vigilance",
+    "keywords": [
+      "flying",
+      "vigilance"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bf87803b-e7c6-4122-add4-72e596167b7e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-95",
+    "name": "Curse of Oblivion",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura",
+      "Curse"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Enchant player\nAt the beginning of enchanted player's upkeep, that player exiles two cards from their graveyard.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c15cbd2f-8bbf-423a-81fe-521fd99bc8bf",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-12",
+    "name": "Elder Cathar",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c21b9e51-fecd-4f9a-9354-a6dc1613feb3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-113",
+    "name": "Rotting Fensnake",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Snake"
+    ],
+    "rarity": "common",
+    "power": 5,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c21cbb10-9157-4887-a752-29b9e94fc77a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-23",
+    "name": "Mikaeus, the Lunarch",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{W}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Mikaeus enters with X +1/+1 counters on it.\n{T}: Put a +1/+1 counter on Mikaeus.\n{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c22dc283-ea54-4344-b1ca-fd6cc05080d9",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-18",
+    "name": "Ghostly Possession",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature has flying.\nPrevent all combat damage that would be dealt to and dealt by enchanted creature.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c3f048d9-ca13-485d-ad92-de4695b7dc18",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-82",
+    "name": "Sturmgeist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Flying\nSturmgeist's power and toughness are each equal to the number of cards in your hand.\nWhenever this creature deals combat damage to a player, draw a card.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c409d1d0-fc45-40bf-adac-83b680209a38",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-207",
+    "name": "Tree of Redemption",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Plant"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": 13,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\n{T}: Exchange your life total with this creature's toughness.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c6110bba-5c2d-4183-9dd0-d85a4cc42753",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-50",
+    "name": "Curse of the Bloody Tome",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura",
+      "Curse"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant player\nAt the beginning of enchanted player's upkeep, that player mills two cards.",
+    "keywords": [
+      "enchant",
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c7865e11-263b-4d61-af54-907c1acbb54f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-140",
+    "name": "Devil's Play",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "Devil's Play deals X damage to any target.\nFlashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c80596a4-b464-4b9e-8186-94a1c44838eb",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-201",
+    "name": "Ranger's Guile",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c90742ae-c48b-4d32-a6b7-aa51a94018bd",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-13",
+    "name": "Elite Inquisitor",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies",
+    "keywords": [
+      "vigilance",
+      "first strike",
+      "protection"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c9411c44-92a8-4f5d-b3de-d80046649c8c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-41",
+    "name": "Village Bell-Ringer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Scout"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, untap all creatures you control.",
+    "keywords": [
+      "flash"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cb6912b3-bab9-4937-afdd-3711e6d792a0",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-247",
+    "name": "Stensia Bloodhall",
+    "colors": [],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{T}: Add {C}.\n{3}{B}{R}, {T}: This land deals 2 damage to target player or planeswalker.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cc2741d8-2c02-4acd-8ca2-55b4bf6aef1c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-5",
+    "name": "Bonds of Faith",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cc8d1ce0-78c5-4e97-9cca-33e7b6ff3440",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-204",
+    "name": "Spidery Grasp",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ccbdfd82-d025-4070-a1f5-4ee759978bcb",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-160",
+    "name": "Riot Devils",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Devil"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cd35107b-6aaf-4fd8-bf1c-12b724d1482e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-168",
+    "name": "Village Ironsmith // Ironfang",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cd5435d0-789f-4c42-8efc-165c072404a2",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-43",
+    "name": "Armored Skaab",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, mill four cards.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ce4d00f2-30e6-41d5-b997-c66350fe783c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-253",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cf258641-b73c-4813-8a23-da47cf79eca5",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-88",
+    "name": "Bitterheart Witch",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Deathtouch\nWhen this creature dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle.",
+    "keywords": [
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cf2ff2b4-8f40-42c0-af3c-b55bfa8839be",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-223",
+    "name": "Geistcatcher's Rig",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 6,
+    "manaCost": "{6}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Construct"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "When this creature enters, you may have it deal 4 damage to target creature with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cfb8ecf0-8c12-4a14-9a75-4cc5bf9e47f1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-9",
+    "name": "Dearly Departed",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Flying\nAs long as this creature is in your graveyard, each Human creature you control enters with an additional +1/+1 counter on it.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d008061f-cda4-4bcf-b6b3-d1b4a251cc66",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-34",
+    "name": "Spare from Evil",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creatures you control gain protection from non-Human creatures until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d01b5d97-b5ae-42a7-944a-feb12febd63c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-192",
+    "name": "Make a Wish",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Return two cards at random from your graveyard to your hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d0a8508d-25a7-4fb2-8aa3-349275f80c42",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-222",
+    "name": "Galvanic Juggernaut",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Juggernaut"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature attacks each combat if able.\nThis creature doesn't untap during your untap step.\nWhenever another creature dies, untap this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d14bc109-d5d5-4777-90e4-bef26d106571",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-261",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d2075dfe-b48c-46e3-bde1-f9f8e3b9d928",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-42",
+    "name": "Voiceless Spirit",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying, first strike",
+    "keywords": [
+      "flying",
+      "first strike"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d24d9bd7-5721-4436-a86f-35e376727f46",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-226",
+    "name": "Grimoire of the Dead",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.\n{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d268d078-b854-47c1-bc7f-7698723405a2",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-147",
+    "name": "Heretic's Punishment",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{3}{R}: Choose any target, then mill three cards. This enchantment deals damage to that permanent or player equal to the greatest mana value among the milled cards.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d2c9e963-bb0c-4490-8238-9476b924abf7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-156",
+    "name": "Pitchburn Devils",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Devil"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "When this creature dies, it deals 3 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d31d3de5-4028-457f-8eba-82e829061a40",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-250",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d595ba72-3334-48f4-9ea9-a43f5e824aa8",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-54",
+    "name": "Dream Twist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Target player mills three cards.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback",
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d5dd8790-bfdf-427d-8e8d-a5c3a64a3063",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-118",
+    "name": "Stromkirk Patrol",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d86634a1-7016-4500-8857-924d51857bad",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-65",
+    "name": "Makeshift Mauler",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Horror"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "As an additional cost to cast this spell, exile a creature card from your graveyard.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d869de57-9454-47ff-af14-eaefd387047a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-193",
+    "name": "Mayor of Avabruck // Howlpack Alpha",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Advisor",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Other Human creatures you control get +1/+1.\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dd8ca448-f734-4cb9-b1d5-790eed9a4b2d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-167",
+    "name": "Vampiric Fury",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Vampire creatures you control get +2/+0 and gain first strike until end of turn. (They deal combat damage before creatures without first strike.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "de4fd254-0ae9-498d-b9da-4fb3d6a1a55c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-178",
+    "name": "Essence of the Wild",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6,
+    "manaCost": "{3}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Avatar"
+    ],
+    "rarity": "mythic",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creatures you control enter as a copy of this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dec48cba-1b5d-44e7-9e25-16922dedb67d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-162",
+    "name": "Scourge of Geier Reach",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature gets +1/+1 for each creature your opponents control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e0c25932-96e7-4ae5-b544-8780f92d0be7",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-217",
+    "name": "Butcher's Cleaver",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +3/+0.\nAs long as equipped creature is a Human, it has lifelink.\nEquip {3}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e141fe62-515e-4fe4-b032-81f169ec58d6",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-100",
+    "name": "Falkenrath Noble",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Noble"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e2286f94-4cf9-4462-b5d7-cee7f6910018",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-153",
+    "name": "Night Revelers",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature has haste as long as an opponent controls a Human.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e3f82c5c-77fa-45f3-a91e-4c2489444855",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-209",
+    "name": "Villagers of Estwald // Howlpack of Estwald",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e42a0a3d-a987-4b24-b9d4-27380a12e093",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-127",
+    "name": "Ancient Grudge",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "artifact"
+    ],
+    "oracleText": "Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e5e7b966-7c5b-44e6-a6df-4bd7af4edaa9",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-163",
+    "name": "Skirsdag Cultist",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{R}, {T}, Sacrifice a creature: This creature deals 2 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e63fa0de-2ec3-41ff-8e5d-0b54f400f27f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-106",
+    "name": "Manor Skeleton",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Skeleton"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Haste\n{1}{B}: Regenerate this creature.",
+    "keywords": [
+      "haste"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e7b45197-d5c2-48c8-b72e-00236552e338",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-206",
+    "name": "Travel Preparations",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Put a +1/+1 counter on each of up to two target creatures.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e9654ae7-af2c-4956-be3a-68befa33f523",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-55",
+    "name": "Forbidden Alchemy",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.\nFlashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "eb22ae62-6207-4693-87cf-7adf0fc1fe29",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-64",
+    "name": "Ludevic's Test Subject // Ludevic's Abomination",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Lizard",
+      "Egg",
+      "Lizard",
+      "Horror"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\n{1}{U}: Put a hatchling counter on this creature. Then if there are five or more hatchling counters on it, remove all of them and transform it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ebf5e16f-a8bd-419f-b5ca-8c7fce09c4f1",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-152",
+    "name": "Kruin Outlaw // Terror of Kruin Pass",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue",
+      "Werewolf",
+      "Werewolf"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ec00d2d2-6597-474a-9353-345bbedfe57e",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-215",
+    "name": "Olivia Voldaren",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "mythic",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.\n{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ed750692-ba6a-4a89-ad6d-92fda7edc2cb",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-124",
+    "name": "Victim of Night",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target non-Vampire, non-Werewolf, non-Zombie creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ee4c6135-eee9-43ec-bbe8-76912352dcac",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-245",
+    "name": "Nephalia Drownyard",
+    "colors": [],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{1}{U}{B}, {T}: Target player mills three cards.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ef058312-6926-49f8-ae72-a8d60fedbf6c",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-112",
+    "name": "Reaper from the Abyss",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{3}{B}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Demon"
+    ],
+    "rarity": "mythic",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nMorbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.",
+    "keywords": [
+      "flying",
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f0d74c3e-8370-419b-808d-96b8d9306024",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-157",
+    "name": "Rage Thrower",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Whenever another creature dies, this creature deals 2 damage to target player or planeswalker.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f16db004-3e0c-491b-b8b6-0ae046d11761",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-15",
+    "name": "Fiend Hunter",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f1e4c7d8-11a5-40fe-962b-7e938bf08616",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-89",
+    "name": "Bloodgift Demon",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Demon"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nAt the beginning of your upkeep, target player draws a card and loses 1 life.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f271addb-e267-4397-b181-f1eaeabbfe71",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-194",
+    "name": "Moldgraf Monstrosity",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 7,
+    "manaCost": "{4}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Insect"
+    ],
+    "rarity": "rare",
+    "power": 8,
+    "toughness": 8,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Trample\nWhen this creature dies, exile it, then return two creature cards at random from your graveyard to the battlefield.",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f387c86a-702f-4f86-bcb9-d2bfa46fd211",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-36",
+    "name": "Stony Silence",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Activated abilities of artifacts can't be activated.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f56a5a73-5f10-4f97-989f-7cea0a8d95e3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-79",
+    "name": "Spectral Flight",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has flying.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f7149f2a-6917-4ad7-8035-c7a1babd4d4b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-6",
+    "name": "Champion of the Parish",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another Human you control enters, put a +1/+1 counter on this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f7314414-c2d2-48ed-af2c-764cf0207c62",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-119",
+    "name": "Tribute to Hunger",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target opponent sacrifices a creature of their choice. You gain life equal to that creature's toughness.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f77e0f88-2285-4b59-9165-9948c75d77a3",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-233",
+    "name": "Silver-Inlaid Dagger",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 1,
+    "manaCost": "{1}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +2/+0.\nAs long as equipped creature is a Human, it gets an additional +1/+0.\nEquip {2}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f8b8162a-68f0-45df-bb25-8fd4487257a4",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-8",
+    "name": "Cloistered Youth // Unholy Fiend",
+    "colors": [
+      "W",
+      "B"
+    ],
+    "colorIdentity": [
+      "B",
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature",
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Horror"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your upkeep, you may transform this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f8b8f0b4-71e1-4822-99a1-b1b3c2f10cb2",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-70",
+    "name": "Murder of Crows",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Bird"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Flying\nWhenever another creature dies, you may draw a card. If you do, discard a card.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f914f7e4-06fc-4943-8597-b7f834938c00",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-203",
+    "name": "Spider Spawning",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "B",
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "Create a 1/2 green Spider creature token with reach for each creature card in your graveyard.\nFlashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "keywords": [
+      "flashback"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f97007af-6642-4105-8d8c-4223681e1cf9",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-189",
+    "name": "Kessig Cagebreakers",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "token"
+    ],
+    "oracleText": "Whenever this creature attacks, create a 2/2 green Wolf creature token that's tapped and attacking for each creature card in your graveyard.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fae22886-da03-49f2-873c-98a7ea2ee17d",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-258",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fcd2ecdd-37ee-4351-833a-f4eac3c55eca",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-251",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fceab58a-304a-40e4-8830-837a7b51d31b",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-133",
+    "name": "Burning Vengeance",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "Whenever you cast a spell from your graveyard, this enchantment deals 2 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fd403810-840b-46ac-ae6e-5df23ce16fec",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-238",
+    "name": "Clifftop Retreat",
+    "colors": [],
+    "colorIdentity": [
+      "R",
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}.",
+    "keywords": [],
+    "produces": [
+      "R",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fd7e1bf9-bd6a-48e3-9331-178e5142c06a",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-22",
+    "name": "Midnight Haunting",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Create two 1/1 white Spirit creature tokens with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fe1eb098-7128-4ec8-8218-51fdde3e8326",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-175",
+    "name": "Darkthicket Wolf",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wolf"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fec37c5a-8223-441c-a8a6-8da1a2dfc3fb",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-143",
+    "name": "Furor of the Bitten",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and attacks each combat if able.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ff4a4c19-6427-4a03-a543-992c910e668f",
+      "setCode": "isd"
+    }
+  },
+  {
+    "id": "isd-110",
+    "name": "Morkrut Banshee",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Morbid — When this creature enters, if a creature died this turn, target creature gets -4/-4 until end of turn.",
+    "keywords": [
+      "morbid"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fff9989f-77a3-4f73-ade6-c04306c98501",
+      "setCode": "isd"
+    }
+  }
+]

@@ -1,0 +1,8252 @@
+[
+  {
+    "id": "roe-145",
+    "name": "Flame Slash",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Flame Slash deals 4 damage to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "006d2bf1-20f7-4b09-8d98-8233d91682bd",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-101",
+    "name": "Consuming Vapors",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player sacrifices a creature of their choice. You gain life equal to that creature's toughness.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "008de17e-aa79-4d4c-ab66-d516eca49e42",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-158",
+    "name": "Magmaw",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{1}, Sacrifice a nonland permanent: This creature deals 1 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "015de202-e796-4194-a06b-d74230759f38",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-149",
+    "name": "Grotag Siege-Runner",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Rogue"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{R}, Sacrifice this creature: Destroy target creature with defender. This creature deals 2 damage to that creature's controller.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "01c1a241-38ad-453e-b6c2-a79006031e2d",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-197",
+    "name": "Momentous Fall",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nYou draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0271550a-0610-4e21-849a-f29547a77bdc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-31",
+    "name": "Kor Spiritdancer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "This creature gets +2/+2 for each Aura attached to it.\nWhenever you cast an Aura spell, you may draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "03066fa1-ea16-4a87-9218-120efa976909",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-130",
+    "name": "Vendetta",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "039fc76d-3b7e-4329-a997-07c25509e421",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-73",
+    "name": "Jwari Scuttler",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Crab"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "04129038-3b02-418a-862a-229e9dde339b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-74",
+    "name": "Lay Bare",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target spell. Look at its controller's hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0454c2a8-b17d-4cdf-8562-9a28bc6cf0be",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-17",
+    "name": "Deathless Angel",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Angel"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{W}{W}: Target creature gains indestructible until end of turn.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "049fb314-184c-4411-9035-f04215659056",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-70",
+    "name": "Guard Gomazoa",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Jellyfish"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender, flying\nPrevent all combat damage that would be dealt to this creature.",
+    "keywords": [
+      "flying",
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0523e59a-91f7-4893-a4fe-8814a745b422",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-146",
+    "name": "Forked Bolt",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Forked Bolt deals 2 damage divided as you choose among one or two targets.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "06127297-fdaa-45bf-a82e-4fc61315e0e2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-6",
+    "name": "Kozilek, Butcher of Truth",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 10,
+    "manaCost": "{10}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "mythic",
+    "power": 12,
+    "toughness": 12,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "draw"
+    ],
+    "oracleText": "When you cast this spell, draw four cards.\nAnnihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents of their choice.)\nWhen Kozilek is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "067fac91-2483-4678-b86a-2c54a3a480cf",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-30",
+    "name": "Kor Line-Slinger",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Scout"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Tap target creature with power 3 or less.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "068943d2-c456-42a3-8088-3e4923bf6d74",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-40",
+    "name": "Oust",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Put target creature into its owner's library second from the top. Its controller gains 3 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "07313dd3-d0dc-40ca-98a3-fa4d39e5bcae",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-171",
+    "name": "Vent Sentinel",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Defender\n{1}{R}, {T}: This creature deals damage to target player or planeswalker equal to the number of creatures you control with defender.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "07989612-d3c4-44f7-b1ee-1ddf2d93a7da",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-176",
+    "name": "Awakening Zone",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "At the beginning of your upkeep, you may create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "080dbd69-95a8-4fed-bbaf-875a8a34a2c9",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-148",
+    "name": "Goblin Tunneler",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Rogue"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0b2e4a34-6255-4f89-a62d-941996c573e1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-20",
+    "name": "Emerge Unscathed",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature you control gains protection from the color of your choice until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0c23013b-4202-45c1-a756-b9a8c5a9dc05",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-153",
+    "name": "Kiln Fiend",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental",
+      "Beast"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever you cast an instant or sorcery spell, this creature gets +3/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0c584268-67c3-411b-a26c-aee3adf23872",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-54",
+    "name": "Aura Finesse",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Attach target Aura you control to target creature.\nDraw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0e398a02-1456-4fae-be75-4231c968bf47",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-138",
+    "name": "Brood Birthing",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "If you control an Eldrazi Spawn, create three 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\" Otherwise, create one of those tokens.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0e44f7ff-1cfa-4bc4-a0f7-9d71ba48a97a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-36",
+    "name": "Makindi Griffin",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Griffin"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0f839a5e-3cbb-4179-9267-02f40645bdbc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-72",
+    "name": "Halimar Wavewatch",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4\n0/6\nLEVEL 5+\n6/6\nIslandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+    "keywords": [
+      "landwalk",
+      "level up",
+      "islandwalk"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0ff68d2f-6758-45ee-8109-4e8909f49de8",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-196",
+    "name": "Might of the Masses",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +1/+1 until end of turn for each creature you control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "10465f4f-f4ff-45d8-bc97-3ec85e5eea70",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-245",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "10e2588b-7781-418c-abc8-08601fbb2336",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-190",
+    "name": "Joraga Treespeaker",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Druid"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4\n1/2\n{T}: Add {G}{G}.\nLEVEL 5+\n1/4\nElves you control have \"{T}: Add {G}{G}.\"",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1132218d-56cd-441e-9006-df3c50344491",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-62",
+    "name": "Dormant Gomazoa",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Jellyfish"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nThis creature enters tapped.\nThis creature doesn't untap during your untap step.\nWhenever you become the target of a spell, you may untap this creature.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "131d2925-d87c-415f-aa84-97f14030624e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-50",
+    "name": "Totem-Guide Hartebeest",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Antelope"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1364a830-36b7-48b9-bf69-6fd35eed9399",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-234",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "15973a22-cf86-447d-94ef-d62ac824aa49",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-140",
+    "name": "Devastating Summons",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, sacrifice X lands.\nCreate two X/X red Elemental creature tokens.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "15b09784-8e89-4013-975d-57e4d26cc926",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-144",
+    "name": "Fissure Vent",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Choose one or both —\n• Destroy target artifact.\n• Destroy target nonbasic land.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "15f4f813-f04c-4309-a007-b0549c00d6ab",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-104",
+    "name": "Curse of Wizardry",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As this enchantment enters, choose a color.\nWhenever a player casts a spell of the chosen color, that player loses 1 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "162535ea-87be-4ea7-a006-b63ae981f453",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-240",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1660f317-d337-4c24-8523-613dc3072ca9",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-76",
+    "name": "Merfolk Observer",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Rogue"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, look at the top card of target player's library.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "16fa8c72-320b-4a7e-9181-bad7ec0c865c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-133",
+    "name": "Zulaport Enforcer",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n3/3\nLEVEL 3+\n5/5\nThis creature can't be blocked except by black creatures.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1975d18a-df3f-4c1f-8fde-d11dabbc4adc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-142",
+    "name": "Emrakul's Hatcher",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Drone"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature enters, create three 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1a901c3f-313d-495e-96a0-29f1a33b8225",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-114",
+    "name": "Induce Despair",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, reveal a creature card from your hand.\nTarget creature gets -X/-X until end of turn, where X is the revealed card's mana value.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1b0c6980-a371-4cb5-b684-3ebddd4890f8",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-99",
+    "name": "Cadaver Imp",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Imp"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Flying\nWhen this creature enters, you may return target creature card from your graveyard to your hand.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1b2f83d5-9269-4297-b507-558c2bdec32b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-77",
+    "name": "Merfolk Skyscout",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Scout"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever this creature attacks or blocks, untap target permanent.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1ce213c7-7835-4b81-a983-059dd97b0214",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-183",
+    "name": "Gelatinous Genesis",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{X}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Create X X/X green Ooze creature tokens.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1ea40dc5-de1b-4d2b-ae0e-df8e52876647",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-137",
+    "name": "Brimstone Mage",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Level up {3}{R} ({3}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n2/3\n{T}: This creature deals 1 damage to any target.\nLEVEL 3+\n2/4\n{T}: This creature deals 3 damage to any target.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1f65ebef-e159-4698-8852-650b7b6a08d3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-185",
+    "name": "Gravity Well",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever a creature with flying attacks, it loses flying until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1feb13d0-1a62-4acd-9267-3b2df4b6a199",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-66",
+    "name": "Enclave Cryptologist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Wizard"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n0/1\n{T}: Draw a card, then discard a card.\nLEVEL 3+\n0/1\n{T}: Draw a card.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "20d3b541-40aa-469e-be97-20496a7632d4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-177",
+    "name": "Bear Umbra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has \"Whenever this creature attacks, untap all lands you control.\"\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "212a953b-3205-41bf-a5b2-5b852e889c5a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-189",
+    "name": "Jaddi Lifestrider",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 8,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "22144b6f-e8a8-4fcb-ac2b-83693481ffba",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-135",
+    "name": "Battle Rampart",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\n{T}: Target creature gains haste until end of turn.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "223ec005-e089-4dd4-85dc-2998bff56b75",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-12",
+    "name": "Ulamog, the Infinite Gyre",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 11,
+    "manaCost": "{11}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "mythic",
+    "power": 10,
+    "toughness": 10,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "When you cast this spell, destroy target permanent.\nIndestructible\nAnnihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents of their choice.)\nWhen Ulamog is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
+    "keywords": [
+      "indestructible",
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "225e3cc6-34d0-4f81-9f49-162d97e2ea59",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-201",
+    "name": "Nest Invader",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Drone"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature enters, create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "24517d9c-6cde-41e8-9e82-ee73f069379a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-43",
+    "name": "Smite",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target blocked creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2698f01a-8574-4ae8-9441-a4361b1c29c6",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-214",
+    "name": "Sarkhan the Mad",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Sarkhan"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 7,
+    "references": [
+      "token"
+    ],
+    "oracleText": "0: Reveal the top card of your library and put it into your hand. Sarkhan deals damage to himself equal to that card's mana value.\n−2: Target creature's controller sacrifices it, then that player creates a 5/5 red Dragon creature token with flying.\n−4: Each Dragon creature you control deals damage equal to its power to target player or planeswalker.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "26c1ba92-556e-4da9-8e3a-a4a82612cb29",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-10",
+    "name": "Skittering Invasion",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 7,
+    "manaCost": "{7}",
+    "superTypes": [
+      "Kindred"
+    ],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Create five 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "270f0e5b-2c46-4816-a195-cfce16570bde",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-3",
+    "name": "Eldrazi Conscription",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 8,
+    "manaCost": "{8}",
+    "superTypes": [
+      "Kindred"
+    ],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Aura"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents of their choice.)",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-118",
+    "name": "Nighthaze",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)\nDraw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "290b215b-13cb-493a-83f9-f89edfa6b314",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-96",
+    "name": "Baneful Omen",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 7,
+    "manaCost": "{4}{B}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's mana value.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2bff6e03-b6af-4f54-b365-9a6db2dbb595",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-194",
+    "name": "Leaf Arrow",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Leaf Arrow deals 3 damage to target creature with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2d531ba4-df99-41e4-9dd3-a27a420ad63c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-208",
+    "name": "Spider Umbra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2e593a5b-0de6-4df2-bbda-54195400dc69",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-59",
+    "name": "Deprive",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, return a land you control to its owner's hand.\nCounter target spell.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2efecdd9-bd3a-4b79-92da-6485589d5bde",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-165",
+    "name": "Splinter Twin",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step.\"",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2f8f22fb-7291-4517-9b15-e98501f2856b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-127",
+    "name": "Skeletal Wurm",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 8,
+    "manaCost": "{7}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Skeleton",
+      "Wurm"
+    ],
+    "rarity": "uncommon",
+    "power": 7,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{B}: Regenerate this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2feedcf2-c443-4363-80cf-a90579a64342",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-75",
+    "name": "Lighthouse Chronologist",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "mythic",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {U} ({U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 4-6\n2/4\nLEVEL 7+\n3/5\nAt the beginning of each end step, if it's not your turn, take an extra turn after this one.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3087f7e7-9163-45b5-907d-7667c1075a74",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-238",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "30d7edb2-3bb4-4a0f-ad66-eef31cc8ed6b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-227",
+    "name": "Eldrazi Temple",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{T}: Add {C}{C}. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "315924c9-77e3-405b-9bbf-852ed563c6e3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-60",
+    "name": "Distortion Strike",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +1/+0 until end of turn and can't be blocked this turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "315f1cf8-7bde-4592-a14e-ef9e2e3e7ac0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-44",
+    "name": "Soul's Attendant",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another creature enters, you may gain 1 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3223c0ac-cc22-4886-8919-11273b477cc7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-119",
+    "name": "Nirkana Cutthroat",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n4/3\nDeathtouch\nLEVEL 3+\n5/4\nFirst strike, deathtouch",
+    "keywords": [
+      "first strike",
+      "level up",
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "341f4ea1-8101-4e2e-b824-4b0e88ea71f1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-116",
+    "name": "Last Kiss",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Last Kiss deals 2 damage to target creature and you gain 2 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "348f480f-8f68-4060-b964-f67515930549",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-7",
+    "name": "It That Betrays",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 12,
+    "manaCost": "{12}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "rare",
+    "power": 11,
+    "toughness": 11,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents of their choice.)\nWhenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "34d790ad-3559-4c32-9057-e2e326740bdc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-195",
+    "name": "Living Destiny",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, reveal a creature card from your hand.\nYou gain life equal to the revealed card's mana value.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "361399a4-04f3-4eef-8090-2caec7d1bb66",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-108",
+    "name": "Dread Drone",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Drone"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature enters, create two 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "38d65339-e419-40b9-814a-374874f5585f",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-2",
+    "name": "Artisan of Kozilek",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 9,
+    "manaCost": "{9}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "uncommon",
+    "power": 10,
+    "toughness": 9,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "When you cast this spell, you may return target creature card from your graveyard to the battlefield.\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents of their choice.)",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3ac80eb8-321d-476a-87e7-d25bdac6a91c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-102",
+    "name": "Contaminated Ground",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant land\nEnchanted land is a Swamp.\nWhenever enchanted land becomes tapped, its controller loses 2 life.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3d2ba8f3-58f5-43e5-9201-974ba58f56f8",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-63",
+    "name": "Drake Umbra",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +3/+3 and has flying.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3e1f7334-658d-44da-a81c-26b258e44c26",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-167",
+    "name": "Surreal Memoir",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Return an instant card at random from your graveyard to your hand.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3e9108d6-d103-47f5-98ed-0d0d7564d328",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-9",
+    "name": "Pathrazer of Ulamog",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 11,
+    "manaCost": "{11}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "uncommon",
+    "power": 9,
+    "toughness": 9,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents of their choice.)\nThis creature can't be blocked except by three or more creatures.",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3fdd84b5-fd93-483e-a131-028d04d9dea7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-58",
+    "name": "Crab Umbra",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\n{2}{U}: Untap enchanted creature.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3fe6e1ce-bc46-4f86-9504-f8cc062ed3c6",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-80",
+    "name": "Phantasmal Abomination",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Illusion"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\nWhen this creature becomes the target of a spell or ability, sacrifice it.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "40d9c83f-ddd2-4929-887f-9df6155c4b82",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-48",
+    "name": "Survival Cache",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "You gain 2 life. Then if you have more life than an opponent, draw a card.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4333f864-6b1c-4720-b2d6-490d5c7b31a1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-223",
+    "name": "Reinforced Bulwark",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\n{T}: Prevent the next 1 damage that would be dealt to you this turn.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "437a91e7-f98e-4ed8-9ab7-f4db62979f5b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-226",
+    "name": "Warmonger's Chariot",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +2/+2.\nAs long as equipped creature has defender, it can attack as though it didn't have defender.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "44da7915-98bd-4f4e-9bcc-801eb10c8a18",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-232",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "45031d49-c82b-47a4-a652-f8904cd9bb66",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-98",
+    "name": "Bloodthrone Vampire",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Sacrifice a creature: This creature gets +2/+2 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "48bf0233-1d2e-40cb-9a69-8eeeeb2959ca",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-207",
+    "name": "Snake Umbra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature gets +1/+1 and has \"Whenever this creature deals damage to an opponent, you may draw a card.\"\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4a011820-80c6-484f-84be-f07f0e45f1a8",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-193",
+    "name": "Kozilek's Predator",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Drone"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature enters, create two 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4ab37d0e-5542-4ae0-a48e-d0a4e6bf48e7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-95",
+    "name": "Bala Ged Scorpion",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Scorpion"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you may destroy target creature with power 1 or less.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4acb66bd-6abd-46dd-a272-09bea66e2917",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-233",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4c799192-43bb-4c25-ab4f-b1d4ef0df660",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-215",
+    "name": "Angelheart Vial",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 5,
+    "manaCost": "{5}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "draw"
+    ],
+    "oracleText": "Whenever you're dealt damage, you may put that many charge counters on this artifact.\n{2}, {T}, Remove four charge counters from this artifact: You gain 2 life and draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4cf1fe7a-eb30-4252-bada-ce3f8096e091",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-123",
+    "name": "Perish the Thought",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target opponent reveals their hand. You choose a card from it. That player shuffles that card into their library.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4e1dd413-6e5a-4e36-b1b0-eca39e132e38",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-57",
+    "name": "Coralhelm Commander",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Soldier"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3\n3/3\nFlying\nLEVEL 4+\n4/4\nFlying\nOther Merfolk creatures you control get +1/+1.",
+    "keywords": [
+      "flying",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4f8d1bea-58cd-4483-a70a-0330ad5ab4a1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-35",
+    "name": "Luminous Wake",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nWhenever enchanted creature attacks or blocks, you gain 4 life.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4f8d5a36-cc29-47fc-bdf7-b753f3bc5197",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-239",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "50bdea83-efb5-4371-8d25-5703c6efee65",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-212",
+    "name": "Vengevine",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "mythic",
+    "power": 4,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return this card from your graveyard to the battlefield.",
+    "keywords": [
+      "haste"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "51eb9f05-9d5a-4196-9329-626ce4793c42",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-191",
+    "name": "Kazandu Tuskcaller",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-5\n1/1\n{T}: Create a 3/3 green Elephant creature token.\nLEVEL 6+\n1/1\n{T}: Create two 3/3 green Elephant creature tokens.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "54908d58-c7b4-46e1-9cad-3a7ea0bc7a6b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-32",
+    "name": "Lightmine Field",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever one or more creatures attack, this enchantment deals damage to each of those creatures equal to the number of attacking creatures.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5602b52a-5904-4780-9192-72990d07c975",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-8",
+    "name": "Not of This World",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 7,
+    "manaCost": "{7}",
+    "superTypes": [
+      "Kindred"
+    ],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target spell or ability that targets a permanent you control.\nThis spell costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "569e2c39-7a49-4a3b-afe5-1862a7da8026",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-170",
+    "name": "Valakut Fireboar",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental",
+      "Boar"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks, switch its power and toughness until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5718b282-d3e9-4c68-8623-9ea8a3c937d0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-198",
+    "name": "Mul Daya Channelers",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Druid",
+      "Shaman"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Play with the top card of your library revealed.\nAs long as the top card of your library is a creature card, this creature gets +3/+3.\nAs long as the top card of your library is a land card, this creature has \"{T}: Add two mana of any one color.\"",
+    "keywords": [],
+    "produces": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5d362c3b-f9e1-476b-b5fd-d1292bbc257c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-97",
+    "name": "Bloodrite Invoker",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Shaman"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{8}: Target player loses 3 life and you gain 3 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5dc36f94-2499-4d94-a506-27d42b9da667",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-29",
+    "name": "Knight of Cliffhaven",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Knight"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3\n2/3\nFlying\nLEVEL 4+\n4/4\nFlying, vigilance",
+    "keywords": [
+      "flying",
+      "vigilance",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5e8332e9-7b02-4d58-b081-11004e690524",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-94",
+    "name": "Arrogant Bloodlord",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Knight"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature blocks or becomes blocked by a creature with power 1 or less, destroy this creature at end of combat.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5ed08a7f-6682-46a4-89df-b9b418df3f1a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-237",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5f75f4aa-cede-452b-80c1-bd3b8221dbcb",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-186",
+    "name": "Growth Spasm",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "61d6a649-ae48-4cf1-b0e3-ba627b4ac1e1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-1",
+    "name": "All Is Dust",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 7,
+    "manaCost": "{7}",
+    "superTypes": [
+      "Kindred"
+    ],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Each player sacrifices all permanents they control that are one or more colors.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "62dba377-7446-4517-a504-ee04568fd6cf",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-45",
+    "name": "Soulbound Guardians",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Spirit"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender, flying",
+    "keywords": [
+      "flying",
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "62e8128f-9858-4c48-ab43-1beca3db70e5",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-151",
+    "name": "Hellion Eruption",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Sacrifice all creatures you control, then create that many 4/4 red Hellion creature tokens.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6529c92e-c79b-4953-8bd0-50ceae2ce261",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-68",
+    "name": "Frostwind Invoker",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{8}: Creatures you control gain flying until end of turn.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "66ec9a28-3b36-4b6a-b420-7b4266b64f69",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-4",
+    "name": "Emrakul, the Aeons Torn",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 15,
+    "manaCost": "{15}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "mythic",
+    "power": 15,
+    "toughness": 15,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "This spell can't be countered.\nWhen you cast this spell, take an extra turn after this one.\nFlying, protection from spells that are one or more colors, annihilator 6\nWhen Emrakul is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
+    "keywords": [
+      "flying",
+      "annihilator",
+      "protection"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "67600383-bbb8-411c-b8e6-2296650bc747",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-115",
+    "name": "Inquisition of Kozilek",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-51",
+    "name": "Transcendent Master",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric",
+      "Avatar"
+    ],
+    "rarity": "mythic",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 6-11\n6/6\nLifelink\nLEVEL 12+\n9/9\nLifelink, indestructible",
+    "keywords": [
+      "lifelink",
+      "indestructible",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6b007f42-9ec2-466b-8d6b-1d55c516080b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-92",
+    "name": "Unified Will",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target spell if you control more creatures than that spell's controller.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6cb50db7-f1d4-4f9d-ac60-564398af79ea",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-28",
+    "name": "Kabira Vindicator",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Knight"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-4\n3/6\nOther creatures you control get +1/+1.\nLEVEL 5+\n4/8\nOther creatures you control get +2/+2.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6d31551a-ab7a-4e49-b545-77afb3be72d3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-53",
+    "name": "Wall of Omens",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Defender\nWhen this creature enters, draw a card.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6e3510f5-e450-400b-98ea-341dbf212054",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-147",
+    "name": "Goblin Arsonist",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Shaman"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "When this creature dies, you may have it deal 1 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "707d396d-950b-4ab8-9db2-f40c8f7db062",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-230",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "70dc47f2-a92d-446b-b788-8287b5d609c4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-187",
+    "name": "Haze Frog",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Frog"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, prevent all combat damage that other creatures would deal this turn.",
+    "keywords": [
+      "flash"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "72d8e000-5b4c-4340-ab85-7522107ab589",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-112",
+    "name": "Guul Draz Assassin",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Assassin"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Level up {1}{B} ({1}{B}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3\n2/2\n{B}, {T}: Target creature gets -2/-2 until end of turn.\nLEVEL 4+\n4/4\n{B}, {T}: Target creature gets -4/-4 until end of turn.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "72de01ef-cdf2-44ad-bf2f-a927d82a4f72",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-243",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7352288b-ff7b-43c7-a5ae-3f6577d11708",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-109",
+    "name": "Escaped Null",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Berserker"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Lifelink\nWhenever this creature blocks or becomes blocked, it gets +5/+0 until end of turn.",
+    "keywords": [
+      "lifelink"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7364dbe9-ee9a-4dcc-b058-4e669c75f060",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-217",
+    "name": "Enatu Golem",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 6,
+    "manaCost": "{6}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Golem"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, you gain 4 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "74b2e63d-61c6-46e4-9a6f-56653c49b2ea",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-166",
+    "name": "Staggershock",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Staggershock deals 2 damage to any target.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "75624ab3-ddbd-4fe8-8a07-7d1f78ec8a84",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-56",
+    "name": "Champion's Drake",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Drake"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nThis creature gets +3/+3 as long as you control a creature with three or more level counters on it.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7585316f-ba3d-4472-9a7e-7db6f6dd9d15",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-13",
+    "name": "Ulamog's Crusher",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 8,
+    "manaCost": "{8}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "common",
+    "power": 8,
+    "toughness": 8,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents of their choice.)\nThis creature attacks each combat if able.",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "76bacedb-9fa8-4a21-b0eb-e7ead64360b4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-37",
+    "name": "Mammoth Umbra",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +3/+3 and has vigilance.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "76f1abef-385d-4202-8a45-835c37c4e242",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-247",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "776470f5-3a47-475b-a599-cb5fee156593",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-38",
+    "name": "Near-Death Experience",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{2}{W}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your upkeep, if you have exactly 1 life, you win the game.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "77d61706-f9c1-4590-8057-7aa7fa199e6d",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-216",
+    "name": "Dreamstone Hedron",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 6,
+    "manaCost": "{6}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "draw"
+    ],
+    "oracleText": "{T}: Add {C}{C}{C}.\n{3}, {T}, Sacrifice this artifact: Draw three cards.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "79090d66-19ab-456e-96c0-023c84f4e521",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-160",
+    "name": "Rage Nimbus",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender, flying\n{1}{R}: Target creature attacks this turn if able.",
+    "keywords": [
+      "flying",
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7c213b45-d86b-4ced-9ab9-44cd84ad94a4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-192",
+    "name": "Khalni Hydra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 8,
+    "manaCost": "{G}{G}{G}{G}{G}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Hydra"
+    ],
+    "rarity": "mythic",
+    "power": 8,
+    "toughness": 8,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This spell costs {G} less to cast for each green creature you control.\nTrample",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7d27a00e-4402-4410-bab7-ccb34a0de72f",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-27",
+    "name": "Ikiral Outrider",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3\n2/6\nVigilance\nLEVEL 4+\n3/10\nVigilance",
+    "keywords": [
+      "vigilance",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7e1532b1-6f3b-48d3-ada9-ec395e842b96",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-150",
+    "name": "Heat Ray",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Heat Ray deals X damage to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "82227287-1774-448b-8c3a-573ddd58cc80",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-33",
+    "name": "Linvala, Keeper of Silence",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{W}{W}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Angel"
+    ],
+    "rarity": "mythic",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nActivated abilities of creatures your opponents control can't be activated.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "82b80a09-7e75-4091-a60e-04aff79339a3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-15",
+    "name": "Caravan Escort",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Knight"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4\n2/2\nLEVEL 5+\n5/5\nFirst strike",
+    "keywords": [
+      "first strike",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8452b0b7-8157-4a3f-8bef-a34e322b9463",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-5",
+    "name": "Hand of Emrakul",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 9,
+    "manaCost": "{9}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "common",
+    "power": 7,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "You may sacrifice four Eldrazi Spawn rather than pay this spell's mana cost.\nAnnihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent of their choice.)",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "84d602f4-5876-416a-95e5-821a285358bf",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-14",
+    "name": "Affa Guard Hound",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dog"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this creature enters, target creature gets +0/+3 until end of turn.",
+    "keywords": [
+      "flash"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "85623f54-1c18-4b1e-a8da-df66de3832a6",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-122",
+    "name": "Pawn of Ulamog",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Shaman"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Whenever this creature or another nontoken creature you control dies, you may create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "85f4d77d-e0de-48fe-899b-5718cee779e2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-46",
+    "name": "Stalwart Shield-Bearers",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\nOther creatures you control with defender get +0/+2.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "868256bb-d4e2-42eb-a43a-360148aec06f",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-134",
+    "name": "Akoum Boulderfoot",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Giant",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "When this creature enters, it deals 1 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "88e8f7b6-1214-447b-8665-ff3c85845564",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-206",
+    "name": "Realms Uncharted",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8967ceff-9e25-46da-926b-e05f4ee98325",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-210",
+    "name": "Stomper Cub",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "common",
+    "power": 5,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Trample",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "89be64a8-dd78-48c3-bb47-4f2a5ad9ec10",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-121",
+    "name": "Null Champion",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3\n4/2\nLEVEL 4+\n7/3\n{B}: Regenerate this creature.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8bf39e84-a554-49e3-8f65-e304e1720818",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-179",
+    "name": "Boar Umbra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +3/+3.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8dfdec4f-e66a-48f8-ba6d-13459e80b52c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-204",
+    "name": "Pelakka Wurm",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 7,
+    "manaCost": "{4}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wurm"
+    ],
+    "rarity": "uncommon",
+    "power": 7,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhen this creature enters, you gain 7 life.\nWhen this creature dies, draw a card.",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8e732593-0bdc-4dd4-9b07-9aa1a780e6e8",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-155",
+    "name": "Lavafume Invoker",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Shaman"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{8}: Creatures you control get +3/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8e773b3f-37ef-4e37-8b1e-99b7b6314877",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-218",
+    "name": "Hedron Matrix",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +X/+X, where X is its mana value.\nEquip {4}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8f26a7d8-3bc5-4666-a0dc-c5fbd68f9441",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-175",
+    "name": "Aura Gnarlid",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creatures with power less than this creature's power can't block it.\nThis creature gets +1/+1 for each Aura on the battlefield.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8f8dbb4f-4b01-4666-b62f-a2323dac7a19",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-125",
+    "name": "Repay in Kind",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 7,
+    "manaCost": "{5}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Each player's life total becomes the lowest life total among all players.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "90d1db4c-1e79-410a-92ab-c9d58c5e58a6",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-164",
+    "name": "Spawning Breath",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token",
+      "removal"
+    ],
+    "oracleText": "Spawning Breath deals 1 damage to any target. Create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "90ec1540-e8cb-4edc-a3b3-f71423cb46fc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-42",
+    "name": "Repel the Darkness",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Tap up to two target creatures.\nDraw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "90fa47c3-3209-4e01-920a-aed2184520c2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-100",
+    "name": "Consume the Meek",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy each creature with mana value 3 or less. They can't be regenerated.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "921ebea0-48bf-4338-9e84-2cd06ffe6f4b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-246",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "92af153b-5cc6-4130-8694-dcdb1fd45cdc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-141",
+    "name": "Disaster Radius",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 7,
+    "manaCost": "{5}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's mana value.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9318ae4a-1084-49d9-b5de-dbe4d80836cb",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-174",
+    "name": "Ancient Stirrings",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "97ac2766-a597-4949-882d-c5e61e6dd268",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-113",
+    "name": "Hellcarver Demon",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{3}{B}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Demon"
+    ],
+    "rarity": "mythic",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever this creature deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of spells from among cards exiled this way without paying their mana costs.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "984a037b-63c0-497d-b3b1-15726ef11a60",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-111",
+    "name": "Gloomhunter",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Bat"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "98db4317-9850-44c1-884b-d8d3abe1afeb",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-90",
+    "name": "Surrakar Spellblade",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Surrakar"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Whenever you cast an instant or sorcery spell, you may put a charge counter on this creature.\nWhenever this creature deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9a4199be-e1ec-4f0e-a31f-29a7007128a5",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-242",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9acc9266-3a8e-4a5b-9c00-bbc30e3bf5e7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-161",
+    "name": "Raid Bombardment",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever a creature you control with power 2 or less attacks, this enchantment deals 1 damage to the player or planeswalker that creature is attacking.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9c2d1a48-efde-4134-95f0-b23f6cf85259",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-157",
+    "name": "Lust for War",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nWhenever enchanted creature becomes tapped, this Aura deals 3 damage to that creature's controller.\nEnchanted creature attacks each combat if able.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9c8fa150-383d-448c-8e14-f24f65e13770",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-224",
+    "name": "Runed Servitor",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Construct"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, each player draws a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9dbbbbf6-e3ed-4a36-bedf-11c3514ff965",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-93",
+    "name": "Venerated Teacher",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, put two level counters on each creature you control with level up.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9ec4d902-8841-4f37-9b07-9e8d0f671071",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-47",
+    "name": "Student of Warfare",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Knight"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {W} ({W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-6\n3/3\nFirst strike\nLEVEL 7+\n4/4\nDouble strike",
+    "keywords": [
+      "first strike",
+      "level up",
+      "double strike"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9f4df9be-324b-458a-9379-ab4aa437a6d2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-49",
+    "name": "Time of Heroes",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Each creature you control with a level counter on it gets +2/+2.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9f70224d-e723-436d-8493-dcec5049f1a0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-11",
+    "name": "Spawnsire of Ulamog",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 10,
+    "manaCost": "{10}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi"
+    ],
+    "rarity": "rare",
+    "power": 7,
+    "toughness": 11,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent of their choice.)\n{4}: Create two 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"\n{20}: Cast any number of Eldrazi spells from among cards you own outside the game without paying their mana costs.",
+    "keywords": [
+      "annihilator"
+    ],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9ff46819-bfb3-4448-ab4f-f22ff9e2b2b4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-117",
+    "name": "Mortician Beetle",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Insect"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever a player sacrifices a creature, you may put a +1/+1 counter on this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a19ee3e4-5f76-4c28-bee6-f1c063ec0cb3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-200",
+    "name": "Nema Siltlurker",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Lizard"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a477e081-949f-4cf0-b0d2-b9bdff6c760d",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-172",
+    "name": "World at War",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "After the second main phase this turn, there's an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a47a05ad-fe86-481e-b770-e1760be4f852",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-52",
+    "name": "Umbra Mystic",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Auras attached to permanents you control have umbra armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a55705d3-8640-478e-ace4-f4f900d617c5",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-244",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a56424d3-ceda-4cd3-988f-48ced72d17b8",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-124",
+    "name": "Pestilence Demon",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 8,
+    "manaCost": "{5}{B}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Demon"
+    ],
+    "rarity": "rare",
+    "power": 7,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{B}: This creature deals 1 damage to each creature and each player.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a6931673-20e0-410e-bc2a-d14efa2b488a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-86",
+    "name": "See Beyond",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Draw two cards, then shuffle a card from your hand into your library.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a7242e6e-b2e6-42f5-b611-3e8e0dfc0b6b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-24",
+    "name": "Harmless Assault",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Prevent all combat damage that would be dealt this turn by attacking creatures.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a77fef2c-227e-474e-896e-c0ebe227f494",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-126",
+    "name": "Shrivel",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "All creatures get -1/-1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a87c80a1-5818-45fd-9a37-a2ee3396626e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-79",
+    "name": "Narcolepsy",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nAt the beginning of each upkeep, if enchanted creature is untapped, tap it.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a88e502e-2421-46fb-b880-a9000930e6d9",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-136",
+    "name": "Battle-Rattle Shaman",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Shaman"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aa1df08a-ccef-44cf-936a-838e238c27c1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-120",
+    "name": "Nirkana Revenant",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Shade"
+    ],
+    "rarity": "mythic",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever you tap a Swamp for mana, add an additional {B}.\n{B}: This creature gets +1/+1 until end of turn.",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aa7c53cf-d314-4f60-bb5b-cf5068ed9915",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-209",
+    "name": "Sporecap Spider",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spider"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Reach",
+    "keywords": [
+      "reach"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "abb1d18f-7a94-4a2f-a60c-0af852d44501",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-64",
+    "name": "Echo Mage",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3\n2/4\n{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.\nLEVEL 4+\n2/5\n{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "abb327b4-01b0-468c-9916-129c7c64341d",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-107",
+    "name": "Drana, Kalastria Bloodchief",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Shaman"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana gets +X/+0 until end of turn.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aca8d295-e8e9-4213-bc9b-f1acf57fb520",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-184",
+    "name": "Gigantomancer",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 8,
+    "manaCost": "{7}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Shaman"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}: Target creature you control has base power and toughness 7/7 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "af25e35c-d1a4-4c10-8574-82babaaac4fd",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-156",
+    "name": "Lord of Shatterskull Pass",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Minotaur",
+      "Shaman"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-5\n6/6\nLEVEL 6+\n6/6\nWhenever this creature attacks, it deals 6 damage to each creature defending player controls.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b2159a7d-e37a-4c43-a7b9-1e7179a7e43b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-178",
+    "name": "Beastbreaker of Bala Ged",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3\n4/4\nLEVEL 4+\n6/6\nTrample",
+    "keywords": [
+      "level up",
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b24c2406-ba46-428b-9d5c-38954818edc0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-71",
+    "name": "Hada Spy Patrol",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n2/2\nThis creature can't be blocked.\nLEVEL 3+\n3/3\nShroud (This creature can't be the target of spells or abilities.)\nThis creature can't be blocked.",
+    "keywords": [
+      "shroud",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b3aeb6af-1727-4fa9-938f-13962efadd74",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-132",
+    "name": "Zof Shade",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Shade"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{2}{B}: This creature gets +2/+2 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b46976d4-7266-4359-bf7a-7e81983ae6e3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-154",
+    "name": "Lagac Lizard",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Lizard"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b47e9cfa-5547-4ef3-9e36-8d0f36dfa59a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-248",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b4dd7a8a-a560-481a-a16e-dc60cdb440bb",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-131",
+    "name": "Virulent Swipe",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +2/+0 and gains deathtouch until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b61d7f4b-e3c3-49f1-a600-6e6ac71a5515",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-152",
+    "name": "Kargan Dragonlord",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "mythic",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {R} ({R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 4-7\n4/4\nFlying\nLEVEL 8+\n8/8\nFlying, trample\n{R}: This creature gets +1/+0 until end of turn.",
+    "keywords": [
+      "flying",
+      "level up",
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b669d2d9-649b-4941-9a76-9833bdf77ca4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-83",
+    "name": "Regress",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Return target permanent to its owner's hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b7aba8e0-34e7-43ec-bce5-b6b472daa841",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-225",
+    "name": "Sphinx-Bone Wand",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 7,
+    "manaCost": "{7}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Whenever you cast an instant or sorcery spell, you may put a charge counter on this artifact. If you do, this artifact deals damage equal to the number of charge counters on it to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b7da189e-f692-4b91-a452-3c628c3c2b1c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-128",
+    "name": "Suffer the Past",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b7e959ec-7ba2-429d-a5b9-b5e4d97dfd4e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-110",
+    "name": "Essence Feed",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Target player loses 3 life. You gain 3 life and create three 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b9cf2116-7ae5-4b6a-830a-919a55235690",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-173",
+    "name": "Wrap in Flames",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "babdaf80-f9a3-42cb-9df6-10878301f335",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-69",
+    "name": "Gravitational Shift",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creatures with flying get +2/+0.\nCreatures without flying get -2/-0.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bad32b9f-0aa4-4036-90e6-c087cffd52e7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-228",
+    "name": "Evolving Wilds",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bc7e0407-fea1-43ef-8580-82271e440bb3",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-105",
+    "name": "Death Cultist",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Sacrifice this creature: Target player loses 1 life and you gain 1 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bd0a2fe3-45ab-4bac-aca7-a6418e28d0be",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-88",
+    "name": "Skywatcher Adept",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n2/2\nFlying\nLEVEL 3+\n4/2\nFlying",
+    "keywords": [
+      "flying",
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "be61e893-4bf5-4550-83f4-42ebe7f1e3b0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-139",
+    "name": "Conquering Manticore",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Manticore"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature enters, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bf1dc898-bf60-406f-922a-aa50cbffe5b0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-231",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bf39f344-1204-4c90-93b5-c04a24f0f1f5",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-199",
+    "name": "Naturalize",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Destroy target artifact or enchantment.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c02618f5-ae78-47a9-855a-65a3408fcba4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-229",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c3345553-8f04-4a83-9b6b-95ca0654921d",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-25",
+    "name": "Hedron-Field Purists",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4\n1/4\nIf a source would deal damage to you or a creature you control, prevent 1 of that damage.\nLEVEL 5+\n2/5\nIf a source would deal damage to you or a creature you control, prevent 2 of that damage.",
+    "keywords": [
+      "level up"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c48e9f90-4b13-4281-943c-126be4ff1ce0",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-211",
+    "name": "Tajuru Preserver",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Shaman"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Spells and abilities your opponents control can't cause you to sacrifice permanents.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c8d03346-0802-4058-b89e-1b6076963c8e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-103",
+    "name": "Corpsehatch",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Destroy target nonblack creature. Create two 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c91c152d-1829-438c-b571-74361e09df62",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-55",
+    "name": "Cast Through Time",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 7,
+    "manaCost": "{4}{U}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c9850489-c056-4b17-8743-a5b514d8edf4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-106",
+    "name": "Demonic Appetite",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature you control\nEnchanted creature gets +3/+3.\nAt the beginning of your upkeep, sacrifice a creature.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ca51786a-d58c-455f-910d-01efa5ef8470",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-65",
+    "name": "Eel Umbra",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +1/+1.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant",
+      "flash"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ca550605-a0fc-4392-b8b6-a4f06868d9f2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-169",
+    "name": "Tuktuk the Explorer",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "token"
+    ],
+    "oracleText": "Haste\nWhen Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 colorless Goblin Golem artifact creature token.",
+    "keywords": [
+      "haste"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cd23ab54-1eec-4bb4-81ce-b5cbe83fa940",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-241",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cf940cc3-282e-4b6b-877d-5ce71ee797bc",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-222",
+    "name": "Prophetic Prism",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "draw"
+    ],
+    "oracleText": "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cfb90d44-8cb1-4b83-b2f2-92c19d6304fb",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-163",
+    "name": "Soulsurge Elemental",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "First strike\nSoulsurge Elemental's power is equal to the number of creatures you control.",
+    "keywords": [
+      "first strike"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d0dcb81b-dcdb-44ca-9ef5-0b45d276c0dd",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-188",
+    "name": "Irresistible Prey",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Target creature must be blocked this turn if able.\nDraw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d1511d4d-3e70-4688-ab88-37e26cb1a46f",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-181",
+    "name": "Broodwarden",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Drone"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Eldrazi Spawn creatures you control get +2/+1.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d3a1ca42-0fb1-4962-8663-39fc07443aef",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-182",
+    "name": "Daggerback Basilisk",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Basilisk"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "keywords": [
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d4343cb0-6490-496c-9d58-ac1f7d3a91c6",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-168",
+    "name": "Traitorous Instinct",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d65b63ea-e3c3-465d-8cd9-7251cda9cc63",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-159",
+    "name": "Ogre Sentry",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Ogre",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d71db75c-c896-4887-ba18-92416fa6cbd5",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-143",
+    "name": "Explosive Revelation",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's mana value to that permanent or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d7a38cd0-2cd3-436d-bb44-79778d5808ad",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-221",
+    "name": "Pennon Blade",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +1/+1 for each creature you control.\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d7a64a1b-4816-4d8f-a8ba-ba39c92c61ec",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-202",
+    "name": "Ondu Giant",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Giant",
+      "Druid"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "daf8b1e5-418f-4e64-a2ac-0e03b387ed33",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-82",
+    "name": "Recurring Insight",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Draw cards equal to the number of cards in target opponent's hand.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "db92d00c-e5eb-4e69-9ebc-fec6d9c0f71e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-22",
+    "name": "Glory Seeker",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dc5a3110-0081-4dee-b7b1-597dfd568eed",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-213",
+    "name": "Wildheart Invoker",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Shaman"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{8}: Target creature gets +5/+5 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dc8315bf-03af-4f19-92c7-556e486cb099",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-180",
+    "name": "Bramblesnap",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Trample\nTap an untapped creature you control: This creature gets +1/+1 until end of turn.",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dcddd71f-bb8d-4153-854f-af87189babe7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-39",
+    "name": "Nomads' Assembly",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Create a 1/1 white Kor Soldier creature token for each creature you control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dd52f249-14bd-4489-aaba-03e50fe42c2e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-236",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ddcc2609-59ba-4eca-8b90-993cab90364a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-205",
+    "name": "Prey's Vengeance",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +2/+2 until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "keywords": [
+      "rebound"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dfd0d15f-8200-46a4-a9e9-e7f0ee2aa0e4",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-21",
+    "name": "Gideon Jura",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{W}{W}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Gideon"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 6,
+    "references": [],
+    "oracleText": "+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.\n−2: Destroy target tapped creature.\n0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e0440668-1b0e-437c-9e42-7166dd14dfe5",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-18",
+    "name": "Demystify",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target enchantment.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e109007a-9d4a-4a6d-bf97-edadb9a1c745",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-61",
+    "name": "Domestication",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice this Aura.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e1f15831-8dfd-4232-875c-efa6744c9a12",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-16",
+    "name": "Dawnglare Invoker",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{8}: Tap all creatures target player controls.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e255235f-9e0c-44c0-b903-47af24d87d1f",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-91",
+    "name": "Training Grounds",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e2cf16f8-6e69-46b3-8453-1d1a2a5670e2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-235",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e32a5e25-8e85-474e-ab32-ab28898ac87a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-162",
+    "name": "Rapacious One",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Eldrazi",
+      "Drone"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Trample\nWhenever this creature deals combat damage to a player, create that many 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this token: Add {C}.\"",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e3befaa0-55a3-4e34-8051-1ab19eabd7d2",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-41",
+    "name": "Puncturing Light",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target attacking or blocking creature with power 3 or less.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e52d260a-e1ca-4228-855e-2e104b86fd6c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-87",
+    "name": "Shared Discovery",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "As an additional cost to cast this spell, tap four untapped creatures you control.\nDraw three cards.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ec0b99f1-d706-4332-a1c2-86d789919069",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-220",
+    "name": "Ogre's Cleaver",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [
+      "Equipment"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Equipped creature gets +5/+0.\nEquip {5}",
+    "keywords": [
+      "equip"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ec319380-bede-49e8-9d0c-473688033601",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-81",
+    "name": "Reality Spasm",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{X}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Choose one —\n• Tap X target permanents.\n• Untap X target permanents.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ec85a97d-4f02-4d0d-ab9a-e172e327da0e",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-67",
+    "name": "Fleeting Distraction",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw",
+      "removal"
+    ],
+    "oracleText": "Target creature gets -1/-0 until end of turn.\nDraw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ed843c4d-28b5-4a4c-8bae-8f03f329bf2b",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-89",
+    "name": "Sphinx of Magosi",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{3}{U}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Sphinx"
+    ],
+    "rarity": "rare",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Flying\n{2}{U}: Draw a card, then put a +1/+1 counter on this creature.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "eff88609-f55e-45c5-be10-087d88789a83",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-26",
+    "name": "Hyena Umbra",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +1/+1 and has first strike.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f1461e2f-fb1d-4092-9935-4cee092f27e7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-203",
+    "name": "Overgrown Battlement",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\n{T}: Add {G} for each creature you control with defender.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f2e3d197-e978-4ec6-ab69-3c5fd8ac3fc1",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-19",
+    "name": "Eland Umbra",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +0/+4.\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "keywords": [
+      "umbra armor",
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f3a2ec16-bee4-4dfd-81cb-cb81b017170c",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-84",
+    "name": "Renegade Doppelganger",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Shapeshifter"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another creature you control enters, you may have this creature become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f6453040-38a3-4d3a-8e4b-51b72aa80186",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-219",
+    "name": "Keening Stone",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 6,
+    "manaCost": "{6}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "{5}, {T}: Target player mills X cards, where X is the number of cards in that player's graveyard.",
+    "keywords": [
+      "mill"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f6f9355b-3a3e-417c-9fbc-afddb4d8f9af",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-23",
+    "name": "Guard Duty",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature has defender.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f77efd36-f9e7-4c34-a6ee-9e1c9b273fb7",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-129",
+    "name": "Thought Gorger",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Horror"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Trample\nWhen this creature enters, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.\nWhen this creature leaves the battlefield, draw a card for each +1/+1 counter on it.",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f9b6b512-6252-4899-bb9c-5c304f37d10a",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-85",
+    "name": "Sea Gate Oracle",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fd056c91-5026-41ea-bc9e-68078d78ca82",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-34",
+    "name": "Lone Missionary",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Monk"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you gain 4 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fdc00f4b-ca9a-468a-91e1-c81fe6585765",
+      "setCode": "roe"
+    }
+  },
+  {
+    "id": "roe-78",
+    "name": "Mnemonic Wall",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Defender\nWhen this creature enters, you may return target instant or sorcery card from your graveyard to your hand.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ffaebb4a-cb9b-4ac8-b661-3e63d9d984f4",
+      "setCode": "roe"
+    }
+  }
+]

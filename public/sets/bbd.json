@@ -1,0 +1,8551 @@
+[
+  {
+    "id": "bbd-149",
+    "name": "Morbid Curiosity",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "draw"
+    ],
+    "oracleText": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nDraw cards equal to the mana value of the sacrificed permanent.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "03898f46-a26c-4765-8f1e-ea976fc53d7e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-116",
+    "name": "Coralhelm Guide",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Scout",
+      "Ally"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{4}{U}: Target creature can't be blocked this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0389a652-4ca8-45ab-ab3f-624c8f2626f7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-46",
+    "name": "Fan Favorite",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {3} of this spell's cost.)\n{2}: This creature gets +1/+1 until end of turn. Any player may activate this ability.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "062fe308-f892-446d-8f85-f6e77bb00977",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-239",
+    "name": "Millennial Gargoyle",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Gargoyle"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "068e7803-7c9f-43d7-b6dc-8e1390d902d0",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-84",
+    "name": "Sea of Clouds",
+    "colors": [],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you have two or more opponents.\n{T}: Add {W} or {U}.",
+    "keywords": [],
+    "produces": [
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "080aebe8-535e-4632-b733-8aba98abff22",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-172",
+    "name": "Dragon Breath",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature has haste.\n{R}: Enchanted creature gets +1/+0 until end of turn.\nWhen a creature with mana value 6 or greater enters, you may return this card from your graveyard to the battlefield attached to that creature.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0900c3b6-cf56-4089-a1e3-c1f53edcf23a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-142",
+    "name": "Doomed Dissenter",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature dies, create a 2/2 black Zombie creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0992cacb-ba33-4f0c-a1b1-cf747f754fd3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-100",
+    "name": "Oreskos Explorer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Cat",
+      "Scout"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0a4eff8a-ffb0-4d6c-b942-fe417d3283aa",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-37",
+    "name": "Nimbus Champion",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Avatar",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever this creature attacks, you may return target creature to its owner's hand if that creature's power is less than or equal to the number of Warriors your team controls.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0b247847-25d9-4220-bd7b-1db9df445ec8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-3",
+    "name": "Regna, the Redeemer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{W}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Angel"
+    ],
+    "rarity": "rare",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Krav, the Unredeemed (When this creature enters, target player may put Krav into their hand from their library, then shuffle.)\nFlying\nAt the beginning of each end step, if your team gained life this turn, create two 1/1 white Warrior creature tokens.",
+    "keywords": [
+      "flying",
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0c2bf475-9845-40ed-9f55-669325fb6183",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-69",
+    "name": "Decorated Champion",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another Warrior your team controls enters, put a +1/+1 counter on this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0cee6784-3171-4f28-af3d-f7993bc45303",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-131",
+    "name": "Sower of Temptation",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Faerie",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature enters, gain control of target creature for as long as this creature remains on the battlefield.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0d4a3eb3-8b28-49f7-a06c-eae26da6026b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-143",
+    "name": "Eyeblight Assassin",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Assassin"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "When this creature enters, target creature an opponent controls gets -1/-1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0e2a973f-772e-469b-8c70-c2cecfcc9353",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-210",
+    "name": "Return to the Earth",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Destroy target artifact, enchantment, or creature with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "0e7a0409-02f1-43c2-b4f1-e7ce7f371789",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-47",
+    "name": "Gang Up",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {X} of this spell's cost. You choose the value of X.)\nDestroy target creature with power X or less.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "10d01449-3e4e-44ef-90aa-9489c86c57df",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-44",
+    "name": "Archfiend of Despair",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 8,
+    "manaCost": "{6}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Demon"
+    ],
+    "rarity": "mythic",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nYour opponents can't gain life.\nAt the beginning of each end step, each opponent loses life equal to the life that player lost this turn. (Damage causes loss of life.)",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "11d8b7ac-fb65-4496-9d9f-184fa8ad8012",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-246",
+    "name": "Spectral Searchlight",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Choose a player. That player adds one mana of any color they choose.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "17094ffd-a886-44cc-95c7-c6297aaf8767",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-43",
+    "name": "Zndrsplt's Judgment",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "For each player, choose friend or foe. Each friend creates a token that's a copy of a creature they control. Each foe returns a creature they control to its owner's hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "17eed02c-e2af-4642-b411-1b20494109a7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-244",
+    "name": "Pierce Strider",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Phyrexian",
+      "Construct"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, target opponent loses 3 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1dd4c278-4215-4582-8725-bc4b0b664d13",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-49",
+    "name": "Mindblade Render",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Azra",
+      "Warrior"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Whenever your opponents are dealt combat damage, if any of that damage was dealt by a Warrior, you draw a card and you lose 1 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1f994e2b-1784-4bb7-9784-ac2de600cf5f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-113",
+    "name": "Benthic Giant",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Giant"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "keywords": [
+      "hexproof"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "1ff8671d-4da4-4dc2-a8c4-d695ff1aca0f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-36",
+    "name": "Huddle Up",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Assist (Another player can pay up to {2} of this spell's cost.)\nTwo target players each draw a card.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "202e69fd-fdf6-4b40-815b-107049e19edf",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-242",
+    "name": "Night Market Guard",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Construct"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature can block an additional creature each combat.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2098bb0f-6ab5-407c-93f7-fee3b385926e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-53",
+    "name": "Thrilling Encore",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Put onto the battlefield under your control all creature cards in all graveyards that were put there from the battlefield this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "20b4d2f6-c49c-45d7-b172-2628d336e843",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-81",
+    "name": "Bountiful Promenade",
+    "colors": [],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you have two or more opponents.\n{T}: Add {G} or {W}.",
+    "keywords": [],
+    "produces": [
+      "G",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "21865ed6-5edd-41f4-9ae0-f501872d91dc",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-160",
+    "name": "Slum Reaper",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Horror"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, each player sacrifices a creature of their choice.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "221b02f6-12d1-4228-b56c-4fe66b1e66de",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-147",
+    "name": "Last Gasp",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Target creature gets -3/-3 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2305f05b-8ca6-4256-9d66-fe84063bda9f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-79",
+    "name": "Sentinel Tower",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "removal"
+    ],
+    "oracleText": "Whenever an instant or sorcery spell is cast during your turn, this artifact deals damage to any target equal to 1 plus the number of instant and sorcery spells cast before that spell this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "25d9500e-a536-4f8e-bfdd-6cb08f709890",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-115",
+    "name": "Claustrophobia",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "263c47d3-7804-47db-b8a1-4a1dc3837dff",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-88",
+    "name": "Angelic Gift",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has flying.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "27534f38-5c21-4bad-84eb-0145a5ea682e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-252",
+    "name": "Swamp",
+    "colors": [],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Swamp"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {B}.)",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "296d546a-7481-4cb9-9170-59402592507b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-195",
+    "name": "Doubling Season",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "29ba5a2d-d787-4214-8cd7-7f2bcea938f8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-197",
+    "name": "Feral Hydra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Hydra",
+      "Beast"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature enters with X +1/+1 counters on it.\n{3}: Put a +1/+1 counter on this creature. Any player may activate this ability.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2b62df43-ff0b-4f2c-8d78-dafefb5e23f7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-202",
+    "name": "Hunted Wumpus",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "uncommon",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, each other player may put a creature card from their hand onto the battlefield.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2bf7258f-83c0-4cb0-8b1c-1f0c131abcd3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-50",
+    "name": "Sickle Dancer",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks, if your team controls another Warrior, this creature gets +1/+1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2c0c1f54-3868-4009-b0eb-de787cd7e5cc",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-248",
+    "name": "Tyrant's Machine",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{4}, {T}: Tap target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2c697b0b-edba-491a-b40e-f88572a6e955",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-21",
+    "name": "Ley Weaver",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Druid"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Lore Weaver (When this creature enters, target player may put Lore Weaver into their hand from their library, then shuffle.)\n{T}: Untap two target lands.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2c7e9d68-d419-4ec5-97e9-2478ecb7007f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-231",
+    "name": "Urborg Drake",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Drake"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nThis creature attacks each combat if able.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2c87088f-6613-413b-aef9-0ef08c6b637f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-62",
+    "name": "Najeela, the Blade-Blossom",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "mythic",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Whenever a Warrior attacks, you may have its controller create a 1/1 white Warrior creature token that's tapped and attacking.\n{W}{U}{B}{R}{G}: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate only during combat.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2cb1d1da-6077-46b5-8c63-39882b8016f2",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-63",
+    "name": "Stadium Vendors",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, choose a player. That player adds two mana of any one color they choose.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2d25baa1-4794-4bed-bf0c-7d99f39f9656",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-136",
+    "name": "True-Name Nemesis",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Rogue"
+    ],
+    "rarity": "mythic",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As this creature enters, choose a player.\nThis creature has protection from the chosen player.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2da0b45b-0ca9-40c4-bc7f-791039bc1876",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-40",
+    "name": "Soaring Show-Off",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Bird",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature enters, each player draws a card.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2e6c52da-efc8-4279-b6b5-01e490bcb035",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-130",
+    "name": "Reckless Scholar",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Target player draws a card, then discards a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2e79bf8d-0248-49ff-adc2-3b735cbffc10",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-90",
+    "name": "Champion of Arashin",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dog",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+    "keywords": [
+      "lifelink"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "2f7e5122-89ff-4a25-96a5-fee5f96da7f2",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-153",
+    "name": "Nyxathid",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "rare",
+    "power": 7,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "As this creature enters, choose an opponent.\nThis creature gets -1/-1 for each card in the chosen player's hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "303b99b9-449a-4611-8130-e7aeba42f3d1",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-108",
+    "name": "Sparring Mummy",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, untap target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "337f8889-d814-4422-ac6e-1416e5e4d4d1",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-16",
+    "name": "Chakram Slinger",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Partner with Chakram Retriever (When this creature enters, target player may put Chakram Retriever into their hand from their library, then shuffle.)\n{R}, {T}: This creature deals 2 damage to target player or planeswalker.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3414b206-caff-4240-82ed-a1bb9c763d2f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-245",
+    "name": "Seer's Lantern",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Add {C}.\n{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "keywords": [
+      "scry"
+    ],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "348c4c68-c16d-4b65-821f-dc7e2c3eaec7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-205",
+    "name": "Lead by Example",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Support 2. (Put a +1/+1 counter on each of up to two target creatures.)",
+    "keywords": [
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3525b8f3-8b5b-4f1e-9b18-8e925cf45413",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-24",
+    "name": "Aurora Champion",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks, if your team controls another Warrior, tap target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "35bb9e4e-3cfb-4794-bd03-04840b5fe1dc",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-91",
+    "name": "Doomed Traveler",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "When this creature dies, create a 1/1 white Spirit creature token with flying.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "35c69ff9-00f1-4c65-9f73-90775bf9885a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-218",
+    "name": "Auger Spree",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +4/-4 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "35d7389d-0a65-4db2-ac3b-1ec369a84161",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-139",
+    "name": "Assassinate",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target tapped creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "369521a4-0635-420f-81c3-352b2147974b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-227",
+    "name": "Rhox Brute",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{R}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Rhino",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "382fba19-78d3-4aa3-9508-c7c1f13e0b33",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-59",
+    "name": "Khorvath's Fury",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "For each player, choose friend or foe. Each friend discards all cards from their hand, then draws that many cards plus one. Khorvath's Fury deals damage to each foe equal to the number of cards in their hand.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "39107560-58d5-4a7d-84a0-df26f89856b4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-191",
+    "name": "Canopy Spider",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spider"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Reach (This creature can block creatures with flying.)",
+    "keywords": [
+      "reach"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "39d29122-f10b-4172-aa38-28c42c27f21f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-187",
+    "name": "War's Toll",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever an opponent taps a land for mana, tap all lands that player controls.\nIf a creature an opponent controls attacks, all creatures that opponent controls attack if able.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3a08f7fe-8ca9-4604-85c8-9050298730ea",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-217",
+    "name": "Apocalypse Hydra",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{X}{R}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Hydra"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "This creature enters with X +1/+1 counters on it. If X is 5 or more, it enters with an additional X +1/+1 counters on it.\n{1}{R}, Remove a +1/+1 counter from this creature: It deals 1 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3a3bae04-6da2-485d-812e-ea2f7e45a9f3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-17",
+    "name": "Soulblade Corrupter",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Soulblade Renewer (When this creature enters, target player may put Soulblade Renewer into their hand from their library, then shuffle.)\nDeathtouch\nWhenever a creature with a +1/+1 counter on it attacks one of your opponents, that creature gains deathtouch until end of turn.",
+    "keywords": [
+      "partner with",
+      "partner",
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3d65c040-42f5-4ea0-a313-0e2b364e55df",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-204",
+    "name": "Kraul Warrior",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Insect",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{5}{G}: This creature gets +3/+3 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3e57df40-d73c-46fa-beef-014cc0df34a5",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-30",
+    "name": "Regna's Sanction",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "For each player, choose friend or foe. Each friend puts a +1/+1 counter on each creature they control. Each foe chooses one untapped creature they control, then taps the rest.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "3ea0c6c5-f782-40bf-a0c9-ee7e97963146",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-8",
+    "name": "Gorm the Great",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Giant",
+      "Warrior"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Virtus the Veiled (When this creature enters, target player may put Virtus into their hand from their library, then shuffle.)\nVigilance\nGorm must be blocked if able, and Gorm must be blocked by two or more creatures if able.",
+    "keywords": [
+      "partner with",
+      "vigilance",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "41603938-9527-42fc-a870-b662c3871ae3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-157",
+    "name": "Rotfeaster Maggot",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Insect"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [
+      "graveyard",
+      "removal"
+    ],
+    "oracleText": "When this creature enters, exile target creature card from a graveyard. You gain life equal to that card's toughness.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "41b5e1d4-2a7e-4d34-8ca7-ba8ccbf8f775",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-256",
+    "name": "Rowan Kenrith",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Rowan"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 4,
+    "references": [],
+    "oracleText": "+2: During target player's next turn, each creature that player controls attacks if able.\n−2: Rowan Kenrith deals 3 damage to each tapped creature target player controls.\n−8: Target player gets an emblem with \"Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.\"\nPartner with Will Kenrith\nRowan Kenrith can be your commander.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "41d7ff4b-c454-4282-ab7c-438e22bbb779",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-186",
+    "name": "Trumpet Blast",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Attacking creatures get +2/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4311547d-abed-4612-8fa2-1e1314f5d10e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-177",
+    "name": "Expedite",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Target creature gains haste until end of turn.\nDraw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "44072f87-3a99-49dd-9709-85aa83d4819f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-102",
+    "name": "Raptor Companion",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dinosaur"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "45385c8e-fff9-46e7-97e8-f946306b5147",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-229",
+    "name": "Savage Ventmaw",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever this creature attacks, add {R}{R}{R}{G}{G}{G}. Until end of turn, you don't lose this mana as steps and phases end.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [
+      "G",
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "471cd229-c80f-4dc5-a174-96984fc80a2f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-137",
+    "name": "Watercourser",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{U}: This creature gets +1/-1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4826219d-c9f0-4589-8b5e-32128259c374",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-126",
+    "name": "Opportunity",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player draws four cards.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "49233196-82e4-44c4-86f0-6eb2db7293a3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-7",
+    "name": "Virtus the Veiled",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Azra",
+      "Assassin"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Gorm the Great (When this creature enters, target player may put Gorm into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Virtus deals combat damage to a player, that player loses half their life, rounded up.",
+    "keywords": [
+      "partner with",
+      "partner",
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4a45a631-f899-4414-8e0a-64d987e9ba8b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-213",
+    "name": "Skyshroud Claim",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "4f1579c8-2ec9-49af-bc2e-f4d16a0f1221",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-89",
+    "name": "Battle Mastery",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.)",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5266595d-5320-4dea-8e4a-dd6c1a032871",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-14",
+    "name": "Blaring Captain",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Azra",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Blaring Recruiter (When this creature enters, target player may put Blaring Recruiter into their hand from their library, then shuffle.)\nWhenever this creature attacks, attacking Warriors get +1/+1 until end of turn.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "529ff592-88bd-4bab-8f6a-637bb08d9198",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-127",
+    "name": "Oracle's Insight",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Enchant creature\nEnchanted creature has \"{T}: Scry 1, then draw a card.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom.)",
+    "keywords": [
+      "enchant",
+      "scry"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "533d455a-88c9-4e41-b31e-5dcf821c6f6f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-176",
+    "name": "Enthralling Victor",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "559a4875-2c91-4013-afc9-7832d8e1e818",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-254",
+    "name": "Forest",
+    "colors": [],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Forest"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {G}.)",
+    "keywords": [],
+    "produces": [
+      "G"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "55b9e2db-d37e-4a87-ae5a-88a8e45d7419",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-226",
+    "name": "Relentless Hunter",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{R}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}{R}{G}: This creature gets +1/+1 and gains trample until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5601725f-d733-4052-86eb-5d11baad8c34",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-208",
+    "name": "Primal Huntbeast",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "keywords": [
+      "hexproof"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "56e027ec-430f-4c7d-9794-a431efa3693f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-166",
+    "name": "Battle-Rattle Shaman",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Shaman"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "57d68ac6-49ce-4df6-a140-98579fa02388",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-212",
+    "name": "Seedborn Muse",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Spirit"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Untap all permanents you control during each other player's untap step.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5842e1fd-bdf9-45e4-a478-65e80c737581",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-133",
+    "name": "Switcheroo",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Exchange control of two target creatures.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "594c2f20-3e46-4cc6-a17c-ea1283e6d167",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-156",
+    "name": "Quest for the Gravelord",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Whenever a creature dies, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Create a 5/5 black Zombie Giant creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5972edbd-ffe8-46e8-9c3e-5399c7d6879b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-70",
+    "name": "Generous Patron",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Advisor"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "When this creature enters, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)\nWhenever you put one or more counters on a creature you don't control, draw a card.",
+    "keywords": [
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "59ea095b-af0e-4178-b6f4-816abb635fc0",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-120",
+    "name": "Kitesail Corsair",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Pirate"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature has flying as long as it's attacking.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5a05eda9-0cfe-4a28-9f98-9f95c6fdba76",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-240",
+    "name": "Mind's Eye",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 5,
+    "manaCost": "{5}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5a0e1ef4-fdb1-42bd-8e46-ba84cf850939",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-11",
+    "name": "Pir, Imaginative Rascal",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Toothy, Imaginary Friend (When this creature enters, target player may put Toothy into their hand from their library, then shuffle.)\nIf one or more counters would be put on a permanent your team controls, that many plus one of each of those kinds of counters are put on that permanent instead.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5a7241f5-4d69-47fe-b037-95037008184c",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-180",
+    "name": "Lightning Talons",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5a7e5dd8-2c7d-4dc1-b991-ce90d8e86b43",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-224",
+    "name": "Jelenn Sphinx",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{W}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Sphinx"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying, vigilance\nWhenever this creature attacks, other attacking creatures get +1/+1 until end of turn.",
+    "keywords": [
+      "flying",
+      "vigilance"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5e868618-c1b0-4ab9-96b2-6435e52b8b07",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-9",
+    "name": "Khorvath Brightflame",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Sylvia Brightspear (When this creature enters, target player may put Sylvia into their hand from their library, then shuffle.)\nFlying, haste\nKnights your team controls have flying and haste.",
+    "keywords": [
+      "flying",
+      "partner with",
+      "haste",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "5fa0404b-757a-4aee-bcd8-6150938d0fba",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-23",
+    "name": "Arena Rector",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Cleric"
+    ],
+    "rarity": "mythic",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "60a24826-55fc-4b1b-98bf-3204ad852765",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-112",
+    "name": "Tandem Tactics",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6186835f-7e7f-4342-b981-f97f8f9f49df",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-211",
+    "name": "Saddleback Lagac",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Lizard"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+    "keywords": [
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "634f9544-5ac3-4566-aa73-65a3930b559b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-83",
+    "name": "Morphic Pool",
+    "colors": [],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you have two or more opponents.\n{T}: Add {U} or {B}.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "63b9efd6-0709-4d4b-a907-d8a77ec1a327",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-34",
+    "name": "Fumble",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Return target creature to its owner's hand. Gain control of all Auras and Equipment that were attached to it, then attach them to another creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "64019dd4-b00b-4521-a869-e302f23167da",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-85",
+    "name": "Spire Garden",
+    "colors": [],
+    "colorIdentity": [
+      "G",
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you have two or more opponents.\n{T}: Add {R} or {G}.",
+    "keywords": [],
+    "produces": [
+      "G",
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "64943615-7543-4acd-a884-22ece8f0ed3e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-174",
+    "name": "Earth Elemental",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "659eeb25-b79b-4229-9d84-e28f6a636958",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-194",
+    "name": "Daggerback Basilisk",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Basilisk"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "keywords": [
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "66587523-b973-4f05-a601-cf25d61a903a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-230",
+    "name": "Unflinching Courage",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{G}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "66b0ae8c-7fd7-4a2a-aba0-6b0e8a332650",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-51",
+    "name": "Stunning Reversal",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "The next time you would lose the game this turn, instead draw seven cards and your life total becomes 1.\nExile Stunning Reversal.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6714197d-7420-43a1-8b08-4e1fd6355b54",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-4",
+    "name": "Krav, the Unredeemed",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Demon"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Regna, the Redeemer (When this creature enters, target player may put Regna into their hand from their library, then shuffle.)\n{B}, Sacrifice X creatures: Target player draws X cards and gains X life. Put X +1/+1 counters on Krav.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "67bd3c49-ff73-4630-a4ee-c782f03e511d",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-66",
+    "name": "Charging Binox",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 8,
+    "manaCost": "{7}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "common",
+    "power": 7,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {7} of this spell's cost.)\nTrample",
+    "keywords": [
+      "assist",
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "68222ab7-7b9c-43e5-b80e-db643d80a6d9",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-221",
+    "name": "Enduring Scalelord",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{G}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever one or more +1/+1 counters are put on another creature you control, you may put a +1/+1 counter on this creature.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "68eb8367-f3cf-46d3-9af4-c4b46605e091",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-33",
+    "name": "Arcane Artisan",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "token",
+      "removal"
+    ],
+    "oracleText": "{2}{U}, {T}: Target player draws a card, then exiles a card from their hand. If a creature card is exiled this way, that player creates a token that's a copy of that card.\nWhen this creature leaves the battlefield, exile all tokens created with it at the beginning of the next end step.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6b2441e0-06f6-4455-8fa8-a34c3e241a56",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-232",
+    "name": "Consulate Skygate",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\nReach (This creature can block creatures with flying.)",
+    "keywords": [
+      "reach",
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6d808a30-f1b5-484e-a90e-0a9f751ef597",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-140",
+    "name": "Daggerdrome Imp",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Imp"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+    "keywords": [
+      "flying",
+      "lifelink"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6d9417ab-e2af-436b-9677-6e0120770d80",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-96",
+    "name": "Long Road Home",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6f883c9b-c9c0-4777-b0a4-186620243f02",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-110",
+    "name": "Swords to Plowshares",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Exile target creature. Its controller gains life equal to its power.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "6ff9af62-1895-465a-b1f3-61f0d8318958",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-132",
+    "name": "Spell Snare",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target spell with mana value 2.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "72122836-a2f3-4001-9f08-93a7bf011ab1",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-101",
+    "name": "Pacifism",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature can't attack or block.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "73d4f469-ff5c-4122-a254-2a4a2b1b7bf7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-54",
+    "name": "Virtus's Maneuver",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "For each player, choose friend or foe. Each friend returns a creature card from their graveyard to their hand. Each foe sacrifices a creature of their choice.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "73f2e058-c1a8-4a66-b1da-1b3885c6736f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-41",
+    "name": "Spellseeker",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "74b4c336-5d4c-4bc5-b82a-35084a6ad808",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-95",
+    "name": "Lightwalker",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature has flying as long as it has a +1/+1 counter on it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "76724f0d-d588-4043-9fe9-f741599fd214",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-5",
+    "name": "Zndrsplt, Eye of Wisdom",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Homunculus"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Partner with Okaun, Eye of Chaos (When this creature enters, target player may put Okaun into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, draw a card.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "76c33402-a022-4d2f-9a83-4b8ddc04e971",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-203",
+    "name": "Karametra's Favor",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Enchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature has \"{T}: Add one mana of any color.\"",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "77026cf6-7e89-41a6-8279-de1068569a02",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-118",
+    "name": "Frost Lynx",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental",
+      "Cat"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "781f9dee-f246-4ea5-a829-79c23a097ffb",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-2",
+    "name": "Rowan Kenrith",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Rowan"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 4,
+    "references": [],
+    "oracleText": "+2: During target player's next turn, each creature that player controls attacks if able.\n−2: Rowan Kenrith deals 3 damage to each tapped creature target player controls.\n−8: Target player gets an emblem with \"Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.\"\nPartner with Will Kenrith\nRowan Kenrith can be your commander.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "789e690b-e4f3-499e-aa58-97c3b63b8d32",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-222",
+    "name": "Evil Twin",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{U}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Shapeshifter"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "You may have this creature enter as a copy of any creature on the battlefield, except it has \"{U}{B}, {T}: Destroy target creature with the same name as this creature.\"",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7b1969ce-3bf1-4beb-bbf8-22edfda8e3f8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-243",
+    "name": "Peace Strider",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Construct"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you gain 3 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7bb1be52-0275-4938-8d3b-d9f06d77ce66",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-52",
+    "name": "Thrasher Brute",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Orc",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature or another Warrior your team controls enters, target opponent loses 1 life and you gain 1 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7c2a6f9c-49c4-433c-9269-fb075f2e0902",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-163",
+    "name": "Tenacious Dead",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 1,
+    "manaCost": "{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Skeleton",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, you may pay {1}{B}. If you do, return it to the battlefield tapped under its owner's control.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7d88901c-3fa8-4b73-a584-3efa118338f1",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-75",
+    "name": "Azra Oddsmaker",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Azra",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "At the beginning of combat on your turn, you may discard a card. If you do, choose a creature. Whenever that creature deals combat damage to a player this turn, you draw two cards.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7f5e6a5a-18ee-438f-ab16-694e19a2410e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-220",
+    "name": "Dinrova Horror",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{U}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Horror"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, return target permanent to its owner's hand, then that player discards a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "7f7918de-71c8-4c46-bde2-f7357767dc08",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-86",
+    "name": "Angel of Retribution",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 7,
+    "manaCost": "{6}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Angel"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying, first strike",
+    "keywords": [
+      "flying",
+      "first strike"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "807f4edf-a961-4f52-a44e-abde0fd35722",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-196",
+    "name": "Elvish Visionary",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Shaman"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "When this creature enters, draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "809051a2-398f-4f02-8510-d56711d60551",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-94",
+    "name": "Land Tax",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "810a3792-a689-4849-bc14-fb3c71153aba",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-82",
+    "name": "Luxury Suite",
+    "colors": [],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {R}.",
+    "keywords": [],
+    "produces": [
+      "B",
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "81298b0b-9d47-4777-998e-0c17821ef536",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-225",
+    "name": "Kiss of the Amesha",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{W}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player gains 7 life and draws two cards.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "82843400-2705-4ec3-b677-1027df6db62e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-145",
+    "name": "Grotesque Mutation",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +3/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "83684009-f91d-4503-bdbb-181c53f394de",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-173",
+    "name": "Dragon Hatchling",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\n{R}: This creature gets +1/+0 until end of turn.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "83cb9ea2-ce64-437e-afac-5029a34bf10f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-60",
+    "name": "Lava-Field Overlord",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 9,
+    "manaCost": "{7}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Assist (Another player can pay up to {7} of this spell's cost.)\nFlying\nWhen this creature enters, it deals 4 damage to target creature an opponent controls.",
+    "keywords": [
+      "flying",
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8465c5dd-c246-49e4-89bf-18e022816162",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-29",
+    "name": "Play of the Game",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 8,
+    "manaCost": "{6}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Assist (Another player can pay up to {6} of this spell's cost.)\nExile all nonland permanents.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "85b09595-0d81-4cc0-872f-9a6fb539298b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-164",
+    "name": "Bathe in Dragonfire",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Bathe in Dragonfire deals 4 damage to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "85eff8ed-ba1c-492f-ae29-0698bb7f9849",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-45",
+    "name": "Bloodborn Scoundrels",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Rogue"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {5} of this spell's cost.)\nWhen this creature enters, target opponent loses 2 life and you gain 2 life.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8750abff-ae70-4abe-a51a-b93f71b48ef1",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-42",
+    "name": "Spellweaver Duo",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 7,
+    "manaCost": "{6}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {6} of this spell's cost.)\nWhen this creature enters, you may return target tapped creature to its owner's hand.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "87ba22f6-5299-46c3-bd01-9140634e60ea",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-99",
+    "name": "Midnight Guard",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever another creature enters, untap this creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "87c1d85d-b2b8-4c9d-84fa-2566b14cb5ea",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-76",
+    "name": "Last One Standing",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{B}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Choose a creature at random, then destroy the rest.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "87e2ee71-293d-452b-89a5-b15990186f5b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-18",
+    "name": "Soulblade Renewer",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Soulblade Corrupter (When this creature enters, target player may put Soulblade Corrupter into their hand from their library, then shuffle.)\nWhen this creature enters, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+    "keywords": [
+      "support",
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8897c406-fdec-44af-bc66-eacf245874a8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-58",
+    "name": "Cheering Fanatic",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks, choose a card name. Spells with the chosen name cost {1} less to cast this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "88cf8e2b-482e-4d40-a8d7-1a74cec3d983",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-119",
+    "name": "Impulse",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "895c961f-61cf-49e8-9b80-97140a5de19a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-162",
+    "name": "Tavern Swindler",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "89b2fd2b-99b5-4262-a70a-93fd58699fb7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-31",
+    "name": "Skystreamer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Griffin"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {4} of this spell's cost.)\nFlying\nWhen this creature enters, target player gains 4 life.",
+    "keywords": [
+      "flying",
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "89d87407-7f92-47d6-bd89-69f39e0e0820",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-255",
+    "name": "Will Kenrith",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{U}{U}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Will"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 4,
+    "references": [],
+    "oracleText": "+2: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities.\n−2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast.\n−8: Target player gets an emblem with \"Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\"\nPartner with Rowan Kenrith\nWill Kenrith can be your commander.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8a62032f-19cb-4bbb-9298-28e19c8ea189",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-38",
+    "name": "Out of Bounds",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {3} of this spell's cost.)\nCounter target spell.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8b457672-902b-42c0-9d53-a3c21be2f500",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-135",
+    "name": "Totally Lost",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Put target nonland permanent on top of its owner's library.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8ccc3190-3220-4f23-b7aa-421e7ed104e9",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-117",
+    "name": "Fog Bank",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender (This creature can't attack.)\nFlying\nPrevent all combat damage that would be dealt to and dealt by this creature.",
+    "keywords": [
+      "flying",
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "8efa098b-9e52-4a5e-9554-007c5b1efdca",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-129",
+    "name": "Phantom Warrior",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Illusion",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature can't be blocked.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "93044619-0c1e-4e42-a654-a8869c73f8c5",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-235",
+    "name": "Genesis Chamber",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "token"
+    ],
+    "oracleText": "Whenever a nontoken creature enters, if this artifact is untapped, that creature's controller creates a 1/1 colorless Myr artifact creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "93bd7e73-63dc-45b2-aaa8-984be8b900ab",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-68",
+    "name": "The Crowd Goes Wild",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {X} of this spell's cost. You choose the value of X.)\nSupport X. (Put a +1/+1 counter on each of up to X target creatures.)\nEach creature with a +1/+1 counter on it gains trample until end of turn.",
+    "keywords": [
+      "support",
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "94ae9160-5bc0-4162-8ea6-ef11c387c195",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-241",
+    "name": "Mycosynth Lattice",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 6,
+    "manaCost": "{6}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "All permanents are artifacts in addition to their other types.\nAll cards that aren't on the battlefield, spells, and permanents are colorless.\nPlayers may spend mana as though it were mana of any color.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "94f89714-3b26-46a2-b9a8-3e664f391cd9",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-13",
+    "name": "Blaring Recruiter",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Partner with Blaring Captain (When this creature enters, target player may put Blaring Captain into their hand from their library, then shuffle.)\n{2}{W}: Create a 1/1 white Warrior creature token.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "959bb0f1-0af3-4070-9303-684a07edfcfa",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-159",
+    "name": "Shambling Ghoul",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature enters tapped.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "95a52cb8-e02f-477a-adb6-2bfb7836c704",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-103",
+    "name": "Rebuke",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target attacking creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9671c116-98cb-43b4-ace2-1e4f51a4a4c6",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-216",
+    "name": "Wandering Wolf",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wolf"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Creatures with power less than this creature's power can't block it.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "96d4361f-a889-4031-8b95-27dbef3922f3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-253",
+    "name": "Mountain",
+    "colors": [],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Mountain"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {R}.)",
+    "keywords": [],
+    "produces": [
+      "R"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "97a9360e-a02b-4dde-b14c-620ed0c54804",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-237",
+    "name": "Hexplate Golem",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 7,
+    "manaCost": "{7}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Golem"
+    ],
+    "rarity": "common",
+    "power": 5,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "98534255-d8cd-4f42-8b90-f5672fb879a2",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-27",
+    "name": "Dwarven Lightsmith",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dwarf",
+      "Cleric"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {5} of this spell's cost.)\nWhen this creature enters, creatures your team controls get +1/+1 until end of turn.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "98689a75-aa88-4c83-8104-0352b829503e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-200",
+    "name": "Giant Growth",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +3/+3 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9a487199-3ecc-4b22-9379-1be1f8406490",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-134",
+    "name": "Tidespout Tyrant",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 8,
+    "manaCost": "{5}{U}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Djinn"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhenever you cast a spell, return target permanent to its owner's hand.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9a7c2716-35ab-411d-8456-267e09833358",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-234",
+    "name": "Eager Construct",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Construct"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom.)",
+    "keywords": [
+      "scry"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9adf2525-e555-4174-b89a-ed1bef8711ef",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-249",
+    "name": "Yotian Soldier",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Vigilance",
+    "keywords": [
+      "vigilance"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9e71190b-c96c-4aea-9696-780c69eff395",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-98",
+    "name": "Mangara of Corondor",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{W}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Exile Mangara and target permanent.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9ec68ca8-a7d3-47d5-91cf-6806f3709e7a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-168",
+    "name": "Blood Feud",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature fights another target creature. (Each deals damage equal to its power to the other.)",
+    "keywords": [
+      "fight"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9f0ec743-46ac-4ace-9c48-8573c3b7a0fe",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-80",
+    "name": "Victory Chimes",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 3,
+    "manaCost": "{3}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Untap this artifact during each other player's untap step.\n{T}: A player of your choice adds {C}.",
+    "keywords": [],
+    "produces": [
+      "C"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "9f24a267-ae8d-4889-8875-7c7cb901d36d",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-92",
+    "name": "Expedition Raptor",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Bird"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature enters, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+    "keywords": [
+      "flying",
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a00b9b2f-4cd8-4c36-a2b2-40673dfb9f39",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-125",
+    "name": "Omenspeaker",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "keywords": [
+      "scry"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a026c260-eb95-4aa9-8310-73a4c4a453dd",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-170",
+    "name": "Borderland Marauder",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks, it gets +2/+0 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a1ef17d5-2698-4a29-b6d3-59592849e759",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-182",
+    "name": "Pathmaker Initiate",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a2cfcb26-565d-451c-9a99-00a8a84a033d",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-199",
+    "name": "Fertilid",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature enters with two +1/+1 counters on it.\n{1}{G}, Remove a +1/+1 counter from this creature: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a3244114-b854-4911-bc0d-76d18ce9d2ea",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-20",
+    "name": "Proud Mentor",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Impetuous Protege (When this creature enters, target player may put Impetuous Protege into their hand from their library, then shuffle.)\n{W}, {T}: Tap target creature.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a41ff277-d465-4e30-8291-3d5ca5763cff",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-247",
+    "name": "Stone Golem",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 5,
+    "manaCost": "{5}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Golem"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a579b67a-a5ac-496e-be41-9eabe29d0e93",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-207",
+    "name": "Plated Crusher",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 7,
+    "manaCost": "{4}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "uncommon",
+    "power": 7,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Trample\nHexproof (This creature can't be the target of spells or abilities your opponents control.)",
+    "keywords": [
+      "hexproof",
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "a5f38436-9edf-42a1-83ba-0f5210b2cb86",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-158",
+    "name": "Screeching Buzzard",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Bird"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature dies, each opponent discards a card.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ab285e6a-b937-4b34-ba20-662d36b9f3dc",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-10",
+    "name": "Sylvia Brightspear",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Knight"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Khorvath Brightflame (When this creature enters, target player may put Khorvath into their hand from their library, then shuffle.)\nDouble strike\nDragons your team controls have double strike.",
+    "keywords": [
+      "partner with",
+      "partner",
+      "double strike"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ab2b349a-1555-4aaa-8302-28667404e630",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-190",
+    "name": "Beast Within",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ab3e096a-d6e8-4148-bbea-f26fc67e2fe2",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-71",
+    "name": "Grothama, All-Devouring",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wurm"
+    ],
+    "rarity": "mythic",
+    "power": 10,
+    "toughness": 8,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Other creatures have \"Whenever this creature attacks, you may have it fight Grothama, All-Devouring.\"\nWhen Grothama leaves the battlefield, each player draws cards equal to the amount of damage dealt to Grothama this turn by sources they controlled.",
+    "keywords": [
+      "fight"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ab8935b1-ec87-4330-9952-9ef8cd344531",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-169",
+    "name": "Boldwyr Intimidator",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 7,
+    "manaCost": "{5}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Giant",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 5,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Cowards can't block Warriors.\n{R}: Target creature becomes a Coward until end of turn.\n{2}{R}: Target creature becomes a Warrior until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "aba9a42c-6bb8-4f77-9d3a-e749713b2431",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-185",
+    "name": "Thunder Strike",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "abdc38f3-194a-4f43-8ada-9cfc17094d20",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-152",
+    "name": "Noxious Dragon",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dragon"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature dies, you may destroy target creature with mana value 3 or less.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ac30ef04-3075-4e2a-a30a-b754456701ce",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-39",
+    "name": "Saltwater Stalwart",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Merfolk",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature deals damage to an opponent, target player draws a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ae11adef-57b1-4f39-951b-cd4d5c0a0b80",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-25",
+    "name": "Brightling",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Shapeshifter"
+    ],
+    "rarity": "mythic",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{W}: This creature gains vigilance until end of turn.\n{W}: This creature gains lifelink until end of turn.\n{W}: Return this creature to its owner's hand.\n{1}: This creature gets +1/-1 or -1/+1 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b11d200b-4bf0-4510-8bdb-9de310516286",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-167",
+    "name": "Blaze",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{X}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Blaze deals X damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b16d0422-61ea-4039-b1c1-e590ace9156e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-93",
+    "name": "Kor Spiritdancer",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kor",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "This creature gets +2/+2 for each Aura attached to it.\nWhenever you cast an Aura spell, you may draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b17a0634-bb6b-4aaa-8e20-43b47d250aa4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-233",
+    "name": "Culling Dais",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 2,
+    "manaCost": "{2}",
+    "superTypes": [],
+    "types": [
+      "Artifact"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact",
+      "draw"
+    ],
+    "oracleText": "{T}, Sacrifice a creature: Put a charge counter on this artifact.\n{1}, Sacrifice this artifact: Draw a card for each charge counter on this artifact.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b1fd69d0-754c-4b8d-90ad-908ab191e2a4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-15",
+    "name": "Chakram Retriever",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental",
+      "Dog"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Chakram Slinger (When this creature enters, target player may put Chakram Slinger into their hand from their library, then shuffle.)\nWhenever you cast a spell during your turn, untap target creature.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b57d518c-21bb-4451-8248-9ee838460c09",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-141",
+    "name": "Diabolic Intent",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card, put that card into your hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b58299a8-e674-46de-ae25-c98410e0b445",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-175",
+    "name": "Ember Beast",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Beast"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature can't attack or block alone.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b5d53c2b-32fe-4b92-bff1-e7416c0acd7c",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-73",
+    "name": "Pir's Whim",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles. Each foe sacrifices an artifact or enchantment of their choice.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b816ce6e-d876-4c6d-83ed-e3887dcfa5d5",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-151",
+    "name": "Noosegraf Mob",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Zombie"
+    ],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "This creature enters with five +1/+1 counters on it.\nWhenever a player casts a spell, remove a +1/+1 counter from this creature. If you do, create a 2/2 black Zombie creature token.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b8320434-70d6-48c6-a4cd-1cecc6a21ad4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-250",
+    "name": "Plains",
+    "colors": [],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Plains"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {W}.)",
+    "keywords": [],
+    "produces": [
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b9dbdef6-e141-45bc-9209-5c17a8ad135b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-72",
+    "name": "Jungle Wayfinder",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elf",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "b9f143f7-77e8-43c3-9da6-0d71d446a349",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-32",
+    "name": "Together Forever",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this enchantment enters, support 2. (Put a +1/+1 counter on each of up to two target creatures.)\n{1}: Choose target creature with a counter on it. When that creature dies this turn, return that card to its owner's hand.",
+    "keywords": [
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "baef97c2-9b1e-470f-8aeb-a64ef0e66eaa",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-64",
+    "name": "Stolen Strategy",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of your upkeep, exile the top card of each opponent's library. Until end of turn, you may cast spells from among those exiled cards, and you may spend mana as though it were mana of any color to cast those spells.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bb90e4b8-8f66-45f0-a457-a081f2ff231c",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-35",
+    "name": "Game Plan",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{5}{U}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Assist (Another player can pay up to {5} of this spell's cost.)\nEach player shuffles their hand and graveyard into their library, then draws seven cards. Exile Game Plan.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bc068891-c251-4eee-b5ca-342d9df33bdc",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-114",
+    "name": "Call to Heel",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Return target creature to its owner's hand. Its controller draws a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "bdedbb84-7abe-420d-8429-c2d77ee0ae36",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-1",
+    "name": "Will Kenrith",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{U}{U}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Planeswalker"
+    ],
+    "subTypes": [
+      "Will"
+    ],
+    "rarity": "mythic",
+    "power": null,
+    "toughness": null,
+    "loyalty": 4,
+    "references": [],
+    "oracleText": "+2: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities.\n−2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast.\n−8: Target player gets an emblem with \"Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\"\nPartner with Rowan Kenrith\nWill Kenrith can be your commander.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "be8061c6-21b8-4146-8917-c73a82060ffe",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-188",
+    "name": "Wrap in Flames",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c059d868-2e4a-466b-9faa-1be76a3a0378",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-198",
+    "name": "Fertile Ground",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c1797305-1cb0-4330-a6f2-66951037e9be",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-161",
+    "name": "Swarm of Bloodflies",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Insect"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nThis creature enters with two +1/+1 counters on it.\nWhenever another creature dies, put a +1/+1 counter on this creature.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c29ee93e-ca9d-4a36-9efe-806be1d537d9",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-74",
+    "name": "Archon of Valor's Reach",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{G}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Archon"
+    ],
+    "rarity": "rare",
+    "power": 5,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Flying, vigilance, trample\nAs this creature enters, choose artifact, enchantment, instant, sorcery, or planeswalker.\nPlayers can't cast spells of the chosen type.",
+    "keywords": [
+      "flying",
+      "vigilance",
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c43f47e3-ebb8-4d6e-a00c-4c190e2d3daf",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-155",
+    "name": "Prakhata Club Security",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Aetherborn",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c46da57d-bcb9-4303-aa1c-72d08bb2b5a8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-209",
+    "name": "Pulse of Murasa",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c591c615-69e8-4661-a089-8c4e152adac7",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-106",
+    "name": "Silverchase Fox",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Fox"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{1}{W}, Sacrifice this creature: Exile target enchantment.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c5fd3131-a37f-427e-9d4c-08c125ac767a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-184",
+    "name": "Shock",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Shock deals 2 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c8828ece-9583-429b-8013-35cfca955721",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-171",
+    "name": "Chain Lightning",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 1,
+    "manaCost": "{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "Chain Lightning deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "c9c607d3-a8bf-4ba3-9c10-7509f195b41f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-236",
+    "name": "Gold-Forged Sentinel",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 6,
+    "manaCost": "{6}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Chimera"
+    ],
+    "rarity": "uncommon",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ca1bcaee-52bf-4000-8ffa-ee5e04703de6",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-121",
+    "name": "Kraken Hatchling",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 1,
+    "manaCost": "{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Kraken"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cc1f65c8-4941-41ac-9340-f741725ec71c",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-65",
+    "name": "Bramble Sovereign",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Dryad"
+    ],
+    "rarity": "mythic",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "token"
+    ],
+    "oracleText": "Whenever another nontoken creature enters, you may pay {1}{G}. If you do, that creature's controller creates a token that's a copy of that creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cc2d644f-6fb9-406b-ba57-a9b3d1c9646b",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-28",
+    "name": "Jubilant Mascot",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Homunculus"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "At the beginning of combat on your turn, you may pay {3}{W}. If you do, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+    "keywords": [
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cc7c73fd-e5f8-40e6-97ed-bfff0d6cf8d8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-109",
+    "name": "Steppe Glider",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying, vigilance\n{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.",
+    "keywords": [
+      "flying",
+      "vigilance"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cca16c1b-92e1-40f5-9d1f-8106ab03d2f9",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-228",
+    "name": "Riptide Crab",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Crab"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Vigilance\nWhen this creature dies, draw a card.",
+    "keywords": [
+      "vigilance"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cdf9f3fb-40f5-4833-8638-5ddc2ba591f3",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-183",
+    "name": "Reckless Reveler",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Satyr"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "{R}, Sacrifice this creature: Destroy target artifact.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "cf7f2954-65f6-4944-ae68-8992cb0268f4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-138",
+    "name": "Assassin's Strike",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target creature. Its controller discards a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d06852b5-45dd-4351-a788-558e78d58126",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-178",
+    "name": "Flamewave Invoker",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Mutant"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "{7}{R}: This creature deals 5 damage to target player or planeswalker.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d14eb0c1-7709-44da-ba7a-1aa033efb4f8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-78",
+    "name": "Vampire Charmseeker",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "colorIdentity": [
+      "B",
+      "U"
+    ],
+    "manaValue": 8,
+    "manaCost": "{6}{U}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Wizard"
+    ],
+    "rarity": "uncommon",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Assist (Another player can pay up to {6} of this spell's cost.)\nFlying\nWhen this creature enters, return target instant, sorcery, or creature card from a graveyard to its owner's hand.",
+    "keywords": [
+      "flying",
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d26a4969-410c-4402-889e-d3623e1cb57c",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-104",
+    "name": "Royal Trooper",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature blocks, it gets +2/+2 until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d2ef5a76-e91c-4687-8323-7436ced35153",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-146",
+    "name": "Hand of Silumgar",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+    "keywords": [
+      "deathtouch"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d3cbb127-6149-4d0b-ad98-1968f2ebe8e4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-6",
+    "name": "Okaun, Eye of Chaos",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{R}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Cyclops",
+      "Berserker"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Zndrsplt, Eye of Wisdom (When this creature enters, target player may put Zndrsplt into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, double Okaun's power and toughness until end of turn.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d53ee8c0-b27c-4556-b610-ff64edb7a18f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-179",
+    "name": "Goblin Razerunners",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Goblin",
+      "Warrior"
+    ],
+    "rarity": "rare",
+    "power": 3,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{1}{R}, Sacrifice a land: Put a +1/+1 counter on this creature.\nAt the beginning of your end step, you may have this creature deal damage equal to the number of +1/+1 counters on it to target player or planeswalker.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d55da0b4-92a5-48a3-bec1-24baf190e91a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-251",
+    "name": "Island",
+    "colors": [],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 0,
+    "manaCost": "",
+    "superTypes": [
+      "Basic"
+    ],
+    "types": [
+      "Land"
+    ],
+    "subTypes": [
+      "Island"
+    ],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "({T}: Add {U}.)",
+    "keywords": [],
+    "produces": [
+      "U"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d660512c-8ebc-4d65-9590-700894cbb5d8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-67",
+    "name": "Combo Attack",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{G}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Two target creatures your team controls each deal damage equal to their power to target creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d7703507-e7f1-47fd-97f3-ef6319b807a8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-19",
+    "name": "Impetuous Protege",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Proud Mentor (When this creature enters, target player may put Proud Mentor into their hand from their library, then shuffle.)\nWhenever this creature attacks, it gets +X/+0 until end of turn, where X is the greatest power among tapped creatures your opponents control.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d83064ae-a4ce-445d-9cb3-a7ae9270cca9",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-87",
+    "name": "Angelic Chorus",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{W}{W}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever a creature you control enters, you gain life equal to its toughness.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "d9e966cb-bb42-49d8-b351-114619b31497",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-223",
+    "name": "Gwafa Hazid, Profiteer",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "colorIdentity": [
+      "U",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{W}{U}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Rogue"
+    ],
+    "rarity": "rare",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card.\nCreatures with bribery counters on them can't attack or block.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "da097d1a-6e51-41d7-8dfe-f26acfb0038f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-55",
+    "name": "Azra Bladeseeker",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Azra",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, each player on your team may discard a card, then each player who discarded a card this way draws a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dc5ade73-12bc-46da-8dd4-3d4468858934",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-165",
+    "name": "Battle Rampart",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wall"
+    ],
+    "rarity": "common",
+    "power": 1,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Defender\n{T}: Target creature gains haste until end of turn.",
+    "keywords": [
+      "defender"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dca8dfb9-fda0-4eb8-a337-406689ece41a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-48",
+    "name": "Inner Demon",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [
+      "Aura"
+    ],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Enchant creature\nEnchanted creature gets +2/+2, has flying, and is a Demon in addition to its other types.\nWhen this Aura enters, all non-Demon creatures get -2/-2 until end of turn.",
+    "keywords": [
+      "enchant"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "dcbfc305-f3b3-4f8f-b18f-bb7af01a39a4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-214",
+    "name": "Veteran Explorer",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Soldier",
+      "Scout"
+    ],
+    "rarity": "uncommon",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature dies, each player may search their library for up to two basic land cards, put them onto the battlefield, then shuffle.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e0cb5f09-4734-435e-bb40-76c449f3b199",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-154",
+    "name": "Painful Lesson",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player draws two cards and loses 2 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e16fa034-f89e-497a-8fd0-533b1932bff5",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-97",
+    "name": "Loyal Pegasus",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 1,
+    "manaCost": "{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Pegasus"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nThis creature can't attack or block alone.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e17387be-de9e-4006-851c-7dfdde693e69",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-26",
+    "name": "Bring Down",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {3} of this spell's cost.)\nDestroy target creature with power 4 or greater.",
+    "keywords": [
+      "assist"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e18146f9-369c-41c8-8a1d-7737edd2c18e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-56",
+    "name": "Bonus Round",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Until end of turn, whenever a player casts an instant or sorcery spell, that player copies it and may choose new targets for the copy.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e21aa266-4264-4e02-9403-02930e641573",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-107",
+    "name": "Solemn Offering",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "artifact"
+    ],
+    "oracleText": "Destroy target artifact or enchantment. You gain 4 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e30d14b8-b431-4764-9b30-f511bd40fd08",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-144",
+    "name": "Fill with Fright",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Target player discards two cards. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "keywords": [
+      "scry"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e666ad2c-eced-4d62-8533-bb6a1e76d122",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-150",
+    "name": "Nirkana Revenant",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Vampire",
+      "Shade"
+    ],
+    "rarity": "mythic",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever you tap a Swamp for mana, add an additional {B}.\n{B}: This creature gets +1/+1 until end of turn.",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e6990bf6-3b2a-44c8-b7fb-04d74249abfe",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-111",
+    "name": "Take Up Arms",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{W}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Create three 1/1 white Warrior creature tokens.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e707c745-0bb1-4a85-83c1-be97131bf488",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-201",
+    "name": "Greater Good",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 4,
+    "manaCost": "{2}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Enchantment"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e845f300-6a98-4057-9003-885185f30923",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-219",
+    "name": "Centaur Healer",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "colorIdentity": [
+      "G",
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{1}{G}{W}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Centaur",
+      "Cleric"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "When this creature enters, you gain 3 life.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e92b32f0-01bd-4501-b0ad-90d2c296077a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-181",
+    "name": "Magmatic Force",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 8,
+    "manaCost": "{5}{R}{R}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "rare",
+    "power": 7,
+    "toughness": 7,
+    "loyalty": null,
+    "references": [
+      "removal"
+    ],
+    "oracleText": "At the beginning of each upkeep, this creature deals 3 damage to any target.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "e98eb29b-af03-4a96-b84c-a0bd51f80f03",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-215",
+    "name": "Vigor",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6,
+    "manaCost": "{3}{G}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental",
+      "Incarnation"
+    ],
+    "rarity": "rare",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [
+      "graveyard"
+    ],
+    "oracleText": "Trample\nIf damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library.",
+    "keywords": [
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ea7047d8-8d32-48a3-829b-7eb5427ed53a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-12",
+    "name": "Toothy, Imaginary Friend",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [
+      "Legendary"
+    ],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Illusion"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 1,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Partner with Pir, Imaginative Rascal (When this creature enters, target player may put Pir into their hand from their library, then shuffle.)\nWhenever you draw a card, put a +1/+1 counter on Toothy.\nWhen Toothy leaves the battlefield, draw a card for each +1/+1 counter on it.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ebdf2f50-f69a-47c4-a75f-ff55781bb0c8",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-238",
+    "name": "Juggernaut",
+    "colors": [],
+    "colorIdentity": [],
+    "manaValue": 4,
+    "manaCost": "{4}",
+    "superTypes": [],
+    "types": [
+      "Artifact",
+      "Creature"
+    ],
+    "subTypes": [
+      "Juggernaut"
+    ],
+    "rarity": "uncommon",
+    "power": 5,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature attacks each combat if able.\nThis creature can't be blocked by Walls.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ee7403f9-ee88-47dd-8d31-13976b895b34",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-61",
+    "name": "Magma Hellion",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 7,
+    "manaCost": "{6}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Hellion"
+    ],
+    "rarity": "common",
+    "power": 5,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Assist (Another player can pay up to {6} of this spell's cost.)\nTrample, haste",
+    "keywords": [
+      "assist",
+      "haste",
+      "trample"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "ef9d02dc-4cb2-4ae1-84c3-e70aeb3c29ff",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-57",
+    "name": "Bull-Rush Bruiser",
+    "colors": [
+      "R"
+    ],
+    "colorIdentity": [
+      "R"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Minotaur",
+      "Warrior"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Whenever this creature attacks, if your team controls another Warrior, this creature gains first strike until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f0270fed-4591-4111-a95f-91d4a0ab0d14",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-192",
+    "name": "Charging Rhino",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Rhino"
+    ],
+    "rarity": "common",
+    "power": 4,
+    "toughness": 4,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "This creature can't be blocked by more than one creature.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f12724b4-3c73-4b16-b5f8-482dc3f56a3c",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-105",
+    "name": "Shoulder to Shoulder",
+    "colors": [
+      "W"
+    ],
+    "colorIdentity": [
+      "W"
+    ],
+    "manaValue": 3,
+    "manaCost": "{2}{W}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Support 2. (Put a +1/+1 counter on each of up to two target creatures.)\nDraw a card.",
+    "keywords": [
+      "support"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f18c12df-cbd4-41c3-9b0f-bd8dcdfea490",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-22",
+    "name": "Lore Weaver",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 4,
+    "manaCost": "{3}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Partner with Ley Weaver (When this creature enters, target player may put Ley Weaver into their hand from their library, then shuffle.)\n{5}{U}{U}: Target player draws two cards.",
+    "keywords": [
+      "partner with",
+      "partner"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f3366998-5ea0-4dcd-bf2a-f654b1c68e93",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-193",
+    "name": "Cowl Prowler",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 6,
+    "manaCost": "{4}{G}{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Wurm"
+    ],
+    "rarity": "common",
+    "power": 6,
+    "toughness": 6,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f372f545-b70c-470b-9aab-4a2ea900f777",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-206",
+    "name": "Magus of the Candelabra",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 1,
+    "manaCost": "{G}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Human",
+      "Wizard"
+    ],
+    "rarity": "rare",
+    "power": 1,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "{X}, {T}: Untap X target lands.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f50583b8-6953-4094-b420-580d545e827f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-122",
+    "name": "Mystic Confluence",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{U}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "rare",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [
+      "draw"
+    ],
+    "oracleText": "Choose three. You may choose the same mode more than once.\n• Counter target spell unless its controller pays {3}.\n• Return target creature to its owner's hand.\n• Draw a card.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f557a8f6-1b1f-493b-a064-f14fbdb8e0f4",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-77",
+    "name": "Rushblade Commander",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "colorIdentity": [
+      "B",
+      "R"
+    ],
+    "manaValue": 2,
+    "manaCost": "{B}{R}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Azra",
+      "Warrior"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 2,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Warriors your team controls have haste.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f654a0de-50aa-448d-9bad-0870b32a0a49",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-189",
+    "name": "Aim High",
+    "colors": [
+      "G"
+    ],
+    "colorIdentity": [
+      "G"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{G}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "uncommon",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Untap target creature. It gets +2/+2 and gains reach until end of turn.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "f7eda02d-ef3e-43e9-a557-8760221ee49a",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-124",
+    "name": "Nimbus of the Isles",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Elemental"
+    ],
+    "rarity": "common",
+    "power": 3,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fbb41d25-b65b-4570-8523-ffb11779708f",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-123",
+    "name": "Negate",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 2,
+    "manaCost": "{1}{U}",
+    "superTypes": [],
+    "types": [
+      "Instant"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Counter target noncreature spell.",
+    "keywords": [],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fbd28be5-c493-433a-a19f-cace2214b83e",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-148",
+    "name": "Liturgy of Blood",
+    "colors": [
+      "B"
+    ],
+    "colorIdentity": [
+      "B"
+    ],
+    "manaValue": 5,
+    "manaCost": "{3}{B}{B}",
+    "superTypes": [],
+    "types": [
+      "Sorcery"
+    ],
+    "subTypes": [],
+    "rarity": "common",
+    "power": null,
+    "toughness": null,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Destroy target creature. Add {B}{B}{B}.",
+    "keywords": [],
+    "produces": [
+      "B"
+    ],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fbe00ed2-d316-46f8-a5cf-6aad93fe88a0",
+      "setCode": "bbd"
+    }
+  },
+  {
+    "id": "bbd-128",
+    "name": "Peregrine Drake",
+    "colors": [
+      "U"
+    ],
+    "colorIdentity": [
+      "U"
+    ],
+    "manaValue": 5,
+    "manaCost": "{4}{U}",
+    "superTypes": [],
+    "types": [
+      "Creature"
+    ],
+    "subTypes": [
+      "Drake"
+    ],
+    "rarity": "uncommon",
+    "power": 2,
+    "toughness": 3,
+    "loyalty": null,
+    "references": [],
+    "oracleText": "Flying\nWhen this creature enters, untap up to five lands.",
+    "keywords": [
+      "flying"
+    ],
+    "produces": [],
+    "source": {
+      "type": "scryfall",
+      "originalId": "fbe5d85f-bfd3-49e1-a943-ed1ade6bb2a2",
+      "setCode": "bbd"
+    }
+  }
+]

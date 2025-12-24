@@ -1,0 +1,24 @@
+{
+  "name": "mtg-d3",
+  "version": "1.0.0",
+  "description": "d3 graphs and visualizations for mtg sets.",
+  "license": "MIT",
+  "author": "Mator",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "build": "node esbuild.config.js",
+    "dev": "concurrently \"node server.js\" \"node esbuild.config.js --watch\""
+  },
+  "dependencies": {
+    "@sigil-sifter/magic": "^1.0.1",
+    "@sigil-sifter/magic-scryfall": "^1.0.0",
+    "d3": "^7.9.0",
+    "express": "^5.2.1",
+    "sigil-sifter": "^1.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "esbuild": "^0.27.2"
+  }
+}
