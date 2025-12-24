@@ -14,6 +14,7 @@ function groupItemsByProperty(items, property) {
 
     items.forEach(item => {
         const value = property.getValue(item);
+        if (value === null) return;
         if (Array.isArray(value)) {
             value.forEach(v => addValue(v, item));
         } else {
