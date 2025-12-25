@@ -1,5 +1,6 @@
 import { createNestedTreemap } from './visualizations/nestedTreemap.js';
 import { createCirclePacking } from './visualizations/circlePacking.js';
+import { createZoomableIcicle } from './visualizations/zoomableIcicle.js';
 import { createZoomableSunburst } from './visualizations/zoomableSunburst.js';
 import properties from './properties/index.js';
 
@@ -37,6 +38,11 @@ const chartTypes = {
         label: 'Zoomable Sunburst',
         chartType: createZoomableSunburst,
         maxProperties: 3
+    },
+    'zoomableIcicle': {
+        label: 'Zoomable Icicle',
+        chartType: createZoomableIcicle,
+        maxProperties: 3
     }
 };
 
@@ -50,16 +56,16 @@ const chartPresets = [{
     chartType: createNestedTreemap,
     properties: [SimpleColorIdentity, Type]
 }, {
-    label: 'Color-Type Circle Packing',
+    label: 'Color-Rarity Circle Packing',
     chartType: createCirclePacking,
-    properties: [SimpleColorIdentity, Type]
+    properties: [SimpleColorIdentity, Rarity]
 }, {
     label: 'Color-Type-Subtype Sunburst',
     chartType: createZoomableSunburst,
     properties: [SimpleColorIdentity, Type, CombinedSubType]
 }, {
-    label: 'Color-Rarity-Type Sunburst',
-    chartType: createZoomableSunburst,
+    label: 'Rarity-Color-Type Icicle',
+    chartType: createZoomableIcicle,
     properties: [SimpleColorIdentity, Rarity, Type]
 }];
 
@@ -95,7 +101,7 @@ function getSelectedProperties(selectedChartType) {
         .map((str, index) => {
             const select = document.getElementById(str);
             const useProperty = (select.value !== '')
-                && (index !== 2 || selectedChartType.maxProperties < 3);
+                && (index !== 2 || selectedChartType.maxProperties >= 3);
             return useProperty
                 ? availableProperties[select.value]
                 : null;

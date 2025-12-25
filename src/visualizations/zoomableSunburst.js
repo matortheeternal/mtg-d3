@@ -7,7 +7,9 @@ export function createZoomableSunburst(data, levels, width = 1200, height = 1200
     const radius = width / 6;
 
     // Create the color scale.
-    const color = d3.scaleOrdinal(d3.quantize(d3.interpolateRainbow, hierarchyData.children.length + 1));
+    const color = d3.scaleOrdinal(
+        d3.quantize(d3.interpolateRainbow, hierarchyData.children.length + 1)
+    );
 
     // Compute the layout.
     const hierarchy = d3.hierarchy(hierarchyData)
