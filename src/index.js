@@ -119,7 +119,7 @@ function resolveSelectedChart(selectedPreset) {
     if (!properties.length) return [];
 
     return {
-        chartTypeFunc: selectedChartType.chartType,
+        chartType: selectedChartType.chartType,
         properties
     };
 }
@@ -130,8 +130,8 @@ async function createChart() {
     const chartsDiv = document.getElementById('charts');
 
     const selectedPreset = chartPresets[chartSelect.value];
-    const { chartTypeFunc, properties } = resolveSelectedChart(selectedPreset);
-    if (!chartTypeFunc || !setSelect.value) return;
+    const { chartType, properties } = resolveSelectedChart(selectedPreset);
+    if (!chartType || !setSelect.value) return;
 
     try {
         const response = await fetch(`/sets/${setSelect.value}.json`);
@@ -139,7 +139,7 @@ async function createChart() {
 
         chartsDiv.innerHTML = '';
         const setName = setSelect.options[setSelect.selectedIndex].textContent;
-        chartsDiv.appendChild(chartTypeFunc(data, properties, setName));
+        chartsDiv.appendChild(chartType(data, properties, setName));
     } catch (error) {
         console.error(error);
         chartsDiv.innerHTML = `<p>Error loading visualization.</p>`;
