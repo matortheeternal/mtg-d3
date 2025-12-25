@@ -2,8 +2,8 @@ import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
 import { addGradients } from '../addGradient.js';
 
-export function createZoomableSunburst(data, levels, width = 1200, height = 1200) {
-    const hierarchyData = createHierarchy(data, levels);
+export function createZoomableSunburst(data, levels, rootName = '', width = 1200, height = 1200) {
+    const hierarchyData = createHierarchy(data, levels, rootName);
     const radius = width / 6;
 
     // Create the color scale.

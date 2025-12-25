@@ -2,8 +2,8 @@ import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
 import { addGradients } from '../addGradient.js';
 
-export function createNestedTreemap(data, levels, width = 1200, height = 1000) {
-    const hierarchy = createHierarchy(data, levels);
+export function createNestedTreemap(data, levels, rootName = '', width = 1200, height = 1000) {
+    const hierarchy = createHierarchy(data, levels, rootName);
 
     // Create a treemap layout
     const treemap = d3.treemap()

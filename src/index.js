@@ -138,7 +138,8 @@ async function createChart() {
         const data = await response.json();
 
         chartsDiv.innerHTML = '';
-        chartsDiv.appendChild(chartTypeFunc(data, properties));
+        const setName = setSelect.options[setSelect.selectedIndex].textContent;
+        chartsDiv.appendChild(chartTypeFunc(data, properties, setName));
     } catch (error) {
         console.error(error);
         chartsDiv.innerHTML = `<p>Error loading visualization.</p>`;

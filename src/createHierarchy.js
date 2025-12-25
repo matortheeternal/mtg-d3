@@ -79,16 +79,17 @@ function buildHierarchyLevel(items, properties, level = 0) {
  * Transforms a flat array of data into a hierarchical structure for D3.
  * @param {Array} data - The input array of data objects
  * @param {Array<Object>} properties - Ordered list of property objects with name and getValue for hierarchy levels
+ * @param {string='root'} rootName - The name of the root of the data.
  * @returns {Object} D3-compatible hierarchy object with name and children properties
  */
-export function createHierarchy(data, properties) {
+export function createHierarchy(data, properties, rootName = 'root') {
     if (!data || !Array.isArray(data) || data.length === 0)
-        return { name: 'root', children: [] }
+        return { name: rootName, children: [] }
     if (!properties || !Array.isArray(properties) || properties.length === 0)
-        return { name: 'root', children: data }
+        return { name: rootName, children: data }
 
     return {
-        name: 'root',
+        name: rootName,
         children: buildHierarchyLevel(data, properties)
     };
 }

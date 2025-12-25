@@ -2,8 +2,8 @@ import * as d3 from 'd3';
 import { createHierarchy } from '../createHierarchy.js';
 import { addGradients } from '../addGradient.js';
 
-export function createZoomableIcicle(data, levels, width = 1200, height = 1200) {
-    const hierarchyData = createHierarchy(data, levels);
+export function createZoomableIcicle(data, levels, rootName = '', width = 1200, height = 1200) {
+    const hierarchyData = createHierarchy(data, levels, rootName);
     const color = d3.scaleOrdinal(
         d3.quantize(d3.interpolateRainbow, hierarchyData.children.length + 1)
     );
@@ -40,6 +40,7 @@ export function createZoomableIcicle(data, levels, width = 1200, height = 1200) 
             return d.children ? 1 : 0.6;
         })
         .attr("fill", d => {
+            if (d.depth === 0) return '#fff';
             while (d.depth > 1 && !d.data.style?.fill) d = d.parent;
             return d.data.style?.fill || color(d.data.name);
         })
@@ -49,10 +50,19 @@ export function createZoomableIcicle(data, levels, width = 1200, height = 1200) 
     const text = cell.append("text")
         .style("user-select", "none")
         .attr("pointer-events", "none")
-        .attr("font-size", "14px")
+        .attr("font-size", d => {
+            if (d.depth === 0) return '20px';
+            if (d.depth === 1) return '16px';
+            return '14px';
+        })
         .attr("x", 4)
-        .attr("y", 13)
+        .attr("y", d => {
+            if (d.depth === 0) return 20;
+            if (d.depth === 1) return 17;
+            return 13;
+        })
         .attr("fill", d => {
+            if (d.depth === 0) return '#000';
             while (d.depth > 1 && !d.data.style?.color) d = d.parent;
             return d.data.style?.color || '#000';
         })
